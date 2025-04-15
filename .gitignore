@@ -67,4 +67,4 @@ venv.bak/
 
 
 # Project specific
-data/premier_league_complete_*.csv
+# data/premier_league_complete_*.csv
