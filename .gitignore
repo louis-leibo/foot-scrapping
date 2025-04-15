@@ -65,6 +65,3 @@ venv.bak/
 *.swp
 *.swo
 
-# Project specific
-data/*.csv
-data/*.json
