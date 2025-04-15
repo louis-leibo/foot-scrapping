@@ -65,3 +65,6 @@ venv.bak/
 *.swp
 *.swo
 
+
+# Project specific
+data/premier_league_complete_*.csv
