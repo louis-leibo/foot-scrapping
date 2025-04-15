@@ -14,7 +14,7 @@ from datetime import datetime
 from typing import List, Dict, Optional, Union, Tuple
 
 # Import de la configuration
-from scraper.config import AVAILABLE_LEAGUES, TARGET_SEASONS, STAT_TYPES
+from config import AVAILABLE_LEAGUES, TARGET_SEASONS, STAT_TYPES
 
 # Configuration du logging
 logging.basicConfig(
