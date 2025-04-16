@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
-,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
-ITA-Serie A,2021,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",24,1995,7.5,4,15,6,40.0,2.0,0.8,0.27,0.67,16.3,1,0,0,1.2,1.2,0.08,2.8,2.8,shooting
+league,season,team,player,nation,pos,age,born,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,stat_type
 ITA-Serie A,2021,Atalanta,Amad Diallo,CIV,MF,18,2002,0.2,0,1,0,0.0,6.43,0.0,0.0,,23.3,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
 ITA-Serie A,2021,Atalanta,Berat Djimsiti,ALB,DF,27,1993,29.2,0,20,1,5.0,0.69,0.03,0.0,0.0,11.2,0,0,0,1.7,1.7,0.09,-1.7,-1.7,shooting
 ITA-Serie A,2021,Atalanta,Bosko Sutalo,CRO,DF,20,2000,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
-,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
-ITA-Serie A,2024,Atalanta,Ademola Lookman,NGA,"FW,MF",27-173,1997,19.7,13,67,28,41.8,3.4,1.42,0.18,0.43,14.4,0,1,1,9.2,8.4,0.13,3.8,3.6,shooting
+league,season,team,player,nation,pos,age,born,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,stat_type
 ITA-Serie A,2024,Atalanta,Alberto Manzoni,ITA,MF,19-290,2005,0.1,0,1,0,0.0,15.0,0.0,0.0,,23.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
 ITA-Serie A,2024,Atalanta,Ben Godfrey,ENG,DF,27-086,1998,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
 ITA-Serie A,2024,Atalanta,Berat Djimsiti,ALB,DF,32-051,1993,23.9,1,16,4,25.0,0.67,0.17,0.06,0.25,9.5,0,0,0,2.4,2.4,0.15,-1.4,-1.4,shooting

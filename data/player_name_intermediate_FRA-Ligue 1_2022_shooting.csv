@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
-,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
-FRA-Ligue 1,2022,Ajaccio,Anthony Khelifa,ALG,DF,16,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+league,season,team,player,nation,pos,age,born,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,stat_type
 FRA-Ligue 1,2022,Ajaccio,Ben Hamed Touré,CIV,FW,18,2003,2.3,0,2,0,0.0,0.86,0.0,0.0,,28.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
 FRA-Ligue 1,2022,Ajaccio,Benjamin Leroy,FRA,GK,33,1989,31.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
 FRA-Ligue 1,2022,Ajaccio,Bevic Moussiti-Oko,CGO,FW,27,1995,7.8,1,20,7,35.0,2.58,0.9,0.05,0.14,12.6,0,0,0,1.8,1.8,0.09,-0.8,-0.8,shooting

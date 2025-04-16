@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
-,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
-GER-Bundesliga,2021,Arminia,Amos Pieper,GER,DF,22,1998,29.8,1,14,5,35.7,0.47,0.17,0.07,0.2,15.2,0,0,0,1.2,1.2,0.09,-0.2,-0.2,shooting
+league,season,team,player,nation,pos,age,born,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,stat_type
 GER-Bundesliga,2021,Arminia,Anderson Lucoqui,ANG,DF,23,1997,17.8,0,8,1,12.5,0.45,0.06,0.0,0.0,29.5,0,0,0,0.2,0.2,0.02,-0.2,-0.2,shooting
 GER-Bundesliga,2021,Arminia,Andreas Voglsammer,GER,"FW,MF",28,1992,11.1,2,32,12,37.5,2.88,1.08,0.06,0.17,16.5,3,0,0,3.9,3.9,0.12,-1.9,-1.9,shooting
 GER-Bundesliga,2021,Arminia,Arne Maier,GER,MF,21,1999,11.5,0,11,2,18.2,0.96,0.17,0.0,0.0,20.2,2,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting

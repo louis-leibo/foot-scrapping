@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ENG-Premier League,2022,Arsenal,Aaron Ramsdale,ENG,GK,24,1998,38.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,20,6,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ENG-Premier League,2022,Arsenal,Albert Sambi Lokonga,BEL,MF,22,1999,2.2,1,1,0,0,1,0,2,0.0,2,1,0,1,5,6,2,0,defense
 ENG-Premier League,2022,Arsenal,Ben White,ENG,DF,24,1997,33.9,60,31,23,30,7,42,70,60.0,28,47,11,36,22,82,79,1,defense
 ENG-Premier League,2022,Arsenal,Bukayo Saka,ENG,FW,20,2001,35.3,63,34,22,15,26,20,44,45.5,24,38,0,38,14,77,19,0,defense

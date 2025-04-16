@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ITA-Serie A,2023,Atalanta,Ademola Lookman,NGA,"FW,MF",25,1997,21.0,20,15,2,11,7,8,22,36.4,14,19,0,19,9,29,0,1,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ITA-Serie A,2023,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",27,1995,13.1,12,6,6,4,2,5,13,38.5,8,6,1,5,2,14,5,1,defense
 ITA-Serie A,2023,Atalanta,Berat Djimsiti,ALB,DF,30,1993,31.5,42,24,29,12,1,19,31,61.3,12,53,33,20,57,99,100,0,defense
 ITA-Serie A,2023,Atalanta,Charles De Ketelaere,BEL,"FW,MF",22,2001,22.5,33,21,3,12,18,10,20,50.0,10,30,2,28,7,40,6,0,defense

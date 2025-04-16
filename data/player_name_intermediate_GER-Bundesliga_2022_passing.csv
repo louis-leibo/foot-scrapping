@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,stat_type
-,,,,,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
-GER-Bundesliga,2022,Augsburg,Aaron Zehnter,GER,DF,17,2004,0.0,0,2,0.0,0,0,0,0,,0,1,0.0,0,1,0.0,0,0.0,0.0,0.0,0,0,0,0,0,passing
+league,season,team,player,nation,pos,age,born,90s,Total Cmp,Total Att,Total Cmp%,Total TotDist,Total PrgDist,Short Cmp,Short Att,Short Cmp%,Medium Cmp,Medium Att,Medium Cmp%,Long Cmp,Long Att,Long Cmp%,Ast,xAG,Expected xA,Expected A-xAG,KP,1/3,PPA,CrsPA,PrgP,stat_type
 GER-Bundesliga,2022,Augsburg,André Hahn,GER,"FW,MF",31,1990,4.3,33,83,39.8,542,216,15,25,60.0,13,26,50.0,2,17,11.8,0,0.0,0.0,0.0,1,7,1,0,8,passing
 GER-Bundesliga,2022,Augsburg,Arne Engels,BEL,MF,18,2003,16.0,397,619,64.1,7580,2725,170,217,78.3,157,207,75.8,62,149,41.6,3,2.2,1.9,0.8,24,45,9,3,57,passing
 GER-Bundesliga,2022,Augsburg,Arne Maier,GER,MF,23,1999,21.8,421,658,64.0,7205,2336,196,264,74.2,161,223,72.2,45,102,44.1,1,1.8,2.1,-0.8,21,41,15,1,66,passing

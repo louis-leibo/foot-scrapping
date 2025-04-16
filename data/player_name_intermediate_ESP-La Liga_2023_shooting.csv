@@ -1,611 +1,609 @@
-league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
-,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
-ESP-La Liga,2023,Alavés,Abdel Abqar,MAR,DF,24,1999,25.7,0,10,3,30.0,0.39,0.12,0.0,0.0,12.1,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
-ESP-La Liga,2023,Alavés,Abderrahman Rebbach,ALG,"FW,MF",24,1998,8.0,1,17,4,23.5,2.12,0.5,0.06,0.25,19.4,1,0,0,0.8,0.8,0.05,0.2,0.2,shooting
-ESP-La Liga,2023,Alavés,Aleksandar Sedlar,SRB,DF,31,1991,10.5,1,4,1,25.0,0.38,0.1,0.25,1.0,10.7,0,0,0,0.3,0.3,0.07,0.7,0.7,shooting
-ESP-La Liga,2023,Alavés,Alex Sola,ESP,"FW,MF",24,1999,14.0,0,28,7,25.0,2.0,0.5,0.0,0.0,17.6,2,0,0,1.6,1.6,0.06,-1.6,-1.6,shooting
-ESP-La Liga,2023,Alavés,Ander Guevara,ESP,MF,26,1997,32.6,1,16,2,12.5,0.49,0.06,0.06,0.5,23.2,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
-ESP-La Liga,2023,Alavés,Andoni Gorosabel,ESP,DF,26,1996,31.7,1,15,6,40.0,0.47,0.19,0.07,0.17,23.4,0,0,0,0.7,0.7,0.05,0.3,0.3,shooting
-ESP-La Liga,2023,Alavés,Antonio Blanco,ESP,MF,23,2000,27.0,0,20,3,15.0,0.74,0.11,0.0,0.0,25.1,0,0,0,0.8,0.8,0.04,-0.8,-0.8,shooting
-ESP-La Liga,2023,Alavés,Antonio Sivera,ESP,GK,26,1996,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Carlos Benavídez,URU,MF,25,1998,12.6,3,14,7,50.0,1.11,0.55,0.21,0.43,19.8,0,0,0,1.0,1.0,0.07,2.0,2.0,shooting
-ESP-La Liga,2023,Alavés,Carlos Vicente,ESP,FW,24,1999,12.4,2,15,8,53.3,1.21,0.65,0.13,0.25,15.2,1,0,0,2.3,2.3,0.16,-0.3,-0.3,shooting
-ESP-La Liga,2023,Alavés,Eneko Ortiz,ESP,DF,20,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Giuliano Simeone,ARG,FW,20,2002,7.0,1,14,2,14.3,2.0,0.29,0.07,0.5,19.7,0,0,1,2.4,1.6,0.12,-1.4,-0.6,shooting
-ESP-La Liga,2023,Alavés,Ianis Hagi,ROU,"MF,FW",24,1998,8.9,0,26,8,30.8,2.91,0.9,0.0,0.0,23.9,4,0,1,2.8,2.0,0.08,-2.8,-2.0,shooting
-ESP-La Liga,2023,Alavés,Javi López,ESP,DF,21,2002,26.5,1,18,3,16.7,0.68,0.11,0.06,0.33,17.4,0,0,0,0.9,0.9,0.05,0.1,0.1,shooting
-ESP-La Liga,2023,Alavés,Jesús Owono,EQG,GK,22,2001,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Joaquín Panichelli,ARG,"FW,MF",20,2002,2.5,0,9,2,22.2,3.58,0.8,0.0,0.0,17.8,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
-ESP-La Liga,2023,Alavés,Jon Guridi,ESP,MF,28,1995,29.8,3,36,8,22.2,1.21,0.27,0.08,0.38,13.0,0,0,0,4.0,4.0,0.11,-1.0,-1.0,shooting
-ESP-La Liga,2023,Alavés,Jon Karrikaburu,ESP,"MF,FW",20,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Kiké,ESP,"FW,MF",33,1989,15.8,3,56,23,41.1,3.54,1.45,0.05,0.13,13.1,0,0,1,7.7,6.9,0.12,-4.7,-3.9,shooting
-ESP-La Liga,2023,Alavés,Luis Rioja,ESP,"FW,MF",29,1993,27.8,5,53,15,28.3,1.91,0.54,0.04,0.13,21.6,4,3,4,6.1,3.0,0.06,-1.1,-1.0,shooting
-ESP-La Liga,2023,Alavés,Mamadou Sylla,SEN,"FW,MF",29,1994,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Miguel,ESP,"FW,MF",23,1999,0.7,0,2,1,50.0,2.77,1.38,0.0,0.0,19.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
-ESP-La Liga,2023,Alavés,Nahuel Tenaglia,ARG,DF,27,1996,12.7,1,8,1,12.5,0.63,0.08,0.13,1.0,14.1,0,0,0,0.6,0.6,0.08,0.4,0.4,shooting
-ESP-La Liga,2023,Alavés,Rafa Marín,ESP,DF,21,2002,27.1,0,13,3,23.1,0.48,0.11,0.0,0.0,14.5,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
-ESP-La Liga,2023,Alavés,Rubén Duarte,ESP,DF,27,1995,20.9,2,15,5,33.3,0.72,0.24,0.13,0.4,24.6,3,0,0,0.7,0.7,0.05,1.3,1.3,shooting
-ESP-La Liga,2023,Alavés,Samu Omorodion,ESP,FW,19,2004,21.3,8,64,24,37.5,3.0,1.13,0.13,0.33,13.5,0,0,0,10.8,10.8,0.17,-2.8,-2.8,shooting
-ESP-La Liga,2023,Alavés,Tomás Mendes,ESP,MF,18,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Unai Ropero,ESP,MF,21,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Victor Parada,ESP,"FW,MF",21,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Alavés,Xeber,ESP,"FW,MF",26,1997,3.4,0,5,0,0.0,1.49,0.0,0.0,,16.4,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
-ESP-La Liga,2023,Almería,Adri Embarba,ESP,"FW,MF",31,1992,27.5,3,63,24,38.1,2.29,0.87,0.03,0.08,24.1,12,1,1,4.3,3.5,0.06,-1.3,-1.5,shooting
-ESP-La Liga,2023,Almería,Alejandro Pozo Pozo,ESP,"DF,MF",24,1999,10.8,0,4,3,75.0,0.37,0.28,0.0,0.0,23.3,0,0,0,0.4,0.4,0.1,-0.4,-0.4,shooting
-ESP-La Liga,2023,Almería,Aleksandar Radovanović,SRB,DF,29,1993,6.3,0,1,0,0.0,0.16,0.0,0.0,,10.5,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Anthony Lozano,HON,FW,30,1993,8.6,3,23,9,39.1,2.68,1.05,0.13,0.33,13.3,0,0,0,3.3,3.3,0.14,-0.3,-0.3,shooting
-ESP-La Liga,2023,Almería,Arnau Puigmal,ESP,"FW,DF",22,2001,2.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Bruno Langa,MOZ,DF,25,1997,9.1,1,8,2,25.0,0.88,0.22,0.13,0.5,24.6,0,0,0,0.2,0.2,0.02,0.8,0.8,shooting
-ESP-La Liga,2023,Almería,Chumi,ESP,DF,24,1999,27.0,0,5,0,0.0,0.18,0.0,0.0,,13.8,0,0,0,1.0,1.0,0.19,-1.0,-1.0,shooting
-ESP-La Liga,2023,Almería,César Montes,MEX,DF,26,1997,19.9,0,13,2,15.4,0.65,0.1,0.0,0.0,11.0,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
-ESP-La Liga,2023,Almería,Diego Mariño,ESP,GK,33,1990,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Dion Lopy,SEN,MF,21,2002,21.3,0,23,8,34.8,1.08,0.38,0.0,0.0,26.2,0,0,0,1.3,1.3,0.06,-1.3,-1.3,shooting
-ESP-La Liga,2023,Almería,Fernando,ESP,GK,33,1990,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Gonzalo Melero,ESP,"MF,FW",29,1994,12.3,1,14,4,28.6,1.14,0.33,0.07,0.25,11.7,0,0,0,2.0,2.0,0.14,-1.0,-1.0,shooting
-ESP-La Liga,2023,Almería,Houboulang Mendes,GNB,DF,25,1998,4.4,0,1,0,0.0,0.23,0.0,0.0,,23.2,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Ibrahima Koné,MLI,FW,24,1999,3.1,0,4,2,50.0,1.3,0.65,0.0,0.0,12.9,0,0,0,0.4,0.4,0.11,-0.4,-0.4,shooting
-ESP-La Liga,2023,Almería,Iddrisu Baba,GHA,MF,27,1996,15.9,0,8,2,25.0,0.5,0.13,0.0,0.0,25.6,0,0,0,0.7,0.7,0.09,-0.7,-0.7,shooting
-ESP-La Liga,2023,Almería,Jonathan Viera,ESP,MF,33,1989,10.1,0,12,5,41.7,1.18,0.49,0.0,0.0,18.7,1,0,0,1.3,1.3,0.11,-1.3,-1.3,shooting
-ESP-La Liga,2023,Almería,Kaiky,BRA,DF,19,2004,5.8,1,3,1,33.3,0.52,0.17,0.33,1.0,11.4,0,0,0,0.2,0.2,0.08,0.8,0.8,shooting
-ESP-La Liga,2023,Almería,Largie Ramazani,BEL,"FW,MF",22,2001,17.3,3,40,12,30.0,2.32,0.69,0.08,0.25,17.5,1,0,0,4.7,4.7,0.12,-1.7,-1.7,shooting
-ESP-La Liga,2023,Almería,Lucas Robertone,ARG,MF,26,1997,26.5,0,37,13,35.1,1.4,0.49,0.0,0.0,28.1,3,0,0,1.0,1.0,0.03,-1.0,-1.0,shooting
-ESP-La Liga,2023,Almería,Luis Javier Suárez,COL,FW,25,1997,10.2,6,39,13,33.3,3.83,1.28,0.13,0.38,14.2,0,1,1,6.5,5.7,0.15,-0.5,-0.7,shooting
-ESP-La Liga,2023,Almería,Luka Romero,ARG,FW,18,2004,4.9,3,8,3,37.5,1.64,0.62,0.38,1.0,15.9,0,0,0,1.3,1.3,0.18,1.7,1.7,shooting
-ESP-La Liga,2023,Almería,Luís Maximiano,POR,GK,24,1999,33.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Lázaro,BRA,"FW,MF",21,2002,3.2,0,8,4,50.0,2.53,1.26,0.0,0.0,18.3,0,0,0,0.9,0.9,0.11,-0.9,-0.9,shooting
-ESP-La Liga,2023,Almería,Léo Baptistão,BRA,FW,30,1992,20.4,6,48,18,37.5,2.35,0.88,0.13,0.33,16.7,0,0,0,5.3,5.3,0.11,0.7,0.7,shooting
-ESP-La Liga,2023,Almería,Marc Pubill,ESP,DF,20,2003,20.9,1,20,5,25.0,0.96,0.24,0.05,0.2,20.8,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
-ESP-La Liga,2023,Almería,Marciano Tchami,GNB,"FW,MF",19,2004,0.5,0,1,0,0.0,2.09,0.0,0.0,,22.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Marcos Peña,ESP,MF,18,2005,4.9,0,4,1,25.0,0.82,0.2,0.0,0.0,28.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
-ESP-La Liga,2023,Almería,Marko Milovanović,SRB,"FW,MF",19,2003,3.4,1,5,1,20.0,1.46,0.29,0.2,1.0,16.2,0,0,0,1.5,1.5,0.31,-0.5,-0.5,shooting
-ESP-La Liga,2023,Almería,Paco Sanz,ESP,DF,18,2004,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Rachad Fettal,MAR,FW,18,2005,0.2,0,1,0,0.0,5.29,0.0,0.0,,8.8,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
-ESP-La Liga,2023,Almería,Sergio Akieme,ESP,DF,25,1997,18.6,2,9,5,55.6,0.48,0.27,0.22,0.4,17.4,0,0,0,1.2,1.2,0.13,0.8,0.8,shooting
-ESP-La Liga,2023,Almería,Sergio Arribas,ESP,"MF,FW",21,2001,22.7,9,60,22,36.7,2.64,0.97,0.15,0.41,16.8,1,0,0,8.6,8.6,0.15,0.4,0.4,shooting
-ESP-La Liga,2023,Almería,Srđan Babić,SRB,DF,27,1996,1.0,0,1,0,0.0,1.0,0.0,0.0,,11.6,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Álex Centelles,ESP,DF,25,1997,10.9,0,2,1,50.0,0.18,0.09,0.0,0.0,21.2,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Almería,Édgar González,ESP,"DF,MF",26,1997,28.0,2,13,3,23.1,0.46,0.11,0.15,0.67,10.3,0,0,0,2.3,2.3,0.18,-0.3,-0.3,shooting
-ESP-La Liga,2023,Athletic Club,Adu Ares,ESP,FW,21,2001,2.9,0,4,0,0.0,1.36,0.0,0.0,,21.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Athletic Club,Aingeru Olabarrieta,ESP,FW,17,2005,0.1,0,1,0,0.0,10.0,0.0,0.0,,25.4,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Athletic Club,Aitor Paredes,ESP,DF,23,2000,30.0,1,14,3,21.4,0.47,0.1,0.07,0.33,9.7,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting
-ESP-La Liga,2023,Athletic Club,Ander Herrera,ESP,MF,33,1989,11.4,0,14,2,14.3,1.22,0.17,0.0,0.0,21.2,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
-ESP-La Liga,2023,Athletic Club,Asier Villalibre,ESP,FW,25,1997,5.7,2,12,6,50.0,2.11,1.05,0.17,0.33,11.5,0,0,0,1.7,1.7,0.14,0.3,0.3,shooting
-ESP-La Liga,2023,Athletic Club,Beñat Prados,ESP,"MF,DF",22,2001,16.1,0,7,4,57.1,0.43,0.25,0.0,0.0,18.5,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
-ESP-La Liga,2023,Athletic Club,Dani García,ESP,MF,33,1990,8.3,1,6,3,50.0,0.72,0.36,0.17,0.33,13.6,0,0,0,0.8,0.8,0.13,0.2,0.2,shooting
-ESP-La Liga,2023,Athletic Club,Daniel Vivian,ESP,DF,24,1999,32.0,0,11,1,9.1,0.34,0.03,0.0,0.0,13.5,0,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
-ESP-La Liga,2023,Athletic Club,Gorka Guruzeta,ESP,FW,26,1996,24.6,14,63,28,44.4,2.56,1.14,0.22,0.5,13.5,3,0,1,11.6,10.8,0.17,2.4,3.2,shooting
-ESP-La Liga,2023,Athletic Club,Iker Muniain,ESP,"MF,FW",30,1992,6.6,2,13,7,53.8,1.97,1.06,0.15,0.29,14.3,0,0,0,1.7,1.7,0.13,0.3,0.3,shooting
-ESP-La Liga,2023,Athletic Club,Imanol,ESP,DF,23,2000,5.8,0,1,0,0.0,0.17,0.0,0.0,,23.7,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Athletic Club,Iñaki Williams,GHA,FW,29,1994,31.6,12,93,43,46.2,2.94,1.36,0.13,0.28,15.4,0,0,0,9.4,9.4,0.1,2.6,2.6,shooting
-ESP-La Liga,2023,Athletic Club,Iñigo Lekue,ESP,DF,30,1993,22.2,0,5,0,0.0,0.22,0.0,0.0,,22.3,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
-ESP-La Liga,2023,Athletic Club,Iñigo Ruiz de Galarreta,ESP,MF,29,1993,23.2,1,11,2,18.2,0.47,0.09,0.09,0.5,25.4,0,0,0,0.3,0.3,0.03,0.7,0.7,shooting
-ESP-La Liga,2023,Athletic Club,Julen Agirrezabala,ESP,GK,22,2000,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Athletic Club,Mikel Jauregizar,ESP,MF,19,2003,1.7,0,2,0,0.0,1.19,0.0,0.0,,28.2,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Athletic Club,Mikel Vesga,ESP,MF,30,1993,17.0,3,17,5,29.4,1.0,0.29,0.06,0.2,20.7,0,2,2,2.7,1.1,0.07,0.3,-0.1,shooting
-ESP-La Liga,2023,Athletic Club,Nico Williams,ESP,FW,21,2002,25.1,5,56,19,33.9,2.23,0.76,0.09,0.26,15.7,1,0,0,6.0,6.0,0.11,-1.0,-1.0,shooting
-ESP-La Liga,2023,Athletic Club,Oihan Sancet,ESP,MF,23,2000,21.9,4,41,11,26.8,1.87,0.5,0.1,0.36,15.6,0,0,1,6.3,5.5,0.13,-2.3,-1.5,shooting
-ESP-La Liga,2023,Athletic Club,Peru Nolaskoain,ESP,"DF,MF",24,1998,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Athletic Club,Raúl García,ESP,"FW,MF",37,1986,4.7,1,10,1,10.0,2.14,0.21,0.1,1.0,14.3,0,0,0,0.9,0.9,0.09,0.1,0.1,shooting
-ESP-La Liga,2023,Athletic Club,Unai Gómez,ESP,MF,20,2003,9.7,2,16,7,43.8,1.65,0.72,0.13,0.29,17.0,0,0,0,1.5,1.5,0.09,0.5,0.5,shooting
-ESP-La Liga,2023,Athletic Club,Unai Simón,ESP,GK,26,1997,35.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Athletic Club,Yeray Álvarez,ESP,DF,28,1995,12.8,0,7,2,28.6,0.55,0.16,0.0,0.0,14.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Athletic Club,Yuri Berchiche,ESP,DF,33,1990,21.4,3,18,6,33.3,0.84,0.28,0.17,0.5,19.1,0,0,0,0.9,0.7,0.04,2.1,2.3,shooting
-ESP-La Liga,2023,Athletic Club,Álex Berenguer,ESP,FW,28,1995,17.7,7,31,11,35.5,1.75,0.62,0.19,0.55,16.4,3,1,1,5.2,4.4,0.14,1.8,1.6,shooting
-ESP-La Liga,2023,Athletic Club,Óscar de Marcos,ESP,DF,34,1989,25.1,1,5,2,40.0,0.2,0.08,0.2,0.5,15.7,0,0,0,0.6,0.6,0.13,0.4,0.4,shooting
-ESP-La Liga,2023,Atlético Madrid,Abdellah Raihani,MAR,FW,19,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Atlético Madrid,Antoine Griezmann,FRA,"FW,MF",32,1991,29.4,16,75,29,38.7,2.55,0.99,0.16,0.41,17.3,3,4,4,12.3,9.3,0.12,3.7,2.7,shooting
-ESP-La Liga,2023,Atlético Madrid,Arthur Vermeeren,BEL,MF,18,2005,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Atlético Madrid,Axel Witsel,BEL,DF,34,1989,30.9,2,7,3,42.9,0.23,0.1,0.29,0.67,8.0,0,0,0,1.0,1.0,0.14,1.0,1.0,shooting
-ESP-La Liga,2023,Atlético Madrid,César Azpilicueta,ESP,DF,33,1989,15.8,0,2,2,100.0,0.13,0.13,0.0,0.0,20.3,0,0,0,0.6,0.6,0.32,-0.6,-0.6,shooting
-ESP-La Liga,2023,Atlético Madrid,Gabriel Paulista,BRA,DF,32,1990,4.5,0,1,1,100.0,0.22,0.22,0.0,0.0,4.7,0,0,0,0.2,0.2,0.19,-0.2,-0.2,shooting
-ESP-La Liga,2023,Atlético Madrid,Jan Oblak,SVN,GK,30,1993,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Atlético Madrid,Javi Galán,ESP,DF,28,1994,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Atlético Madrid,José María Giménez,URU,DF,28,1995,14.7,0,7,1,14.3,0.48,0.07,0.0,0.0,12.4,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
-ESP-La Liga,2023,Atlético Madrid,Koke,ESP,MF,31,1992,27.7,0,10,2,20.0,0.36,0.07,0.0,0.0,21.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
-ESP-La Liga,2023,Atlético Madrid,Marcos Llorente,ESP,"MF,DF",28,1995,28.5,6,30,19,63.3,1.05,0.67,0.2,0.32,15.4,0,0,0,4.1,4.1,0.14,1.9,1.9,shooting
-ESP-La Liga,2023,Atlético Madrid,Mario Hermoso,ESP,DF,28,1995,28.4,0,17,4,23.5,0.6,0.14,0.0,0.0,15.0,0,0,0,1.4,1.4,0.08,-1.4,-1.4,shooting
-ESP-La Liga,2023,Atlético Madrid,Memphis,NED,FW,29,1994,9.9,5,38,15,39.5,3.83,1.51,0.13,0.33,17.5,3,0,0,5.8,5.8,0.15,-0.8,-0.8,shooting
-ESP-La Liga,2023,Atlético Madrid,Nahuel Molina,ARG,DF,25,1998,20.6,2,12,4,33.3,0.58,0.19,0.17,0.5,17.4,1,0,0,1.3,1.3,0.11,0.7,0.7,shooting
-ESP-La Liga,2023,Atlético Madrid,Pablo Barrios,ESP,MF,20,2003,17.3,0,17,7,41.2,0.98,0.41,0.0,0.0,21.8,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
-ESP-La Liga,2023,Atlético Madrid,Reinildo Mandava,MOZ,DF,29,1994,8.1,2,5,3,60.0,0.62,0.37,0.4,0.67,10.4,0,0,0,0.9,0.9,0.17,1.1,1.1,shooting
-ESP-La Liga,2023,Atlético Madrid,Rodrigo De Paul,ARG,MF,29,1994,23.1,3,30,12,40.0,1.3,0.52,0.1,0.25,19.8,1,0,0,1.8,1.8,0.06,1.2,1.2,shooting
-ESP-La Liga,2023,Atlético Madrid,Rodrigo Riquelme,ESP,"DF,MF",23,2000,17.0,3,37,16,43.2,2.18,0.94,0.08,0.19,18.0,0,0,0,2.7,2.7,0.07,0.3,0.3,shooting
-ESP-La Liga,2023,Atlético Madrid,Salim El Jebari,MAR,MF,19,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Atlético Madrid,Samuel Lino,BRA,"DF,MF",23,1999,23.1,4,54,21,38.9,2.34,0.91,0.07,0.19,16.6,0,0,0,5.6,5.6,0.1,-1.6,-1.6,shooting
-ESP-La Liga,2023,Atlético Madrid,Saúl Ñíguez,ESP,MF,28,1994,15.3,1,16,4,25.0,1.05,0.26,0.06,0.25,14.5,0,0,0,1.5,1.5,0.09,-0.5,-0.5,shooting
-ESP-La Liga,2023,Atlético Madrid,Stefan Savić,MNE,DF,32,1991,18.1,0,5,1,20.0,0.28,0.06,0.0,0.0,11.9,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
-ESP-La Liga,2023,Atlético Madrid,Thomas Lemar,FRA,MF,27,1995,1.8,0,2,0,0.0,1.1,0.0,0.0,,23.0,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
-ESP-La Liga,2023,Atlético Madrid,Yannick Carrasco,BEL,DF,29,1993,2.5,0,2,1,50.0,0.81,0.41,0.0,0.0,21.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Atlético Madrid,Álvaro Morata,ESP,FW,30,1992,21.2,15,66,33,50.0,3.12,1.56,0.23,0.45,11.4,0,0,1,13.8,12.9,0.2,1.2,2.1,shooting
-ESP-La Liga,2023,Atlético Madrid,Ángel Correa,ARG,"FW,MF",28,1995,17.0,9,42,19,45.2,2.47,1.12,0.19,0.42,17.0,1,1,1,7.9,7.1,0.17,1.1,0.9,shooting
-ESP-La Liga,2023,Atlético Madrid,Çağlar Söyüncü,TUR,DF,27,1996,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Barcelona,Abde Ezzalzouli,MAR,"FW,MF",21,2001,0.8,0,4,1,25.0,5.29,1.32,0.0,0.0,19.1,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Barcelona,Alejandro Balde,ESP,DF,19,2003,15.3,0,5,1,20.0,0.33,0.07,0.0,0.0,21.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Barcelona,Andreas Christensen,DEN,"DF,MF",27,1996,22.0,2,12,4,33.3,0.55,0.18,0.17,0.5,13.0,0,0,0,1.0,1.0,0.09,1.0,1.0,shooting
-ESP-La Liga,2023,Barcelona,Ansu Fati,ESP,"MF,FW",20,2002,0.6,0,7,1,14.3,12.6,1.8,0.0,0.0,18.6,0,0,0,0.7,0.7,0.11,-0.7,-0.7,shooting
-ESP-La Liga,2023,Barcelona,Eric García,ESP,DF,22,2001,0.6,0,1,0,0.0,1.58,0.0,0.0,,11.0,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
-ESP-La Liga,2023,Barcelona,Fermin López,ESP,"MF,FW",20,2003,16.1,8,51,24,47.1,3.17,1.49,0.16,0.33,15.9,0,0,0,7.5,7.5,0.15,0.5,0.5,shooting
-ESP-La Liga,2023,Barcelona,Ferrán Torres,ESP,FW,23,2000,13.5,7,38,15,39.5,2.82,1.11,0.18,0.47,16.6,2,0,0,5.5,5.5,0.15,1.5,1.5,shooting
-ESP-La Liga,2023,Barcelona,Frenkie de Jong,NED,MF,26,1997,18.2,2,7,4,57.1,0.39,0.22,0.29,0.5,20.4,0,0,0,0.7,0.7,0.1,1.3,1.3,shooting
-ESP-La Liga,2023,Barcelona,Gavi,ESP,"MF,FW",18,2004,10.5,1,9,4,44.4,0.86,0.38,0.11,0.25,15.2,0,0,0,0.9,0.9,0.11,0.1,0.1,shooting
-ESP-La Liga,2023,Barcelona,Héctor Fort,ESP,DF,16,2006,3.5,0,1,0,0.0,0.28,0.0,0.0,,27.2,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Barcelona,Iñaki Peña,ESP,GK,24,1999,10.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Barcelona,Iñigo Martínez,ESP,DF,32,1991,14.4,0,8,1,12.5,0.56,0.07,0.0,0.0,11.6,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
-ESP-La Liga,2023,Barcelona,João Cancelo,POR,DF,29,1994,27.8,2,32,9,28.1,1.15,0.32,0.06,0.22,21.3,0,0,0,1.6,1.6,0.05,0.4,0.4,shooting
-ESP-La Liga,2023,Barcelona,João Félix,POR,FW,23,1999,17.1,7,61,25,41.0,3.56,1.46,0.11,0.28,15.8,1,0,0,8.7,8.7,0.14,-1.7,-1.7,shooting
-ESP-La Liga,2023,Barcelona,Jules Koundé,FRA,DF,24,1998,32.2,1,24,6,25.0,0.75,0.19,0.04,0.17,15.3,0,0,0,2.0,2.0,0.08,-1.0,-1.0,shooting
-ESP-La Liga,2023,Barcelona,Lamine Yamal,ESP,FW,16,2007,24.5,5,58,21,36.2,2.37,0.86,0.09,0.24,17.5,0,0,0,5.2,5.2,0.09,-0.2,-0.2,shooting
-ESP-La Liga,2023,Barcelona,Marc Casado,ESP,MF,19,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Barcelona,Marc Guiu,ESP,"FW,MF",17,2006,0.8,1,4,1,25.0,4.86,1.22,0.25,1.0,12.1,0,0,0,0.8,0.8,0.19,0.2,0.2,shooting
-ESP-La Liga,2023,Barcelona,Marc-André ter Stegen,GER,GK,31,1992,28.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Barcelona,Marcos Alonso,ESP,DF,32,1990,2.8,0,3,2,66.7,1.07,0.71,0.0,0.0,20.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Barcelona,Oriol Romeu,ESP,MF,31,1991,10.4,0,10,2,20.0,0.96,0.19,0.0,0.0,23.6,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
-ESP-La Liga,2023,Barcelona,Pau Cubarsí,ESP,DF,16,2007,17.3,0,3,0,0.0,0.17,0.0,0.0,,18.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Barcelona,Pedri,ESP,"MF,FW",20,2002,16.4,4,15,7,46.7,0.91,0.43,0.27,0.57,14.5,0,0,0,3.1,3.1,0.21,0.9,0.9,shooting
-ESP-La Liga,2023,Barcelona,Raphinha,BRA,"FW,MF",26,1996,15.2,6,58,20,34.5,3.82,1.32,0.09,0.25,19.8,10,1,1,7.4,6.6,0.12,-1.4,-1.6,shooting
-ESP-La Liga,2023,Barcelona,Robert Lewandowski,POL,FW,34,1988,30.6,19,90,37,41.1,2.95,1.21,0.17,0.41,13.9,3,4,4,18.1,15.0,0.17,0.9,0.0,shooting
-ESP-La Liga,2023,Barcelona,Ronald Araújo,URU,DF,24,1999,22.2,1,23,9,39.1,1.04,0.41,0.04,0.11,12.4,0,0,0,2.1,2.1,0.09,-1.1,-1.1,shooting
-ESP-La Liga,2023,Barcelona,Sergi Roberto,ESP,"MF,DF",31,1992,9.6,3,10,4,40.0,1.05,0.42,0.3,0.75,12.5,0,0,0,1.7,1.7,0.17,1.3,1.3,shooting
-ESP-La Liga,2023,Barcelona,Vitor Roque,BRA,FW,18,2005,3.6,2,13,6,46.2,3.57,1.65,0.15,0.33,13.7,0,0,0,2.5,2.5,0.2,-0.5,-0.5,shooting
-ESP-La Liga,2023,Barcelona,İlkay Gündoğan,GER,MF,32,1990,33.3,5,41,15,36.6,1.23,0.45,0.1,0.27,17.8,5,1,2,7.3,5.7,0.14,-2.3,-1.7,shooting
-ESP-La Liga,2023,Betis,Abde Ezzalzouli,MAR,FW,21,2001,9.6,1,33,8,24.2,3.43,0.83,0.03,0.13,17.8,0,0,1,3.0,2.2,0.07,-2.0,-1.2,shooting
-ESP-La Liga,2023,Betis,Abner,BRA,DF,23,2000,15.6,0,4,0,0.0,0.26,0.0,0.0,,15.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Betis,Aitor Ruibal,ESP,"DF,FW",27,1996,11.3,2,13,2,15.4,1.15,0.18,0.15,1.0,22.1,0,0,0,0.8,0.8,0.06,1.2,1.2,shooting
-ESP-La Liga,2023,Betis,Andrés Guardado,MEX,MF,36,1986,5.0,0,5,0,0.0,1.01,0.0,0.0,,24.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Betis,Assane Diao,SEN,FW,17,2005,11.6,2,21,3,14.3,1.8,0.26,0.1,0.67,13.7,0,0,0,2.5,2.5,0.12,-0.5,-0.5,shooting
-ESP-La Liga,2023,Betis,Ayoze Pérez,ESP,FW,30,1993,25.5,9,68,26,38.2,2.67,1.02,0.13,0.35,13.5,0,0,0,7.4,7.4,0.11,1.6,1.6,shooting
-ESP-La Liga,2023,Betis,Borja Iglesias,ESP,FW,30,1993,4.5,0,10,0,0.0,2.21,0.0,0.0,,16.3,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
-ESP-La Liga,2023,Betis,Chadi Riad,MAR,DF,20,2003,24.0,0,11,5,45.5,0.46,0.21,0.0,0.0,11.1,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
-ESP-La Liga,2023,Betis,Claudio Bravo,CHI,GK,40,1983,7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Betis,Cédric Bakambu,COD,FW,32,1991,2.2,0,4,1,25.0,1.86,0.46,0.0,0.0,15.8,0,0,0,0.4,0.4,0.11,-0.4,-0.4,shooting
-ESP-La Liga,2023,Betis,Ezequiel Ávila,ARG,FW,29,1994,3.3,1,9,3,33.3,2.72,0.91,0.11,0.33,21.9,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
-ESP-La Liga,2023,Betis,Fran Vieites,ESP,GK,24,1999,3.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Betis,Germán Pezzella,ARG,DF,32,1991,30.7,1,23,5,21.7,0.75,0.16,0.04,0.2,11.2,0,0,0,2.0,2.0,0.09,-1.0,-1.0,shooting
-ESP-La Liga,2023,Betis,Guido Rodríguez,ARG,MF,29,1994,20.5,2,18,7,38.9,0.88,0.34,0.11,0.29,20.5,0,0,0,0.7,0.7,0.04,1.3,1.3,shooting
-ESP-La Liga,2023,Betis,Héctor Bellerín,ESP,DF,28,1995,19.0,0,2,0,0.0,0.11,0.0,0.0,,18.7,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
-ESP-La Liga,2023,Betis,Isco,ESP,MF,31,1992,25.8,8,62,24,38.7,2.4,0.93,0.1,0.25,18.0,4,2,2,8.3,6.7,0.11,-0.3,-0.7,shooting
-ESP-La Liga,2023,Betis,Johnny Cardoso,USA,MF,21,2001,14.8,1,12,3,25.0,0.81,0.2,0.08,0.33,18.3,0,0,0,1.1,1.1,0.09,-0.1,-0.1,shooting
-ESP-La Liga,2023,Betis,Juan Cruz,ESP,FW,23,2000,0.8,0,2,0,0.0,2.37,0.0,0.0,,21.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Betis,Juan Miranda,ESP,DF,23,2000,20.6,1,16,6,37.5,0.78,0.29,0.06,0.17,18.6,1,0,0,1.6,1.6,0.11,-0.6,-0.6,shooting
-ESP-La Liga,2023,Betis,Luiz Felipe,ITA,DF,26,1997,4.0,0,2,0,0.0,0.5,0.0,0.0,,10.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Betis,Luiz Henrique,BRA,FW,22,2001,6.8,0,18,3,16.7,2.63,0.44,0.0,0.0,15.9,0,0,0,1.2,1.2,0.07,-1.2,-1.2,shooting
-ESP-La Liga,2023,Betis,Marc Bartra,ESP,DF,32,1991,2.5,0,3,0,0.0,1.2,0.0,0.0,,11.6,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
-ESP-La Liga,2023,Betis,Marc Roca,ESP,MF,26,1996,22.0,2,20,7,35.0,0.91,0.32,0.1,0.29,24.3,0,0,0,1.1,1.1,0.06,0.9,0.9,shooting
-ESP-La Liga,2023,Betis,Nabil Fekir,FRA,"MF,FW",30,1993,11.7,1,28,7,25.0,2.4,0.6,0.04,0.14,19.2,6,0,0,2.2,2.2,0.08,-1.2,-1.2,shooting
-ESP-La Liga,2023,Betis,Pablo Busto,ESP,DF,17,2005,0.5,0,1,0,0.0,2.05,0.0,0.0,,28.3,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Betis,Pablo Fornals,ESP,"FW,MF",27,1996,12.8,3,17,5,29.4,1.33,0.39,0.18,0.6,18.2,0,0,0,1.8,1.8,0.11,1.2,1.2,shooting
-ESP-La Liga,2023,Betis,Paul Akouokou,CIV,MF,25,1997,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Betis,Ricardo Visus,ESP,DF,22,2001,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Betis,Rodri,ESP,"FW,MF",23,2000,11.7,0,18,5,27.8,1.54,0.43,0.0,0.0,18.6,0,0,0,1.1,1.1,0.06,-1.1,-1.1,shooting
-ESP-La Liga,2023,Betis,Rui Silva,POR,GK,29,1994,27.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Betis,Sergi Altimira,ESP,MF,21,2001,6.3,1,7,2,28.6,1.11,0.32,0.14,0.5,22.3,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
-ESP-La Liga,2023,Betis,Sokratis Papastathopoulos,GRE,DF,35,1988,12.6,0,2,1,50.0,0.16,0.08,0.0,0.0,7.9,0,0,0,0.3,0.3,0.13,-0.3,-0.3,shooting
-ESP-La Liga,2023,Betis,William Carvalho,POR,MF,31,1992,7.6,1,8,3,37.5,1.06,0.4,0.13,0.33,24.0,0,0,0,0.4,0.4,0.05,0.6,0.6,shooting
-ESP-La Liga,2023,Betis,Willian José,BRA,FW,31,1991,21.9,10,48,24,50.0,2.19,1.1,0.21,0.42,16.3,4,0,0,5.7,5.7,0.12,4.3,4.3,shooting
-ESP-La Liga,2023,Betis,Youssouf Sabaly,SEN,DF,30,1993,11.6,0,4,0,0.0,0.34,0.0,0.0,,22.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Celta Vigo,Anastasios Douvikas,GRE,FW,23,1999,10.1,7,26,15,57.7,2.59,1.49,0.27,0.47,13.5,0,0,0,4.6,4.6,0.18,2.4,2.4,shooting
-ESP-La Liga,2023,Celta Vigo,Carl Starfelt,SWE,DF,28,1995,24.6,1,12,5,41.7,0.49,0.2,0.08,0.2,8.5,0,0,0,1.4,1.4,0.12,-0.4,-0.4,shooting
-ESP-La Liga,2023,Celta Vigo,Carles Pérez,ESP,"MF,DF",25,1998,8.6,1,24,6,25.0,2.8,0.7,0.04,0.17,21.4,2,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Celta Vigo,Carlos Dominguez,ESP,DF,22,2001,17.6,0,5,0,0.0,0.28,0.0,0.0,,15.6,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
-ESP-La Liga,2023,Celta Vigo,Carlos Dotor,ESP,MF,22,2001,7.9,0,4,0,0.0,0.51,0.0,0.0,,22.9,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
-ESP-La Liga,2023,Celta Vigo,Damián Rodríguez,ESP,MF,20,2003,2.9,0,1,0,0.0,0.35,0.0,0.0,,31.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Fran Beltrán,ESP,MF,24,1999,27.0,0,21,3,14.3,0.78,0.11,0.0,0.0,25.8,0,0,0,0.7,0.7,0.03,-0.7,-0.7,shooting
-ESP-La Liga,2023,Celta Vigo,Franco Cervi,ARG,"MF,DF",29,1994,6.1,0,8,1,12.5,1.32,0.16,0.0,0.0,19.7,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
-ESP-La Liga,2023,Celta Vigo,Gabriel Veiga,ESP,FW,21,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Hugo Sotelo,ESP,MF,19,2003,8.0,0,8,1,12.5,1.0,0.12,0.0,0.0,23.2,1,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Celta Vigo,Hugo Álvarez,ESP,"MF,DF",20,2003,8.5,1,12,4,33.3,1.42,0.47,0.08,0.25,13.9,0,0,0,1.0,1.0,0.09,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Iago Aspas,ESP,FW,35,1987,30.1,9,74,23,31.1,2.46,0.76,0.08,0.26,20.0,6,3,5,11.5,7.5,0.1,-2.5,-1.5,shooting
-ESP-La Liga,2023,Celta Vigo,Iván Villar,ESP,GK,26,1997,11.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Jailson Siqueira,BRA,"DF,MF",27,1995,10.0,0,5,3,60.0,0.5,0.3,0.0,0.0,22.2,1,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
-ESP-La Liga,2023,Celta Vigo,Javier Manquillo,ESP,"DF,MF",29,1994,8.3,0,1,0,0.0,0.12,0.0,0.0,,13.5,0,0,0,0.1,0.1,0.11,-0.1,-0.1,shooting
-ESP-La Liga,2023,Celta Vigo,Javier Rueda Garcia,ESP,"MF,DF",21,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Jonathan Bamba,CIV,"MF,FW",27,1996,22.0,3,41,14,34.1,1.86,0.64,0.07,0.21,19.2,0,0,0,3.0,3.0,0.07,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Joseph Aidoo,GHA,DF,27,1995,4.5,0,3,0,0.0,0.66,0.0,0.0,,15.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Celta Vigo,Jørgen Strand Larsen,NOR,FW,23,2000,31.8,13,82,35,42.7,2.58,1.1,0.16,0.37,11.2,0,0,0,14.5,14.5,0.18,-1.5,-1.5,shooting
-ESP-La Liga,2023,Celta Vigo,Kevin Vázquez,ESP,DF,30,1993,7.8,0,2,1,50.0,0.26,0.13,0.0,0.0,20.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Luca de la Torre,USA,MF,25,1998,21.7,1,24,8,33.3,1.1,0.37,0.04,0.13,16.4,0,0,0,2.5,2.5,0.1,-1.5,-1.5,shooting
-ESP-La Liga,2023,Celta Vigo,Manu Sánchez,ESP,"DF,MF",22,2000,19.7,0,9,1,11.1,0.46,0.05,0.0,0.0,18.6,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
-ESP-La Liga,2023,Celta Vigo,Miguel Rodríguez,ESP,MF,20,2003,3.3,0,6,0,0.0,1.8,0.0,0.0,,26.5,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
-ESP-La Liga,2023,Celta Vigo,Mihailo Ristić,SRB,"DF,MF",27,1995,9.0,0,10,4,40.0,1.11,0.45,0.0,0.0,23.7,1,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
-ESP-La Liga,2023,Celta Vigo,Renato Tapia,PER,"MF,DF",28,1995,14.9,0,19,1,5.3,1.28,0.07,0.0,0.0,20.8,2,0,0,1.0,1.0,0.05,-1.0,-1.0,shooting
-ESP-La Liga,2023,Celta Vigo,Tadeo Allende,ARG,"MF,FW",24,1999,3.7,1,8,2,25.0,2.14,0.54,0.13,0.5,17.4,0,0,0,1.2,1.2,0.16,-0.2,-0.2,shooting
-ESP-La Liga,2023,Celta Vigo,Unai Núñez,ESP,DF,26,1997,31.1,1,22,5,22.7,0.71,0.16,0.05,0.2,14.4,1,0,0,1.4,1.4,0.07,-0.4,-0.4,shooting
-ESP-La Liga,2023,Celta Vigo,Vicente Guaita,ESP,GK,36,1987,26.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Williot Swedberg,SWE,"FW,MF",19,2004,4.9,5,12,6,50.0,2.46,1.23,0.42,0.83,14.8,0,0,0,2.3,2.3,0.19,2.7,2.7,shooting
-ESP-La Liga,2023,Celta Vigo,Yoel Lago,ESP,DF,19,2004,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Celta Vigo,Óscar Mingueza,ESP,"DF,MF",24,1999,33.3,2,28,13,46.4,0.84,0.39,0.07,0.15,20.4,0,0,0,2.6,2.6,0.09,-0.6,-0.6,shooting
-ESP-La Liga,2023,Cádiz,Aiham Ousou,SYR,DF,23,2000,4.8,0,2,0,0.0,0.42,0.0,0.0,,13.3,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
-ESP-La Liga,2023,Cádiz,Borja Vázquez,ESP,FW,18,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Brian Ocampo,URU,"MF,FW",24,1999,2.8,1,5,2,40.0,1.81,0.73,0.2,0.5,23.0,0,0,0,0.3,0.3,0.06,0.7,0.7,shooting
-ESP-La Liga,2023,Cádiz,Chris Ramos,ESP,"FW,MF",26,1997,29.0,5,76,27,35.5,2.62,0.93,0.07,0.19,12.0,0,0,0,10.1,10.1,0.13,-5.1,-5.1,shooting
-ESP-La Liga,2023,Cádiz,Darwin Machís,VEN,MF,30,1993,8.7,4,20,9,45.0,2.29,1.03,0.15,0.33,24.2,1,1,1,1.4,0.6,0.03,2.6,2.4,shooting
-ESP-La Liga,2023,Cádiz,David Gil,ESP,GK,29,1994,4.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Diadie Samassékou,MLI,MF,27,1996,1.0,0,1,1,100.0,0.98,0.98,0.0,0.0,25.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Fali,ESP,DF,29,1993,28.3,0,11,3,27.3,0.39,0.11,0.0,0.0,15.6,0,0,0,0.8,0.8,0.07,-0.8,-0.8,shooting
-ESP-La Liga,2023,Cádiz,Fede San Emeterio,ESP,MF,26,1997,1.7,1,1,1,100.0,0.59,0.59,1.0,1.0,5.0,0,0,0,0.1,0.1,0.06,0.9,0.9,shooting
-ESP-La Liga,2023,Cádiz,Gonzalo Escalante,ARG,MF,30,1993,18.9,1,14,3,21.4,0.74,0.16,0.07,0.33,17.4,0,0,0,1.9,1.9,0.14,-0.9,-0.9,shooting
-ESP-La Liga,2023,Cádiz,Isaac Carcelen,ESP,DF,30,1993,29.0,0,10,3,30.0,0.34,0.1,0.0,0.0,20.2,1,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
-ESP-La Liga,2023,Cádiz,Iván Alejo,ESP,MF,28,1995,18.8,0,11,2,18.2,0.59,0.11,0.0,0.0,21.9,0,0,0,0.5,0.5,0.04,-0.5,-0.5,shooting
-ESP-La Liga,2023,Cádiz,Javi Hernández,ESP,DF,25,1998,27.9,1,30,8,26.7,1.07,0.29,0.03,0.13,24.0,6,0,0,1.4,1.4,0.05,-0.4,-0.4,shooting
-ESP-La Liga,2023,Cádiz,Jeremías Ledesma,ARG,GK,30,1993,33.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Jorge Meré,ESP,DF,26,1997,7.5,0,4,1,25.0,0.53,0.13,0.0,0.0,18.2,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
-ESP-La Liga,2023,Cádiz,Joseba Zaldúa,ESP,DF,31,1992,7.8,0,1,0,0.0,0.13,0.0,0.0,,34.5,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,José Mari,ESP,"MF,FW",35,1987,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Juanmi,ESP,FW,30,1993,9.7,3,14,7,50.0,1.44,0.72,0.21,0.43,12.6,0,0,0,2.5,2.5,0.18,0.5,0.5,shooting
-ESP-La Liga,2023,Cádiz,Karl Etta,CMR,FW,19,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Lucas,BRA,DF,22,2001,17.1,1,11,4,36.4,0.64,0.23,0.09,0.25,21.5,3,0,0,0.8,0.8,0.07,0.2,0.2,shooting
-ESP-La Liga,2023,Cádiz,Luis Hernández,ESP,DF,34,1989,8.0,1,1,1,100.0,0.12,0.12,1.0,1.0,2.2,0,0,0,1.0,1.0,0.95,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Mamadou Mbaye,SEN,DF,25,1998,3.2,0,2,1,50.0,0.62,0.31,0.0,0.0,7.9,0,0,0,0.3,0.3,0.17,-0.3,-0.3,shooting
-ESP-La Liga,2023,Cádiz,Maxi Gómez,URU,FW,26,1996,12.9,0,16,6,37.5,1.24,0.46,0.0,0.0,14.3,1,0,0,1.6,1.6,0.1,-1.6,-1.6,shooting
-ESP-La Liga,2023,Cádiz,Milutin Osmajić,MNE,MF,24,1999,0.1,0,2,0,0.0,36.0,0.0,0.0,,12.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Cádiz,Moussa Diakité,MLI,MF,19,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Cádiz,Roberto Navarro,ESP,"MF,FW",21,2002,21.0,1,30,9,30.0,1.43,0.43,0.03,0.11,19.1,0,0,0,2.1,2.1,0.07,-1.1,-1.1,shooting
-ESP-La Liga,2023,Cádiz,Roger Martí,ESP,FW,32,1991,15.1,2,33,12,36.4,2.19,0.79,0.06,0.17,17.8,0,0,0,2.8,2.8,0.08,-0.8,-0.8,shooting
-ESP-La Liga,2023,Cádiz,Rominigue Kouamé,MLI,MF,26,1996,9.1,0,5,0,0.0,0.55,0.0,0.0,,22.3,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
-ESP-La Liga,2023,Cádiz,Rubén Alcaraz,ESP,MF,32,1991,34.8,3,46,10,21.7,1.32,0.29,0.02,0.1,24.9,8,2,2,3.3,1.7,0.04,-0.3,-0.7,shooting
-ESP-La Liga,2023,Cádiz,Rubén Sobrino,ESP,"MF,FW",31,1992,18.3,0,21,3,14.3,1.15,0.16,0.0,0.0,17.9,0,0,0,1.8,1.8,0.09,-1.8,-1.8,shooting
-ESP-La Liga,2023,Cádiz,Sergi Guardiola,ESP,"FW,MF",32,1991,5.5,1,14,5,35.7,2.55,0.91,0.07,0.2,16.9,0,0,0,1.8,1.8,0.13,-0.8,-0.8,shooting
-ESP-La Liga,2023,Cádiz,Víctor Chust,ESP,DF,23,2000,20.7,0,4,0,0.0,0.19,0.0,0.0,,9.7,0,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
-ESP-La Liga,2023,Cádiz,Álex Fernández,ESP,MF,30,1992,14.3,0,7,1,14.3,0.49,0.07,0.0,0.0,24.0,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Cádiz,Álvaro Negredo,ESP,"FW,MF",37,1985,0.6,0,3,1,33.3,5.0,1.67,0.0,0.0,29.1,1,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Getafe,Alberto Risco,ESP,MF,17,2005,1.5,0,2,1,50.0,1.31,0.66,0.0,0.0,8.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Getafe,Anthony Lozano,HON,"MF,FW",30,1993,1.0,0,4,0,0.0,3.91,0.0,0.0,,15.2,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Getafe,Borja Mayoral,ESP,FW,26,1997,23.9,15,43,23,53.5,1.8,0.96,0.26,0.48,15.8,0,4,4,11.9,8.7,0.2,3.1,2.3,shooting
-ESP-La Liga,2023,Getafe,Carles Aleñá,ESP,MF,25,1998,11.3,1,16,5,31.3,1.41,0.44,0.06,0.2,18.8,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting
-ESP-La Liga,2023,Getafe,Carmona,ESP,"DF,MF",21,2002,14.6,1,12,3,25.0,0.82,0.21,0.08,0.33,16.8,0,0,0,0.8,0.8,0.07,0.2,0.2,shooting
-ESP-La Liga,2023,Getafe,Damián Suárez,URU,DF,35,1988,14.4,0,4,1,25.0,0.28,0.07,0.0,0.0,25.3,1,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
-ESP-La Liga,2023,Getafe,Daniel Fuzato,BRA,GK,26,1997,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,David Soria,ESP,GK,30,1993,37.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Diego Rico,ESP,DF,30,1993,28.2,0,18,5,27.8,0.64,0.18,0.0,0.0,27.0,0,0,0,0.3,0.3,0.02,-0.3,-0.3,shooting
-ESP-La Liga,2023,Getafe,Djené,TOG,"DF,MF",31,1991,27.6,0,6,1,16.7,0.22,0.04,0.0,0.0,23.2,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
-ESP-La Liga,2023,Getafe,Domingos Duarte,POR,DF,28,1995,10.1,0,1,0,0.0,0.1,0.0,0.0,,2.8,0,0,0,0.3,0.3,0.27,-0.3,-0.3,shooting
-ESP-La Liga,2023,Getafe,Enes Ünal,TUR,"FW,MF",26,1997,1.6,0,1,0,0.0,0.64,0.0,0.0,,18.5,0,0,0,0.1,0.1,0.1,-0.1,-0.1,shooting
-ESP-La Liga,2023,Getafe,Fabrizio Angileri,ARG,"DF,MF",29,1994,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Gastón Álvarez,URU,DF,23,2000,28.2,2,14,3,21.4,0.5,0.11,0.14,0.67,16.5,0,0,0,0.7,0.7,0.05,1.3,1.3,shooting
-ESP-La Liga,2023,Getafe,Gorka Rivera Alonso,ESP,DF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Iglesias,ESP,"DF,FW",25,1998,15.7,0,15,6,40.0,0.96,0.38,0.0,0.0,25.2,0,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
-ESP-La Liga,2023,Getafe,Ilaix Moriba,GUI,"MF,FW",20,2003,6.7,0,4,1,25.0,0.6,0.15,0.0,0.0,21.4,0,0,0,0.3,0.3,0.09,-0.3,-0.3,shooting
-ESP-La Liga,2023,Getafe,Jaime Mata,ESP,"FW,MF",34,1988,19.9,5,32,12,37.5,1.61,0.6,0.16,0.42,13.8,0,0,0,5.6,5.6,0.18,-0.6,-0.6,shooting
-ESP-La Liga,2023,Getafe,Jeremy Jorge,ESP,FW,20,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Jesús Santiago,ESP,MF,19,2004,7.3,1,5,2,40.0,0.69,0.27,0.2,0.5,18.5,0,0,0,0.6,0.6,0.12,0.4,0.4,shooting
-ESP-La Liga,2023,Getafe,Jordi,ESP,"MF,DF",22,2001,6.4,0,7,3,42.9,1.1,0.47,0.0,0.0,12.9,0,0,0,1.3,1.3,0.18,-1.3,-1.3,shooting
-ESP-La Liga,2023,Getafe,Juanmi Latasa,ESP,FW,22,2001,17.3,2,44,15,34.1,2.55,0.87,0.05,0.13,12.7,0,0,0,3.6,3.5,0.08,-1.6,-1.5,shooting
-ESP-La Liga,2023,Getafe,Luis Milla,ESP,MF,28,1994,23.5,0,16,5,31.3,0.68,0.21,0.0,0.0,25.1,1,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
-ESP-La Liga,2023,Getafe,Mason Greenwood,ENG,"MF,FW",21,2001,29.6,8,99,31,31.3,3.35,1.05,0.06,0.19,20.9,5,2,3,8.8,6.4,0.06,-0.8,-0.4,shooting
-ESP-La Liga,2023,Getafe,Mauro Arambarri,URU,MF,27,1995,3.8,0,9,2,22.2,2.39,0.53,0.0,0.0,21.7,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
-ESP-La Liga,2023,Getafe,Nabil Aberdin,FRA,DF,20,2002,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Nemanja Maksimović,SRB,MF,28,1995,36.3,4,34,15,44.1,0.94,0.41,0.12,0.27,11.7,0,0,0,5.5,5.5,0.16,-1.5,-1.5,shooting
-ESP-La Liga,2023,Getafe,Omar Alderete,PAR,DF,26,1996,24.4,0,24,5,20.8,0.98,0.21,0.0,0.0,19.7,3,0,0,1.2,1.2,0.05,-1.2,-1.2,shooting
-ESP-La Liga,2023,Getafe,Portu,ESP,FW,31,1992,1.1,0,1,1,100.0,0.93,0.93,0.0,0.0,8.5,0,0,0,0.2,0.2,0.16,-0.2,-0.2,shooting
-ESP-La Liga,2023,Getafe,Santiago García,ESP,FW,21,2001,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Stefan Mitrović,SRB,DF,33,1990,7.8,1,1,1,100.0,0.13,0.13,1.0,1.0,8.7,0,0,0,0.1,0.1,0.09,0.9,0.9,shooting
-ESP-La Liga,2023,Getafe,Yassin Tallal,ESP,FW,18,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Getafe,Óscar Rodríguez Arnaiz,ESP,"MF,FW",25,1998,10.7,2,34,9,26.5,3.16,0.84,0.06,0.22,24.9,4,0,0,1.5,1.5,0.04,0.5,0.5,shooting
-ESP-La Liga,2023,Girona,Aleix García,ESP,MF,26,1997,35.5,3,39,12,30.8,1.1,0.34,0.08,0.25,26.4,8,0,0,1.8,1.8,0.05,1.2,1.2,shooting
-ESP-La Liga,2023,Girona,Antal Yaakobishvili,HUN,DF,19,2004,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Arnau Martinez,ESP,DF,20,2003,13.8,0,1,0,0.0,0.07,0.0,0.0,,7.9,0,0,0,0.2,0.2,0.2,-0.2,-0.2,shooting
-ESP-La Liga,2023,Girona,Artem Dovbyk,UKR,FW,26,1997,28.7,24,77,36,46.8,2.68,1.25,0.22,0.47,12.4,1,7,8,24.2,17.9,0.23,-0.2,-0.9,shooting
-ESP-La Liga,2023,Girona,Bernardo Espinosa,COL,DF,34,1989,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Cristhian Stuani,URU,FW,36,1986,8.9,9,34,17,50.0,3.81,1.9,0.26,0.53,9.0,0,0,0,9.6,9.6,0.3,-0.6,-0.6,shooting
-ESP-La Liga,2023,Girona,Daley Blind,NED,DF,33,1990,33.0,1,17,6,35.3,0.51,0.18,0.06,0.17,16.6,1,0,0,1.7,1.7,0.1,-0.7,-0.7,shooting
-ESP-La Liga,2023,Girona,David López,ESP,DF,33,1989,21.8,3,16,5,31.3,0.73,0.23,0.19,0.6,15.0,0,0,0,2.1,1.9,0.12,0.9,1.1,shooting
-ESP-La Liga,2023,Girona,Eric García,ESP,DF,22,2001,29.3,5,16,6,37.5,0.55,0.2,0.31,0.83,9.4,0,0,0,2.8,2.8,0.18,2.2,2.2,shooting
-ESP-La Liga,2023,Girona,Ibrahima Kebe,MLI,MF,22,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Iván Martín,ESP,MF,24,1999,30.3,5,19,11,57.9,0.63,0.36,0.26,0.45,16.4,0,0,0,2.9,2.9,0.15,2.1,2.1,shooting
-ESP-La Liga,2023,Girona,Jastin García,ESP,FW,19,2004,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Jhon Solis,COL,MF,18,2004,4.3,0,9,2,22.2,2.11,0.47,0.0,0.0,17.3,0,0,0,1.0,1.0,0.12,-1.0,-1.0,shooting
-ESP-La Liga,2023,Girona,Juanpe,ESP,DF,32,1991,8.3,0,4,0,0.0,0.48,0.0,0.0,,12.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Girona,Miguel Gutiérrez,ESP,DF,22,2001,33.7,2,34,5,14.7,1.01,0.15,0.06,0.4,22.3,0,0,0,2.8,2.8,0.08,-0.8,-0.8,shooting
-ESP-La Liga,2023,Girona,Pablo Torre,ESP,"MF,FW",20,2003,7.8,0,13,1,7.7,1.67,0.13,0.0,0.0,19.3,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
-ESP-La Liga,2023,Girona,Paulo Gazzaniga,ARG,GK,31,1992,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Portu,ESP,"MF,FW",31,1992,13.2,7,21,10,47.6,1.59,0.76,0.33,0.7,11.5,0,0,0,3.4,3.4,0.16,3.6,3.6,shooting
-ESP-La Liga,2023,Girona,Silvi Clúa,ESP,MF,18,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Sávio,BRA,"FW,MF",19,2004,33.1,9,45,20,44.4,1.36,0.6,0.2,0.45,16.6,0,0,0,6.1,6.1,0.13,2.9,2.9,shooting
-ESP-La Liga,2023,Girona,Toni Villa,ESP,FW,28,1995,0.1,0,1,1,100.0,6.92,6.92,0.0,0.0,18.9,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Girona,Valery Fernández,ESP,"MF,FW",23,1999,5.6,2,5,2,40.0,0.89,0.36,0.4,1.0,18.9,0,0,0,0.7,0.7,0.14,1.3,1.3,shooting
-ESP-La Liga,2023,Girona,Viktor Tsyhankov,UKR,"MF,FW",25,1997,22.8,8,44,15,34.1,1.93,0.66,0.18,0.53,17.0,3,0,0,6.2,6.2,0.14,1.8,1.8,shooting
-ESP-La Liga,2023,Girona,Yan Couto,BRA,"DF,FW",21,2002,24.9,1,29,11,37.9,1.16,0.44,0.03,0.09,21.3,0,0,0,1.5,1.5,0.05,-0.5,-0.5,shooting
-ESP-La Liga,2023,Girona,Yangel Herrera,VEN,MF,25,1998,23.4,5,52,18,34.6,2.22,0.77,0.1,0.28,16.5,0,0,0,4.9,4.9,0.09,0.1,0.1,shooting
-ESP-La Liga,2023,Granada,Adri Bosch,ESP,DF,22,2001,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Alberto Perea,ESP,"MF,FW",32,1990,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Alberto Soro,ESP,MF,24,1999,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,André Ferreira,POR,GK,27,1996,14.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Antonio Puertas,ESP,"MF,FW",31,1992,8.1,0,17,4,23.5,2.1,0.49,0.0,0.0,16.0,0,0,2,3.2,1.6,0.09,-3.2,-1.6,shooting
-ESP-La Liga,2023,Granada,Augusto Batalla,ARG,GK,27,1996,17.0,0,1,0,0.0,0.06,0.0,0.0,,13.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Brau,ESP,DF,21,2001,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Bruno Méndez,URU,DF,23,1999,14.8,2,8,4,50.0,0.54,0.27,0.25,0.5,15.8,0,0,0,0.6,0.6,0.08,1.4,1.4,shooting
-ESP-La Liga,2023,Granada,Bryan Zaragoza,ESP,"MF,FW",22,2001,18.2,6,33,18,54.5,1.81,0.99,0.15,0.28,17.7,1,1,1,3.8,3.0,0.09,2.2,2.0,shooting
-ESP-La Liga,2023,Granada,Carlos Neva,ESP,DF,27,1996,35.0,0,4,0,0.0,0.11,0.0,0.0,,20.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Granada,Facundo Pellistri,URU,"MF,FW",21,2001,13.7,2,17,6,35.3,1.24,0.44,0.12,0.33,14.5,0,0,0,2.5,2.5,0.14,-0.5,-0.5,shooting
-ESP-La Liga,2023,Granada,Faitout Maouassa,FRA,"DF,MF",25,1998,2.5,0,5,0,0.0,1.97,0.0,0.0,,20.0,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
-ESP-La Liga,2023,Granada,Famara Diedhiou,SEN,"FW,MF",30,1992,1.0,0,5,3,60.0,5.06,3.03,0.0,0.0,18.1,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
-ESP-La Liga,2023,Granada,Gerard Gumbau,ESP,MF,28,1994,29.7,0,45,9,20.0,1.51,0.3,0.0,0.0,28.3,8,0,0,1.8,1.8,0.04,-1.8,-1.8,shooting
-ESP-La Liga,2023,Granada,Gonzalo Villar,ESP,MF,25,1998,20.0,1,22,4,18.2,1.1,0.2,0.05,0.25,22.5,0,0,0,1.9,1.9,0.08,-0.9,-0.9,shooting
-ESP-La Liga,2023,Granada,Ignasi Miquel,ESP,DF,30,1992,33.2,1,22,8,36.4,0.66,0.24,0.05,0.13,12.7,0,0,0,1.4,1.4,0.06,-0.4,-0.4,shooting
-ESP-La Liga,2023,Granada,Jesús Vallejo,ESP,DF,26,1997,1.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,José Callejón,ESP,"MF,FW",36,1987,8.9,0,12,4,33.3,1.34,0.45,0.0,0.0,14.5,1,0,0,1.3,1.3,0.11,-1.3,-1.3,shooting
-ESP-La Liga,2023,Granada,Kamil Jóźwiak,POL,MF,25,1998,6.3,0,4,1,25.0,0.63,0.16,0.0,0.0,21.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
-ESP-La Liga,2023,Granada,Kamil Piątkowski,POL,DF,23,2000,5.6,0,4,2,50.0,0.71,0.36,0.0,0.0,7.3,0,0,0,0.8,0.8,0.2,-0.8,-0.8,shooting
-ESP-La Liga,2023,Granada,Lucas Boyé,ARG,FW,27,1996,28.2,6,56,15,26.8,1.98,0.53,0.11,0.4,13.3,1,0,0,6.2,6.2,0.11,-0.2,-0.2,shooting
-ESP-La Liga,2023,Granada,Marc Martínez,ESP,GK,33,1990,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Martin Hongla,CMR,"MF,DF",25,1998,6.2,0,3,1,33.3,0.48,0.16,0.0,0.0,18.5,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
-ESP-La Liga,2023,Granada,Matias Arezo,URU,FW,20,2002,4.1,0,12,4,33.3,2.93,0.98,0.0,0.0,18.1,0,0,0,1.2,1.2,0.1,-1.2,-1.2,shooting
-ESP-La Liga,2023,Granada,Miguel Ángel Rubio,ESP,DF,25,1998,17.3,1,9,2,22.2,0.52,0.12,0.11,0.5,10.4,0,0,0,0.8,0.8,0.09,0.2,0.2,shooting
-ESP-La Liga,2023,Granada,Myrto Uzuni,ALB,FW,28,1995,27.2,11,58,24,41.4,2.13,0.88,0.12,0.29,17.9,2,4,5,12.9,9.0,0.16,-1.9,-2.0,shooting
-ESP-La Liga,2023,Granada,Njegoš Petrović,SRB,"MF,FW",24,1999,1.7,0,2,1,50.0,1.15,0.57,0.0,0.0,31.9,1,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Pablo Saenz,ESP,MF,22,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Raúl Fernández,ESP,GK,35,1988,3.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Raúl Torrente,ESP,DF,21,2001,13.9,0,3,0,0.0,0.22,0.0,0.0,,14.7,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Granada,Ricard Sánchez,ESP,DF,23,2000,25.5,3,14,5,35.7,0.55,0.2,0.21,0.6,19.0,0,0,0,1.0,1.0,0.07,2.0,2.0,shooting
-ESP-La Liga,2023,Granada,Samu Omorodion,ESP,FW,19,2004,0.9,1,3,2,66.7,3.38,2.25,0.33,0.5,8.6,0,0,0,0.7,0.7,0.23,0.3,0.3,shooting
-ESP-La Liga,2023,Granada,Sergio Rodelas,ESP,"FW,DF",18,2004,1.4,0,2,0,0.0,1.48,0.0,0.0,,27.3,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Sergio Ruiz,ESP,MF,28,1994,27.7,0,13,1,7.7,0.47,0.04,0.0,0.0,18.2,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
-ESP-La Liga,2023,Granada,Shon Weissman,ISR,FW,27,1996,0.9,0,1,0,0.0,1.1,0.0,0.0,,13.1,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Theo Corbeanu,CAN,"MF,FW",21,2002,2.0,1,5,2,40.0,2.47,0.99,0.2,0.5,23.6,1,0,0,0.3,0.3,0.06,0.7,0.7,shooting
-ESP-La Liga,2023,Granada,Víctor Díaz,ESP,"DF,MF",35,1988,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Wilson Manafá,POR,"DF,MF",29,1994,2.7,0,1,0,0.0,0.37,0.0,0.0,,29.4,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Granada,Álvaro Carreras,ESP,"MF,FW",20,2003,5.3,0,7,1,14.3,1.33,0.19,0.0,0.0,12.3,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
-ESP-La Liga,2023,Granada,Óscar Melendo,ESP,"MF,FW",25,1997,12.5,0,6,2,33.3,0.48,0.16,0.0,0.0,14.9,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
-ESP-La Liga,2023,Las Palmas,Aarón Escandell,ESP,GK,27,1995,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Alberto Moleiro,ESP,"FW,MF",19,2003,20.0,3,33,10,30.3,1.65,0.5,0.09,0.3,20.0,0,0,0,2.0,2.0,0.06,1.0,1.0,shooting
-ESP-La Liga,2023,Las Palmas,Benito Ramírez,ESP,"FW,MF",28,1995,4.3,1,10,3,30.0,2.34,0.7,0.1,0.33,22.5,1,0,0,0.4,0.4,0.04,0.6,0.6,shooting
-ESP-La Liga,2023,Las Palmas,Cristian Herrera,ESP,"FW,MF",32,1991,1.8,1,1,1,100.0,0.54,0.54,1.0,1.0,3.8,0,0,0,0.9,0.9,0.87,0.1,0.1,shooting
-ESP-La Liga,2023,Las Palmas,Daley Sinkgraven,NED,DF,28,1995,4.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Enzo Loiodice,FRA,MF,22,2000,19.9,0,16,6,37.5,0.8,0.3,0.0,0.0,23.7,0,0,0,0.5,0.5,0.03,-0.5,-0.5,shooting
-ESP-La Liga,2023,Las Palmas,Eric Curbelo,ESP,"DF,MF",29,1994,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Fabio González,ESP,MF,26,1997,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Iñaki González,ESP,MF,19,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Javier Muñoz,ESP,MF,28,1995,29.3,2,38,9,23.7,1.3,0.31,0.05,0.22,21.0,0,0,0,2.5,2.5,0.07,-0.5,-0.5,shooting
-ESP-La Liga,2023,Las Palmas,Jonathan Viera,ESP,"MF,FW",33,1989,6.9,2,12,4,33.3,1.75,0.58,0.0,0.0,24.0,2,2,2,2.3,0.7,0.06,-0.3,-0.7,shooting
-ESP-La Liga,2023,Las Palmas,José Campaña,ESP,MF,30,1993,1.9,0,1,0,0.0,0.53,0.0,0.0,,28.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Juan Herzog,ESP,DF,20,2003,3.2,2,3,3,100.0,0.92,0.92,0.67,0.67,6.2,0,0,0,0.7,0.7,0.23,1.3,1.3,shooting
-ESP-La Liga,2023,Las Palmas,Julian Araujo,MEX,DF,21,2001,16.2,1,7,2,28.6,0.43,0.12,0.14,0.5,20.5,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
-ESP-La Liga,2023,Las Palmas,Kirian Rodríguez,ESP,MF,27,1996,35.7,6,43,14,32.6,1.21,0.39,0.14,0.43,25.4,2,0,0,2.1,2.1,0.05,3.9,3.9,shooting
-ESP-La Liga,2023,Las Palmas,Marc Cardona,ESP,FW,28,1995,8.2,4,21,10,47.6,2.56,1.22,0.14,0.3,14.3,0,1,1,4.2,3.5,0.16,-0.2,-0.5,shooting
-ESP-La Liga,2023,Las Palmas,Marvin,ESP,"FW,DF",23,2000,20.6,0,14,3,21.4,0.68,0.15,0.0,0.0,17.3,0,0,0,0.9,0.9,0.07,-0.9,-0.9,shooting
-ESP-La Liga,2023,Las Palmas,Mika Màrmol,ESP,DF,21,2002,35.3,0,3,0,0.0,0.08,0.0,0.0,,15.9,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Las Palmas,Munir El Haddadi,MAR,FW,27,1995,27.2,3,42,11,26.2,1.54,0.4,0.07,0.27,16.7,3,0,1,4.3,3.5,0.08,-1.3,-0.5,shooting
-ESP-La Liga,2023,Las Palmas,Máximo Perrone,ARG,MF,20,2003,18.0,0,7,3,42.9,0.39,0.17,0.0,0.0,23.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
-ESP-La Liga,2023,Las Palmas,Omenuke Mfulu,COD,"MF,FW",29,1994,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Pejiño,ESP,FW,27,1996,5.6,2,17,8,47.1,3.04,1.43,0.12,0.25,22.2,0,0,0,1.3,1.3,0.08,0.7,0.7,shooting
-ESP-La Liga,2023,Las Palmas,Sandro Ramírez,ESP,FW,28,1995,20.1,1,51,18,35.3,2.54,0.9,0.02,0.06,21.7,5,0,1,3.7,3.0,0.06,-2.7,-2.0,shooting
-ESP-La Liga,2023,Las Palmas,Saúl Coco,EQG,DF,24,1999,25.5,1,20,4,20.0,0.78,0.16,0.05,0.25,25.6,8,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
-ESP-La Liga,2023,Las Palmas,Sergi Cardona,ESP,DF,24,1999,31.3,1,26,5,19.2,0.83,0.16,0.04,0.2,13.9,0,0,0,2.7,2.7,0.1,-1.7,-1.7,shooting
-ESP-La Liga,2023,Las Palmas,Sory Kaba,GUI,FW,28,1995,8.0,1,13,1,7.7,1.62,0.12,0.08,1.0,17.1,0,0,0,1.5,1.5,0.11,-0.5,-0.5,shooting
-ESP-La Liga,2023,Las Palmas,Álex Suárez,ESP,DF,30,1993,28.5,2,7,5,71.4,0.25,0.18,0.29,0.4,9.9,0,0,0,1.2,1.2,0.22,0.8,0.8,shooting
-ESP-La Liga,2023,Las Palmas,Álvaro Lemos,ESP,DF,30,1993,2.8,0,1,0,0.0,0.36,0.0,0.0,,29.3,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Las Palmas,Álvaro Vallés,ESP,GK,26,1997,36.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Mallorca,Abdón Prats,ESP,"FW,MF",30,1992,14.1,6,33,14,42.4,2.34,0.99,0.18,0.43,14.8,2,0,0,3.2,3.2,0.1,2.8,2.8,shooting
-ESP-La Liga,2023,Mallorca,Amath,SEN,"FW,MF",27,1996,4.4,0,12,2,16.7,2.74,0.46,0.0,0.0,14.1,0,0,0,1.6,1.6,0.13,-1.6,-1.6,shooting
-ESP-La Liga,2023,Mallorca,Antonio Raillo,ESP,DF,31,1991,24.4,3,29,9,31.0,1.19,0.37,0.1,0.33,17.3,0,0,0,1.4,1.4,0.05,1.6,1.6,shooting
-ESP-La Liga,2023,Mallorca,Antonio Sánchez,ESP,MF,26,1997,16.1,3,23,9,39.1,1.43,0.56,0.13,0.33,20.1,0,0,0,2.5,2.5,0.11,0.5,0.5,shooting
-ESP-La Liga,2023,Mallorca,Copete,ESP,DF,23,1999,14.8,1,7,1,14.3,0.47,0.07,0.14,1.0,13.4,0,0,0,0.5,0.5,0.08,0.5,0.5,shooting
-ESP-La Liga,2023,Mallorca,Cyle Larin,CAN,FW,28,1995,20.3,3,69,25,36.2,3.41,1.23,0.04,0.12,12.7,0,0,0,9.0,9.0,0.13,-6.0,-6.0,shooting
-ESP-La Liga,2023,Mallorca,Dani Rodríguez,ESP,MF,35,1988,29.1,2,27,4,14.8,0.93,0.14,0.07,0.5,19.8,0,0,0,1.4,1.4,0.05,0.6,0.6,shooting
-ESP-La Liga,2023,Mallorca,Dominik Greif,SVK,GK,26,1997,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Mallorca,Giovanni González,URU,DF,28,1994,27.4,1,14,4,28.6,0.51,0.15,0.07,0.25,21.3,0,0,0,0.5,0.5,0.03,0.5,0.5,shooting
-ESP-La Liga,2023,Mallorca,Iván Cuéllar,ESP,GK,39,1984,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Mallorca,Jaume Costa,ESP,DF,35,1988,18.7,0,6,2,33.3,0.32,0.11,0.0,0.0,16.3,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
-ESP-La Liga,2023,Mallorca,Javier Llabrés,ESP,"MF,FW",20,2002,2.7,1,9,4,44.4,3.28,1.46,0.11,0.25,19.9,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
-ESP-La Liga,2023,Mallorca,Manu Morlanes,ESP,MF,24,1999,17.9,0,11,4,36.4,0.61,0.22,0.0,0.0,16.3,0,0,0,1.0,1.0,0.1,-1.0,-1.0,shooting
-ESP-La Liga,2023,Mallorca,Martin Valjent,SVK,DF,27,1995,26.1,0,9,0,0.0,0.34,0.0,0.0,,19.6,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Mallorca,Matija Nastasić,SRB,DF,30,1993,25.1,2,8,2,25.0,0.32,0.08,0.25,1.0,10.2,0,0,0,1.0,1.0,0.13,1.0,1.0,shooting
-ESP-La Liga,2023,Mallorca,Nacho Vidal,ESP,DF,28,1995,4.6,0,8,3,37.5,1.73,0.65,0.0,0.0,12.3,0,0,0,1.0,1.0,0.13,-1.0,-1.0,shooting
-ESP-La Liga,2023,Mallorca,Nemanja Radonjić,SRB,"MF,DF",27,1996,3.9,0,10,7,70.0,2.55,1.78,0.0,0.0,17.5,0,0,0,1.6,1.6,0.16,-1.6,-1.6,shooting
-ESP-La Liga,2023,Mallorca,Omar Mascarell,EQG,MF,30,1993,17.5,0,6,0,0.0,0.34,0.0,0.0,,21.7,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
-ESP-La Liga,2023,Mallorca,Pablo Maffeo,ESP,DF,26,1997,16.2,1,11,4,36.4,0.68,0.25,0.09,0.25,23.3,0,0,0,0.8,0.8,0.07,0.2,0.2,shooting
-ESP-La Liga,2023,Mallorca,Predrag Rajković,SRB,GK,27,1995,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Mallorca,Samu Costa,POR,MF,22,2000,25.6,1,22,3,13.6,0.86,0.12,0.05,0.33,20.9,1,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
-ESP-La Liga,2023,Mallorca,Sergi Darder,ESP,MF,29,1993,24.0,2,32,12,37.5,1.34,0.5,0.06,0.17,22.4,1,0,0,2.2,2.2,0.07,-0.2,-0.2,shooting
-ESP-La Liga,2023,Mallorca,Siebe Van Der Heyden,BEL,DF,25,1998,3.2,0,2,0,0.0,0.63,0.0,0.0,,9.8,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
-ESP-La Liga,2023,Mallorca,Toni Lato,ESP,DF,25,1997,17.2,0,5,1,20.0,0.29,0.06,0.0,0.0,17.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Mallorca,Vedat Muriqi,KVX,FW,29,1994,25.9,7,62,21,33.9,2.4,0.81,0.1,0.29,14.1,0,1,3,10.4,8.0,0.13,-3.4,-2.0,shooting
-ESP-La Liga,2023,Osasuna,Aimar Oroz,ESP,MF,21,2001,26.0,2,24,5,20.8,0.92,0.19,0.04,0.2,18.0,1,1,1,3.5,2.8,0.11,-1.5,-1.8,shooting
-ESP-La Liga,2023,Osasuna,Aitor Fernández,ESP,GK,32,1991,6.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,Ante Budimir,CRO,FW,32,1991,27.1,17,73,31,42.5,2.7,1.15,0.19,0.45,12.8,0,3,4,14.2,11.1,0.15,2.8,2.9,shooting
-ESP-La Liga,2023,Osasuna,Asier Osambela,ESP,MF,19,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,Catena,ESP,DF,28,1994,28.2,1,18,5,27.8,0.64,0.18,0.06,0.2,13.3,1,0,0,1.3,1.3,0.07,-0.3,-0.3,shooting
-ESP-La Liga,2023,Osasuna,Darko Brašanac,SRB,MF,31,1992,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,David García,ESP,DF,29,1994,25.9,0,15,2,13.3,0.58,0.08,0.0,0.0,9.8,0,0,0,1.0,1.0,0.06,-1.0,-1.0,shooting
-ESP-La Liga,2023,Osasuna,Ezequiel Ávila,ARG,"FW,MF",29,1994,9.6,1,27,6,22.2,2.81,0.62,0.04,0.17,21.2,0,0,0,2.0,2.0,0.08,-1.0,-1.0,shooting
-ESP-La Liga,2023,Osasuna,Iker Muñoz,ESP,MF,20,2002,20.6,4,23,6,26.1,1.12,0.29,0.17,0.67,21.6,0,0,0,1.1,1.1,0.05,2.9,2.9,shooting
-ESP-La Liga,2023,Osasuna,Iñigo Arguibide,ESP,DF,18,2005,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,Jesús Areso,ESP,DF,24,1999,29.6,1,9,2,22.2,0.3,0.07,0.11,0.5,27.1,0,0,0,0.2,0.2,0.02,0.8,0.8,shooting
-ESP-La Liga,2023,Osasuna,Johan Mojica,COL,DF,30,1992,22.7,0,17,1,5.9,0.75,0.04,0.0,0.0,22.1,2,0,0,1.0,1.0,0.06,-1.0,-1.0,shooting
-ESP-La Liga,2023,Osasuna,Jon Moncayola,ESP,MF,25,1998,20.0,1,16,5,31.3,0.8,0.25,0.06,0.2,23.0,0,0,0,0.6,0.6,0.04,0.4,0.4,shooting
-ESP-La Liga,2023,Osasuna,Jorge Herrando,ESP,DF,22,2001,18.3,0,4,0,0.0,0.22,0.0,0.0,,14.5,0,0,0,0.4,0.4,0.09,-0.4,-0.4,shooting
-ESP-La Liga,2023,Osasuna,Jorge Moreno,ESP,DF,22,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,José Arnaiz,ESP,"FW,MF",28,1995,10.3,2,29,9,31.0,2.81,0.87,0.07,0.22,22.7,5,0,0,1.7,1.7,0.06,0.3,0.3,shooting
-ESP-La Liga,2023,Osasuna,Juan Cruz Armada,ESP,DF,31,1992,18.5,0,3,0,0.0,0.16,0.0,0.0,,28.7,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,Kike Barja,ESP,"FW,MF",26,1997,3.4,0,4,2,50.0,1.19,0.59,0.0,0.0,14.1,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
-ESP-La Liga,2023,Osasuna,Lucas Torró,ESP,MF,29,1994,19.9,1,30,7,23.3,1.51,0.35,0.03,0.14,22.3,1,0,0,1.5,1.5,0.05,-0.5,-0.5,shooting
+league,season,team,player,nation,pos,age,born,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,stat_type
+ESP-La Liga,2023,Alavés,Abderrahman Rebbach,ALG,"FW,MF",24.0,1998.0,8.0,1,17,4,23.5,2.12,0.5,0.06,0.25,19.4,1,0,0,0.8,0.8,0.05,0.2,0.2,shooting
+ESP-La Liga,2023,Alavés,Aleksandar Sedlar,SRB,DF,31.0,1991.0,10.5,1,4,1,25.0,0.38,0.1,0.25,1.0,10.7,0,0,0,0.3,0.3,0.07,0.7,0.7,shooting
+ESP-La Liga,2023,Alavés,Alex Sola,ESP,"FW,MF",24.0,1999.0,14.0,0,28,7,25.0,2.0,0.5,0.0,0.0,17.6,2,0,0,1.6,1.6,0.06,-1.6,-1.6,shooting
+ESP-La Liga,2023,Alavés,Ander Guevara,ESP,MF,26.0,1997.0,32.6,1,16,2,12.5,0.49,0.06,0.06,0.5,23.2,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
+ESP-La Liga,2023,Alavés,Andoni Gorosabel,ESP,DF,26.0,1996.0,31.7,1,15,6,40.0,0.47,0.19,0.07,0.17,23.4,0,0,0,0.7,0.7,0.05,0.3,0.3,shooting
+ESP-La Liga,2023,Alavés,Antonio Blanco,ESP,MF,23.0,2000.0,27.0,0,20,3,15.0,0.74,0.11,0.0,0.0,25.1,0,0,0,0.8,0.8,0.04,-0.8,-0.8,shooting
+ESP-La Liga,2023,Alavés,Antonio Sivera,ESP,GK,26.0,1996.0,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Carlos Benavídez,URU,MF,25.0,1998.0,12.6,3,14,7,50.0,1.11,0.55,0.21,0.43,19.8,0,0,0,1.0,1.0,0.07,2.0,2.0,shooting
+ESP-La Liga,2023,Alavés,Carlos Vicente,ESP,FW,24.0,1999.0,12.4,2,15,8,53.3,1.21,0.65,0.13,0.25,15.2,1,0,0,2.3,2.3,0.16,-0.3,-0.3,shooting
+ESP-La Liga,2023,Alavés,Eneko Ortiz,ESP,DF,20.0,2003.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Giuliano Simeone,ARG,FW,20.0,2002.0,7.0,1,14,2,14.3,2.0,0.29,0.07,0.5,19.7,0,0,1,2.4,1.6,0.12,-1.4,-0.6,shooting
+ESP-La Liga,2023,Alavés,Ianis Hagi,ROU,"MF,FW",24.0,1998.0,8.9,0,26,8,30.8,2.91,0.9,0.0,0.0,23.9,4,0,1,2.8,2.0,0.08,-2.8,-2.0,shooting
+ESP-La Liga,2023,Alavés,Javi López,ESP,DF,21.0,2002.0,26.5,1,18,3,16.7,0.68,0.11,0.06,0.33,17.4,0,0,0,0.9,0.9,0.05,0.1,0.1,shooting
+ESP-La Liga,2023,Alavés,Jesús Owono,EQG,GK,22.0,2001.0,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Joaquín Panichelli,ARG,"FW,MF",20.0,2002.0,2.5,0,9,2,22.2,3.58,0.8,0.0,0.0,17.8,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
+ESP-La Liga,2023,Alavés,Jon Guridi,ESP,MF,28.0,1995.0,29.8,3,36,8,22.2,1.21,0.27,0.08,0.38,13.0,0,0,0,4.0,4.0,0.11,-1.0,-1.0,shooting
+ESP-La Liga,2023,Alavés,Jon Karrikaburu,ESP,"MF,FW",20.0,2002.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Kiké,ESP,"FW,MF",33.0,1989.0,15.8,3,56,23,41.1,3.54,1.45,0.05,0.13,13.1,0,0,1,7.7,6.9,0.12,-4.7,-3.9,shooting
+ESP-La Liga,2023,Alavés,Luis Rioja,ESP,"FW,MF",29.0,1993.0,27.8,5,53,15,28.3,1.91,0.54,0.04,0.13,21.6,4,3,4,6.1,3.0,0.06,-1.1,-1.0,shooting
+ESP-La Liga,2023,Alavés,Mamadou Sylla,SEN,"FW,MF",29.0,1994.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Miguel,ESP,"FW,MF",23.0,1999.0,0.7,0,2,1,50.0,2.77,1.38,0.0,0.0,19.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ESP-La Liga,2023,Alavés,Nahuel Tenaglia,ARG,DF,27.0,1996.0,12.7,1,8,1,12.5,0.63,0.08,0.13,1.0,14.1,0,0,0,0.6,0.6,0.08,0.4,0.4,shooting
+ESP-La Liga,2023,Alavés,Rafa Marín,ESP,DF,21.0,2002.0,27.1,0,13,3,23.1,0.48,0.11,0.0,0.0,14.5,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+ESP-La Liga,2023,Alavés,Rubén Duarte,ESP,DF,27.0,1995.0,20.9,2,15,5,33.3,0.72,0.24,0.13,0.4,24.6,3,0,0,0.7,0.7,0.05,1.3,1.3,shooting
+ESP-La Liga,2023,Alavés,Samu Omorodion,ESP,FW,19.0,2004.0,21.3,8,64,24,37.5,3.0,1.13,0.13,0.33,13.5,0,0,0,10.8,10.8,0.17,-2.8,-2.8,shooting
+ESP-La Liga,2023,Alavés,Tomás Mendes,ESP,MF,18.0,2004.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Unai Ropero,ESP,MF,21.0,2001.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Victor Parada,ESP,"FW,MF",21.0,2002.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Alavés,Xeber,ESP,"FW,MF",26.0,1997.0,3.4,0,5,0,0.0,1.49,0.0,0.0,,16.4,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ESP-La Liga,2023,Almería,Adri Embarba,ESP,"FW,MF",31.0,1992.0,27.5,3,63,24,38.1,2.29,0.87,0.03,0.08,24.1,12,1,1,4.3,3.5,0.06,-1.3,-1.5,shooting
+ESP-La Liga,2023,Almería,Alejandro Pozo Pozo,ESP,"DF,MF",24.0,1999.0,10.8,0,4,3,75.0,0.37,0.28,0.0,0.0,23.3,0,0,0,0.4,0.4,0.1,-0.4,-0.4,shooting
+ESP-La Liga,2023,Almería,Aleksandar Radovanović,SRB,DF,29.0,1993.0,6.3,0,1,0,0.0,0.16,0.0,0.0,,10.5,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Anthony Lozano,HON,FW,30.0,1993.0,8.6,3,23,9,39.1,2.68,1.05,0.13,0.33,13.3,0,0,0,3.3,3.3,0.14,-0.3,-0.3,shooting
+ESP-La Liga,2023,Almería,Arnau Puigmal,ESP,"FW,DF",22.0,2001.0,2.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Bruno Langa,MOZ,DF,25.0,1997.0,9.1,1,8,2,25.0,0.88,0.22,0.13,0.5,24.6,0,0,0,0.2,0.2,0.02,0.8,0.8,shooting
+ESP-La Liga,2023,Almería,Chumi,ESP,DF,24.0,1999.0,27.0,0,5,0,0.0,0.18,0.0,0.0,,13.8,0,0,0,1.0,1.0,0.19,-1.0,-1.0,shooting
+ESP-La Liga,2023,Almería,César Montes,MEX,DF,26.0,1997.0,19.9,0,13,2,15.4,0.65,0.1,0.0,0.0,11.0,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+ESP-La Liga,2023,Almería,Diego Mariño,ESP,GK,33.0,1990.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Dion Lopy,SEN,MF,21.0,2002.0,21.3,0,23,8,34.8,1.08,0.38,0.0,0.0,26.2,0,0,0,1.3,1.3,0.06,-1.3,-1.3,shooting
+ESP-La Liga,2023,Almería,Fernando,ESP,GK,33.0,1990.0,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Gonzalo Melero,ESP,"MF,FW",29.0,1994.0,12.3,1,14,4,28.6,1.14,0.33,0.07,0.25,11.7,0,0,0,2.0,2.0,0.14,-1.0,-1.0,shooting
+ESP-La Liga,2023,Almería,Houboulang Mendes,GNB,DF,25.0,1998.0,4.4,0,1,0,0.0,0.23,0.0,0.0,,23.2,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Ibrahima Koné,MLI,FW,24.0,1999.0,3.1,0,4,2,50.0,1.3,0.65,0.0,0.0,12.9,0,0,0,0.4,0.4,0.11,-0.4,-0.4,shooting
+ESP-La Liga,2023,Almería,Iddrisu Baba,GHA,MF,27.0,1996.0,15.9,0,8,2,25.0,0.5,0.13,0.0,0.0,25.6,0,0,0,0.7,0.7,0.09,-0.7,-0.7,shooting
+ESP-La Liga,2023,Almería,Jonathan Viera,ESP,MF,33.0,1989.0,10.1,0,12,5,41.7,1.18,0.49,0.0,0.0,18.7,1,0,0,1.3,1.3,0.11,-1.3,-1.3,shooting
+ESP-La Liga,2023,Almería,Kaiky,BRA,DF,19.0,2004.0,5.8,1,3,1,33.3,0.52,0.17,0.33,1.0,11.4,0,0,0,0.2,0.2,0.08,0.8,0.8,shooting
+ESP-La Liga,2023,Almería,Largie Ramazani,BEL,"FW,MF",22.0,2001.0,17.3,3,40,12,30.0,2.32,0.69,0.08,0.25,17.5,1,0,0,4.7,4.7,0.12,-1.7,-1.7,shooting
+ESP-La Liga,2023,Almería,Lucas Robertone,ARG,MF,26.0,1997.0,26.5,0,37,13,35.1,1.4,0.49,0.0,0.0,28.1,3,0,0,1.0,1.0,0.03,-1.0,-1.0,shooting
+ESP-La Liga,2023,Almería,Luis Javier Suárez,COL,FW,25.0,1997.0,10.2,6,39,13,33.3,3.83,1.28,0.13,0.38,14.2,0,1,1,6.5,5.7,0.15,-0.5,-0.7,shooting
+ESP-La Liga,2023,Almería,Luka Romero,ARG,FW,18.0,2004.0,4.9,3,8,3,37.5,1.64,0.62,0.38,1.0,15.9,0,0,0,1.3,1.3,0.18,1.7,1.7,shooting
+ESP-La Liga,2023,Almería,Luís Maximiano,POR,GK,24.0,1999.0,33.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Lázaro,BRA,"FW,MF",21.0,2002.0,3.2,0,8,4,50.0,2.53,1.26,0.0,0.0,18.3,0,0,0,0.9,0.9,0.11,-0.9,-0.9,shooting
+ESP-La Liga,2023,Almería,Léo Baptistão,BRA,FW,30.0,1992.0,20.4,6,48,18,37.5,2.35,0.88,0.13,0.33,16.7,0,0,0,5.3,5.3,0.11,0.7,0.7,shooting
+ESP-La Liga,2023,Almería,Marc Pubill,ESP,DF,20.0,2003.0,20.9,1,20,5,25.0,0.96,0.24,0.05,0.2,20.8,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
+ESP-La Liga,2023,Almería,Marciano Tchami,GNB,"FW,MF",19.0,2004.0,0.5,0,1,0,0.0,2.09,0.0,0.0,,22.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Marcos Peña,ESP,MF,18.0,2005.0,4.9,0,4,1,25.0,0.82,0.2,0.0,0.0,28.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ESP-La Liga,2023,Almería,Marko Milovanović,SRB,"FW,MF",19.0,2003.0,3.4,1,5,1,20.0,1.46,0.29,0.2,1.0,16.2,0,0,0,1.5,1.5,0.31,-0.5,-0.5,shooting
+ESP-La Liga,2023,Almería,Paco Sanz,ESP,DF,18.0,2004.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Rachad Fettal,MAR,FW,18.0,2005.0,0.2,0,1,0,0.0,5.29,0.0,0.0,,8.8,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+ESP-La Liga,2023,Almería,Sergio Akieme,ESP,DF,25.0,1997.0,18.6,2,9,5,55.6,0.48,0.27,0.22,0.4,17.4,0,0,0,1.2,1.2,0.13,0.8,0.8,shooting
+ESP-La Liga,2023,Almería,Sergio Arribas,ESP,"MF,FW",21.0,2001.0,22.7,9,60,22,36.7,2.64,0.97,0.15,0.41,16.8,1,0,0,8.6,8.6,0.15,0.4,0.4,shooting
+ESP-La Liga,2023,Almería,Srđan Babić,SRB,DF,27.0,1996.0,1.0,0,1,0,0.0,1.0,0.0,0.0,,11.6,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Álex Centelles,ESP,DF,25.0,1997.0,10.9,0,2,1,50.0,0.18,0.09,0.0,0.0,21.2,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Almería,Édgar González,ESP,"DF,MF",26.0,1997.0,28.0,2,13,3,23.1,0.46,0.11,0.15,0.67,10.3,0,0,0,2.3,2.3,0.18,-0.3,-0.3,shooting
+ESP-La Liga,2023,Athletic Club,Adu Ares,ESP,FW,21.0,2001.0,2.9,0,4,0,0.0,1.36,0.0,0.0,,21.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Athletic Club,Aingeru Olabarrieta,ESP,FW,17.0,2005.0,0.1,0,1,0,0.0,10.0,0.0,0.0,,25.4,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Athletic Club,Aitor Paredes,ESP,DF,23.0,2000.0,30.0,1,14,3,21.4,0.47,0.1,0.07,0.33,9.7,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting
+ESP-La Liga,2023,Athletic Club,Ander Herrera,ESP,MF,33.0,1989.0,11.4,0,14,2,14.3,1.22,0.17,0.0,0.0,21.2,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+ESP-La Liga,2023,Athletic Club,Asier Villalibre,ESP,FW,25.0,1997.0,5.7,2,12,6,50.0,2.11,1.05,0.17,0.33,11.5,0,0,0,1.7,1.7,0.14,0.3,0.3,shooting
+ESP-La Liga,2023,Athletic Club,Beñat Prados,ESP,"MF,DF",22.0,2001.0,16.1,0,7,4,57.1,0.43,0.25,0.0,0.0,18.5,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+ESP-La Liga,2023,Athletic Club,Dani García,ESP,MF,33.0,1990.0,8.3,1,6,3,50.0,0.72,0.36,0.17,0.33,13.6,0,0,0,0.8,0.8,0.13,0.2,0.2,shooting
+ESP-La Liga,2023,Athletic Club,Daniel Vivian,ESP,DF,24.0,1999.0,32.0,0,11,1,9.1,0.34,0.03,0.0,0.0,13.5,0,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+ESP-La Liga,2023,Athletic Club,Gorka Guruzeta,ESP,FW,26.0,1996.0,24.6,14,63,28,44.4,2.56,1.14,0.22,0.5,13.5,3,0,1,11.6,10.8,0.17,2.4,3.2,shooting
+ESP-La Liga,2023,Athletic Club,Iker Muniain,ESP,"MF,FW",30.0,1992.0,6.6,2,13,7,53.8,1.97,1.06,0.15,0.29,14.3,0,0,0,1.7,1.7,0.13,0.3,0.3,shooting
+ESP-La Liga,2023,Athletic Club,Imanol,ESP,DF,23.0,2000.0,5.8,0,1,0,0.0,0.17,0.0,0.0,,23.7,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Athletic Club,Iñaki Williams,GHA,FW,29.0,1994.0,31.6,12,93,43,46.2,2.94,1.36,0.13,0.28,15.4,0,0,0,9.4,9.4,0.1,2.6,2.6,shooting
+ESP-La Liga,2023,Athletic Club,Iñigo Lekue,ESP,DF,30.0,1993.0,22.2,0,5,0,0.0,0.22,0.0,0.0,,22.3,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ESP-La Liga,2023,Athletic Club,Iñigo Ruiz de Galarreta,ESP,MF,29.0,1993.0,23.2,1,11,2,18.2,0.47,0.09,0.09,0.5,25.4,0,0,0,0.3,0.3,0.03,0.7,0.7,shooting
+ESP-La Liga,2023,Athletic Club,Julen Agirrezabala,ESP,GK,22.0,2000.0,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Athletic Club,Mikel Jauregizar,ESP,MF,19.0,2003.0,1.7,0,2,0,0.0,1.19,0.0,0.0,,28.2,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Athletic Club,Mikel Vesga,ESP,MF,30.0,1993.0,17.0,3,17,5,29.4,1.0,0.29,0.06,0.2,20.7,0,2,2,2.7,1.1,0.07,0.3,-0.1,shooting
+ESP-La Liga,2023,Athletic Club,Nico Williams,ESP,FW,21.0,2002.0,25.1,5,56,19,33.9,2.23,0.76,0.09,0.26,15.7,1,0,0,6.0,6.0,0.11,-1.0,-1.0,shooting
+ESP-La Liga,2023,Athletic Club,Oihan Sancet,ESP,MF,23.0,2000.0,21.9,4,41,11,26.8,1.87,0.5,0.1,0.36,15.6,0,0,1,6.3,5.5,0.13,-2.3,-1.5,shooting
+ESP-La Liga,2023,Athletic Club,Peru Nolaskoain,ESP,"DF,MF",24.0,1998.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Athletic Club,Raúl García,ESP,"FW,MF",37.0,1986.0,4.7,1,10,1,10.0,2.14,0.21,0.1,1.0,14.3,0,0,0,0.9,0.9,0.09,0.1,0.1,shooting
+ESP-La Liga,2023,Athletic Club,Unai Gómez,ESP,MF,20.0,2003.0,9.7,2,16,7,43.8,1.65,0.72,0.13,0.29,17.0,0,0,0,1.5,1.5,0.09,0.5,0.5,shooting
+ESP-La Liga,2023,Athletic Club,Unai Simón,ESP,GK,26.0,1997.0,35.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Athletic Club,Yeray Álvarez,ESP,DF,28.0,1995.0,12.8,0,7,2,28.6,0.55,0.16,0.0,0.0,14.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Athletic Club,Yuri Berchiche,ESP,DF,33.0,1990.0,21.4,3,18,6,33.3,0.84,0.28,0.17,0.5,19.1,0,0,0,0.9,0.7,0.04,2.1,2.3,shooting
+ESP-La Liga,2023,Athletic Club,Álex Berenguer,ESP,FW,28.0,1995.0,17.7,7,31,11,35.5,1.75,0.62,0.19,0.55,16.4,3,1,1,5.2,4.4,0.14,1.8,1.6,shooting
+ESP-La Liga,2023,Athletic Club,Óscar de Marcos,ESP,DF,34.0,1989.0,25.1,1,5,2,40.0,0.2,0.08,0.2,0.5,15.7,0,0,0,0.6,0.6,0.13,0.4,0.4,shooting
+ESP-La Liga,2023,Atlético Madrid,Abdellah Raihani,MAR,FW,19.0,2004.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Atlético Madrid,Antoine Griezmann,FRA,"FW,MF",32.0,1991.0,29.4,16,75,29,38.7,2.55,0.99,0.16,0.41,17.3,3,4,4,12.3,9.3,0.12,3.7,2.7,shooting
+ESP-La Liga,2023,Atlético Madrid,Arthur Vermeeren,BEL,MF,18.0,2005.0,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Atlético Madrid,Axel Witsel,BEL,DF,34.0,1989.0,30.9,2,7,3,42.9,0.23,0.1,0.29,0.67,8.0,0,0,0,1.0,1.0,0.14,1.0,1.0,shooting
+ESP-La Liga,2023,Atlético Madrid,César Azpilicueta,ESP,DF,33.0,1989.0,15.8,0,2,2,100.0,0.13,0.13,0.0,0.0,20.3,0,0,0,0.6,0.6,0.32,-0.6,-0.6,shooting
+ESP-La Liga,2023,Atlético Madrid,Gabriel Paulista,BRA,DF,32.0,1990.0,4.5,0,1,1,100.0,0.22,0.22,0.0,0.0,4.7,0,0,0,0.2,0.2,0.19,-0.2,-0.2,shooting
+ESP-La Liga,2023,Atlético Madrid,Jan Oblak,SVN,GK,30.0,1993.0,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Atlético Madrid,Javi Galán,ESP,DF,28.0,1994.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Atlético Madrid,José María Giménez,URU,DF,28.0,1995.0,14.7,0,7,1,14.3,0.48,0.07,0.0,0.0,12.4,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+ESP-La Liga,2023,Atlético Madrid,Koke,ESP,MF,31.0,1992.0,27.7,0,10,2,20.0,0.36,0.07,0.0,0.0,21.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ESP-La Liga,2023,Atlético Madrid,Marcos Llorente,ESP,"MF,DF",28.0,1995.0,28.5,6,30,19,63.3,1.05,0.67,0.2,0.32,15.4,0,0,0,4.1,4.1,0.14,1.9,1.9,shooting
+ESP-La Liga,2023,Atlético Madrid,Mario Hermoso,ESP,DF,28.0,1995.0,28.4,0,17,4,23.5,0.6,0.14,0.0,0.0,15.0,0,0,0,1.4,1.4,0.08,-1.4,-1.4,shooting
+ESP-La Liga,2023,Atlético Madrid,Memphis,NED,FW,29.0,1994.0,9.9,5,38,15,39.5,3.83,1.51,0.13,0.33,17.5,3,0,0,5.8,5.8,0.15,-0.8,-0.8,shooting
+ESP-La Liga,2023,Atlético Madrid,Nahuel Molina,ARG,DF,25.0,1998.0,20.6,2,12,4,33.3,0.58,0.19,0.17,0.5,17.4,1,0,0,1.3,1.3,0.11,0.7,0.7,shooting
+ESP-La Liga,2023,Atlético Madrid,Pablo Barrios,ESP,MF,20.0,2003.0,17.3,0,17,7,41.2,0.98,0.41,0.0,0.0,21.8,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
+ESP-La Liga,2023,Atlético Madrid,Reinildo Mandava,MOZ,DF,29.0,1994.0,8.1,2,5,3,60.0,0.62,0.37,0.4,0.67,10.4,0,0,0,0.9,0.9,0.17,1.1,1.1,shooting
+ESP-La Liga,2023,Atlético Madrid,Rodrigo De Paul,ARG,MF,29.0,1994.0,23.1,3,30,12,40.0,1.3,0.52,0.1,0.25,19.8,1,0,0,1.8,1.8,0.06,1.2,1.2,shooting
+ESP-La Liga,2023,Atlético Madrid,Rodrigo Riquelme,ESP,"DF,MF",23.0,2000.0,17.0,3,37,16,43.2,2.18,0.94,0.08,0.19,18.0,0,0,0,2.7,2.7,0.07,0.3,0.3,shooting
+ESP-La Liga,2023,Atlético Madrid,Salim El Jebari,MAR,MF,19.0,2004.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Atlético Madrid,Samuel Lino,BRA,"DF,MF",23.0,1999.0,23.1,4,54,21,38.9,2.34,0.91,0.07,0.19,16.6,0,0,0,5.6,5.6,0.1,-1.6,-1.6,shooting
+ESP-La Liga,2023,Atlético Madrid,Saúl Ñíguez,ESP,MF,28.0,1994.0,15.3,1,16,4,25.0,1.05,0.26,0.06,0.25,14.5,0,0,0,1.5,1.5,0.09,-0.5,-0.5,shooting
+ESP-La Liga,2023,Atlético Madrid,Stefan Savić,MNE,DF,32.0,1991.0,18.1,0,5,1,20.0,0.28,0.06,0.0,0.0,11.9,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+ESP-La Liga,2023,Atlético Madrid,Thomas Lemar,FRA,MF,27.0,1995.0,1.8,0,2,0,0.0,1.1,0.0,0.0,,23.0,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+ESP-La Liga,2023,Atlético Madrid,Yannick Carrasco,BEL,DF,29.0,1993.0,2.5,0,2,1,50.0,0.81,0.41,0.0,0.0,21.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Atlético Madrid,Álvaro Morata,ESP,FW,30.0,1992.0,21.2,15,66,33,50.0,3.12,1.56,0.23,0.45,11.4,0,0,1,13.8,12.9,0.2,1.2,2.1,shooting
+ESP-La Liga,2023,Atlético Madrid,Ángel Correa,ARG,"FW,MF",28.0,1995.0,17.0,9,42,19,45.2,2.47,1.12,0.19,0.42,17.0,1,1,1,7.9,7.1,0.17,1.1,0.9,shooting
+ESP-La Liga,2023,Atlético Madrid,Çağlar Söyüncü,TUR,DF,27.0,1996.0,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Barcelona,Abde Ezzalzouli,MAR,"FW,MF",21.0,2001.0,0.8,0,4,1,25.0,5.29,1.32,0.0,0.0,19.1,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Barcelona,Alejandro Balde,ESP,DF,19.0,2003.0,15.3,0,5,1,20.0,0.33,0.07,0.0,0.0,21.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Barcelona,Andreas Christensen,DEN,"DF,MF",27.0,1996.0,22.0,2,12,4,33.3,0.55,0.18,0.17,0.5,13.0,0,0,0,1.0,1.0,0.09,1.0,1.0,shooting
+ESP-La Liga,2023,Barcelona,Ansu Fati,ESP,"MF,FW",20.0,2002.0,0.6,0,7,1,14.3,12.6,1.8,0.0,0.0,18.6,0,0,0,0.7,0.7,0.11,-0.7,-0.7,shooting
+ESP-La Liga,2023,Barcelona,Eric García,ESP,DF,22.0,2001.0,0.6,0,1,0,0.0,1.58,0.0,0.0,,11.0,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+ESP-La Liga,2023,Barcelona,Fermin López,ESP,"MF,FW",20.0,2003.0,16.1,8,51,24,47.1,3.17,1.49,0.16,0.33,15.9,0,0,0,7.5,7.5,0.15,0.5,0.5,shooting
+ESP-La Liga,2023,Barcelona,Ferrán Torres,ESP,FW,23.0,2000.0,13.5,7,38,15,39.5,2.82,1.11,0.18,0.47,16.6,2,0,0,5.5,5.5,0.15,1.5,1.5,shooting
+ESP-La Liga,2023,Barcelona,Frenkie de Jong,NED,MF,26.0,1997.0,18.2,2,7,4,57.1,0.39,0.22,0.29,0.5,20.4,0,0,0,0.7,0.7,0.1,1.3,1.3,shooting
+ESP-La Liga,2023,Barcelona,Gavi,ESP,"MF,FW",18.0,2004.0,10.5,1,9,4,44.4,0.86,0.38,0.11,0.25,15.2,0,0,0,0.9,0.9,0.11,0.1,0.1,shooting
+ESP-La Liga,2023,Barcelona,Héctor Fort,ESP,DF,16.0,2006.0,3.5,0,1,0,0.0,0.28,0.0,0.0,,27.2,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Barcelona,Iñaki Peña,ESP,GK,24.0,1999.0,10.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Barcelona,Iñigo Martínez,ESP,DF,32.0,1991.0,14.4,0,8,1,12.5,0.56,0.07,0.0,0.0,11.6,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+ESP-La Liga,2023,Barcelona,João Cancelo,POR,DF,29.0,1994.0,27.8,2,32,9,28.1,1.15,0.32,0.06,0.22,21.3,0,0,0,1.6,1.6,0.05,0.4,0.4,shooting
+ESP-La Liga,2023,Barcelona,João Félix,POR,FW,23.0,1999.0,17.1,7,61,25,41.0,3.56,1.46,0.11,0.28,15.8,1,0,0,8.7,8.7,0.14,-1.7,-1.7,shooting
+ESP-La Liga,2023,Barcelona,Jules Koundé,FRA,DF,24.0,1998.0,32.2,1,24,6,25.0,0.75,0.19,0.04,0.17,15.3,0,0,0,2.0,2.0,0.08,-1.0,-1.0,shooting
+ESP-La Liga,2023,Barcelona,Lamine Yamal,ESP,FW,16.0,2007.0,24.5,5,58,21,36.2,2.37,0.86,0.09,0.24,17.5,0,0,0,5.2,5.2,0.09,-0.2,-0.2,shooting
+ESP-La Liga,2023,Barcelona,Marc Casado,ESP,MF,19.0,2003.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Barcelona,Marc Guiu,ESP,"FW,MF",17.0,2006.0,0.8,1,4,1,25.0,4.86,1.22,0.25,1.0,12.1,0,0,0,0.8,0.8,0.19,0.2,0.2,shooting
+ESP-La Liga,2023,Barcelona,Marc-André ter Stegen,GER,GK,31.0,1992.0,28.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Barcelona,Marcos Alonso,ESP,DF,32.0,1990.0,2.8,0,3,2,66.7,1.07,0.71,0.0,0.0,20.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Barcelona,Oriol Romeu,ESP,MF,31.0,1991.0,10.4,0,10,2,20.0,0.96,0.19,0.0,0.0,23.6,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+ESP-La Liga,2023,Barcelona,Pau Cubarsí,ESP,DF,16.0,2007.0,17.3,0,3,0,0.0,0.17,0.0,0.0,,18.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Barcelona,Pedri,ESP,"MF,FW",20.0,2002.0,16.4,4,15,7,46.7,0.91,0.43,0.27,0.57,14.5,0,0,0,3.1,3.1,0.21,0.9,0.9,shooting
+ESP-La Liga,2023,Barcelona,Raphinha,BRA,"FW,MF",26.0,1996.0,15.2,6,58,20,34.5,3.82,1.32,0.09,0.25,19.8,10,1,1,7.4,6.6,0.12,-1.4,-1.6,shooting
+ESP-La Liga,2023,Barcelona,Robert Lewandowski,POL,FW,34.0,1988.0,30.6,19,90,37,41.1,2.95,1.21,0.17,0.41,13.9,3,4,4,18.1,15.0,0.17,0.9,0.0,shooting
+ESP-La Liga,2023,Barcelona,Ronald Araújo,URU,DF,24.0,1999.0,22.2,1,23,9,39.1,1.04,0.41,0.04,0.11,12.4,0,0,0,2.1,2.1,0.09,-1.1,-1.1,shooting
+ESP-La Liga,2023,Barcelona,Sergi Roberto,ESP,"MF,DF",31.0,1992.0,9.6,3,10,4,40.0,1.05,0.42,0.3,0.75,12.5,0,0,0,1.7,1.7,0.17,1.3,1.3,shooting
+ESP-La Liga,2023,Barcelona,Vitor Roque,BRA,FW,18.0,2005.0,3.6,2,13,6,46.2,3.57,1.65,0.15,0.33,13.7,0,0,0,2.5,2.5,0.2,-0.5,-0.5,shooting
+ESP-La Liga,2023,Barcelona,İlkay Gündoğan,GER,MF,32.0,1990.0,33.3,5,41,15,36.6,1.23,0.45,0.1,0.27,17.8,5,1,2,7.3,5.7,0.14,-2.3,-1.7,shooting
+ESP-La Liga,2023,Betis,Abde Ezzalzouli,MAR,FW,21.0,2001.0,9.6,1,33,8,24.2,3.43,0.83,0.03,0.13,17.8,0,0,1,3.0,2.2,0.07,-2.0,-1.2,shooting
+ESP-La Liga,2023,Betis,Abner,BRA,DF,23.0,2000.0,15.6,0,4,0,0.0,0.26,0.0,0.0,,15.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Betis,Aitor Ruibal,ESP,"DF,FW",27.0,1996.0,11.3,2,13,2,15.4,1.15,0.18,0.15,1.0,22.1,0,0,0,0.8,0.8,0.06,1.2,1.2,shooting
+ESP-La Liga,2023,Betis,Andrés Guardado,MEX,MF,36.0,1986.0,5.0,0,5,0,0.0,1.01,0.0,0.0,,24.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Betis,Assane Diao,SEN,FW,17.0,2005.0,11.6,2,21,3,14.3,1.8,0.26,0.1,0.67,13.7,0,0,0,2.5,2.5,0.12,-0.5,-0.5,shooting
+ESP-La Liga,2023,Betis,Ayoze Pérez,ESP,FW,30.0,1993.0,25.5,9,68,26,38.2,2.67,1.02,0.13,0.35,13.5,0,0,0,7.4,7.4,0.11,1.6,1.6,shooting
+ESP-La Liga,2023,Betis,Borja Iglesias,ESP,FW,30.0,1993.0,4.5,0,10,0,0.0,2.21,0.0,0.0,,16.3,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
+ESP-La Liga,2023,Betis,Chadi Riad,MAR,DF,20.0,2003.0,24.0,0,11,5,45.5,0.46,0.21,0.0,0.0,11.1,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+ESP-La Liga,2023,Betis,Claudio Bravo,CHI,GK,40.0,1983.0,7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Betis,Cédric Bakambu,COD,FW,32.0,1991.0,2.2,0,4,1,25.0,1.86,0.46,0.0,0.0,15.8,0,0,0,0.4,0.4,0.11,-0.4,-0.4,shooting
+ESP-La Liga,2023,Betis,Ezequiel Ávila,ARG,FW,29.0,1994.0,3.3,1,9,3,33.3,2.72,0.91,0.11,0.33,21.9,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
+ESP-La Liga,2023,Betis,Fran Vieites,ESP,GK,24.0,1999.0,3.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Betis,Germán Pezzella,ARG,DF,32.0,1991.0,30.7,1,23,5,21.7,0.75,0.16,0.04,0.2,11.2,0,0,0,2.0,2.0,0.09,-1.0,-1.0,shooting
+ESP-La Liga,2023,Betis,Guido Rodríguez,ARG,MF,29.0,1994.0,20.5,2,18,7,38.9,0.88,0.34,0.11,0.29,20.5,0,0,0,0.7,0.7,0.04,1.3,1.3,shooting
+ESP-La Liga,2023,Betis,Héctor Bellerín,ESP,DF,28.0,1995.0,19.0,0,2,0,0.0,0.11,0.0,0.0,,18.7,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+ESP-La Liga,2023,Betis,Isco,ESP,MF,31.0,1992.0,25.8,8,62,24,38.7,2.4,0.93,0.1,0.25,18.0,4,2,2,8.3,6.7,0.11,-0.3,-0.7,shooting
+ESP-La Liga,2023,Betis,Johnny Cardoso,USA,MF,21.0,2001.0,14.8,1,12,3,25.0,0.81,0.2,0.08,0.33,18.3,0,0,0,1.1,1.1,0.09,-0.1,-0.1,shooting
+ESP-La Liga,2023,Betis,Juan Cruz,ESP,FW,23.0,2000.0,0.8,0,2,0,0.0,2.37,0.0,0.0,,21.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Betis,Juan Miranda,ESP,DF,23.0,2000.0,20.6,1,16,6,37.5,0.78,0.29,0.06,0.17,18.6,1,0,0,1.6,1.6,0.11,-0.6,-0.6,shooting
+ESP-La Liga,2023,Betis,Luiz Felipe,ITA,DF,26.0,1997.0,4.0,0,2,0,0.0,0.5,0.0,0.0,,10.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Betis,Luiz Henrique,BRA,FW,22.0,2001.0,6.8,0,18,3,16.7,2.63,0.44,0.0,0.0,15.9,0,0,0,1.2,1.2,0.07,-1.2,-1.2,shooting
+ESP-La Liga,2023,Betis,Marc Bartra,ESP,DF,32.0,1991.0,2.5,0,3,0,0.0,1.2,0.0,0.0,,11.6,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+ESP-La Liga,2023,Betis,Marc Roca,ESP,MF,26.0,1996.0,22.0,2,20,7,35.0,0.91,0.32,0.1,0.29,24.3,0,0,0,1.1,1.1,0.06,0.9,0.9,shooting
+ESP-La Liga,2023,Betis,Nabil Fekir,FRA,"MF,FW",30.0,1993.0,11.7,1,28,7,25.0,2.4,0.6,0.04,0.14,19.2,6,0,0,2.2,2.2,0.08,-1.2,-1.2,shooting
+ESP-La Liga,2023,Betis,Pablo Busto,ESP,DF,17.0,2005.0,0.5,0,1,0,0.0,2.05,0.0,0.0,,28.3,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Betis,Pablo Fornals,ESP,"FW,MF",27.0,1996.0,12.8,3,17,5,29.4,1.33,0.39,0.18,0.6,18.2,0,0,0,1.8,1.8,0.11,1.2,1.2,shooting
+ESP-La Liga,2023,Betis,Paul Akouokou,CIV,MF,25.0,1997.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Betis,Ricardo Visus,ESP,DF,22.0,2001.0,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Betis,Rodri,ESP,"FW,MF",23.0,2000.0,11.7,0,18,5,27.8,1.54,0.43,0.0,0.0,18.6,0,0,0,1.1,1.1,0.06,-1.1,-1.1,shooting
+ESP-La Liga,2023,Betis,Rui Silva,POR,GK,29.0,1994.0,27.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Betis,Sergi Altimira,ESP,MF,21.0,2001.0,6.3,1,7,2,28.6,1.11,0.32,0.14,0.5,22.3,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+ESP-La Liga,2023,Betis,Sokratis Papastathopoulos,GRE,DF,35.0,1988.0,12.6,0,2,1,50.0,0.16,0.08,0.0,0.0,7.9,0,0,0,0.3,0.3,0.13,-0.3,-0.3,shooting
+ESP-La Liga,2023,Betis,William Carvalho,POR,MF,31.0,1992.0,7.6,1,8,3,37.5,1.06,0.4,0.13,0.33,24.0,0,0,0,0.4,0.4,0.05,0.6,0.6,shooting
+ESP-La Liga,2023,Betis,Willian José,BRA,FW,31.0,1991.0,21.9,10,48,24,50.0,2.19,1.1,0.21,0.42,16.3,4,0,0,5.7,5.7,0.12,4.3,4.3,shooting
+ESP-La Liga,2023,Betis,Youssouf Sabaly,SEN,DF,30.0,1993.0,11.6,0,4,0,0.0,0.34,0.0,0.0,,22.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Celta Vigo,Anastasios Douvikas,GRE,FW,23.0,1999.0,10.1,7,26,15,57.7,2.59,1.49,0.27,0.47,13.5,0,0,0,4.6,4.6,0.18,2.4,2.4,shooting
+ESP-La Liga,2023,Celta Vigo,Carl Starfelt,SWE,DF,28.0,1995.0,24.6,1,12,5,41.7,0.49,0.2,0.08,0.2,8.5,0,0,0,1.4,1.4,0.12,-0.4,-0.4,shooting
+ESP-La Liga,2023,Celta Vigo,Carles Pérez,ESP,"MF,DF",25.0,1998.0,8.6,1,24,6,25.0,2.8,0.7,0.04,0.17,21.4,2,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Celta Vigo,Carlos Dominguez,ESP,DF,22.0,2001.0,17.6,0,5,0,0.0,0.28,0.0,0.0,,15.6,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+ESP-La Liga,2023,Celta Vigo,Carlos Dotor,ESP,MF,22.0,2001.0,7.9,0,4,0,0.0,0.51,0.0,0.0,,22.9,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ESP-La Liga,2023,Celta Vigo,Damián Rodríguez,ESP,MF,20.0,2003.0,2.9,0,1,0,0.0,0.35,0.0,0.0,,31.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Fran Beltrán,ESP,MF,24.0,1999.0,27.0,0,21,3,14.3,0.78,0.11,0.0,0.0,25.8,0,0,0,0.7,0.7,0.03,-0.7,-0.7,shooting
+ESP-La Liga,2023,Celta Vigo,Franco Cervi,ARG,"MF,DF",29.0,1994.0,6.1,0,8,1,12.5,1.32,0.16,0.0,0.0,19.7,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+ESP-La Liga,2023,Celta Vigo,Gabriel Veiga,ESP,FW,21.0,2002.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Hugo Sotelo,ESP,MF,19.0,2003.0,8.0,0,8,1,12.5,1.0,0.12,0.0,0.0,23.2,1,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Celta Vigo,Hugo Álvarez,ESP,"MF,DF",20.0,2003.0,8.5,1,12,4,33.3,1.42,0.47,0.08,0.25,13.9,0,0,0,1.0,1.0,0.09,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Iago Aspas,ESP,FW,35.0,1987.0,30.1,9,74,23,31.1,2.46,0.76,0.08,0.26,20.0,6,3,5,11.5,7.5,0.1,-2.5,-1.5,shooting
+ESP-La Liga,2023,Celta Vigo,Iván Villar,ESP,GK,26.0,1997.0,11.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Jailson Siqueira,BRA,"DF,MF",27.0,1995.0,10.0,0,5,3,60.0,0.5,0.3,0.0,0.0,22.2,1,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ESP-La Liga,2023,Celta Vigo,Javier Manquillo,ESP,"DF,MF",29.0,1994.0,8.3,0,1,0,0.0,0.12,0.0,0.0,,13.5,0,0,0,0.1,0.1,0.11,-0.1,-0.1,shooting
+ESP-La Liga,2023,Celta Vigo,Javier Rueda Garcia,ESP,"MF,DF",21.0,2002.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Jonathan Bamba,CIV,"MF,FW",27.0,1996.0,22.0,3,41,14,34.1,1.86,0.64,0.07,0.21,19.2,0,0,0,3.0,3.0,0.07,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Joseph Aidoo,GHA,DF,27.0,1995.0,4.5,0,3,0,0.0,0.66,0.0,0.0,,15.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Celta Vigo,Jørgen Strand Larsen,NOR,FW,23.0,2000.0,31.8,13,82,35,42.7,2.58,1.1,0.16,0.37,11.2,0,0,0,14.5,14.5,0.18,-1.5,-1.5,shooting
+ESP-La Liga,2023,Celta Vigo,Kevin Vázquez,ESP,DF,30.0,1993.0,7.8,0,2,1,50.0,0.26,0.13,0.0,0.0,20.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Luca de la Torre,USA,MF,25.0,1998.0,21.7,1,24,8,33.3,1.1,0.37,0.04,0.13,16.4,0,0,0,2.5,2.5,0.1,-1.5,-1.5,shooting
+ESP-La Liga,2023,Celta Vigo,Manu Sánchez,ESP,"DF,MF",22.0,2000.0,19.7,0,9,1,11.1,0.46,0.05,0.0,0.0,18.6,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+ESP-La Liga,2023,Celta Vigo,Miguel Rodríguez,ESP,MF,20.0,2003.0,3.3,0,6,0,0.0,1.8,0.0,0.0,,26.5,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ESP-La Liga,2023,Celta Vigo,Mihailo Ristić,SRB,"DF,MF",27.0,1995.0,9.0,0,10,4,40.0,1.11,0.45,0.0,0.0,23.7,1,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
+ESP-La Liga,2023,Celta Vigo,Renato Tapia,PER,"MF,DF",28.0,1995.0,14.9,0,19,1,5.3,1.28,0.07,0.0,0.0,20.8,2,0,0,1.0,1.0,0.05,-1.0,-1.0,shooting
+ESP-La Liga,2023,Celta Vigo,Tadeo Allende,ARG,"MF,FW",24.0,1999.0,3.7,1,8,2,25.0,2.14,0.54,0.13,0.5,17.4,0,0,0,1.2,1.2,0.16,-0.2,-0.2,shooting
+ESP-La Liga,2023,Celta Vigo,Unai Núñez,ESP,DF,26.0,1997.0,31.1,1,22,5,22.7,0.71,0.16,0.05,0.2,14.4,1,0,0,1.4,1.4,0.07,-0.4,-0.4,shooting
+ESP-La Liga,2023,Celta Vigo,Vicente Guaita,ESP,GK,36.0,1987.0,26.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Williot Swedberg,SWE,"FW,MF",19.0,2004.0,4.9,5,12,6,50.0,2.46,1.23,0.42,0.83,14.8,0,0,0,2.3,2.3,0.19,2.7,2.7,shooting
+ESP-La Liga,2023,Celta Vigo,Yoel Lago,ESP,DF,19.0,2004.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Celta Vigo,Óscar Mingueza,ESP,"DF,MF",24.0,1999.0,33.3,2,28,13,46.4,0.84,0.39,0.07,0.15,20.4,0,0,0,2.6,2.6,0.09,-0.6,-0.6,shooting
+ESP-La Liga,2023,Cádiz,Aiham Ousou,SYR,DF,23.0,2000.0,4.8,0,2,0,0.0,0.42,0.0,0.0,,13.3,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+ESP-La Liga,2023,Cádiz,Borja Vázquez,ESP,FW,18.0,2005.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Brian Ocampo,URU,"MF,FW",24.0,1999.0,2.8,1,5,2,40.0,1.81,0.73,0.2,0.5,23.0,0,0,0,0.3,0.3,0.06,0.7,0.7,shooting
+ESP-La Liga,2023,Cádiz,Chris Ramos,ESP,"FW,MF",26.0,1997.0,29.0,5,76,27,35.5,2.62,0.93,0.07,0.19,12.0,0,0,0,10.1,10.1,0.13,-5.1,-5.1,shooting
+ESP-La Liga,2023,Cádiz,Darwin Machís,VEN,MF,30.0,1993.0,8.7,4,20,9,45.0,2.29,1.03,0.15,0.33,24.2,1,1,1,1.4,0.6,0.03,2.6,2.4,shooting
+ESP-La Liga,2023,Cádiz,David Gil,ESP,GK,29.0,1994.0,4.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Diadie Samassékou,MLI,MF,27.0,1996.0,1.0,0,1,1,100.0,0.98,0.98,0.0,0.0,25.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Fali,ESP,DF,29.0,1993.0,28.3,0,11,3,27.3,0.39,0.11,0.0,0.0,15.6,0,0,0,0.8,0.8,0.07,-0.8,-0.8,shooting
+ESP-La Liga,2023,Cádiz,Fede San Emeterio,ESP,MF,26.0,1997.0,1.7,1,1,1,100.0,0.59,0.59,1.0,1.0,5.0,0,0,0,0.1,0.1,0.06,0.9,0.9,shooting
+ESP-La Liga,2023,Cádiz,Gonzalo Escalante,ARG,MF,30.0,1993.0,18.9,1,14,3,21.4,0.74,0.16,0.07,0.33,17.4,0,0,0,1.9,1.9,0.14,-0.9,-0.9,shooting
+ESP-La Liga,2023,Cádiz,Isaac Carcelen,ESP,DF,30.0,1993.0,29.0,0,10,3,30.0,0.34,0.1,0.0,0.0,20.2,1,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
+ESP-La Liga,2023,Cádiz,Iván Alejo,ESP,MF,28.0,1995.0,18.8,0,11,2,18.2,0.59,0.11,0.0,0.0,21.9,0,0,0,0.5,0.5,0.04,-0.5,-0.5,shooting
+ESP-La Liga,2023,Cádiz,Javi Hernández,ESP,DF,25.0,1998.0,27.9,1,30,8,26.7,1.07,0.29,0.03,0.13,24.0,6,0,0,1.4,1.4,0.05,-0.4,-0.4,shooting
+ESP-La Liga,2023,Cádiz,Jeremías Ledesma,ARG,GK,30.0,1993.0,33.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Jorge Meré,ESP,DF,26.0,1997.0,7.5,0,4,1,25.0,0.53,0.13,0.0,0.0,18.2,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ESP-La Liga,2023,Cádiz,Joseba Zaldúa,ESP,DF,31.0,1992.0,7.8,0,1,0,0.0,0.13,0.0,0.0,,34.5,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,José Mari,ESP,"MF,FW",35.0,1987.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Juanmi,ESP,FW,30.0,1993.0,9.7,3,14,7,50.0,1.44,0.72,0.21,0.43,12.6,0,0,0,2.5,2.5,0.18,0.5,0.5,shooting
+ESP-La Liga,2023,Cádiz,Karl Etta,CMR,FW,19.0,2003.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Lucas,BRA,DF,22.0,2001.0,17.1,1,11,4,36.4,0.64,0.23,0.09,0.25,21.5,3,0,0,0.8,0.8,0.07,0.2,0.2,shooting
+ESP-La Liga,2023,Cádiz,Luis Hernández,ESP,DF,34.0,1989.0,8.0,1,1,1,100.0,0.12,0.12,1.0,1.0,2.2,0,0,0,1.0,1.0,0.95,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Mamadou Mbaye,SEN,DF,25.0,1998.0,3.2,0,2,1,50.0,0.62,0.31,0.0,0.0,7.9,0,0,0,0.3,0.3,0.17,-0.3,-0.3,shooting
+ESP-La Liga,2023,Cádiz,Maxi Gómez,URU,FW,26.0,1996.0,12.9,0,16,6,37.5,1.24,0.46,0.0,0.0,14.3,1,0,0,1.6,1.6,0.1,-1.6,-1.6,shooting
+ESP-La Liga,2023,Cádiz,Milutin Osmajić,MNE,MF,24.0,1999.0,0.1,0,2,0,0.0,36.0,0.0,0.0,,12.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Cádiz,Moussa Diakité,MLI,MF,19.0,2003.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Cádiz,Roberto Navarro,ESP,"MF,FW",21.0,2002.0,21.0,1,30,9,30.0,1.43,0.43,0.03,0.11,19.1,0,0,0,2.1,2.1,0.07,-1.1,-1.1,shooting
+ESP-La Liga,2023,Cádiz,Roger Martí,ESP,FW,32.0,1991.0,15.1,2,33,12,36.4,2.19,0.79,0.06,0.17,17.8,0,0,0,2.8,2.8,0.08,-0.8,-0.8,shooting
+ESP-La Liga,2023,Cádiz,Rominigue Kouamé,MLI,MF,26.0,1996.0,9.1,0,5,0,0.0,0.55,0.0,0.0,,22.3,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+ESP-La Liga,2023,Cádiz,Rubén Alcaraz,ESP,MF,32.0,1991.0,34.8,3,46,10,21.7,1.32,0.29,0.02,0.1,24.9,8,2,2,3.3,1.7,0.04,-0.3,-0.7,shooting
+ESP-La Liga,2023,Cádiz,Rubén Sobrino,ESP,"MF,FW",31.0,1992.0,18.3,0,21,3,14.3,1.15,0.16,0.0,0.0,17.9,0,0,0,1.8,1.8,0.09,-1.8,-1.8,shooting
+ESP-La Liga,2023,Cádiz,Sergi Guardiola,ESP,"FW,MF",32.0,1991.0,5.5,1,14,5,35.7,2.55,0.91,0.07,0.2,16.9,0,0,0,1.8,1.8,0.13,-0.8,-0.8,shooting
+ESP-La Liga,2023,Cádiz,Víctor Chust,ESP,DF,23.0,2000.0,20.7,0,4,0,0.0,0.19,0.0,0.0,,9.7,0,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
+ESP-La Liga,2023,Cádiz,Álex Fernández,ESP,MF,30.0,1992.0,14.3,0,7,1,14.3,0.49,0.07,0.0,0.0,24.0,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Cádiz,Álvaro Negredo,ESP,"FW,MF",37.0,1985.0,0.6,0,3,1,33.3,5.0,1.67,0.0,0.0,29.1,1,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Getafe,Alberto Risco,ESP,MF,17.0,2005.0,1.5,0,2,1,50.0,1.31,0.66,0.0,0.0,8.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Getafe,Anthony Lozano,HON,"MF,FW",30.0,1993.0,1.0,0,4,0,0.0,3.91,0.0,0.0,,15.2,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Getafe,Borja Mayoral,ESP,FW,26.0,1997.0,23.9,15,43,23,53.5,1.8,0.96,0.26,0.48,15.8,0,4,4,11.9,8.7,0.2,3.1,2.3,shooting
+ESP-La Liga,2023,Getafe,Carles Aleñá,ESP,MF,25.0,1998.0,11.3,1,16,5,31.3,1.41,0.44,0.06,0.2,18.8,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting
+ESP-La Liga,2023,Getafe,Carmona,ESP,"DF,MF",21.0,2002.0,14.6,1,12,3,25.0,0.82,0.21,0.08,0.33,16.8,0,0,0,0.8,0.8,0.07,0.2,0.2,shooting
+ESP-La Liga,2023,Getafe,Damián Suárez,URU,DF,35.0,1988.0,14.4,0,4,1,25.0,0.28,0.07,0.0,0.0,25.3,1,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
+ESP-La Liga,2023,Getafe,Daniel Fuzato,BRA,GK,26.0,1997.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,David Soria,ESP,GK,30.0,1993.0,37.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Diego Rico,ESP,DF,30.0,1993.0,28.2,0,18,5,27.8,0.64,0.18,0.0,0.0,27.0,0,0,0,0.3,0.3,0.02,-0.3,-0.3,shooting
+ESP-La Liga,2023,Getafe,Djené,TOG,"DF,MF",31.0,1991.0,27.6,0,6,1,16.7,0.22,0.04,0.0,0.0,23.2,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+ESP-La Liga,2023,Getafe,Domingos Duarte,POR,DF,28.0,1995.0,10.1,0,1,0,0.0,0.1,0.0,0.0,,2.8,0,0,0,0.3,0.3,0.27,-0.3,-0.3,shooting
+ESP-La Liga,2023,Getafe,Enes Ünal,TUR,"FW,MF",26.0,1997.0,1.6,0,1,0,0.0,0.64,0.0,0.0,,18.5,0,0,0,0.1,0.1,0.1,-0.1,-0.1,shooting
+ESP-La Liga,2023,Getafe,Fabrizio Angileri,ARG,"DF,MF",29.0,1994.0,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Gastón Álvarez,URU,DF,23.0,2000.0,28.2,2,14,3,21.4,0.5,0.11,0.14,0.67,16.5,0,0,0,0.7,0.7,0.05,1.3,1.3,shooting
+ESP-La Liga,2023,Getafe,Gorka Rivera Alonso,ESP,DF,18.0,2004.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Iglesias,ESP,"DF,FW",25.0,1998.0,15.7,0,15,6,40.0,0.96,0.38,0.0,0.0,25.2,0,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+ESP-La Liga,2023,Getafe,Ilaix Moriba,GUI,"MF,FW",20.0,2003.0,6.7,0,4,1,25.0,0.6,0.15,0.0,0.0,21.4,0,0,0,0.3,0.3,0.09,-0.3,-0.3,shooting
+ESP-La Liga,2023,Getafe,Jaime Mata,ESP,"FW,MF",34.0,1988.0,19.9,5,32,12,37.5,1.61,0.6,0.16,0.42,13.8,0,0,0,5.6,5.6,0.18,-0.6,-0.6,shooting
+ESP-La Liga,2023,Getafe,Jeremy Jorge,ESP,FW,20.0,2003.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Jesús Santiago,ESP,MF,19.0,2004.0,7.3,1,5,2,40.0,0.69,0.27,0.2,0.5,18.5,0,0,0,0.6,0.6,0.12,0.4,0.4,shooting
+ESP-La Liga,2023,Getafe,Jordi,ESP,"MF,DF",22.0,2001.0,6.4,0,7,3,42.9,1.1,0.47,0.0,0.0,12.9,0,0,0,1.3,1.3,0.18,-1.3,-1.3,shooting
+ESP-La Liga,2023,Getafe,Juanmi Latasa,ESP,FW,22.0,2001.0,17.3,2,44,15,34.1,2.55,0.87,0.05,0.13,12.7,0,0,0,3.6,3.5,0.08,-1.6,-1.5,shooting
+ESP-La Liga,2023,Getafe,Luis Milla,ESP,MF,28.0,1994.0,23.5,0,16,5,31.3,0.68,0.21,0.0,0.0,25.1,1,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+ESP-La Liga,2023,Getafe,Mason Greenwood,ENG,"MF,FW",21.0,2001.0,29.6,8,99,31,31.3,3.35,1.05,0.06,0.19,20.9,5,2,3,8.8,6.4,0.06,-0.8,-0.4,shooting
+ESP-La Liga,2023,Getafe,Mauro Arambarri,URU,MF,27.0,1995.0,3.8,0,9,2,22.2,2.39,0.53,0.0,0.0,21.7,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+ESP-La Liga,2023,Getafe,Nabil Aberdin,FRA,DF,20.0,2002.0,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Nemanja Maksimović,SRB,MF,28.0,1995.0,36.3,4,34,15,44.1,0.94,0.41,0.12,0.27,11.7,0,0,0,5.5,5.5,0.16,-1.5,-1.5,shooting
+ESP-La Liga,2023,Getafe,Omar Alderete,PAR,DF,26.0,1996.0,24.4,0,24,5,20.8,0.98,0.21,0.0,0.0,19.7,3,0,0,1.2,1.2,0.05,-1.2,-1.2,shooting
+ESP-La Liga,2023,Getafe,Portu,ESP,FW,31.0,1992.0,1.1,0,1,1,100.0,0.93,0.93,0.0,0.0,8.5,0,0,0,0.2,0.2,0.16,-0.2,-0.2,shooting
+ESP-La Liga,2023,Getafe,Santiago García,ESP,FW,21.0,2001.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Stefan Mitrović,SRB,DF,33.0,1990.0,7.8,1,1,1,100.0,0.13,0.13,1.0,1.0,8.7,0,0,0,0.1,0.1,0.09,0.9,0.9,shooting
+ESP-La Liga,2023,Getafe,Yassin Tallal,ESP,FW,18.0,2005.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Getafe,Óscar Rodríguez Arnaiz,ESP,"MF,FW",25.0,1998.0,10.7,2,34,9,26.5,3.16,0.84,0.06,0.22,24.9,4,0,0,1.5,1.5,0.04,0.5,0.5,shooting
+ESP-La Liga,2023,Girona,Aleix García,ESP,MF,26.0,1997.0,35.5,3,39,12,30.8,1.1,0.34,0.08,0.25,26.4,8,0,0,1.8,1.8,0.05,1.2,1.2,shooting
+ESP-La Liga,2023,Girona,Antal Yaakobishvili,HUN,DF,19.0,2004.0,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Arnau Martinez,ESP,DF,20.0,2003.0,13.8,0,1,0,0.0,0.07,0.0,0.0,,7.9,0,0,0,0.2,0.2,0.2,-0.2,-0.2,shooting
+ESP-La Liga,2023,Girona,Artem Dovbyk,UKR,FW,26.0,1997.0,28.7,24,77,36,46.8,2.68,1.25,0.22,0.47,12.4,1,7,8,24.2,17.9,0.23,-0.2,-0.9,shooting
+ESP-La Liga,2023,Girona,Bernardo Espinosa,COL,DF,34.0,1989.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Cristhian Stuani,URU,FW,36.0,1986.0,8.9,9,34,17,50.0,3.81,1.9,0.26,0.53,9.0,0,0,0,9.6,9.6,0.3,-0.6,-0.6,shooting
+ESP-La Liga,2023,Girona,Daley Blind,NED,DF,33.0,1990.0,33.0,1,17,6,35.3,0.51,0.18,0.06,0.17,16.6,1,0,0,1.7,1.7,0.1,-0.7,-0.7,shooting
+ESP-La Liga,2023,Girona,David López,ESP,DF,33.0,1989.0,21.8,3,16,5,31.3,0.73,0.23,0.19,0.6,15.0,0,0,0,2.1,1.9,0.12,0.9,1.1,shooting
+ESP-La Liga,2023,Girona,Eric García,ESP,DF,22.0,2001.0,29.3,5,16,6,37.5,0.55,0.2,0.31,0.83,9.4,0,0,0,2.8,2.8,0.18,2.2,2.2,shooting
+ESP-La Liga,2023,Girona,Ibrahima Kebe,MLI,MF,22.0,2000.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Iván Martín,ESP,MF,24.0,1999.0,30.3,5,19,11,57.9,0.63,0.36,0.26,0.45,16.4,0,0,0,2.9,2.9,0.15,2.1,2.1,shooting
+ESP-La Liga,2023,Girona,Jastin García,ESP,FW,19.0,2004.0,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Jhon Solis,COL,MF,18.0,2004.0,4.3,0,9,2,22.2,2.11,0.47,0.0,0.0,17.3,0,0,0,1.0,1.0,0.12,-1.0,-1.0,shooting
+ESP-La Liga,2023,Girona,Juanpe,ESP,DF,32.0,1991.0,8.3,0,4,0,0.0,0.48,0.0,0.0,,12.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Girona,Miguel Gutiérrez,ESP,DF,22.0,2001.0,33.7,2,34,5,14.7,1.01,0.15,0.06,0.4,22.3,0,0,0,2.8,2.8,0.08,-0.8,-0.8,shooting
+ESP-La Liga,2023,Girona,Pablo Torre,ESP,"MF,FW",20.0,2003.0,7.8,0,13,1,7.7,1.67,0.13,0.0,0.0,19.3,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+ESP-La Liga,2023,Girona,Paulo Gazzaniga,ARG,GK,31.0,1992.0,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Portu,ESP,"MF,FW",31.0,1992.0,13.2,7,21,10,47.6,1.59,0.76,0.33,0.7,11.5,0,0,0,3.4,3.4,0.16,3.6,3.6,shooting
+ESP-La Liga,2023,Girona,Silvi Clúa,ESP,MF,18.0,2005.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Sávio,BRA,"FW,MF",19.0,2004.0,33.1,9,45,20,44.4,1.36,0.6,0.2,0.45,16.6,0,0,0,6.1,6.1,0.13,2.9,2.9,shooting
+ESP-La Liga,2023,Girona,Toni Villa,ESP,FW,28.0,1995.0,0.1,0,1,1,100.0,6.92,6.92,0.0,0.0,18.9,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Girona,Valery Fernández,ESP,"MF,FW",23.0,1999.0,5.6,2,5,2,40.0,0.89,0.36,0.4,1.0,18.9,0,0,0,0.7,0.7,0.14,1.3,1.3,shooting
+ESP-La Liga,2023,Girona,Viktor Tsyhankov,UKR,"MF,FW",25.0,1997.0,22.8,8,44,15,34.1,1.93,0.66,0.18,0.53,17.0,3,0,0,6.2,6.2,0.14,1.8,1.8,shooting
+ESP-La Liga,2023,Girona,Yan Couto,BRA,"DF,FW",21.0,2002.0,24.9,1,29,11,37.9,1.16,0.44,0.03,0.09,21.3,0,0,0,1.5,1.5,0.05,-0.5,-0.5,shooting
+ESP-La Liga,2023,Girona,Yangel Herrera,VEN,MF,25.0,1998.0,23.4,5,52,18,34.6,2.22,0.77,0.1,0.28,16.5,0,0,0,4.9,4.9,0.09,0.1,0.1,shooting
+ESP-La Liga,2023,Granada,Adri Bosch,ESP,DF,22.0,2001.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Alberto Perea,ESP,"MF,FW",32.0,1990.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Alberto Soro,ESP,MF,24.0,1999.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,André Ferreira,POR,GK,27.0,1996.0,14.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Antonio Puertas,ESP,"MF,FW",31.0,1992.0,8.1,0,17,4,23.5,2.1,0.49,0.0,0.0,16.0,0,0,2,3.2,1.6,0.09,-3.2,-1.6,shooting
+ESP-La Liga,2023,Granada,Augusto Batalla,ARG,GK,27.0,1996.0,17.0,0,1,0,0.0,0.06,0.0,0.0,,13.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Brau,ESP,DF,21.0,2001.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Bruno Méndez,URU,DF,23.0,1999.0,14.8,2,8,4,50.0,0.54,0.27,0.25,0.5,15.8,0,0,0,0.6,0.6,0.08,1.4,1.4,shooting
+ESP-La Liga,2023,Granada,Bryan Zaragoza,ESP,"MF,FW",22.0,2001.0,18.2,6,33,18,54.5,1.81,0.99,0.15,0.28,17.7,1,1,1,3.8,3.0,0.09,2.2,2.0,shooting
+ESP-La Liga,2023,Granada,Carlos Neva,ESP,DF,27.0,1996.0,35.0,0,4,0,0.0,0.11,0.0,0.0,,20.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Granada,Facundo Pellistri,URU,"MF,FW",21.0,2001.0,13.7,2,17,6,35.3,1.24,0.44,0.12,0.33,14.5,0,0,0,2.5,2.5,0.14,-0.5,-0.5,shooting
+ESP-La Liga,2023,Granada,Faitout Maouassa,FRA,"DF,MF",25.0,1998.0,2.5,0,5,0,0.0,1.97,0.0,0.0,,20.0,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ESP-La Liga,2023,Granada,Famara Diedhiou,SEN,"FW,MF",30.0,1992.0,1.0,0,5,3,60.0,5.06,3.03,0.0,0.0,18.1,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+ESP-La Liga,2023,Granada,Gerard Gumbau,ESP,MF,28.0,1994.0,29.7,0,45,9,20.0,1.51,0.3,0.0,0.0,28.3,8,0,0,1.8,1.8,0.04,-1.8,-1.8,shooting
+ESP-La Liga,2023,Granada,Gonzalo Villar,ESP,MF,25.0,1998.0,20.0,1,22,4,18.2,1.1,0.2,0.05,0.25,22.5,0,0,0,1.9,1.9,0.08,-0.9,-0.9,shooting
+ESP-La Liga,2023,Granada,Ignasi Miquel,ESP,DF,30.0,1992.0,33.2,1,22,8,36.4,0.66,0.24,0.05,0.13,12.7,0,0,0,1.4,1.4,0.06,-0.4,-0.4,shooting
+ESP-La Liga,2023,Granada,Jesús Vallejo,ESP,DF,26.0,1997.0,1.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,José Callejón,ESP,"MF,FW",36.0,1987.0,8.9,0,12,4,33.3,1.34,0.45,0.0,0.0,14.5,1,0,0,1.3,1.3,0.11,-1.3,-1.3,shooting
+ESP-La Liga,2023,Granada,Kamil Jóźwiak,POL,MF,25.0,1998.0,6.3,0,4,1,25.0,0.63,0.16,0.0,0.0,21.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ESP-La Liga,2023,Granada,Kamil Piątkowski,POL,DF,23.0,2000.0,5.6,0,4,2,50.0,0.71,0.36,0.0,0.0,7.3,0,0,0,0.8,0.8,0.2,-0.8,-0.8,shooting
+ESP-La Liga,2023,Granada,Lucas Boyé,ARG,FW,27.0,1996.0,28.2,6,56,15,26.8,1.98,0.53,0.11,0.4,13.3,1,0,0,6.2,6.2,0.11,-0.2,-0.2,shooting
+ESP-La Liga,2023,Granada,Marc Martínez,ESP,GK,33.0,1990.0,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Martin Hongla,CMR,"MF,DF",25.0,1998.0,6.2,0,3,1,33.3,0.48,0.16,0.0,0.0,18.5,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+ESP-La Liga,2023,Granada,Matias Arezo,URU,FW,20.0,2002.0,4.1,0,12,4,33.3,2.93,0.98,0.0,0.0,18.1,0,0,0,1.2,1.2,0.1,-1.2,-1.2,shooting
+ESP-La Liga,2023,Granada,Miguel Ángel Rubio,ESP,DF,25.0,1998.0,17.3,1,9,2,22.2,0.52,0.12,0.11,0.5,10.4,0,0,0,0.8,0.8,0.09,0.2,0.2,shooting
+ESP-La Liga,2023,Granada,Myrto Uzuni,ALB,FW,28.0,1995.0,27.2,11,58,24,41.4,2.13,0.88,0.12,0.29,17.9,2,4,5,12.9,9.0,0.16,-1.9,-2.0,shooting
+ESP-La Liga,2023,Granada,Njegoš Petrović,SRB,"MF,FW",24.0,1999.0,1.7,0,2,1,50.0,1.15,0.57,0.0,0.0,31.9,1,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Pablo Saenz,ESP,MF,22.0,2001.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Raúl Fernández,ESP,GK,35.0,1988.0,3.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Raúl Torrente,ESP,DF,21.0,2001.0,13.9,0,3,0,0.0,0.22,0.0,0.0,,14.7,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Granada,Ricard Sánchez,ESP,DF,23.0,2000.0,25.5,3,14,5,35.7,0.55,0.2,0.21,0.6,19.0,0,0,0,1.0,1.0,0.07,2.0,2.0,shooting
+ESP-La Liga,2023,Granada,Samu Omorodion,ESP,FW,19.0,2004.0,0.9,1,3,2,66.7,3.38,2.25,0.33,0.5,8.6,0,0,0,0.7,0.7,0.23,0.3,0.3,shooting
+ESP-La Liga,2023,Granada,Sergio Rodelas,ESP,"FW,DF",18.0,2004.0,1.4,0,2,0,0.0,1.48,0.0,0.0,,27.3,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Sergio Ruiz,ESP,MF,28.0,1994.0,27.7,0,13,1,7.7,0.47,0.04,0.0,0.0,18.2,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+ESP-La Liga,2023,Granada,Shon Weissman,ISR,FW,27.0,1996.0,0.9,0,1,0,0.0,1.1,0.0,0.0,,13.1,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Theo Corbeanu,CAN,"MF,FW",21.0,2002.0,2.0,1,5,2,40.0,2.47,0.99,0.2,0.5,23.6,1,0,0,0.3,0.3,0.06,0.7,0.7,shooting
+ESP-La Liga,2023,Granada,Víctor Díaz,ESP,"DF,MF",35.0,1988.0,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Wilson Manafá,POR,"DF,MF",29.0,1994.0,2.7,0,1,0,0.0,0.37,0.0,0.0,,29.4,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Granada,Álvaro Carreras,ESP,"MF,FW",20.0,2003.0,5.3,0,7,1,14.3,1.33,0.19,0.0,0.0,12.3,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+ESP-La Liga,2023,Granada,Óscar Melendo,ESP,"MF,FW",25.0,1997.0,12.5,0,6,2,33.3,0.48,0.16,0.0,0.0,14.9,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ESP-La Liga,2023,Las Palmas,Aarón Escandell,ESP,GK,27.0,1995.0,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Alberto Moleiro,ESP,"FW,MF",19.0,2003.0,20.0,3,33,10,30.3,1.65,0.5,0.09,0.3,20.0,0,0,0,2.0,2.0,0.06,1.0,1.0,shooting
+ESP-La Liga,2023,Las Palmas,Benito Ramírez,ESP,"FW,MF",28.0,1995.0,4.3,1,10,3,30.0,2.34,0.7,0.1,0.33,22.5,1,0,0,0.4,0.4,0.04,0.6,0.6,shooting
+ESP-La Liga,2023,Las Palmas,Cristian Herrera,ESP,"FW,MF",32.0,1991.0,1.8,1,1,1,100.0,0.54,0.54,1.0,1.0,3.8,0,0,0,0.9,0.9,0.87,0.1,0.1,shooting
+ESP-La Liga,2023,Las Palmas,Daley Sinkgraven,NED,DF,28.0,1995.0,4.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Enzo Loiodice,FRA,MF,22.0,2000.0,19.9,0,16,6,37.5,0.8,0.3,0.0,0.0,23.7,0,0,0,0.5,0.5,0.03,-0.5,-0.5,shooting
+ESP-La Liga,2023,Las Palmas,Eric Curbelo,ESP,"DF,MF",29.0,1994.0,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Fabio González,ESP,MF,26.0,1997.0,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Iñaki González,ESP,MF,19.0,2004.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Javier Muñoz,ESP,MF,28.0,1995.0,29.3,2,38,9,23.7,1.3,0.31,0.05,0.22,21.0,0,0,0,2.5,2.5,0.07,-0.5,-0.5,shooting
+ESP-La Liga,2023,Las Palmas,Jonathan Viera,ESP,"MF,FW",33.0,1989.0,6.9,2,12,4,33.3,1.75,0.58,0.0,0.0,24.0,2,2,2,2.3,0.7,0.06,-0.3,-0.7,shooting
+ESP-La Liga,2023,Las Palmas,José Campaña,ESP,MF,30.0,1993.0,1.9,0,1,0,0.0,0.53,0.0,0.0,,28.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Juan Herzog,ESP,DF,20.0,2003.0,3.2,2,3,3,100.0,0.92,0.92,0.67,0.67,6.2,0,0,0,0.7,0.7,0.23,1.3,1.3,shooting
+ESP-La Liga,2023,Las Palmas,Julian Araujo,MEX,DF,21.0,2001.0,16.2,1,7,2,28.6,0.43,0.12,0.14,0.5,20.5,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
+ESP-La Liga,2023,Las Palmas,Kirian Rodríguez,ESP,MF,27.0,1996.0,35.7,6,43,14,32.6,1.21,0.39,0.14,0.43,25.4,2,0,0,2.1,2.1,0.05,3.9,3.9,shooting
+ESP-La Liga,2023,Las Palmas,Marc Cardona,ESP,FW,28.0,1995.0,8.2,4,21,10,47.6,2.56,1.22,0.14,0.3,14.3,0,1,1,4.2,3.5,0.16,-0.2,-0.5,shooting
+ESP-La Liga,2023,Las Palmas,Marvin,ESP,"FW,DF",23.0,2000.0,20.6,0,14,3,21.4,0.68,0.15,0.0,0.0,17.3,0,0,0,0.9,0.9,0.07,-0.9,-0.9,shooting
+ESP-La Liga,2023,Las Palmas,Mika Màrmol,ESP,DF,21.0,2002.0,35.3,0,3,0,0.0,0.08,0.0,0.0,,15.9,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Las Palmas,Munir El Haddadi,MAR,FW,27.0,1995.0,27.2,3,42,11,26.2,1.54,0.4,0.07,0.27,16.7,3,0,1,4.3,3.5,0.08,-1.3,-0.5,shooting
+ESP-La Liga,2023,Las Palmas,Máximo Perrone,ARG,MF,20.0,2003.0,18.0,0,7,3,42.9,0.39,0.17,0.0,0.0,23.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ESP-La Liga,2023,Las Palmas,Omenuke Mfulu,COD,"MF,FW",29.0,1994.0,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Pejiño,ESP,FW,27.0,1996.0,5.6,2,17,8,47.1,3.04,1.43,0.12,0.25,22.2,0,0,0,1.3,1.3,0.08,0.7,0.7,shooting
+ESP-La Liga,2023,Las Palmas,Sandro Ramírez,ESP,FW,28.0,1995.0,20.1,1,51,18,35.3,2.54,0.9,0.02,0.06,21.7,5,0,1,3.7,3.0,0.06,-2.7,-2.0,shooting
+ESP-La Liga,2023,Las Palmas,Saúl Coco,EQG,DF,24.0,1999.0,25.5,1,20,4,20.0,0.78,0.16,0.05,0.25,25.6,8,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
+ESP-La Liga,2023,Las Palmas,Sergi Cardona,ESP,DF,24.0,1999.0,31.3,1,26,5,19.2,0.83,0.16,0.04,0.2,13.9,0,0,0,2.7,2.7,0.1,-1.7,-1.7,shooting
+ESP-La Liga,2023,Las Palmas,Sory Kaba,GUI,FW,28.0,1995.0,8.0,1,13,1,7.7,1.62,0.12,0.08,1.0,17.1,0,0,0,1.5,1.5,0.11,-0.5,-0.5,shooting
+ESP-La Liga,2023,Las Palmas,Álex Suárez,ESP,DF,30.0,1993.0,28.5,2,7,5,71.4,0.25,0.18,0.29,0.4,9.9,0,0,0,1.2,1.2,0.22,0.8,0.8,shooting
+ESP-La Liga,2023,Las Palmas,Álvaro Lemos,ESP,DF,30.0,1993.0,2.8,0,1,0,0.0,0.36,0.0,0.0,,29.3,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Las Palmas,Álvaro Vallés,ESP,GK,26.0,1997.0,36.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Mallorca,Abdón Prats,ESP,"FW,MF",30.0,1992.0,14.1,6,33,14,42.4,2.34,0.99,0.18,0.43,14.8,2,0,0,3.2,3.2,0.1,2.8,2.8,shooting
+ESP-La Liga,2023,Mallorca,Amath,SEN,"FW,MF",27.0,1996.0,4.4,0,12,2,16.7,2.74,0.46,0.0,0.0,14.1,0,0,0,1.6,1.6,0.13,-1.6,-1.6,shooting
+ESP-La Liga,2023,Mallorca,Antonio Raillo,ESP,DF,31.0,1991.0,24.4,3,29,9,31.0,1.19,0.37,0.1,0.33,17.3,0,0,0,1.4,1.4,0.05,1.6,1.6,shooting
+ESP-La Liga,2023,Mallorca,Antonio Sánchez,ESP,MF,26.0,1997.0,16.1,3,23,9,39.1,1.43,0.56,0.13,0.33,20.1,0,0,0,2.5,2.5,0.11,0.5,0.5,shooting
+ESP-La Liga,2023,Mallorca,Copete,ESP,DF,23.0,1999.0,14.8,1,7,1,14.3,0.47,0.07,0.14,1.0,13.4,0,0,0,0.5,0.5,0.08,0.5,0.5,shooting
+ESP-La Liga,2023,Mallorca,Cyle Larin,CAN,FW,28.0,1995.0,20.3,3,69,25,36.2,3.41,1.23,0.04,0.12,12.7,0,0,0,9.0,9.0,0.13,-6.0,-6.0,shooting
+ESP-La Liga,2023,Mallorca,Dani Rodríguez,ESP,MF,35.0,1988.0,29.1,2,27,4,14.8,0.93,0.14,0.07,0.5,19.8,0,0,0,1.4,1.4,0.05,0.6,0.6,shooting
+ESP-La Liga,2023,Mallorca,Dominik Greif,SVK,GK,26.0,1997.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Mallorca,Giovanni González,URU,DF,28.0,1994.0,27.4,1,14,4,28.6,0.51,0.15,0.07,0.25,21.3,0,0,0,0.5,0.5,0.03,0.5,0.5,shooting
+ESP-La Liga,2023,Mallorca,Iván Cuéllar,ESP,GK,39.0,1984.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Mallorca,Jaume Costa,ESP,DF,35.0,1988.0,18.7,0,6,2,33.3,0.32,0.11,0.0,0.0,16.3,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ESP-La Liga,2023,Mallorca,Javier Llabrés,ESP,"MF,FW",20.0,2002.0,2.7,1,9,4,44.4,3.28,1.46,0.11,0.25,19.9,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
+ESP-La Liga,2023,Mallorca,Manu Morlanes,ESP,MF,24.0,1999.0,17.9,0,11,4,36.4,0.61,0.22,0.0,0.0,16.3,0,0,0,1.0,1.0,0.1,-1.0,-1.0,shooting
+ESP-La Liga,2023,Mallorca,Martin Valjent,SVK,DF,27.0,1995.0,26.1,0,9,0,0.0,0.34,0.0,0.0,,19.6,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Mallorca,Matija Nastasić,SRB,DF,30.0,1993.0,25.1,2,8,2,25.0,0.32,0.08,0.25,1.0,10.2,0,0,0,1.0,1.0,0.13,1.0,1.0,shooting
+ESP-La Liga,2023,Mallorca,Nacho Vidal,ESP,DF,28.0,1995.0,4.6,0,8,3,37.5,1.73,0.65,0.0,0.0,12.3,0,0,0,1.0,1.0,0.13,-1.0,-1.0,shooting
+ESP-La Liga,2023,Mallorca,Nemanja Radonjić,SRB,"MF,DF",27.0,1996.0,3.9,0,10,7,70.0,2.55,1.78,0.0,0.0,17.5,0,0,0,1.6,1.6,0.16,-1.6,-1.6,shooting
+ESP-La Liga,2023,Mallorca,Omar Mascarell,EQG,MF,30.0,1993.0,17.5,0,6,0,0.0,0.34,0.0,0.0,,21.7,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+ESP-La Liga,2023,Mallorca,Pablo Maffeo,ESP,DF,26.0,1997.0,16.2,1,11,4,36.4,0.68,0.25,0.09,0.25,23.3,0,0,0,0.8,0.8,0.07,0.2,0.2,shooting
+ESP-La Liga,2023,Mallorca,Predrag Rajković,SRB,GK,27.0,1995.0,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Mallorca,Samu Costa,POR,MF,22.0,2000.0,25.6,1,22,3,13.6,0.86,0.12,0.05,0.33,20.9,1,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
+ESP-La Liga,2023,Mallorca,Sergi Darder,ESP,MF,29.0,1993.0,24.0,2,32,12,37.5,1.34,0.5,0.06,0.17,22.4,1,0,0,2.2,2.2,0.07,-0.2,-0.2,shooting
+ESP-La Liga,2023,Mallorca,Siebe Van Der Heyden,BEL,DF,25.0,1998.0,3.2,0,2,0,0.0,0.63,0.0,0.0,,9.8,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+ESP-La Liga,2023,Mallorca,Toni Lato,ESP,DF,25.0,1997.0,17.2,0,5,1,20.0,0.29,0.06,0.0,0.0,17.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Mallorca,Vedat Muriqi,KVX,FW,29.0,1994.0,25.9,7,62,21,33.9,2.4,0.81,0.1,0.29,14.1,0,1,3,10.4,8.0,0.13,-3.4,-2.0,shooting
+ESP-La Liga,2023,Osasuna,Aimar Oroz,ESP,MF,21.0,2001.0,26.0,2,24,5,20.8,0.92,0.19,0.04,0.2,18.0,1,1,1,3.5,2.8,0.11,-1.5,-1.8,shooting
+ESP-La Liga,2023,Osasuna,Aitor Fernández,ESP,GK,32.0,1991.0,6.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,Ante Budimir,CRO,FW,32.0,1991.0,27.1,17,73,31,42.5,2.7,1.15,0.19,0.45,12.8,0,3,4,14.2,11.1,0.15,2.8,2.9,shooting
+ESP-La Liga,2023,Osasuna,Asier Osambela,ESP,MF,19.0,2004.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,Catena,ESP,DF,28.0,1994.0,28.2,1,18,5,27.8,0.64,0.18,0.06,0.2,13.3,1,0,0,1.3,1.3,0.07,-0.3,-0.3,shooting
+ESP-La Liga,2023,Osasuna,Darko Brašanac,SRB,MF,31.0,1992.0,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,David García,ESP,DF,29.0,1994.0,25.9,0,15,2,13.3,0.58,0.08,0.0,0.0,9.8,0,0,0,1.0,1.0,0.06,-1.0,-1.0,shooting
+ESP-La Liga,2023,Osasuna,Ezequiel Ávila,ARG,"FW,MF",29.0,1994.0,9.6,1,27,6,22.2,2.81,0.62,0.04,0.17,21.2,0,0,0,2.0,2.0,0.08,-1.0,-1.0,shooting
+ESP-La Liga,2023,Osasuna,Iker Muñoz,ESP,MF,20.0,2002.0,20.6,4,23,6,26.1,1.12,0.29,0.17,0.67,21.6,0,0,0,1.1,1.1,0.05,2.9,2.9,shooting
+ESP-La Liga,2023,Osasuna,Iñigo Arguibide,ESP,DF,18.0,2005.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,Jesús Areso,ESP,DF,24.0,1999.0,29.6,1,9,2,22.2,0.3,0.07,0.11,0.5,27.1,0,0,0,0.2,0.2,0.02,0.8,0.8,shooting
+ESP-La Liga,2023,Osasuna,Johan Mojica,COL,DF,30.0,1992.0,22.7,0,17,1,5.9,0.75,0.04,0.0,0.0,22.1,2,0,0,1.0,1.0,0.06,-1.0,-1.0,shooting
+ESP-La Liga,2023,Osasuna,Jon Moncayola,ESP,MF,25.0,1998.0,20.0,1,16,5,31.3,0.8,0.25,0.06,0.2,23.0,0,0,0,0.6,0.6,0.04,0.4,0.4,shooting
+ESP-La Liga,2023,Osasuna,Jorge Herrando,ESP,DF,22.0,2001.0,18.3,0,4,0,0.0,0.22,0.0,0.0,,14.5,0,0,0,0.4,0.4,0.09,-0.4,-0.4,shooting
+ESP-La Liga,2023,Osasuna,Jorge Moreno,ESP,DF,22.0,2001.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,José Arnaiz,ESP,"FW,MF",28.0,1995.0,10.3,2,29,9,31.0,2.81,0.87,0.07,0.22,22.7,5,0,0,1.7,1.7,0.06,0.3,0.3,shooting
+ESP-La Liga,2023,Osasuna,Juan Cruz Armada,ESP,DF,31.0,1992.0,18.5,0,3,0,0.0,0.16,0.0,0.0,,28.7,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,Kike Barja,ESP,"FW,MF",26.0,1997.0,3.4,0,4,2,50.0,1.19,0.59,0.0,0.0,14.1,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+ESP-La Liga,2023,Osasuna,Lucas Torró,ESP,MF,29.0,1994.0,19.9,1,30,7,23.3,1.51,0.35,0.03,0.14,22.3,1,0,0,1.5,1.5,0.05,-0.5,-0.5,shooting
 ESP-La Liga,2023,Osasuna,Max Svensson,ESP,FW,,,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,Moi Gómez,ESP,"MF,FW",29,1994,22.3,3,19,7,36.8,0.85,0.31,0.16,0.43,21.3,1,0,0,1.7,1.7,0.09,1.3,1.3,shooting
-ESP-La Liga,2023,Osasuna,Nacho Vidal,ESP,"DF,FW",28,1995,1.1,1,3,1,33.3,2.81,0.94,0.33,1.0,12.4,0,0,0,0.3,0.3,0.1,0.7,0.7,shooting
-ESP-La Liga,2023,Osasuna,Pablo Ibáñez,ESP,MF,24,1998,12.8,1,27,7,25.9,2.11,0.55,0.04,0.14,18.1,0,0,0,2.3,2.3,0.08,-1.3,-1.3,shooting
-ESP-La Liga,2023,Osasuna,Raúl,ESP,FW,22,2000,15.1,6,33,12,36.4,2.19,0.8,0.18,0.5,11.6,0,0,0,4.9,4.9,0.15,1.1,1.1,shooting
-ESP-La Liga,2023,Osasuna,Rubén García,ESP,"FW,MF",30,1993,17.2,3,28,10,35.7,1.63,0.58,0.11,0.3,18.0,3,0,0,2.3,2.3,0.08,0.7,0.7,shooting
-ESP-La Liga,2023,Osasuna,Rubén Peña,ESP,"DF,FW",32,1991,23.2,0,17,5,29.4,0.73,0.22,0.0,0.0,21.0,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
-ESP-La Liga,2023,Osasuna,Sergio Herrera,ESP,GK,30,1993,31.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Osasuna,Unai García,ESP,DF,31,1992,6.2,1,2,1,50.0,0.32,0.16,0.5,1.0,14.4,0,0,0,0.1,0.1,0.06,0.9,0.9,shooting
-ESP-La Liga,2023,Osasuna,Xabier Huarte Armendáriz,ESP,MF,22,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Abdul Mumin,GHA,DF,25,1998,18.8,1,6,1,16.7,0.32,0.05,0.17,1.0,15.9,0,0,0,0.4,0.4,0.06,0.6,0.6,shooting
-ESP-La Liga,2023,Rayo Vallecano,Alfonso Espino,URU,DF,31,1992,27.9,0,18,5,27.8,0.65,0.18,0.0,0.0,22.2,0,0,0,1.0,1.0,0.06,-1.0,-1.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Andrei Ratiu,ROU,"DF,MF",25,1998,7.0,0,6,1,16.7,0.86,0.14,0.0,0.0,16.5,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
-ESP-La Liga,2023,Rayo Vallecano,Aridane Hernández,ESP,DF,34,1989,18.8,0,5,0,0.0,0.27,0.0,0.0,,16.0,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
-ESP-La Liga,2023,Rayo Vallecano,Bebé,CPV,"MF,FW",33,1990,2.4,2,15,4,26.7,6.37,1.7,0.07,0.25,30.2,3,1,1,1.4,0.7,0.04,0.6,0.3,shooting
-ESP-La Liga,2023,Rayo Vallecano,Crespo,POR,MF,26,1996,5.9,0,3,0,0.0,0.51,0.0,0.0,,17.7,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Rayo Vallecano,Cárdenas,ESP,GK,26,1997,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Diego Méndez,ESP,MF,19,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Florian Lejeune,FRA,DF,32,1991,37.0,3,67,21,31.3,1.81,0.57,0.04,0.14,27.9,32,0,0,3.3,3.3,0.05,-0.3,-0.3,shooting
-ESP-La Liga,2023,Rayo Vallecano,Isaac Palazón Camacho,ESP,"MF,FW",28,1994,31.0,4,70,31,44.3,2.26,1.0,0.03,0.06,22.5,5,2,2,5.9,4.4,0.06,-1.9,-2.4,shooting
-ESP-La Liga,2023,Rayo Vallecano,Iván Balliu,ALB,DF,31,1992,31.9,0,11,4,36.4,0.34,0.13,0.0,0.0,18.9,0,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
-ESP-La Liga,2023,Rayo Vallecano,Jorge de Frutos,ESP,"FW,MF",26,1997,17.2,2,29,11,37.9,1.68,0.64,0.07,0.18,17.8,0,0,0,2.6,2.6,0.09,-0.6,-0.6,shooting
-ESP-La Liga,2023,Rayo Vallecano,José Pozo,ESP,MF,27,1996,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Kike Pérez,ESP,"MF,FW",26,1997,9.3,1,13,5,38.5,1.4,0.54,0.08,0.2,18.7,1,0,0,1.9,1.9,0.14,-0.9,-0.9,shooting
-ESP-La Liga,2023,Rayo Vallecano,Pathé Ciss,SEN,MF,29,1994,18.5,1,22,8,36.4,1.19,0.43,0.05,0.13,23.6,0,0,0,1.5,1.5,0.07,-0.5,-0.5,shooting
-ESP-La Liga,2023,Rayo Vallecano,Pep Chavarría,ESP,"DF,MF",25,1998,13.0,1,11,2,18.2,0.85,0.15,0.09,0.5,18.3,0,0,0,1.0,1.0,0.09,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Radamel Falcao,COL,"FW,DF",37,1986,4.5,1,16,6,37.5,3.54,1.33,0.0,0.0,14.5,0,1,1,2.7,2.0,0.12,-1.7,-2.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Randy Nteka,ANG,"FW,MF",25,1997,6.4,1,14,5,35.7,2.2,0.79,0.0,0.0,15.9,0,1,1,2.3,1.5,0.11,-1.3,-1.5,shooting
-ESP-La Liga,2023,Rayo Vallecano,Raúl de Tomás,ESP,FW,28,1994,14.1,1,38,11,28.9,2.69,0.78,0.0,0.0,18.5,3,1,1,3.4,2.6,0.07,-2.4,-2.6,shooting
-ESP-La Liga,2023,Rayo Vallecano,Salvi,ESP,MF,32,1991,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Sergio Camello,ESP,FW,22,2001,18.5,3,33,13,39.4,1.79,0.7,0.09,0.23,15.6,0,0,0,4.5,4.5,0.14,-1.5,-1.5,shooting
-ESP-La Liga,2023,Rayo Vallecano,Stole Dimitrievski,MKD,GK,29,1993,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Rayo Vallecano,Unai López,ESP,MF,27,1995,23.4,1,32,5,15.6,1.37,0.21,0.03,0.2,28.0,3,0,0,1.1,1.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Rayo Vallecano,Álvaro García,ESP,"FW,MF",30,1992,27.5,6,45,17,37.8,1.64,0.62,0.13,0.35,16.0,0,0,0,6.2,6.2,0.14,-0.2,-0.2,shooting
-ESP-La Liga,2023,Rayo Vallecano,Óscar Trejo,ARG,"FW,MF",35,1988,15.3,0,18,3,16.7,1.17,0.2,0.0,0.0,19.6,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
-ESP-La Liga,2023,Rayo Vallecano,Óscar Valentín,ESP,MF,28,1994,29.9,1,15,7,46.7,0.5,0.23,0.07,0.14,12.7,0,0,0,1.7,1.7,0.11,-0.7,-0.7,shooting
-ESP-La Liga,2023,Real Madrid,Andriy Lunin,UKR,GK,24,1999,21.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Antonio Rüdiger,GER,DF,30,1993,30.1,1,19,2,10.5,0.63,0.07,0.05,0.5,16.0,0,0,0,1.5,1.5,0.08,-0.5,-0.5,shooting
-ESP-La Liga,2023,Real Madrid,Arda Güler,TUR,"FW,MF",18,2005,4.2,6,15,6,40.0,3.58,1.43,0.4,1.0,21.9,1,0,0,1.4,1.4,0.1,4.6,4.6,shooting
-ESP-La Liga,2023,Real Madrid,Aurélien Tchouaméni,FRA,"MF,DF",23,2000,22.1,3,27,7,25.9,1.22,0.32,0.11,0.43,22.2,0,0,0,1.3,1.3,0.05,1.7,1.7,shooting
-ESP-La Liga,2023,Real Madrid,Brahim Díaz,MAR,"FW,MF",23,1999,17.2,8,38,17,44.7,2.21,0.99,0.21,0.47,16.0,0,0,0,5.7,5.7,0.15,2.3,2.3,shooting
-ESP-La Liga,2023,Real Madrid,Dani Carvajal,ESP,DF,31,1992,24.1,4,18,10,55.6,0.75,0.41,0.22,0.4,14.3,0,0,0,1.7,1.7,0.1,2.3,2.3,shooting
-ESP-La Liga,2023,Real Madrid,Dani Ceballos,ESP,"MF,FW",26,1996,6.6,0,7,1,14.3,1.05,0.15,0.0,0.0,18.4,1,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
-ESP-La Liga,2023,Real Madrid,David Alaba,AUT,DF,31,1992,12.8,0,14,3,21.4,1.09,0.23,0.0,0.0,19.8,6,0,0,1.0,1.0,0.07,-1.0,-1.0,shooting
-ESP-La Liga,2023,Real Madrid,Eduardo Camavinga,FRA,"MF,DF",20,2002,20.2,0,17,7,41.2,0.84,0.35,0.0,0.0,22.7,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
-ESP-La Liga,2023,Real Madrid,Federico Valverde,URU,MF,25,1998,32.3,2,56,18,32.1,1.74,0.56,0.04,0.11,23.0,1,0,0,3.5,3.5,0.06,-1.5,-1.5,shooting
-ESP-La Liga,2023,Real Madrid,Ferland Mendy,FRA,DF,28,1995,19.1,0,5,1,20.0,0.26,0.05,0.0,0.0,19.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Real Madrid,Fran Garcia,ESP,DF,23,1999,15.5,1,9,1,11.1,0.58,0.06,0.11,1.0,20.9,0,0,0,0.5,0.5,0.06,0.5,0.5,shooting
-ESP-La Liga,2023,Real Madrid,Gonzalo García,ESP,"FW,MF",19,2004,0.2,0,1,1,100.0,4.74,4.74,0.0,0.0,19.1,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Joselu,ESP,FW,33,1990,18.7,10,61,28,45.9,3.25,1.49,0.16,0.36,12.8,0,0,2,11.6,10.0,0.16,-1.6,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Jude Bellingham,ENG,MF,20,2003,25.7,19,62,34,54.8,2.41,1.32,0.29,0.53,14.8,0,1,1,11.1,10.3,0.17,7.9,7.7,shooting
-ESP-La Liga,2023,Real Madrid,Kepa Arrizabalaga,ESP,GK,28,1994,13.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Lucas Vázquez,ESP,DF,32,1991,15.8,3,12,7,58.3,0.76,0.44,0.25,0.43,13.4,0,0,0,1.2,1.1,0.09,1.8,1.9,shooting
-ESP-La Liga,2023,Real Madrid,Luka Modrić,CRO,MF,37,1985,18.8,2,25,10,40.0,1.33,0.53,0.08,0.2,21.9,1,0,0,1.3,1.3,0.05,0.7,0.7,shooting
-ESP-La Liga,2023,Real Madrid,Mario Martín,ESP,MF,19,2004,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Nacho,ESP,DF,33,1990,19.4,0,5,1,20.0,0.26,0.05,0.0,0.0,11.7,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
-ESP-La Liga,2023,Real Madrid,Nicolás Paz,ARG,"MF,FW",18,2004,0.3,0,2,0,0.0,7.83,0.0,0.0,,26.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Real Madrid,Rodrygo,BRA,FW,22,2001,26.4,10,86,35,40.7,3.25,1.32,0.12,0.29,15.2,4,0,1,11.7,10.9,0.13,-1.7,-0.9,shooting
-ESP-La Liga,2023,Real Madrid,Thibaut Courtois,BEL,GK,31,1992,3.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Toni Kroos,GER,MF,33,1990,23.6,1,35,13,37.1,1.48,0.55,0.03,0.08,25.2,10,0,0,1.6,1.6,0.05,-0.6,-0.6,shooting
-ESP-La Liga,2023,Real Madrid,Vinicius Júnior,BRA,FW,23,2000,20.7,15,77,38,49.4,3.72,1.83,0.18,0.37,14.6,0,1,1,13.1,12.3,0.16,1.9,1.7,shooting
-ESP-La Liga,2023,Real Madrid,Álvaro Rodríguez,URU,FW,19,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Madrid,Éder Militão,BRA,DF,25,1998,5.5,0,2,2,100.0,0.36,0.36,0.0,0.0,22.4,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
-ESP-La Liga,2023,Real Sociedad,Aihen Muñoz,ESP,DF,25,1997,12.5,0,7,2,28.6,0.56,0.16,0.0,0.0,24.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Real Sociedad,Alberto Dadie,ESP,MF,21,2002,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Sociedad,Alex Sola,ESP,"DF,MF",24,1999,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Sociedad,Ander Barrenetxea,ESP,"FW,MF",21,2001,15.9,4,37,12,32.4,2.33,0.76,0.11,0.33,17.7,1,0,0,3.5,3.5,0.1,0.5,0.5,shooting
-ESP-La Liga,2023,Real Sociedad,André Silva,POR,FW,27,1995,8.1,3,15,5,33.3,1.85,0.62,0.13,0.4,19.1,1,1,1,3.3,2.5,0.17,-0.3,-0.5,shooting
-ESP-La Liga,2023,Real Sociedad,Aritz Elustondo,ESP,DF,29,1994,9.0,0,7,2,28.6,0.78,0.22,0.0,0.0,11.0,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Real Sociedad,Arsen Zakharyan,RUS,"MF,FW",20,2003,13.6,1,33,9,27.3,2.42,0.66,0.03,0.11,21.6,6,0,0,2.4,2.4,0.07,-1.4,-1.4,shooting
-ESP-La Liga,2023,Real Sociedad,Beñat Turrientes,ESP,MF,21,2002,18.7,0,23,10,43.5,1.23,0.53,0.0,0.0,24.6,1,0,0,1.2,1.2,0.05,-1.2,-1.2,shooting
-ESP-La Liga,2023,Real Sociedad,Brais Méndez,ESP,"MF,FW",26,1997,26.8,5,66,15,22.7,2.46,0.56,0.08,0.33,20.7,10,0,0,4.2,4.2,0.06,0.8,0.8,shooting
-ESP-La Liga,2023,Real Sociedad,Carlos Fernández,ESP,FW,27,1996,4.5,2,8,3,37.5,1.76,0.66,0.13,0.33,15.1,0,1,1,1.5,0.7,0.09,0.5,0.3,shooting
-ESP-La Liga,2023,Real Sociedad,Hamari Traoré,MLI,DF,31,1992,25.5,0,18,2,11.1,0.71,0.08,0.0,0.0,24.3,0,0,0,0.5,0.5,0.03,-0.5,-0.5,shooting
-ESP-La Liga,2023,Real Sociedad,Igor Zubeldia,ESP,DF,26,1997,28.0,0,12,0,0.0,0.43,0.0,0.0,,13.4,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
-ESP-La Liga,2023,Real Sociedad,Javi Galán,ESP,DF,28,1994,11.9,0,3,1,33.3,0.25,0.08,0.0,0.0,20.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
-ESP-La Liga,2023,Real Sociedad,Jon Aramburu,VEN,DF,21,2002,6.0,0,4,0,0.0,0.66,0.0,0.0,,23.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Real Sociedad,Jon Magunazelaia,ESP,"FW,MF",23,2000,1.3,0,4,0,0.0,2.98,0.0,0.0,,15.5,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
-ESP-La Liga,2023,Real Sociedad,Jon Martin,ESP,DF,17,2006,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Sociedad,Jon Pacheco,ESP,DF,22,2001,17.0,1,6,3,50.0,0.35,0.18,0.17,0.33,8.2,0,0,0,1.1,1.1,0.18,-0.1,-0.1,shooting
-ESP-La Liga,2023,Real Sociedad,Kieran Tierney,SCO,DF,26,1997,13.8,0,2,0,0.0,0.15,0.0,0.0,,12.2,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
-ESP-La Liga,2023,Real Sociedad,Martín Zubimendi,ESP,MF,24,1999,29.5,4,22,11,50.0,0.75,0.37,0.18,0.36,14.8,0,0,0,2.7,2.7,0.12,1.3,1.3,shooting
-ESP-La Liga,2023,Real Sociedad,Mikel Merino,ESP,MF,27,1996,27.6,5,30,11,36.7,1.09,0.4,0.17,0.45,13.9,0,0,0,3.3,3.3,0.11,1.7,1.7,shooting
-ESP-La Liga,2023,Real Sociedad,Mikel Oyarzabal,ESP,"FW,MF",26,1997,24.0,9,38,16,42.1,1.59,0.67,0.18,0.44,15.2,3,2,2,9.1,7.5,0.2,-0.1,-0.5,shooting
-ESP-La Liga,2023,Real Sociedad,Mohamed Ali Cho,FRA,"FW,MF",19,2004,2.8,0,3,0,0.0,1.08,0.0,0.0,,17.4,0,0,0,0.4,0.4,0.13,-0.4,-0.4,shooting
-ESP-La Liga,2023,Real Sociedad,Olasagasti,ESP,MF,22,2000,4.0,0,9,0,0.0,2.25,0.0,0.0,,17.0,0,0,0,0.9,0.9,0.09,-0.9,-0.9,shooting
-ESP-La Liga,2023,Real Sociedad,Robin Le Normand,ESP,DF,26,1996,27.4,2,8,5,62.5,0.29,0.18,0.25,0.4,12.2,0,0,0,1.0,1.0,0.13,1.0,1.0,shooting
-ESP-La Liga,2023,Real Sociedad,Sheraldo Becker,SUR,"FW,MF",28,1995,8.6,2,21,9,42.9,2.45,1.05,0.1,0.22,17.1,0,0,0,1.4,1.4,0.07,0.6,0.6,shooting
-ESP-La Liga,2023,Real Sociedad,Takefusa Kubo,JPN,"FW,MF",22,2001,23.9,7,46,21,45.7,1.93,0.88,0.15,0.33,17.5,2,0,0,3.5,3.5,0.08,3.5,3.5,shooting
-ESP-La Liga,2023,Real Sociedad,Umar Sadiq,NGA,FW,26,1997,12.0,3,33,10,30.3,2.76,0.84,0.09,0.3,14.7,0,0,0,3.6,3.6,0.12,-0.6,-0.6,shooting
-ESP-La Liga,2023,Real Sociedad,Unai Marrero,ESP,GK,21,2001,1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Sociedad,Urko González,ESP,MF,22,2001,1.7,0,2,0,0.0,1.15,0.0,0.0,,17.1,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Real Sociedad,Álex Remiro,ESP,GK,28,1995,36.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Real Sociedad,Álvaro Odriozola,ESP,DF,27,1995,4.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Adnan Januzaj,BEL,"FW,MF",28,1995,2.1,0,6,1,16.7,2.8,0.47,0.0,0.0,16.8,0,0,0,0.6,0.6,0.1,-0.6,-0.6,shooting
-ESP-La Liga,2023,Sevilla,Adrià Pedrosa,ESP,DF,25,1998,19.5,1,16,4,25.0,0.82,0.21,0.06,0.25,22.0,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
-ESP-La Liga,2023,Sevilla,Alejo Véliz,ARG,FW,19,2003,0.4,0,2,2,100.0,5.14,5.14,0.0,0.0,10.1,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
-ESP-La Liga,2023,Sevilla,Boubakary Soumaré,FRA,MF,24,1999,25.4,0,1,0,0.0,0.04,0.0,0.0,,19.6,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Diego Iturralde,ESP,DF,20,2003,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Djibril Sow,SUI,MF,26,1997,16.2,1,18,5,27.8,1.11,0.31,0.06,0.2,17.7,0,0,0,1.5,1.5,0.08,-0.5,-0.5,shooting
-ESP-La Liga,2023,Sevilla,Dodi Lukebakio,BEL,"FW,MF",25,1997,12.5,5,42,17,40.5,3.36,1.36,0.12,0.29,14.4,1,0,0,5.6,5.6,0.13,-0.6,-0.6,shooting
-ESP-La Liga,2023,Sevilla,Federico Gattoni,ARG,"DF,FW",24,1999,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Fernando,BRA,MF,36,1987,5.1,0,1,0,0.0,0.2,0.0,0.0,,16.2,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Hannibal Mejbri,TUN,MF,20,2003,1.2,0,1,0,0.0,0.87,0.0,0.0,,24.9,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Isaac Romero,ESP,FW,23,2000,11.5,4,42,17,40.5,3.64,1.47,0.1,0.24,14.8,0,0,0,7.3,7.3,0.17,-3.3,-3.3,shooting
-ESP-La Liga,2023,Sevilla,Ivan Rakitić,CRO,MF,35,1988,15.8,2,32,7,21.9,2.02,0.44,0.06,0.29,26.9,3,0,0,1.3,1.3,0.04,0.7,0.7,shooting
-ESP-La Liga,2023,Sevilla,Jesús Corona,MEX,"MF,DF",30,1993,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Jesús Navas,ESP,DF,37,1985,22.3,0,7,2,28.6,0.31,0.09,0.0,0.0,25.0,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
-ESP-La Liga,2023,Sevilla,Joan Jordán,ESP,MF,29,1994,4.2,0,6,1,16.7,1.42,0.24,0.0,0.0,21.9,1,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
-ESP-La Liga,2023,Sevilla,Juanlu Sánchez,ESP,DF,19,2003,13.1,0,11,2,18.2,0.84,0.15,0.0,0.0,20.5,0,0,0,0.9,0.9,0.08,-0.9,-0.9,shooting
-ESP-La Liga,2023,Sevilla,Kike Salas,ESP,DF,21,2002,17.8,3,16,5,31.3,0.9,0.28,0.19,0.6,12.0,0,0,0,0.8,0.8,0.05,2.2,2.2,shooting
-ESP-La Liga,2023,Sevilla,Loïc Bade,FRA,DF,23,2000,25.3,0,14,3,21.4,0.55,0.12,0.0,0.0,12.7,0,0,0,0.9,0.9,0.06,-0.9,-0.9,shooting
-ESP-La Liga,2023,Sevilla,Lucas Ocampos,ARG,"FW,MF",29,1994,31.9,4,63,23,36.5,1.97,0.72,0.05,0.13,16.9,0,1,1,5.4,4.6,0.07,-1.4,-1.6,shooting
-ESP-La Liga,2023,Sevilla,Lucien Agoume,FRA,MF,21,2002,8.6,0,6,2,33.3,0.69,0.23,0.0,0.0,13.2,0,0,0,0.9,0.9,0.14,-0.9,-0.9,shooting
-ESP-La Liga,2023,Sevilla,Manu Bueno,ESP,MF,19,2004,1.3,0,1,0,0.0,0.77,0.0,0.0,,31.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Marcos Acuña,ARG,DF,31,1991,14.4,1,9,4,44.4,0.63,0.28,0.11,0.25,27.9,0,0,0,0.3,0.3,0.03,0.7,0.7,shooting
-ESP-La Liga,2023,Sevilla,Marcão,BRA,DF,27,1996,3.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Mariano,DOM,"FW,MF",29,1993,2.7,0,14,2,14.3,5.16,0.74,0.0,0.0,14.7,0,0,0,1.2,1.2,0.09,-1.2,-1.2,shooting
-ESP-La Liga,2023,Sevilla,Marko Dmitrović,SRB,GK,31,1992,13.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Nemanja Gudelj,SRB,"DF,MF",31,1991,19.4,1,19,3,15.8,0.98,0.15,0.05,0.33,24.1,4,0,0,0.8,0.8,0.04,0.2,0.2,shooting
-ESP-La Liga,2023,Sevilla,Rafa Mir,ESP,"FW,MF",26,1997,4.3,2,15,7,46.7,3.45,1.61,0.13,0.29,16.9,0,0,0,1.4,1.4,0.1,0.6,0.6,shooting
-ESP-La Liga,2023,Sevilla,Sergio Ramos,ESP,DF,37,1986,28.0,3,28,11,39.3,1.0,0.39,0.11,0.27,18.9,5,0,0,1.9,1.9,0.07,1.1,1.1,shooting
-ESP-La Liga,2023,Sevilla,Suso,ESP,"MF,FW",29,1993,16.9,1,26,6,23.1,1.54,0.36,0.04,0.17,24.3,1,0,0,1.4,1.4,0.05,-0.4,-0.4,shooting
-ESP-La Liga,2023,Sevilla,Tanguy Nianzou,FRA,DF,21,2002,3.5,0,1,0,0.0,0.28,0.0,0.0,,12.9,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Yassine Bounou,MAR,GK,32,1991,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Sevilla,Youssef En-Nesyri,MAR,FW,26,1997,28.6,16,72,29,40.3,2.52,1.02,0.21,0.52,12.1,0,1,1,10.8,10.0,0.14,5.2,5.0,shooting
-ESP-La Liga,2023,Sevilla,Érik Lamela,ARG,"FW,MF",31,1992,5.1,2,9,4,44.4,1.75,0.78,0.22,0.5,14.2,0,0,0,1.0,1.0,0.11,1.0,1.0,shooting
-ESP-La Liga,2023,Sevilla,Óliver Torres,ESP,MF,28,1994,18.0,0,9,3,33.3,0.5,0.17,0.0,0.0,20.4,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
-ESP-La Liga,2023,Sevilla,Ørjan Nyland,NOR,GK,32,1990,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Alberto Marí,ESP,FW,22,2001,3.1,1,6,2,33.3,1.96,0.65,0.0,0.0,11.4,0,1,1,1.8,1.2,0.2,-0.8,-1.2,shooting
-ESP-La Liga,2023,Valencia,Cenk Özkacar,TUR,DF,22,2000,17.8,0,6,3,50.0,0.34,0.17,0.0,0.0,14.3,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
-ESP-La Liga,2023,Valencia,Cristhian Mosquera,ESP,DF,19,2004,34.2,0,9,2,22.2,0.26,0.06,0.0,0.0,14.3,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
-ESP-La Liga,2023,Valencia,Cristian,ESP,GK,25,1998,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,César Tárrega,ESP,DF,21,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Diego López,ESP,"MF,FW",21,2002,29.5,3,41,15,36.6,1.39,0.51,0.07,0.2,15.4,0,0,0,3.7,3.7,0.09,-0.7,-0.7,shooting
-ESP-La Liga,2023,Valencia,Dimitri Foulquier,FRA,"DF,MF",30,1993,20.5,0,7,1,14.3,0.34,0.05,0.0,0.0,16.9,0,0,0,0.6,0.6,0.09,-0.6,-0.6,shooting
-ESP-La Liga,2023,Valencia,Domingos André Ribeiro Almeida,POR,"FW,MF",23,2000,10.7,2,10,4,40.0,0.93,0.37,0.2,0.5,19.3,0,0,0,0.6,0.6,0.06,1.4,1.4,shooting
-ESP-La Liga,2023,Valencia,Francisco Perez,ESP,"MF,FW",20,2002,22.8,1,20,2,10.0,0.88,0.09,0.05,0.5,18.4,0,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
-ESP-La Liga,2023,Valencia,Gabriel Paulista,BRA,DF,32,1990,15.5,0,7,0,0.0,0.45,0.0,0.0,,13.3,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
-ESP-La Liga,2023,Valencia,Giorgi Mamardashvili,GEO,GK,22,2000,36.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Hugo Duro,ESP,FW,23,1999,33.1,13,66,29,43.9,2.0,0.88,0.2,0.45,12.9,2,0,0,11.5,11.5,0.17,1.5,1.5,shooting
-ESP-La Liga,2023,Valencia,Hugo González,ESP,"MF,FW",20,2003,1.0,0,1,0,0.0,1.03,0.0,0.0,,29.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Hugo Guillamón,ESP,MF,23,2000,14.6,1,3,2,66.7,0.21,0.14,0.33,0.5,18.3,0,0,0,0.2,0.2,0.07,0.8,0.8,shooting
-ESP-La Liga,2023,Valencia,Jaume Doménech,ESP,GK,32,1990,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Javier Guerra,ESP,MF,20,2003,27.8,4,42,14,33.3,1.51,0.5,0.1,0.29,24.3,1,0,0,2.7,2.7,0.06,1.3,1.3,shooting
-ESP-La Liga,2023,Valencia,Jesus Vazquez,ESP,"DF,MF",20,2003,8.0,1,7,2,28.6,0.88,0.25,0.14,0.5,14.1,0,0,0,1.2,1.2,0.17,-0.2,-0.2,shooting
-ESP-La Liga,2023,Valencia,José Luis García Vayá,ESP,MF,24,1998,36.7,7,27,5,18.5,0.74,0.14,0.0,0.0,33.8,12,7,8,7.3,1.0,0.04,-0.3,-1.0,shooting
-ESP-La Liga,2023,Valencia,José Luis Gayà,ESP,DF,28,1995,19.9,1,10,1,10.0,0.5,0.05,0.1,1.0,20.1,1,0,0,0.5,0.5,0.05,0.5,0.5,shooting
-ESP-La Liga,2023,Valencia,Mario Dominguez,ESP,FW,19,2004,0.3,0,3,1,33.3,10.8,3.6,0.0,0.0,17.3,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
-ESP-La Liga,2023,Valencia,Mouctar Diakhaby,GUI,"DF,MF",26,1996,11.9,1,7,3,42.9,0.59,0.25,0.14,0.33,13.9,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
-ESP-La Liga,2023,Valencia,Pablo Gozalbez,ESP,"MF,FW",22,2001,1.1,0,1,0,0.0,0.87,0.0,0.0,,30.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Peter González,DOM,"MF,FW",21,2002,7.2,0,17,5,29.4,2.36,0.69,0.0,0.0,19.3,0,0,0,1.7,1.7,0.1,-1.7,-1.7,shooting
-ESP-La Liga,2023,Valencia,Roman Yaremchuk,UKR,FW,27,1995,10.3,3,18,9,50.0,1.75,0.87,0.17,0.33,12.3,0,0,0,4.6,4.6,0.26,-1.6,-1.6,shooting
-ESP-La Liga,2023,Valencia,Ruben Lendinez,ESP,DF,20,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Valencia,Selim Amallah,MAR,"FW,MF",26,1996,6.7,0,11,4,36.4,1.64,0.6,0.0,0.0,21.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
-ESP-La Liga,2023,Valencia,Sergi Canós,ESP,"MF,FW",26,1997,13.7,1,43,17,39.5,3.15,1.24,0.02,0.06,21.4,0,0,0,2.8,2.8,0.07,-1.8,-1.8,shooting
-ESP-La Liga,2023,Valencia,Thierry Correia,POR,DF,24,1999,23.9,0,5,2,40.0,0.21,0.08,0.0,0.0,20.9,0,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
-ESP-La Liga,2023,Valencia,Yarek Gasiorowski,ESP,DF,18,2005,8.2,0,1,0,0.0,0.12,0.0,0.0,,15.9,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Adrià Altimira,ESP,"DF,MF",22,2001,8.6,0,1,0,0.0,0.12,0.0,0.0,,27.2,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Alberto Moreno,ESP,DF,31,1992,16.5,2,17,5,29.4,1.03,0.3,0.12,0.4,19.8,0,0,0,0.7,0.7,0.04,1.3,1.3,shooting
-ESP-La Liga,2023,Villarreal,Alex Baena,ESP,"MF,FW",22,2001,28.7,2,72,25,34.7,2.51,0.87,0.03,0.08,20.8,5,0,1,7.9,7.1,0.1,-5.9,-5.1,shooting
-ESP-La Liga,2023,Villarreal,Alexander Sørloth,NOR,FW,27,1995,27.7,23,78,36,46.2,2.82,1.3,0.29,0.64,12.1,0,0,0,12.3,12.3,0.16,10.7,10.7,shooting
-ESP-La Liga,2023,Villarreal,Alfonso Pedraza,ESP,DF,27,1996,12.4,1,9,4,44.4,0.73,0.32,0.11,0.25,16.5,0,0,0,0.6,0.6,0.07,0.4,0.4,shooting
-ESP-La Liga,2023,Villarreal,Aïssa Mandi,ALG,DF,31,1991,12.4,1,4,2,50.0,0.32,0.16,0.25,0.5,12.8,0,0,0,0.6,0.6,0.16,0.4,0.4,shooting
-ESP-La Liga,2023,Villarreal,Ben Brereton,CHI,"FW,MF",24,1999,3.0,0,5,1,20.0,1.67,0.33,0.0,0.0,18.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
-ESP-La Liga,2023,Villarreal,Bertrand Traoré,BFA,MF,27,1995,6.3,1,20,7,35.0,3.17,1.11,0.05,0.14,19.4,0,0,0,0.9,0.9,0.05,0.1,0.1,shooting
-ESP-La Liga,2023,Villarreal,Carlos Romero,ESP,DF,21,2001,2.9,0,2,1,50.0,0.69,0.34,0.0,0.0,11.1,0,0,0,0.4,0.4,0.2,-0.4,-0.4,shooting
-ESP-La Liga,2023,Villarreal,Daniel Parejo,ESP,MF,34,1989,28.7,3,9,3,33.3,0.31,0.1,0.0,0.0,27.1,2,3,3,2.9,0.6,0.06,0.1,-0.6,shooting
-ESP-La Liga,2023,Villarreal,Denis Suárez,ESP,"MF,FW",29,1994,1.5,0,1,0,0.0,0.68,0.0,0.0,,11.5,0,0,0,0.1,0.1,0.09,-0.1,-0.1,shooting
-ESP-La Liga,2023,Villarreal,Eric Bailly,CIV,DF,29,1994,9.3,0,2,0,0.0,0.21,0.0,0.0,,9.7,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
-ESP-La Liga,2023,Villarreal,Filip Jørgensen,DEN,GK,21,2002,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Francis Coquelin,FRA,MF,32,1991,10.1,0,3,0,0.0,0.3,0.0,0.0,,16.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
-ESP-La Liga,2023,Villarreal,Gerard Moreno,ESP,FW,31,1992,24.6,10,60,18,30.0,2.44,0.73,0.13,0.44,15.3,0,2,3,9.7,7.3,0.12,0.3,0.7,shooting
-ESP-La Liga,2023,Villarreal,Gonçalo Guedes,POR,"FW,MF",26,1996,10.6,3,26,8,30.8,2.46,0.76,0.12,0.38,19.6,0,0,0,2.3,2.3,0.09,0.7,0.7,shooting
-ESP-La Liga,2023,Villarreal,Ilias Akhomach,MAR,"MF,FW",19,2004,16.8,2,30,7,23.3,1.79,0.42,0.07,0.29,18.1,0,0,0,3.2,3.2,0.11,-1.2,-1.2,shooting
-ESP-La Liga,2023,Villarreal,Jorge Cuenca,ESP,DF,23,1999,21.8,3,20,7,35.0,0.92,0.32,0.15,0.43,11.7,0,0,0,1.2,1.2,0.06,1.8,1.8,shooting
-ESP-La Liga,2023,Villarreal,José Luis Morales,ESP,"FW,MF",36,1987,11.6,7,26,12,46.2,2.23,1.03,0.27,0.58,13.3,0,0,0,5.6,5.6,0.21,1.4,1.4,shooting
-ESP-La Liga,2023,Villarreal,Juan Foyth,ARG,DF,25,1998,11.8,1,6,2,33.3,0.51,0.17,0.17,0.5,12.8,0,0,0,0.4,0.4,0.07,0.6,0.6,shooting
-ESP-La Liga,2023,Villarreal,Kiko Femenía,ESP,DF,32,1991,17.6,0,1,0,0.0,0.06,0.0,0.0,,51.1,1,0,0,0.0,0.0,0.01,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Manu Trigueros,ESP,MF,31,1991,3.4,0,6,3,50.0,1.75,0.87,0.0,0.0,20.5,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
-ESP-La Liga,2023,Villarreal,Matteo Gabbia,ITA,DF,23,1999,5.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Pascu,ESP,FW,20,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Pepe Reina,ESP,GK,40,1982,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Ramón Terrats,ESP,"MF,DF",22,2000,8.7,0,8,1,12.5,0.92,0.11,0.0,0.0,21.2,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
-ESP-La Liga,2023,Villarreal,Raúl Albiol,ESP,DF,37,1985,22.6,0,6,1,16.7,0.27,0.04,0.0,0.0,9.5,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
-ESP-La Liga,2023,Villarreal,Santi Comesaña,ESP,MF,26,1996,18.4,2,17,7,41.2,0.93,0.38,0.12,0.29,13.0,0,0,0,1.9,1.9,0.11,0.1,0.1,shooting
-ESP-La Liga,2023,Villarreal,Stefan Lekovic,SRB,DF,19,2004,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
-ESP-La Liga,2023,Villarreal,Yeremi Pino,ESP,"MF,FW",20,2002,5.3,0,9,4,44.4,1.71,0.76,0.0,0.0,12.5,0,0,0,1.4,1.4,0.16,-1.4,-1.4,shooting
-ESP-La Liga,2023,Villarreal,Yerson Mosquera,COL,DF,22,2001,13.7,2,10,4,40.0,0.73,0.29,0.2,0.5,8.4,0,0,0,1.6,1.6,0.16,0.4,0.4,shooting
-ESP-La Liga,2023,Villarreal,Étienne Capoue,FRA,MF,35,1988,16.2,1,14,5,35.7,0.87,0.31,0.07,0.2,15.0,0,0,0,1.0,1.0,0.07,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,Moi Gómez,ESP,"MF,FW",29.0,1994.0,22.3,3,19,7,36.8,0.85,0.31,0.16,0.43,21.3,1,0,0,1.7,1.7,0.09,1.3,1.3,shooting
+ESP-La Liga,2023,Osasuna,Nacho Vidal,ESP,"DF,FW",28.0,1995.0,1.1,1,3,1,33.3,2.81,0.94,0.33,1.0,12.4,0,0,0,0.3,0.3,0.1,0.7,0.7,shooting
+ESP-La Liga,2023,Osasuna,Pablo Ibáñez,ESP,MF,24.0,1998.0,12.8,1,27,7,25.9,2.11,0.55,0.04,0.14,18.1,0,0,0,2.3,2.3,0.08,-1.3,-1.3,shooting
+ESP-La Liga,2023,Osasuna,Raúl,ESP,FW,22.0,2000.0,15.1,6,33,12,36.4,2.19,0.8,0.18,0.5,11.6,0,0,0,4.9,4.9,0.15,1.1,1.1,shooting
+ESP-La Liga,2023,Osasuna,Rubén García,ESP,"FW,MF",30.0,1993.0,17.2,3,28,10,35.7,1.63,0.58,0.11,0.3,18.0,3,0,0,2.3,2.3,0.08,0.7,0.7,shooting
+ESP-La Liga,2023,Osasuna,Rubén Peña,ESP,"DF,FW",32.0,1991.0,23.2,0,17,5,29.4,0.73,0.22,0.0,0.0,21.0,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
+ESP-La Liga,2023,Osasuna,Sergio Herrera,ESP,GK,30.0,1993.0,31.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Osasuna,Unai García,ESP,DF,31.0,1992.0,6.2,1,2,1,50.0,0.32,0.16,0.5,1.0,14.4,0,0,0,0.1,0.1,0.06,0.9,0.9,shooting
+ESP-La Liga,2023,Osasuna,Xabier Huarte Armendáriz,ESP,MF,22.0,2001.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Abdul Mumin,GHA,DF,25.0,1998.0,18.8,1,6,1,16.7,0.32,0.05,0.17,1.0,15.9,0,0,0,0.4,0.4,0.06,0.6,0.6,shooting
+ESP-La Liga,2023,Rayo Vallecano,Alfonso Espino,URU,DF,31.0,1992.0,27.9,0,18,5,27.8,0.65,0.18,0.0,0.0,22.2,0,0,0,1.0,1.0,0.06,-1.0,-1.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Andrei Ratiu,ROU,"DF,MF",25.0,1998.0,7.0,0,6,1,16.7,0.86,0.14,0.0,0.0,16.5,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ESP-La Liga,2023,Rayo Vallecano,Aridane Hernández,ESP,DF,34.0,1989.0,18.8,0,5,0,0.0,0.27,0.0,0.0,,16.0,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+ESP-La Liga,2023,Rayo Vallecano,Bebé,CPV,"MF,FW",33.0,1990.0,2.4,2,15,4,26.7,6.37,1.7,0.07,0.25,30.2,3,1,1,1.4,0.7,0.04,0.6,0.3,shooting
+ESP-La Liga,2023,Rayo Vallecano,Crespo,POR,MF,26.0,1996.0,5.9,0,3,0,0.0,0.51,0.0,0.0,,17.7,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Rayo Vallecano,Cárdenas,ESP,GK,26.0,1997.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Diego Méndez,ESP,MF,19.0,2003.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Florian Lejeune,FRA,DF,32.0,1991.0,37.0,3,67,21,31.3,1.81,0.57,0.04,0.14,27.9,32,0,0,3.3,3.3,0.05,-0.3,-0.3,shooting
+ESP-La Liga,2023,Rayo Vallecano,Isaac Palazón Camacho,ESP,"MF,FW",28.0,1994.0,31.0,4,70,31,44.3,2.26,1.0,0.03,0.06,22.5,5,2,2,5.9,4.4,0.06,-1.9,-2.4,shooting
+ESP-La Liga,2023,Rayo Vallecano,Iván Balliu,ALB,DF,31.0,1992.0,31.9,0,11,4,36.4,0.34,0.13,0.0,0.0,18.9,0,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
+ESP-La Liga,2023,Rayo Vallecano,Jorge de Frutos,ESP,"FW,MF",26.0,1997.0,17.2,2,29,11,37.9,1.68,0.64,0.07,0.18,17.8,0,0,0,2.6,2.6,0.09,-0.6,-0.6,shooting
+ESP-La Liga,2023,Rayo Vallecano,José Pozo,ESP,MF,27.0,1996.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Kike Pérez,ESP,"MF,FW",26.0,1997.0,9.3,1,13,5,38.5,1.4,0.54,0.08,0.2,18.7,1,0,0,1.9,1.9,0.14,-0.9,-0.9,shooting
+ESP-La Liga,2023,Rayo Vallecano,Pathé Ciss,SEN,MF,29.0,1994.0,18.5,1,22,8,36.4,1.19,0.43,0.05,0.13,23.6,0,0,0,1.5,1.5,0.07,-0.5,-0.5,shooting
+ESP-La Liga,2023,Rayo Vallecano,Pep Chavarría,ESP,"DF,MF",25.0,1998.0,13.0,1,11,2,18.2,0.85,0.15,0.09,0.5,18.3,0,0,0,1.0,1.0,0.09,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Radamel Falcao,COL,"FW,DF",37.0,1986.0,4.5,1,16,6,37.5,3.54,1.33,0.0,0.0,14.5,0,1,1,2.7,2.0,0.12,-1.7,-2.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Randy Nteka,ANG,"FW,MF",25.0,1997.0,6.4,1,14,5,35.7,2.2,0.79,0.0,0.0,15.9,0,1,1,2.3,1.5,0.11,-1.3,-1.5,shooting
+ESP-La Liga,2023,Rayo Vallecano,Raúl de Tomás,ESP,FW,28.0,1994.0,14.1,1,38,11,28.9,2.69,0.78,0.0,0.0,18.5,3,1,1,3.4,2.6,0.07,-2.4,-2.6,shooting
+ESP-La Liga,2023,Rayo Vallecano,Salvi,ESP,MF,32.0,1991.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Sergio Camello,ESP,FW,22.0,2001.0,18.5,3,33,13,39.4,1.79,0.7,0.09,0.23,15.6,0,0,0,4.5,4.5,0.14,-1.5,-1.5,shooting
+ESP-La Liga,2023,Rayo Vallecano,Stole Dimitrievski,MKD,GK,29.0,1993.0,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Rayo Vallecano,Unai López,ESP,MF,27.0,1995.0,23.4,1,32,5,15.6,1.37,0.21,0.03,0.2,28.0,3,0,0,1.1,1.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Rayo Vallecano,Álvaro García,ESP,"FW,MF",30.0,1992.0,27.5,6,45,17,37.8,1.64,0.62,0.13,0.35,16.0,0,0,0,6.2,6.2,0.14,-0.2,-0.2,shooting
+ESP-La Liga,2023,Rayo Vallecano,Óscar Trejo,ARG,"FW,MF",35.0,1988.0,15.3,0,18,3,16.7,1.17,0.2,0.0,0.0,19.6,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
+ESP-La Liga,2023,Rayo Vallecano,Óscar Valentín,ESP,MF,28.0,1994.0,29.9,1,15,7,46.7,0.5,0.23,0.07,0.14,12.7,0,0,0,1.7,1.7,0.11,-0.7,-0.7,shooting
+ESP-La Liga,2023,Real Madrid,Andriy Lunin,UKR,GK,24.0,1999.0,21.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Antonio Rüdiger,GER,DF,30.0,1993.0,30.1,1,19,2,10.5,0.63,0.07,0.05,0.5,16.0,0,0,0,1.5,1.5,0.08,-0.5,-0.5,shooting
+ESP-La Liga,2023,Real Madrid,Arda Güler,TUR,"FW,MF",18.0,2005.0,4.2,6,15,6,40.0,3.58,1.43,0.4,1.0,21.9,1,0,0,1.4,1.4,0.1,4.6,4.6,shooting
+ESP-La Liga,2023,Real Madrid,Aurélien Tchouaméni,FRA,"MF,DF",23.0,2000.0,22.1,3,27,7,25.9,1.22,0.32,0.11,0.43,22.2,0,0,0,1.3,1.3,0.05,1.7,1.7,shooting
+ESP-La Liga,2023,Real Madrid,Brahim Díaz,MAR,"FW,MF",23.0,1999.0,17.2,8,38,17,44.7,2.21,0.99,0.21,0.47,16.0,0,0,0,5.7,5.7,0.15,2.3,2.3,shooting
+ESP-La Liga,2023,Real Madrid,Dani Carvajal,ESP,DF,31.0,1992.0,24.1,4,18,10,55.6,0.75,0.41,0.22,0.4,14.3,0,0,0,1.7,1.7,0.1,2.3,2.3,shooting
+ESP-La Liga,2023,Real Madrid,Dani Ceballos,ESP,"MF,FW",26.0,1996.0,6.6,0,7,1,14.3,1.05,0.15,0.0,0.0,18.4,1,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ESP-La Liga,2023,Real Madrid,David Alaba,AUT,DF,31.0,1992.0,12.8,0,14,3,21.4,1.09,0.23,0.0,0.0,19.8,6,0,0,1.0,1.0,0.07,-1.0,-1.0,shooting
+ESP-La Liga,2023,Real Madrid,Eduardo Camavinga,FRA,"MF,DF",20.0,2002.0,20.2,0,17,7,41.2,0.84,0.35,0.0,0.0,22.7,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
+ESP-La Liga,2023,Real Madrid,Federico Valverde,URU,MF,25.0,1998.0,32.3,2,56,18,32.1,1.74,0.56,0.04,0.11,23.0,1,0,0,3.5,3.5,0.06,-1.5,-1.5,shooting
+ESP-La Liga,2023,Real Madrid,Ferland Mendy,FRA,DF,28.0,1995.0,19.1,0,5,1,20.0,0.26,0.05,0.0,0.0,19.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Real Madrid,Fran Garcia,ESP,DF,23.0,1999.0,15.5,1,9,1,11.1,0.58,0.06,0.11,1.0,20.9,0,0,0,0.5,0.5,0.06,0.5,0.5,shooting
+ESP-La Liga,2023,Real Madrid,Gonzalo García,ESP,"FW,MF",19.0,2004.0,0.2,0,1,1,100.0,4.74,4.74,0.0,0.0,19.1,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Joselu,ESP,FW,33.0,1990.0,18.7,10,61,28,45.9,3.25,1.49,0.16,0.36,12.8,0,0,2,11.6,10.0,0.16,-1.6,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Jude Bellingham,ENG,MF,20.0,2003.0,25.7,19,62,34,54.8,2.41,1.32,0.29,0.53,14.8,0,1,1,11.1,10.3,0.17,7.9,7.7,shooting
+ESP-La Liga,2023,Real Madrid,Kepa Arrizabalaga,ESP,GK,28.0,1994.0,13.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Lucas Vázquez,ESP,DF,32.0,1991.0,15.8,3,12,7,58.3,0.76,0.44,0.25,0.43,13.4,0,0,0,1.2,1.1,0.09,1.8,1.9,shooting
+ESP-La Liga,2023,Real Madrid,Luka Modrić,CRO,MF,37.0,1985.0,18.8,2,25,10,40.0,1.33,0.53,0.08,0.2,21.9,1,0,0,1.3,1.3,0.05,0.7,0.7,shooting
+ESP-La Liga,2023,Real Madrid,Mario Martín,ESP,MF,19.0,2004.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Nacho,ESP,DF,33.0,1990.0,19.4,0,5,1,20.0,0.26,0.05,0.0,0.0,11.7,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+ESP-La Liga,2023,Real Madrid,Nicolás Paz,ARG,"MF,FW",18.0,2004.0,0.3,0,2,0,0.0,7.83,0.0,0.0,,26.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Real Madrid,Rodrygo,BRA,FW,22.0,2001.0,26.4,10,86,35,40.7,3.25,1.32,0.12,0.29,15.2,4,0,1,11.7,10.9,0.13,-1.7,-0.9,shooting
+ESP-La Liga,2023,Real Madrid,Thibaut Courtois,BEL,GK,31.0,1992.0,3.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Toni Kroos,GER,MF,33.0,1990.0,23.6,1,35,13,37.1,1.48,0.55,0.03,0.08,25.2,10,0,0,1.6,1.6,0.05,-0.6,-0.6,shooting
+ESP-La Liga,2023,Real Madrid,Vinicius Júnior,BRA,FW,23.0,2000.0,20.7,15,77,38,49.4,3.72,1.83,0.18,0.37,14.6,0,1,1,13.1,12.3,0.16,1.9,1.7,shooting
+ESP-La Liga,2023,Real Madrid,Álvaro Rodríguez,URU,FW,19.0,2004.0,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Madrid,Éder Militão,BRA,DF,25.0,1998.0,5.5,0,2,2,100.0,0.36,0.36,0.0,0.0,22.4,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+ESP-La Liga,2023,Real Sociedad,Aihen Muñoz,ESP,DF,25.0,1997.0,12.5,0,7,2,28.6,0.56,0.16,0.0,0.0,24.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Real Sociedad,Alberto Dadie,ESP,MF,21.0,2002.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Sociedad,Alex Sola,ESP,"DF,MF",24.0,1999.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Sociedad,Ander Barrenetxea,ESP,"FW,MF",21.0,2001.0,15.9,4,37,12,32.4,2.33,0.76,0.11,0.33,17.7,1,0,0,3.5,3.5,0.1,0.5,0.5,shooting
+ESP-La Liga,2023,Real Sociedad,André Silva,POR,FW,27.0,1995.0,8.1,3,15,5,33.3,1.85,0.62,0.13,0.4,19.1,1,1,1,3.3,2.5,0.17,-0.3,-0.5,shooting
+ESP-La Liga,2023,Real Sociedad,Aritz Elustondo,ESP,DF,29.0,1994.0,9.0,0,7,2,28.6,0.78,0.22,0.0,0.0,11.0,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Real Sociedad,Arsen Zakharyan,RUS,"MF,FW",20.0,2003.0,13.6,1,33,9,27.3,2.42,0.66,0.03,0.11,21.6,6,0,0,2.4,2.4,0.07,-1.4,-1.4,shooting
+ESP-La Liga,2023,Real Sociedad,Beñat Turrientes,ESP,MF,21.0,2002.0,18.7,0,23,10,43.5,1.23,0.53,0.0,0.0,24.6,1,0,0,1.2,1.2,0.05,-1.2,-1.2,shooting
+ESP-La Liga,2023,Real Sociedad,Brais Méndez,ESP,"MF,FW",26.0,1997.0,26.8,5,66,15,22.7,2.46,0.56,0.08,0.33,20.7,10,0,0,4.2,4.2,0.06,0.8,0.8,shooting
+ESP-La Liga,2023,Real Sociedad,Carlos Fernández,ESP,FW,27.0,1996.0,4.5,2,8,3,37.5,1.76,0.66,0.13,0.33,15.1,0,1,1,1.5,0.7,0.09,0.5,0.3,shooting
+ESP-La Liga,2023,Real Sociedad,Hamari Traoré,MLI,DF,31.0,1992.0,25.5,0,18,2,11.1,0.71,0.08,0.0,0.0,24.3,0,0,0,0.5,0.5,0.03,-0.5,-0.5,shooting
+ESP-La Liga,2023,Real Sociedad,Igor Zubeldia,ESP,DF,26.0,1997.0,28.0,0,12,0,0.0,0.43,0.0,0.0,,13.4,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+ESP-La Liga,2023,Real Sociedad,Javi Galán,ESP,DF,28.0,1994.0,11.9,0,3,1,33.3,0.25,0.08,0.0,0.0,20.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ESP-La Liga,2023,Real Sociedad,Jon Aramburu,VEN,DF,21.0,2002.0,6.0,0,4,0,0.0,0.66,0.0,0.0,,23.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Real Sociedad,Jon Magunazelaia,ESP,"FW,MF",23.0,2000.0,1.3,0,4,0,0.0,2.98,0.0,0.0,,15.5,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+ESP-La Liga,2023,Real Sociedad,Jon Martin,ESP,DF,17.0,2006.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Sociedad,Jon Pacheco,ESP,DF,22.0,2001.0,17.0,1,6,3,50.0,0.35,0.18,0.17,0.33,8.2,0,0,0,1.1,1.1,0.18,-0.1,-0.1,shooting
+ESP-La Liga,2023,Real Sociedad,Kieran Tierney,SCO,DF,26.0,1997.0,13.8,0,2,0,0.0,0.15,0.0,0.0,,12.2,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+ESP-La Liga,2023,Real Sociedad,Martín Zubimendi,ESP,MF,24.0,1999.0,29.5,4,22,11,50.0,0.75,0.37,0.18,0.36,14.8,0,0,0,2.7,2.7,0.12,1.3,1.3,shooting
+ESP-La Liga,2023,Real Sociedad,Mikel Merino,ESP,MF,27.0,1996.0,27.6,5,30,11,36.7,1.09,0.4,0.17,0.45,13.9,0,0,0,3.3,3.3,0.11,1.7,1.7,shooting
+ESP-La Liga,2023,Real Sociedad,Mikel Oyarzabal,ESP,"FW,MF",26.0,1997.0,24.0,9,38,16,42.1,1.59,0.67,0.18,0.44,15.2,3,2,2,9.1,7.5,0.2,-0.1,-0.5,shooting
+ESP-La Liga,2023,Real Sociedad,Mohamed Ali Cho,FRA,"FW,MF",19.0,2004.0,2.8,0,3,0,0.0,1.08,0.0,0.0,,17.4,0,0,0,0.4,0.4,0.13,-0.4,-0.4,shooting
+ESP-La Liga,2023,Real Sociedad,Olasagasti,ESP,MF,22.0,2000.0,4.0,0,9,0,0.0,2.25,0.0,0.0,,17.0,0,0,0,0.9,0.9,0.09,-0.9,-0.9,shooting
+ESP-La Liga,2023,Real Sociedad,Robin Le Normand,ESP,DF,26.0,1996.0,27.4,2,8,5,62.5,0.29,0.18,0.25,0.4,12.2,0,0,0,1.0,1.0,0.13,1.0,1.0,shooting
+ESP-La Liga,2023,Real Sociedad,Sheraldo Becker,SUR,"FW,MF",28.0,1995.0,8.6,2,21,9,42.9,2.45,1.05,0.1,0.22,17.1,0,0,0,1.4,1.4,0.07,0.6,0.6,shooting
+ESP-La Liga,2023,Real Sociedad,Takefusa Kubo,JPN,"FW,MF",22.0,2001.0,23.9,7,46,21,45.7,1.93,0.88,0.15,0.33,17.5,2,0,0,3.5,3.5,0.08,3.5,3.5,shooting
+ESP-La Liga,2023,Real Sociedad,Umar Sadiq,NGA,FW,26.0,1997.0,12.0,3,33,10,30.3,2.76,0.84,0.09,0.3,14.7,0,0,0,3.6,3.6,0.12,-0.6,-0.6,shooting
+ESP-La Liga,2023,Real Sociedad,Unai Marrero,ESP,GK,21.0,2001.0,1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Sociedad,Urko González,ESP,MF,22.0,2001.0,1.7,0,2,0,0.0,1.15,0.0,0.0,,17.1,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Real Sociedad,Álex Remiro,ESP,GK,28.0,1995.0,36.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Real Sociedad,Álvaro Odriozola,ESP,DF,27.0,1995.0,4.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Adnan Januzaj,BEL,"FW,MF",28.0,1995.0,2.1,0,6,1,16.7,2.8,0.47,0.0,0.0,16.8,0,0,0,0.6,0.6,0.1,-0.6,-0.6,shooting
+ESP-La Liga,2023,Sevilla,Adrià Pedrosa,ESP,DF,25.0,1998.0,19.5,1,16,4,25.0,0.82,0.21,0.06,0.25,22.0,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
+ESP-La Liga,2023,Sevilla,Alejo Véliz,ARG,FW,19.0,2003.0,0.4,0,2,2,100.0,5.14,5.14,0.0,0.0,10.1,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
+ESP-La Liga,2023,Sevilla,Boubakary Soumaré,FRA,MF,24.0,1999.0,25.4,0,1,0,0.0,0.04,0.0,0.0,,19.6,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Diego Iturralde,ESP,DF,20.0,2003.0,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Djibril Sow,SUI,MF,26.0,1997.0,16.2,1,18,5,27.8,1.11,0.31,0.06,0.2,17.7,0,0,0,1.5,1.5,0.08,-0.5,-0.5,shooting
+ESP-La Liga,2023,Sevilla,Dodi Lukebakio,BEL,"FW,MF",25.0,1997.0,12.5,5,42,17,40.5,3.36,1.36,0.12,0.29,14.4,1,0,0,5.6,5.6,0.13,-0.6,-0.6,shooting
+ESP-La Liga,2023,Sevilla,Federico Gattoni,ARG,"DF,FW",24.0,1999.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Fernando,BRA,MF,36.0,1987.0,5.1,0,1,0,0.0,0.2,0.0,0.0,,16.2,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Hannibal Mejbri,TUN,MF,20.0,2003.0,1.2,0,1,0,0.0,0.87,0.0,0.0,,24.9,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Isaac Romero,ESP,FW,23.0,2000.0,11.5,4,42,17,40.5,3.64,1.47,0.1,0.24,14.8,0,0,0,7.3,7.3,0.17,-3.3,-3.3,shooting
+ESP-La Liga,2023,Sevilla,Ivan Rakitić,CRO,MF,35.0,1988.0,15.8,2,32,7,21.9,2.02,0.44,0.06,0.29,26.9,3,0,0,1.3,1.3,0.04,0.7,0.7,shooting
+ESP-La Liga,2023,Sevilla,Jesús Corona,MEX,"MF,DF",30.0,1993.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Jesús Navas,ESP,DF,37.0,1985.0,22.3,0,7,2,28.6,0.31,0.09,0.0,0.0,25.0,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+ESP-La Liga,2023,Sevilla,Joan Jordán,ESP,MF,29.0,1994.0,4.2,0,6,1,16.7,1.42,0.24,0.0,0.0,21.9,1,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ESP-La Liga,2023,Sevilla,Juanlu Sánchez,ESP,DF,19.0,2003.0,13.1,0,11,2,18.2,0.84,0.15,0.0,0.0,20.5,0,0,0,0.9,0.9,0.08,-0.9,-0.9,shooting
+ESP-La Liga,2023,Sevilla,Kike Salas,ESP,DF,21.0,2002.0,17.8,3,16,5,31.3,0.9,0.28,0.19,0.6,12.0,0,0,0,0.8,0.8,0.05,2.2,2.2,shooting
+ESP-La Liga,2023,Sevilla,Loïc Bade,FRA,DF,23.0,2000.0,25.3,0,14,3,21.4,0.55,0.12,0.0,0.0,12.7,0,0,0,0.9,0.9,0.06,-0.9,-0.9,shooting
+ESP-La Liga,2023,Sevilla,Lucas Ocampos,ARG,"FW,MF",29.0,1994.0,31.9,4,63,23,36.5,1.97,0.72,0.05,0.13,16.9,0,1,1,5.4,4.6,0.07,-1.4,-1.6,shooting
+ESP-La Liga,2023,Sevilla,Lucien Agoume,FRA,MF,21.0,2002.0,8.6,0,6,2,33.3,0.69,0.23,0.0,0.0,13.2,0,0,0,0.9,0.9,0.14,-0.9,-0.9,shooting
+ESP-La Liga,2023,Sevilla,Manu Bueno,ESP,MF,19.0,2004.0,1.3,0,1,0,0.0,0.77,0.0,0.0,,31.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Marcos Acuña,ARG,DF,31.0,1991.0,14.4,1,9,4,44.4,0.63,0.28,0.11,0.25,27.9,0,0,0,0.3,0.3,0.03,0.7,0.7,shooting
+ESP-La Liga,2023,Sevilla,Marcão,BRA,DF,27.0,1996.0,3.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Mariano,DOM,"FW,MF",29.0,1993.0,2.7,0,14,2,14.3,5.16,0.74,0.0,0.0,14.7,0,0,0,1.2,1.2,0.09,-1.2,-1.2,shooting
+ESP-La Liga,2023,Sevilla,Marko Dmitrović,SRB,GK,31.0,1992.0,13.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Nemanja Gudelj,SRB,"DF,MF",31.0,1991.0,19.4,1,19,3,15.8,0.98,0.15,0.05,0.33,24.1,4,0,0,0.8,0.8,0.04,0.2,0.2,shooting
+ESP-La Liga,2023,Sevilla,Rafa Mir,ESP,"FW,MF",26.0,1997.0,4.3,2,15,7,46.7,3.45,1.61,0.13,0.29,16.9,0,0,0,1.4,1.4,0.1,0.6,0.6,shooting
+ESP-La Liga,2023,Sevilla,Sergio Ramos,ESP,DF,37.0,1986.0,28.0,3,28,11,39.3,1.0,0.39,0.11,0.27,18.9,5,0,0,1.9,1.9,0.07,1.1,1.1,shooting
+ESP-La Liga,2023,Sevilla,Suso,ESP,"MF,FW",29.0,1993.0,16.9,1,26,6,23.1,1.54,0.36,0.04,0.17,24.3,1,0,0,1.4,1.4,0.05,-0.4,-0.4,shooting
+ESP-La Liga,2023,Sevilla,Tanguy Nianzou,FRA,DF,21.0,2002.0,3.5,0,1,0,0.0,0.28,0.0,0.0,,12.9,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Yassine Bounou,MAR,GK,32.0,1991.0,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Sevilla,Youssef En-Nesyri,MAR,FW,26.0,1997.0,28.6,16,72,29,40.3,2.52,1.02,0.21,0.52,12.1,0,1,1,10.8,10.0,0.14,5.2,5.0,shooting
+ESP-La Liga,2023,Sevilla,Érik Lamela,ARG,"FW,MF",31.0,1992.0,5.1,2,9,4,44.4,1.75,0.78,0.22,0.5,14.2,0,0,0,1.0,1.0,0.11,1.0,1.0,shooting
+ESP-La Liga,2023,Sevilla,Óliver Torres,ESP,MF,28.0,1994.0,18.0,0,9,3,33.3,0.5,0.17,0.0,0.0,20.4,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+ESP-La Liga,2023,Sevilla,Ørjan Nyland,NOR,GK,32.0,1990.0,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Alberto Marí,ESP,FW,22.0,2001.0,3.1,1,6,2,33.3,1.96,0.65,0.0,0.0,11.4,0,1,1,1.8,1.2,0.2,-0.8,-1.2,shooting
+ESP-La Liga,2023,Valencia,Cenk Özkacar,TUR,DF,22.0,2000.0,17.8,0,6,3,50.0,0.34,0.17,0.0,0.0,14.3,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ESP-La Liga,2023,Valencia,Cristhian Mosquera,ESP,DF,19.0,2004.0,34.2,0,9,2,22.2,0.26,0.06,0.0,0.0,14.3,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+ESP-La Liga,2023,Valencia,Cristian,ESP,GK,25.0,1998.0,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,César Tárrega,ESP,DF,21.0,2002.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Diego López,ESP,"MF,FW",21.0,2002.0,29.5,3,41,15,36.6,1.39,0.51,0.07,0.2,15.4,0,0,0,3.7,3.7,0.09,-0.7,-0.7,shooting
+ESP-La Liga,2023,Valencia,Dimitri Foulquier,FRA,"DF,MF",30.0,1993.0,20.5,0,7,1,14.3,0.34,0.05,0.0,0.0,16.9,0,0,0,0.6,0.6,0.09,-0.6,-0.6,shooting
+ESP-La Liga,2023,Valencia,Domingos André Ribeiro Almeida,POR,"FW,MF",23.0,2000.0,10.7,2,10,4,40.0,0.93,0.37,0.2,0.5,19.3,0,0,0,0.6,0.6,0.06,1.4,1.4,shooting
+ESP-La Liga,2023,Valencia,Francisco Perez,ESP,"MF,FW",20.0,2002.0,22.8,1,20,2,10.0,0.88,0.09,0.05,0.5,18.4,0,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
+ESP-La Liga,2023,Valencia,Gabriel Paulista,BRA,DF,32.0,1990.0,15.5,0,7,0,0.0,0.45,0.0,0.0,,13.3,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+ESP-La Liga,2023,Valencia,Giorgi Mamardashvili,GEO,GK,22.0,2000.0,36.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Hugo Duro,ESP,FW,23.0,1999.0,33.1,13,66,29,43.9,2.0,0.88,0.2,0.45,12.9,2,0,0,11.5,11.5,0.17,1.5,1.5,shooting
+ESP-La Liga,2023,Valencia,Hugo González,ESP,"MF,FW",20.0,2003.0,1.0,0,1,0,0.0,1.03,0.0,0.0,,29.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Hugo Guillamón,ESP,MF,23.0,2000.0,14.6,1,3,2,66.7,0.21,0.14,0.33,0.5,18.3,0,0,0,0.2,0.2,0.07,0.8,0.8,shooting
+ESP-La Liga,2023,Valencia,Jaume Doménech,ESP,GK,32.0,1990.0,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Javier Guerra,ESP,MF,20.0,2003.0,27.8,4,42,14,33.3,1.51,0.5,0.1,0.29,24.3,1,0,0,2.7,2.7,0.06,1.3,1.3,shooting
+ESP-La Liga,2023,Valencia,Jesus Vazquez,ESP,"DF,MF",20.0,2003.0,8.0,1,7,2,28.6,0.88,0.25,0.14,0.5,14.1,0,0,0,1.2,1.2,0.17,-0.2,-0.2,shooting
+ESP-La Liga,2023,Valencia,José Luis García Vayá,ESP,MF,24.0,1998.0,36.7,7,27,5,18.5,0.74,0.14,0.0,0.0,33.8,12,7,8,7.3,1.0,0.04,-0.3,-1.0,shooting
+ESP-La Liga,2023,Valencia,José Luis Gayà,ESP,DF,28.0,1995.0,19.9,1,10,1,10.0,0.5,0.05,0.1,1.0,20.1,1,0,0,0.5,0.5,0.05,0.5,0.5,shooting
+ESP-La Liga,2023,Valencia,Mario Dominguez,ESP,FW,19.0,2004.0,0.3,0,3,1,33.3,10.8,3.6,0.0,0.0,17.3,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ESP-La Liga,2023,Valencia,Mouctar Diakhaby,GUI,"DF,MF",26.0,1996.0,11.9,1,7,3,42.9,0.59,0.25,0.14,0.33,13.9,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
+ESP-La Liga,2023,Valencia,Pablo Gozalbez,ESP,"MF,FW",22.0,2001.0,1.1,0,1,0,0.0,0.87,0.0,0.0,,30.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Peter González,DOM,"MF,FW",21.0,2002.0,7.2,0,17,5,29.4,2.36,0.69,0.0,0.0,19.3,0,0,0,1.7,1.7,0.1,-1.7,-1.7,shooting
+ESP-La Liga,2023,Valencia,Roman Yaremchuk,UKR,FW,27.0,1995.0,10.3,3,18,9,50.0,1.75,0.87,0.17,0.33,12.3,0,0,0,4.6,4.6,0.26,-1.6,-1.6,shooting
+ESP-La Liga,2023,Valencia,Ruben Lendinez,ESP,DF,20.0,2003.0,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Valencia,Selim Amallah,MAR,"FW,MF",26.0,1996.0,6.7,0,11,4,36.4,1.64,0.6,0.0,0.0,21.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ESP-La Liga,2023,Valencia,Sergi Canós,ESP,"MF,FW",26.0,1997.0,13.7,1,43,17,39.5,3.15,1.24,0.02,0.06,21.4,0,0,0,2.8,2.8,0.07,-1.8,-1.8,shooting
+ESP-La Liga,2023,Valencia,Thierry Correia,POR,DF,24.0,1999.0,23.9,0,5,2,40.0,0.21,0.08,0.0,0.0,20.9,0,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
+ESP-La Liga,2023,Valencia,Yarek Gasiorowski,ESP,DF,18.0,2005.0,8.2,0,1,0,0.0,0.12,0.0,0.0,,15.9,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Adrià Altimira,ESP,"DF,MF",22.0,2001.0,8.6,0,1,0,0.0,0.12,0.0,0.0,,27.2,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Alberto Moreno,ESP,DF,31.0,1992.0,16.5,2,17,5,29.4,1.03,0.3,0.12,0.4,19.8,0,0,0,0.7,0.7,0.04,1.3,1.3,shooting
+ESP-La Liga,2023,Villarreal,Alex Baena,ESP,"MF,FW",22.0,2001.0,28.7,2,72,25,34.7,2.51,0.87,0.03,0.08,20.8,5,0,1,7.9,7.1,0.1,-5.9,-5.1,shooting
+ESP-La Liga,2023,Villarreal,Alexander Sørloth,NOR,FW,27.0,1995.0,27.7,23,78,36,46.2,2.82,1.3,0.29,0.64,12.1,0,0,0,12.3,12.3,0.16,10.7,10.7,shooting
+ESP-La Liga,2023,Villarreal,Alfonso Pedraza,ESP,DF,27.0,1996.0,12.4,1,9,4,44.4,0.73,0.32,0.11,0.25,16.5,0,0,0,0.6,0.6,0.07,0.4,0.4,shooting
+ESP-La Liga,2023,Villarreal,Aïssa Mandi,ALG,DF,31.0,1991.0,12.4,1,4,2,50.0,0.32,0.16,0.25,0.5,12.8,0,0,0,0.6,0.6,0.16,0.4,0.4,shooting
+ESP-La Liga,2023,Villarreal,Ben Brereton,CHI,"FW,MF",24.0,1999.0,3.0,0,5,1,20.0,1.67,0.33,0.0,0.0,18.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ESP-La Liga,2023,Villarreal,Bertrand Traoré,BFA,MF,27.0,1995.0,6.3,1,20,7,35.0,3.17,1.11,0.05,0.14,19.4,0,0,0,0.9,0.9,0.05,0.1,0.1,shooting
+ESP-La Liga,2023,Villarreal,Carlos Romero,ESP,DF,21.0,2001.0,2.9,0,2,1,50.0,0.69,0.34,0.0,0.0,11.1,0,0,0,0.4,0.4,0.2,-0.4,-0.4,shooting
+ESP-La Liga,2023,Villarreal,Daniel Parejo,ESP,MF,34.0,1989.0,28.7,3,9,3,33.3,0.31,0.1,0.0,0.0,27.1,2,3,3,2.9,0.6,0.06,0.1,-0.6,shooting
+ESP-La Liga,2023,Villarreal,Denis Suárez,ESP,"MF,FW",29.0,1994.0,1.5,0,1,0,0.0,0.68,0.0,0.0,,11.5,0,0,0,0.1,0.1,0.09,-0.1,-0.1,shooting
+ESP-La Liga,2023,Villarreal,Eric Bailly,CIV,DF,29.0,1994.0,9.3,0,2,0,0.0,0.21,0.0,0.0,,9.7,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
+ESP-La Liga,2023,Villarreal,Filip Jørgensen,DEN,GK,21.0,2002.0,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Francis Coquelin,FRA,MF,32.0,1991.0,10.1,0,3,0,0.0,0.3,0.0,0.0,,16.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ESP-La Liga,2023,Villarreal,Gerard Moreno,ESP,FW,31.0,1992.0,24.6,10,60,18,30.0,2.44,0.73,0.13,0.44,15.3,0,2,3,9.7,7.3,0.12,0.3,0.7,shooting
+ESP-La Liga,2023,Villarreal,Gonçalo Guedes,POR,"FW,MF",26.0,1996.0,10.6,3,26,8,30.8,2.46,0.76,0.12,0.38,19.6,0,0,0,2.3,2.3,0.09,0.7,0.7,shooting
+ESP-La Liga,2023,Villarreal,Ilias Akhomach,MAR,"MF,FW",19.0,2004.0,16.8,2,30,7,23.3,1.79,0.42,0.07,0.29,18.1,0,0,0,3.2,3.2,0.11,-1.2,-1.2,shooting
+ESP-La Liga,2023,Villarreal,Jorge Cuenca,ESP,DF,23.0,1999.0,21.8,3,20,7,35.0,0.92,0.32,0.15,0.43,11.7,0,0,0,1.2,1.2,0.06,1.8,1.8,shooting
+ESP-La Liga,2023,Villarreal,José Luis Morales,ESP,"FW,MF",36.0,1987.0,11.6,7,26,12,46.2,2.23,1.03,0.27,0.58,13.3,0,0,0,5.6,5.6,0.21,1.4,1.4,shooting
+ESP-La Liga,2023,Villarreal,Juan Foyth,ARG,DF,25.0,1998.0,11.8,1,6,2,33.3,0.51,0.17,0.17,0.5,12.8,0,0,0,0.4,0.4,0.07,0.6,0.6,shooting
+ESP-La Liga,2023,Villarreal,Kiko Femenía,ESP,DF,32.0,1991.0,17.6,0,1,0,0.0,0.06,0.0,0.0,,51.1,1,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Manu Trigueros,ESP,MF,31.0,1991.0,3.4,0,6,3,50.0,1.75,0.87,0.0,0.0,20.5,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+ESP-La Liga,2023,Villarreal,Matteo Gabbia,ITA,DF,23.0,1999.0,5.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Pascu,ESP,FW,20.0,2003.0,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Pepe Reina,ESP,GK,40.0,1982.0,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Ramón Terrats,ESP,"MF,DF",22.0,2000.0,8.7,0,8,1,12.5,0.92,0.11,0.0,0.0,21.2,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+ESP-La Liga,2023,Villarreal,Raúl Albiol,ESP,DF,37.0,1985.0,22.6,0,6,1,16.7,0.27,0.04,0.0,0.0,9.5,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ESP-La Liga,2023,Villarreal,Santi Comesaña,ESP,MF,26.0,1996.0,18.4,2,17,7,41.2,0.93,0.38,0.12,0.29,13.0,0,0,0,1.9,1.9,0.11,0.1,0.1,shooting
+ESP-La Liga,2023,Villarreal,Stefan Lekovic,SRB,DF,19.0,2004.0,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ESP-La Liga,2023,Villarreal,Yeremi Pino,ESP,"MF,FW",20.0,2002.0,5.3,0,9,4,44.4,1.71,0.76,0.0,0.0,12.5,0,0,0,1.4,1.4,0.16,-1.4,-1.4,shooting
+ESP-La Liga,2023,Villarreal,Yerson Mosquera,COL,DF,22.0,2001.0,13.7,2,10,4,40.0,0.73,0.29,0.2,0.5,8.4,0,0,0,1.6,1.6,0.16,0.4,0.4,shooting
+ESP-La Liga,2023,Villarreal,Étienne Capoue,FRA,MF,35.0,1988.0,16.2,1,14,5,35.7,0.87,0.31,0.07,0.2,15.0,0,0,0,1.0,1.0,0.07,0.0,0.0,shooting

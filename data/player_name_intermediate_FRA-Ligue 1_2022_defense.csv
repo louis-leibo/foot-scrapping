@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-FRA-Ligue 1,2022,Ajaccio,Anthony Khelifa,ALG,DF,16,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 FRA-Ligue 1,2022,Ajaccio,Ben Hamed Touré,CIV,FW,18,2003,2.3,4,4,2,2,0,1,5,20.0,4,2,0,2,1,5,4,0,defense
 FRA-Ligue 1,2022,Ajaccio,Benjamin Leroy,FRA,GK,33,1989,31.1,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,16,2,defense
 FRA-Ligue 1,2022,Ajaccio,Bevic Moussiti-Oko,CGO,FW,27,1995,7.8,3,1,1,1,1,1,2,50.0,1,5,3,2,2,5,8,0,defense

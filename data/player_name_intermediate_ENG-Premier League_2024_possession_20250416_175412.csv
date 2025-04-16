@@ -1,561 +1,559 @@
-league,season,team,player,nation,pos,age,born,90s,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving,stat_type
-,,,,,,,,,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,
-ENG-Premier League,2024,Arsenal,Ben White,ENG,DF,27-185,1997,8.5,478,42,153,215,112,13,478,2,0,0.0,1,50.0,217,788,396,5,8,1,7,3,281,19,possession
-ENG-Premier League,2024,Arsenal,Bukayo Saka,ENG,"FW,MF",23-218,2001,14.9,761,6,43,170,555,121,760,77,34,44.2,31,40.3,480,3309,1911,74,22,38,26,35,545,204,possession
-ENG-Premier League,2024,Arsenal,David Raya,ESP,GK,29-208,1995,31.0,1199,705,1122,77,0,0,1199,1,1,100.0,0,0.0,740,3709,2220,0,0,0,1,0,683,0,possession
-ENG-Premier League,2024,Arsenal,Declan Rice,ENG,MF,26-087,1999,26.0,1637,62,274,780,600,62,1637,25,11,44.0,13,52.0,865,5456,2876,78,52,12,34,23,1076,81,possession
-ENG-Premier League,2024,Arsenal,Ethan Nwaneri,ENG,"FW,MF",18-021,2007,8.0,420,3,43,143,239,32,420,51,28,54.9,17,33.3,284,2281,1103,40,19,14,17,16,305,90,possession
-ENG-Premier League,2024,Arsenal,Gabriel Jesus,BRA,FW,28-008,1997,6.8,299,9,28,108,165,48,299,22,9,40.9,10,45.5,179,953,432,15,6,11,13,13,217,57,possession
-ENG-Premier League,2024,Arsenal,Gabriel Magalhães,BRA,DF,27-113,1997,26.3,1873,189,672,985,225,40,1873,5,4,80.0,1,20.0,1116,4470,2669,10,22,0,9,2,1366,11,possession
-ENG-Premier League,2024,Arsenal,Gabriel Martinelli,BRA,"FW,MF",23-297,2001,18.9,757,13,76,203,490,140,757,98,30,30.6,52,53.1,502,3866,2105,102,27,51,42,30,565,223,possession
-ENG-Premier League,2024,Arsenal,Jakub Kiwior,POL,DF,25-055,2000,5.5,326,41,129,182,15,2,326,3,2,66.7,1,33.3,168,737,414,4,0,1,1,1,233,0,possession
-ENG-Premier League,2024,Arsenal,Jorginho,ITA,MF,33-112,1991,6.8,443,9,81,262,105,3,443,4,1,25.0,2,50.0,258,1320,754,10,9,0,9,9,330,4,possession
-ENG-Premier League,2024,Arsenal,Jurriën Timber,NED,DF,23-298,2001,25.6,1564,50,280,802,489,66,1564,53,24,45.3,24,45.3,831,3649,1915,53,26,11,32,23,971,103,possession
-ENG-Premier League,2024,Arsenal,Kai Havertz,GER,"FW,MF",25-304,1999,20.4,768,31,88,282,403,103,768,38,9,23.7,24,63.2,411,1957,922,34,23,18,42,22,575,110,possession
-ENG-Premier League,2024,Arsenal,Kieran Tierney,SCO,"DF,FW",27-310,1997,1.1,61,1,7,22,32,4,61,1,0,0.0,1,100.0,24,120,75,3,2,1,1,0,42,11,possession
-ENG-Premier League,2024,Arsenal,Leandro Trossard,BEL,FW,30-128,1994,22.2,983,14,111,302,586,117,983,67,27,40.3,31,46.3,621,3916,1737,67,45,25,45,36,725,179,possession
-ENG-Premier League,2024,Arsenal,Martin Ødegaard,NOR,MF,26-115,1998,20.4,1294,6,89,540,679,84,1293,47,20,42.6,26,55.3,883,5389,2695,66,57,18,26,36,1022,125,possession
-ENG-Premier League,2024,Arsenal,Mikel Merino,ESP,"MF,FW",28-293,1996,14.8,669,34,121,289,268,68,669,16,7,43.8,6,37.5,327,1227,581,8,12,4,21,20,434,82,possession
-ENG-Premier League,2024,Arsenal,Myles Lewis-Skelly,ENG,DF,18-197,2006,10.3,598,15,108,326,176,12,598,22,11,50.0,8,36.4,333,1834,1134,24,16,4,7,8,399,24,possession
-ENG-Premier League,2024,Arsenal,Oleksandr Zinchenko,UKR,"DF,MF",28-117,1996,3.3,263,10,57,144,63,14,263,2,1,50.0,0,0.0,144,771,331,7,3,2,2,2,169,7,possession
-ENG-Premier League,2024,Arsenal,Raheem Sterling,ENG,"FW,MF",30-124,1994,3.9,210,1,7,45,161,33,210,22,9,40.9,7,31.8,152,1072,588,21,9,14,10,13,159,63,possession
-ENG-Premier League,2024,Arsenal,Reiss Nelson,ENG,FW,25-122,1999,0.0,2,0,1,1,0,0,2,0,0,,0,,1,4,4,0,0,0,0,0,1,0,possession
-ENG-Premier League,2024,Arsenal,Riccardo Calafiori,ITA,DF,22-327,2002,10.3,628,30,161,249,222,29,628,13,9,69.2,3,23.1,291,1572,839,21,12,3,11,5,377,29,possession
-ENG-Premier League,2024,Arsenal,Takehiro Tomiyasu,JPN,DF,26-157,1998,0.1,7,1,4,1,2,1,7,0,0,,0,,1,7,5,0,0,0,0,0,2,0,possession
-ENG-Premier League,2024,Arsenal,Thomas Partey,GHA,"MF,DF",31-302,1993,25.3,1798,58,371,978,458,24,1798,27,17,63.0,8,29.6,999,5320,2805,30,33,2,19,11,1265,38,possession
-ENG-Premier League,2024,Arsenal,William Saliba,FRA,DF,24-018,2001,28.3,2301,162,919,1277,117,17,2301,16,10,62.5,5,31.3,1396,6045,3111,14,10,1,17,5,1704,6,possession
-ENG-Premier League,2024,Aston Villa,Amadou Onana,BEL,MF,23-238,2001,13.0,718,51,198,429,104,15,718,16,10,62.5,3,18.8,398,2017,1005,16,15,0,9,7,478,11,possession
-ENG-Premier League,2024,Aston Villa,Andrés García,ESP,"DF,MF",22-063,2003,3.5,248,6,36,104,110,2,248,18,5,27.8,12,66.7,155,1230,658,25,13,2,10,6,162,27,possession
-ENG-Premier League,2024,Aston Villa,Axel Disasi,FRA,DF,27-031,1998,5.1,324,32,125,174,28,6,324,15,9,60.0,6,40.0,204,1250,618,10,8,2,3,2,219,5,possession
-ENG-Premier League,2024,Aston Villa,Boubacar Kamara,FRA,MF,25-139,1999,13.3,827,82,257,477,98,8,827,22,8,36.4,7,31.8,428,2126,1019,16,10,1,7,9,551,5,possession
-ENG-Premier League,2024,Aston Villa,Diego Carlos,BRA,DF,32-027,1993,9.2,674,86,331,330,15,6,674,2,2,100.0,0,0.0,419,2133,1162,3,3,0,1,2,481,0,possession
-ENG-Premier League,2024,Aston Villa,Donyell Malen,NED,FW,26-092,1999,2.6,90,1,5,26,65,14,90,10,3,30.0,5,50.0,53,405,199,6,5,2,6,5,56,18,possession
-ENG-Premier League,2024,Aston Villa,Emi Buendía,ARG,"MF,FW",28-107,1996,1.1,82,0,17,35,31,3,82,2,0,0.0,2,100.0,53,185,119,3,5,0,4,3,64,6,possession
-ENG-Premier League,2024,Aston Villa,Emiliano Martínez,ARG,GK,32-221,1992,29.0,1189,892,1176,13,0,0,1189,1,1,100.0,0,0.0,721,3622,2275,0,0,0,1,0,652,0,possession
-ENG-Premier League,2024,Aston Villa,Ezri Konsa,ENG,DF,27-170,1997,25.6,1546,188,733,728,92,17,1546,17,7,41.2,7,41.2,905,4582,2273,16,8,2,15,8,1082,11,possession
-ENG-Premier League,2024,Aston Villa,Ian Maatsen,NED,DF,23-032,2002,7.9,596,35,159,219,224,30,596,17,9,52.9,8,47.1,317,1732,824,21,13,8,17,18,356,70,possession
-ENG-Premier League,2024,Aston Villa,Jacob Ramsey,ENG,"FW,MF",23-318,2001,14.9,638,12,121,233,294,57,638,36,20,55.6,9,25.0,417,2790,1424,52,26,17,36,19,487,92,possession
-ENG-Premier League,2024,Aston Villa,Jaden Philogene Bidace,ENG,"FW,MF",23-062,2002,3.7,145,4,27,54,66,14,145,15,4,26.7,8,53.3,75,520,239,7,5,7,7,3,83,17,possession
-ENG-Premier League,2024,Aston Villa,John McGinn,SCO,"MF,FW",30-175,1994,20.9,916,22,143,496,287,46,916,43,17,39.5,12,27.9,509,2522,1077,27,16,5,32,24,649,66,possession
-ENG-Premier League,2024,Aston Villa,Jáder Durán,COL,FW,21-119,2003,7.1,263,13,36,110,122,47,263,14,3,21.4,9,64.3,133,535,267,7,7,2,16,15,192,44,possession
-ENG-Premier League,2024,Aston Villa,Kosta Nedeljković,SRB,DF,19-116,2005,1.4,66,4,15,32,19,0,66,2,1,50.0,1,50.0,27,101,33,1,0,0,1,0,32,0,possession
-ENG-Premier League,2024,Aston Villa,Lamare Bogarde,NED,"DF,MF",21-096,2004,5.3,325,16,95,191,40,4,325,4,2,50.0,1,25.0,173,1031,599,12,6,1,6,8,212,9,possession
-ENG-Premier League,2024,Aston Villa,Leon Bailey,JAM,"FW,MF",27-245,1997,12.6,539,18,76,155,318,69,539,57,22,38.6,24,42.1,344,2540,1334,57,22,33,35,25,386,121,possession
-ENG-Premier League,2024,Aston Villa,Lucas Digne,FRA,DF,31-265,1993,23.9,1422,86,485,434,513,28,1422,18,9,50.0,8,44.4,652,2822,1253,21,14,4,17,15,778,135,possession
-ENG-Premier League,2024,Aston Villa,Marco Asensio,ESP,"MF,FW",29-080,1996,3.4,163,1,15,77,76,13,163,7,5,71.4,2,28.6,104,651,364,14,14,2,4,3,114,11,possession
-ENG-Premier League,2024,Aston Villa,Marcus Rashford,ENG,FW,27-162,1997,3.3,170,2,12,38,121,21,170,17,8,47.1,9,52.9,104,638,379,16,7,11,4,1,121,35,possession
-ENG-Premier League,2024,Aston Villa,Matty Cash,POL,DF,27-247,1997,16.4,837,59,304,340,203,33,837,32,15,46.9,14,43.8,413,2711,1381,39,31,4,14,6,472,53,possession
-ENG-Premier League,2024,Aston Villa,Morgan Rogers,ENG,"FW,MF",22-259,2002,27.9,1119,32,166,491,485,120,1119,136,55,40.4,63,46.3,651,4652,2675,95,59,29,88,60,780,149,possession
-ENG-Premier League,2024,Aston Villa,Ollie Watkins,ENG,FW,29-102,1995,23.8,576,17,43,209,333,142,574,36,8,22.2,25,69.4,340,1850,963,47,20,32,46,42,454,133,possession
-ENG-Premier League,2024,Aston Villa,Pau Torres,ESP,DF,28-085,1997,18.2,1241,190,591,581,75,13,1241,16,14,87.5,2,12.5,772,5098,3343,31,19,0,3,3,882,4,possession
-ENG-Premier League,2024,Aston Villa,Robin Olsen,SWE,GK,35-093,1990,2.0,83,73,82,1,0,0,83,0,0,,0,,44,226,109,0,0,0,0,0,41,0,possession
-ENG-Premier League,2024,Aston Villa,Ross Barkley,ENG,MF,31-127,1993,6.2,429,16,68,255,112,17,429,10,8,80.0,2,20.0,254,1377,640,14,13,2,5,8,302,8,possession
-ENG-Premier League,2024,Aston Villa,Tyrone Mings,ENG,DF,32-029,1993,9.7,664,120,341,288,39,13,664,2,2,100.0,0,0.0,407,2191,1096,5,12,0,3,1,453,0,possession
-ENG-Premier League,2024,Aston Villa,Youri Tielemans,BEL,MF,27-339,1997,29.4,2067,89,424,1183,481,33,2066,55,29,52.7,17,30.9,1106,4798,2158,31,23,8,29,25,1443,38,possession
-ENG-Premier League,2024,Bournemouth,Adam Smith,ENG,DF,33-347,1991,12.7,562,31,181,258,127,3,562,12,4,33.3,5,41.7,241,935,436,10,13,0,10,5,256,19,possession
-ENG-Premier League,2024,Bournemouth,Alex Scott,ENG,MF,21-233,2003,5.6,347,14,63,190,99,13,347,22,5,22.7,11,50.0,195,992,457,9,5,1,18,7,215,22,possession
-ENG-Premier League,2024,Bournemouth,Antoine Semenyo,GHA,FW,25-094,2000,29.4,1361,36,162,472,759,169,1361,116,60,51.7,49,42.2,817,6173,3060,124,61,62,72,63,948,242,possession
-ENG-Premier League,2024,Bournemouth,Ben Winterburn,ENG,"FW,MF",20-219,2004,0.3,9,0,2,5,2,1,9,0,0,,0,,6,50,40,2,0,1,0,0,6,2,possession
-ENG-Premier League,2024,Bournemouth,Dango Ouattara,BFA,FW,23-059,2002,18.7,795,47,131,255,424,114,795,67,30,44.8,32,47.8,407,2983,1457,67,27,35,51,28,478,169,possession
-ENG-Premier League,2024,Bournemouth,Daniel Jebbison,ENG,FW,21-241,2003,0.8,52,2,4,21,27,9,52,5,4,80.0,1,20.0,33,212,81,2,1,3,11,4,37,11,possession
-ENG-Premier League,2024,Bournemouth,David Brooks,WAL,"FW,MF",27-277,1997,8.8,427,12,53,160,222,32,427,30,8,26.7,19,63.3,262,1775,792,25,20,8,26,10,284,72,possession
-ENG-Premier League,2024,Bournemouth,Dean Huijsen,ESP,DF,19-362,2005,20.8,1506,199,709,707,98,28,1506,5,2,40.0,3,60.0,815,4913,3022,31,14,0,14,1,916,9,possession
-ENG-Premier League,2024,Bournemouth,Enes Ünal,TUR,"FW,MF",27-336,1997,3.8,172,6,14,63,95,26,172,12,1,8.3,10,83.3,91,261,95,4,3,1,17,13,133,22,possession
-ENG-Premier League,2024,Bournemouth,Evanilson,BRA,FW,25-187,1999,19.1,408,15,31,154,225,101,407,19,6,31.6,7,36.8,249,1355,637,24,13,13,28,19,291,79,possession
-ENG-Premier League,2024,Bournemouth,Illia Zabarnyi,UKR,DF,22-222,2002,28.1,1652,196,790,829,52,11,1652,8,5,62.5,2,25.0,1023,6487,3836,18,14,0,14,3,1020,3,possession
-ENG-Premier League,2024,Bournemouth,James Hill,ENG,DF,23-091,2002,5.0,319,19,99,167,54,8,319,2,1,50.0,1,50.0,146,552,295,3,6,0,2,0,179,8,possession
-ENG-Premier League,2024,Bournemouth,Julian Araujo,MEX,DF,23-241,2001,3.9,200,15,68,103,32,1,200,0,0,,0,,84,290,138,2,0,0,4,2,100,11,possession
-ENG-Premier League,2024,Bournemouth,Justin Kluivert,NED,"MF,FW",25-341,1999,21.5,879,21,87,295,517,111,873,76,31,40.8,36,47.4,511,3273,1885,64,44,33,44,24,562,132,possession
-ENG-Premier League,2024,Bournemouth,Kepa Arrizabalaga,ESP,GK,30-190,1994,24.0,843,617,820,22,1,1,843,1,1,100.0,0,0.0,488,2436,1381,0,0,0,0,0,378,0,possession
-ENG-Premier League,2024,Bournemouth,Lewis Cook,ENG,"MF,DF",28-067,1997,28.6,1676,72,387,882,426,19,1676,16,10,62.5,6,37.5,742,3718,2048,33,26,4,28,15,835,46,possession
-ENG-Premier League,2024,Bournemouth,Luis Sinisterra,COL,"FW,MF",25-298,1999,2.6,155,7,18,41,96,23,155,20,8,40.0,10,50.0,95,744,393,19,6,10,6,3,102,38,possession
-ENG-Premier League,2024,Bournemouth,Marcos Senesi,ARG,DF,27-336,1997,10.7,749,62,326,366,66,12,749,9,5,55.6,4,44.4,464,2404,1418,12,14,0,5,5,472,5,possession
-ENG-Premier League,2024,Bournemouth,Marcus Tavernier,ENG,"FW,MF",26-020,1999,16.7,905,17,100,345,480,47,905,47,20,42.6,24,51.1,510,3047,1435,36,33,7,36,41,571,101,possession
-ENG-Premier League,2024,Bournemouth,Mark Travers,IRL,GK,25-328,1999,5.0,162,144,159,3,0,0,162,0,0,,0,,85,426,188,0,0,0,0,0,68,0,possession
-ENG-Premier League,2024,Bournemouth,Max Aarons,ENG,DF,25-097,2000,1.0,73,2,19,40,15,0,73,2,0,0.0,1,50.0,41,152,68,1,0,0,1,0,40,3,possession
-ENG-Premier League,2024,Bournemouth,Milos Kerkez,HUN,DF,21-155,2003,30.2,1727,93,443,734,571,55,1727,41,17,41.5,14,34.1,869,5038,2962,85,56,14,41,15,930,151,possession
-ENG-Premier League,2024,Bournemouth,Neto,BRA,GK,35-266,1989,2.0,70,60,70,0,0,0,70,0,0,,0,,35,148,99,0,0,0,0,0,28,0,possession
-ENG-Premier League,2024,Bournemouth,Philip Billing,DEN,MF,28-304,1996,2.0,148,5,20,72,57,12,148,3,1,33.3,0,0.0,58,254,163,3,1,1,7,4,75,13,possession
-ENG-Premier League,2024,Bournemouth,Remy Rees-Dottin,ENG,FW,19-036,2006,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-ENG-Premier League,2024,Bournemouth,Ryan Christie,SCO,MF,30-048,1995,23.5,1376,74,256,773,372,46,1376,48,23,47.9,22,45.8,726,3802,1773,34,40,8,44,25,777,44,possession
-ENG-Premier League,2024,Bournemouth,Tyler Adams,USA,MF,26-056,1999,15.3,939,40,239,545,164,12,939,14,2,14.3,9,64.3,448,2051,936,11,15,1,21,9,500,7,possession
-ENG-Premier League,2024,Bournemouth,Zain Silcott-Duberry,MSR,FW,19-276,2005,0.0,3,0,1,0,2,0,3,0,0,,0,,1,6,6,0,0,0,0,0,2,0,possession
-ENG-Premier League,2024,Brentford,Ben Mee,ENG,DF,35-202,1989,2.0,138,18,66,62,11,3,138,0,0,,0,,78,404,274,3,1,1,0,0,86,2,possession
-ENG-Premier League,2024,Brentford,Bryan Mbeumo,CMR,FW,25-247,1999,30.9,1429,44,201,455,798,127,1424,85,38,44.7,36,42.4,862,5461,2841,103,59,60,84,38,973,287,possession
-ENG-Premier League,2024,Brentford,Christian Nørgaard,DEN,MF,31-032,1994,24.3,1422,142,487,676,273,46,1422,12,6,50.0,4,33.3,656,2528,1080,12,11,4,28,18,861,34,possession
-ENG-Premier League,2024,Brentford,Edmond-Paris Maghoma,ENG,"MF,FW",23-338,2001,1.3,101,2,18,58,27,4,101,4,3,75.0,1,25.0,68,414,221,4,3,1,2,0,75,4,possession
-ENG-Premier League,2024,Brentford,Ethan Pinnock,JAM,DF,31-317,1993,21.3,1348,294,783,457,109,24,1348,9,3,33.3,6,66.7,633,3117,1633,3,4,0,2,4,760,9,possession
-ENG-Premier League,2024,Brentford,Fabio Carvalho,POR,"FW,MF",22-224,2002,5.1,247,4,44,91,113,22,247,14,2,14.3,10,71.4,137,698,356,9,3,0,13,8,145,23,possession
-ENG-Premier League,2024,Brentford,Frank Onyeka,NGA,MF,27-100,1998,0.3,10,0,1,5,4,0,10,0,0,,0,,6,55,14,0,0,0,2,1,6,0,possession
-ENG-Premier League,2024,Brentford,Hákon Rafn Valdimarsson,ISL,GK,23-180,2001,1.6,72,60,71,1,0,0,72,0,0,,0,,44,191,80,0,0,0,0,0,36,0,possession
-ENG-Premier League,2024,Brentford,Jayden Meghoma,ENG,DF,18-287,2006,0.1,3,1,2,0,1,0,3,0,0,,0,,1,1,0,0,0,0,0,0,2,0,possession
-ENG-Premier League,2024,Brentford,Keane Lewis-Potter,ENG,"DF,FW",24-048,2001,28.3,1346,85,399,519,445,69,1346,90,35,38.9,46,51.1,707,5225,2779,88,60,34,41,18,795,132,possession
-ENG-Premier League,2024,Brentford,Kevin Schade,GER,FW,23-135,2001,19.5,710,32,109,193,420,112,710,73,25,34.2,42,57.5,367,2671,1212,54,26,33,44,33,442,134,possession
-ENG-Premier League,2024,Brentford,Kim Jisoo,KOR,DF,20-108,2004,0.3,30,1,15,12,3,0,30,0,0,,0,,15,57,22,0,0,0,0,1,22,0,possession
-ENG-Premier League,2024,Brentford,Kristoffer Ajer,NOR,DF,26-359,1998,14.4,714,47,238,334,147,33,714,14,7,50.0,6,42.9,348,1951,1116,26,10,2,14,12,450,39,possession
-ENG-Premier League,2024,Brentford,Mads Roerslev,DEN,DF,25-291,1999,12.2,645,49,234,268,146,20,645,19,7,36.8,8,42.1,352,1630,858,17,13,0,9,6,407,54,possession
-ENG-Premier League,2024,Brentford,Mark Flekken,NED,GK,31-302,1993,29.4,1515,1184,1471,49,0,0,1515,1,1,100.0,0,0.0,928,4676,2666,0,0,0,2,0,850,0,possession
-ENG-Premier League,2024,Brentford,Mathias Jensen,DEN,MF,29-100,1996,8.3,487,20,109,204,176,9,487,14,8,57.1,4,28.6,264,1145,527,6,8,0,7,6,303,25,possession
-ENG-Premier League,2024,Brentford,Michael Kayode,ITA,DF,20-275,2004,0.5,33,1,11,9,13,3,33,0,0,,0,,12,69,38,2,1,1,0,0,14,6,possession
-ENG-Premier League,2024,Brentford,Mikkel Damsgaard,DEN,"MF,FW",24-282,2000,25.9,1526,32,272,693,583,65,1526,84,44,52.4,30,35.7,863,4780,2453,59,38,8,53,40,1014,110,possession
-ENG-Premier League,2024,Brentford,Nathan Collins,IRL,DF,23-346,2001,31.0,2037,327,1076,822,149,58,2037,12,6,50.0,5,41.7,1069,5784,3358,24,8,0,15,8,1240,17,possession
-ENG-Premier League,2024,Brentford,Rico Henry,ENG,DF,27-277,1997,0.0,6,0,4,1,1,0,6,0,0,,0,,2,5,0,0,0,0,0,0,2,1,possession
-ENG-Premier League,2024,Brentford,Ryan Trevitt,ENG,MF,22-030,2003,0.0,7,1,2,4,1,0,7,0,0,,0,,4,7,2,0,0,0,0,0,4,1,possession
-ENG-Premier League,2024,Brentford,Sepp van den Berg,NED,DF,23-112,2001,21.7,1209,218,603,459,149,38,1209,7,4,57.1,3,42.9,509,2398,1187,7,9,0,13,5,665,26,possession
-ENG-Premier League,2024,Brentford,Thiago,BRA,FW,23-289,2001,1.5,56,6,11,23,23,2,56,3,2,66.7,1,33.3,34,119,42,3,2,1,5,1,35,4,possession
-ENG-Premier League,2024,Brentford,Vitaly Janelt,GER,MF,26-336,1998,24.2,1259,117,405,565,297,30,1259,11,3,27.3,6,54.5,640,2983,1272,17,17,3,16,10,800,36,possession
-ENG-Premier League,2024,Brentford,Yehor Yarmoliuk,UKR,MF,21-041,2004,10.5,649,42,176,329,158,14,649,20,9,45.0,9,45.0,327,1809,575,12,14,2,19,15,393,40,possession
-ENG-Premier League,2024,Brentford,Yoane Wissa,COD,FW,28-220,1996,25.4,755,27,115,308,345,130,755,40,12,30.0,19,47.5,444,2663,1220,45,17,25,58,25,537,126,possession
-ENG-Premier League,2024,Brentford,Yunus Emre Konak,TUR,"FW,MF",19-091,2006,0.3,39,0,6,20,13,0,39,2,0,0.0,2,100.0,13,57,36,1,0,1,2,3,21,1,possession
-ENG-Premier League,2024,Brighton,Adam Webster,ENG,DF,30-097,1995,6.9,569,84,279,271,22,8,569,3,1,33.3,2,66.7,326,1927,1142,7,2,0,3,1,384,2,possession
-ENG-Premier League,2024,Brighton,Bart Verbruggen,NED,GK,22-236,2002,29.0,1137,921,1125,12,0,0,1137,2,2,100.0,0,0.0,760,2764,1352,0,1,1,2,0,735,0,possession
-ENG-Premier League,2024,Brighton,Billy Gilmour,SCO,MF,23-304,2001,1.1,73,2,14,46,13,0,73,2,1,50.0,1,50.0,44,210,117,2,0,0,0,0,58,2,possession
-ENG-Premier League,2024,Brighton,Brajan Gruda,GER,"FW,MF",20-315,2004,5.4,243,4,30,83,132,29,243,20,8,40.0,8,40.0,141,987,458,15,16,9,7,20,160,45,possession
-ENG-Premier League,2024,Brighton,Carlos Baleba,CMR,MF,21-098,2004,22.9,1267,56,285,751,268,10,1267,48,29,60.4,16,33.3,688,3945,1981,34,34,2,32,31,749,26,possession
-ENG-Premier League,2024,Brighton,Danny Welbeck,ENG,FW,34-136,1990,17.7,538,10,42,238,262,73,538,29,10,34.5,16,55.2,314,1449,612,17,19,6,38,22,398,65,possession
-ENG-Premier League,2024,Brighton,Diego Gómez,PAR,MF,22-015,2003,4.4,304,16,72,166,70,5,304,12,6,50.0,6,50.0,142,516,233,5,3,0,6,9,180,11,possession
-ENG-Premier League,2024,Brighton,Eiran Cashin,IRL,DF,23-153,2001,0.2,30,2,9,19,2,0,30,1,0,0.0,1,100.0,19,131,99,0,0,0,0,0,23,1,possession
-ENG-Premier League,2024,Brighton,Evan Ferguson,IRL,FW,20-174,2004,2.7,88,7,13,50,26,9,88,2,1,50.0,1,50.0,42,183,56,2,1,2,5,6,52,9,possession
-ENG-Premier League,2024,Brighton,Ferdi Kadioglu,TUR,"DF,MF",25-186,1999,4.3,231,13,71,91,72,9,231,7,3,42.9,3,42.9,124,479,183,1,0,0,6,2,144,27,possession
-ENG-Premier League,2024,Brighton,Georginio Rutter,FRA,"MF,FW",22-356,2002,18.4,641,20,83,246,326,79,641,71,27,38.0,34,47.9,361,2467,1405,42,36,16,45,37,411,79,possession
-ENG-Premier League,2024,Brighton,Igor,BRA,DF,27-063,1998,10.0,764,109,377,353,38,1,764,4,3,75.0,1,25.0,497,2837,1782,9,14,0,1,0,568,0,possession
-ENG-Premier League,2024,Brighton,Jack Hinshelwood,ENG,"DF,MF",20-000,2005,15.7,928,44,269,422,242,21,928,9,1,11.1,7,77.8,420,1802,878,15,15,1,16,2,562,38,possession
-ENG-Premier League,2024,Brighton,Jakub Moder,POL,MF,26-004,1999,0.1,27,2,7,12,9,1,27,0,0,,0,,13,93,62,2,3,0,0,0,14,0,possession
-ENG-Premier League,2024,Brighton,James Milner,ENG,MF,39-097,1986,1.9,92,3,13,48,31,4,92,1,1,100.0,0,0.0,46,223,97,1,1,0,0,0,58,10,possession
-ENG-Premier League,2024,Brighton,Jan Paul van Hecke,NED,DF,24-307,2000,27.9,2232,237,955,1154,142,28,2232,10,4,40.0,4,40.0,1471,9213,6356,50,39,0,10,7,1563,5,possession
-ENG-Premier League,2024,Brighton,Jason Steele,ENG,GK,34-236,1990,2.0,114,107,114,0,0,0,114,0,0,,0,,91,361,151,0,0,0,0,0,83,0,possession
-ENG-Premier League,2024,Brighton,Jeremy Sarmiento,ECU,MF,22-299,2002,0.1,8,0,0,6,2,0,8,0,0,,0,,6,61,10,0,0,0,1,0,7,2,possession
-ENG-Premier League,2024,Brighton,João Pedro,BRA,"FW,MF",23-197,2001,20.0,854,10,51,351,463,112,851,72,25,34.7,39,54.2,552,3383,1596,61,33,29,68,36,673,118,possession
-ENG-Premier League,2024,Brighton,Joël Veltman,NED,DF,33-086,1992,18.3,1097,64,327,540,240,10,1097,15,4,26.7,5,33.3,524,2780,1414,29,22,3,19,7,598,32,possession
-ENG-Premier League,2024,Brighton,Julio Enciso,PAR,"MF,FW",21-078,2004,3.3,202,2,17,72,116,20,202,21,10,47.6,8,38.1,114,678,386,11,10,4,7,9,141,17,possession
-ENG-Premier League,2024,Brighton,Kaoru Mitoma,JPN,"FW,MF",27-326,1997,27.4,1265,14,143,438,711,151,1265,126,48,38.1,73,57.9,764,6138,3567,135,74,54,48,22,888,274,possession
-ENG-Premier League,2024,Brighton,Lewis Dunk,ENG,DF,33-141,1991,19.1,1801,221,868,851,92,16,1801,1,0,0.0,1,100.0,1117,5326,2906,20,16,0,5,3,1317,3,possession
-ENG-Premier League,2024,Brighton,Mats Wieffer,NED,MF,25-146,1999,5.7,481,26,114,284,90,10,481,9,4,44.4,5,55.6,265,1150,456,5,6,0,10,7,313,9,possession
-ENG-Premier League,2024,Brighton,Matt O'Riley,DEN,MF,24-141,2000,6.0,333,14,56,155,123,23,333,9,4,44.4,4,44.4,160,659,326,11,7,2,9,3,188,29,possession
-ENG-Premier League,2024,Brighton,Pervis Estupiñán,ECU,DF,27-080,1998,20.7,1482,61,372,740,384,24,1482,27,13,48.1,13,48.1,767,3702,1985,48,36,7,25,23,898,93,possession
-ENG-Premier League,2024,Brighton,Simon Adingra,CIV,"FW,MF",23-100,2002,8.3,374,6,52,115,212,48,374,35,15,42.9,20,57.1,246,1626,759,27,15,13,29,9,262,96,possession
-ENG-Premier League,2024,Brighton,Solly March,ENG,"MF,FW",30-265,1994,0.7,50,0,4,13,33,2,50,1,1,100.0,0,0.0,16,83,32,0,0,0,1,1,22,7,possession
-ENG-Premier League,2024,Brighton,Tariq Lamptey,GHA,DF,24-193,2000,8.5,489,25,147,208,137,9,489,27,9,33.3,15,55.6,267,1867,893,25,13,2,9,4,276,40,possession
-ENG-Premier League,2024,Brighton,Yankuba Minteh,GAM,"FW,MF",20-263,2004,14.9,604,25,111,170,340,101,604,78,37,47.4,34,43.6,334,2424,1446,58,15,45,40,19,343,141,possession
-ENG-Premier League,2024,Brighton,Yasin Ayari,SWE,MF,21-187,2003,17.1,957,47,216,480,274,41,957,38,16,42.1,13,34.2,483,2366,1051,22,17,6,31,21,616,54,possession
-ENG-Premier League,2024,Chelsea,Axel Disasi,FRA,DF,27-031,1998,4.0,323,17,110,175,40,2,323,1,1,100.0,0,0.0,196,953,519,6,3,0,1,3,242,2,possession
-ENG-Premier League,2024,Chelsea,Benoît Badiashile,FRA,DF,24-016,2001,3.7,336,31,138,186,13,0,336,1,0,0.0,1,100.0,177,660,340,3,5,0,1,0,247,2,possession
-ENG-Premier League,2024,Chelsea,Christopher Nkunku,FRA,FW,27-148,1997,10.2,446,10,52,182,216,52,446,27,10,37.0,14,51.9,279,1368,628,17,16,13,18,17,354,67,possession
-ENG-Premier League,2024,Chelsea,Cole Palmer,ENG,MF,22-340,2002,28.5,1481,17,119,661,721,116,1477,94,42,44.7,37,39.4,935,6248,2995,91,61,30,54,28,1093,149,possession
-ENG-Premier League,2024,Chelsea,Enzo Fernández,ARG,MF,24-084,2001,25.8,1822,31,288,933,613,68,1822,43,21,48.8,15,34.9,981,4400,2188,47,46,7,25,26,1331,93,possession
-ENG-Premier League,2024,Chelsea,Filip Jørgensen,DEN,GK,22-360,2002,6.0,202,174,201,1,0,0,202,0,0,,0,,145,676,423,0,0,0,0,0,139,0,possession
-ENG-Premier League,2024,Chelsea,Jadon Sancho,ENG,FW,25-017,2000,17.6,864,11,110,260,504,109,864,91,43,47.3,36,39.6,575,3925,2155,88,31,51,26,19,672,196,possession
-ENG-Premier League,2024,Chelsea,Joshua Acheampong,ENG,DF,18-341,2006,1.9,137,7,48,81,8,3,137,2,1,50.0,0,0.0,106,709,409,0,2,0,2,0,111,0,possession
-ENG-Premier League,2024,Chelsea,João Félix,POR,"FW,MF",25-152,1999,4.1,272,2,26,128,125,30,272,31,10,32.3,14,45.2,193,1248,712,21,13,5,6,4,218,30,possession
-ENG-Premier League,2024,Chelsea,Kiernan Dewsbury-Hall,ENG,"MF,FW",26-217,1998,2.9,180,4,28,94,58,6,180,4,2,50.0,2,50.0,93,474,221,5,1,0,1,3,136,11,possession
-ENG-Premier League,2024,Chelsea,Levi Colwill,ENG,DF,22-044,2003,28.0,2406,300,1110,1204,100,25,2406,8,5,62.5,3,37.5,1368,6203,3424,10,10,1,10,7,1766,7,possession
-ENG-Premier League,2024,Chelsea,Malo Gusto,FRA,DF,21-327,2003,19.2,1464,54,364,709,402,39,1464,15,4,26.7,10,66.7,800,4028,2027,44,31,7,15,17,978,79,possession
-ENG-Premier League,2024,Chelsea,Marc Cucurella,ESP,DF,26-263,1998,26.2,1788,91,543,827,425,59,1788,12,4,33.3,7,58.3,767,3210,1892,29,14,2,25,5,1125,96,possession
-ENG-Premier League,2024,Chelsea,Marc Guiu,ESP,FW,19-097,2006,0.8,22,0,2,8,12,3,22,1,0,0.0,1,100.0,12,30,8,0,0,0,2,0,12,3,possession
-ENG-Premier League,2024,Chelsea,Mathis Amougou,FRA,MF,19-083,2006,0.1,9,1,2,4,3,0,9,0,0,,0,,7,25,5,0,1,0,0,1,6,0,possession
-ENG-Premier League,2024,Chelsea,Moisés Caicedo,ECU,MF,23-160,2001,30.2,2140,77,461,1316,384,12,2140,47,19,40.4,18,38.3,1192,5556,2635,35,23,2,30,20,1512,28,possession
-ENG-Premier League,2024,Chelsea,Mykhailo Mudryk,UKR,FW,24-096,2001,1.7,62,3,12,15,38,6,62,8,3,37.5,5,62.5,39,468,227,7,8,0,3,7,42,12,possession
-ENG-Premier League,2024,Chelsea,Nicolas Jackson,SEN,FW,23-295,2001,20.7,583,19,43,241,307,124,583,55,17,30.9,28,50.9,349,2217,1188,43,22,28,56,34,425,101,possession
-ENG-Premier League,2024,Chelsea,Noni Madueke,ENG,FW,23-032,2002,17.0,736,16,76,203,469,140,736,71,28,39.4,36,50.7,497,4133,2602,114,40,68,38,23,566,185,possession
-ENG-Premier League,2024,Chelsea,Pedro Neto,POR,FW,25-033,2000,18.4,843,7,73,252,530,89,843,83,25,30.1,38,45.8,554,4625,2397,97,46,36,33,23,624,174,possession
-ENG-Premier League,2024,Chelsea,Reece James,ENG,"DF,MF",25-124,1999,8.5,703,31,203,386,118,4,703,15,6,40.0,5,33.3,358,1413,655,5,4,0,6,4,442,8,possession
-ENG-Premier League,2024,Chelsea,Renato Veiga,POR,"DF,MF",21-256,2003,2.0,167,2,61,82,27,3,167,5,3,60.0,2,40.0,85,417,144,4,5,1,1,0,110,3,possession
-ENG-Premier League,2024,Chelsea,Robert Sánchez,ESP,GK,27-144,1997,25.0,1058,775,1047,11,0,0,1058,0,0,,0,,709,3363,2136,0,0,0,0,0,668,0,possession
-ENG-Premier League,2024,Chelsea,Roméo Lavia,BEL,MF,21-095,2004,6.0,344,12,86,209,53,1,344,12,7,58.3,5,41.7,204,935,407,3,8,0,1,6,249,6,possession
-ENG-Premier League,2024,Chelsea,Shumaira Mheuka,ENG,MF,17-173,2007,0.0,2,0,0,0,2,1,2,0,0,,0,,1,0,0,0,0,0,0,0,2,0,possession
-ENG-Premier League,2024,Chelsea,Tosin Adarabioyo,ENG,DF,27-199,1997,13.1,1132,156,543,568,22,13,1132,3,2,66.7,0,0.0,675,2716,1530,5,1,0,3,0,865,1,possession
-ENG-Premier League,2024,Chelsea,Trevoh Chalobah,ENG,DF,25-280,1999,5.3,411,33,190,197,28,7,411,3,1,33.3,0,0.0,222,814,333,2,2,0,3,2,307,0,possession
-ENG-Premier League,2024,Chelsea,Tyrique George,ENG,FW,19-066,2006,1.0,51,0,9,12,31,8,51,4,3,75.0,1,25.0,36,342,206,9,1,5,1,0,41,16,possession
-ENG-Premier League,2024,Chelsea,Wesley Fofana,FRA,DF,24-115,2000,13.0,933,81,370,523,55,10,933,15,8,53.3,3,20.0,557,3149,1614,19,12,1,16,5,665,4,possession
-ENG-Premier League,2024,Crystal Palace,Adam Wharton,ENG,MF,20-313,2004,11.2,700,21,158,372,173,8,700,9,2,22.2,7,77.8,346,1593,814,11,16,2,13,12,433,10,possession
-ENG-Premier League,2024,Crystal Palace,Asher Agbinone,ENG,MF,19-195,2005,0.1,8,0,0,2,6,0,8,2,0,0.0,1,50.0,5,53,23,2,0,0,0,1,5,1,possession
-ENG-Premier League,2024,Crystal Palace,Ben Chilwell,ENG,DF,28-111,1996,1.2,83,6,30,33,21,1,83,3,0,0.0,2,66.7,34,146,99,1,0,0,2,2,34,7,possession
-ENG-Premier League,2024,Crystal Palace,Caleb Kporha,ENG,DF,18-270,2006,0.1,11,1,4,2,5,0,11,0,0,,0,,4,46,36,1,1,0,0,2,3,0,possession
-ENG-Premier League,2024,Crystal Palace,Chadi Riad,MAR,DF,21-298,2003,1.0,90,5,41,49,1,0,90,0,0,,0,,58,318,232,2,0,0,1,0,69,0,possession
-ENG-Premier League,2024,Crystal Palace,Cheick Doucouré,MLI,MF,25-093,2000,5.0,263,11,56,165,45,4,263,5,2,40.0,2,40.0,133,581,280,2,7,1,4,7,160,7,possession
-ENG-Premier League,2024,Crystal Palace,Chris Richards,USA,DF,25-014,2000,14.9,822,93,432,349,46,13,822,5,1,20.0,4,80.0,382,1696,777,5,5,0,5,5,463,1,possession
-ENG-Premier League,2024,Crystal Palace,Daichi Kamada,JPN,MF,28-249,1996,12.3,682,17,142,361,183,20,682,11,4,36.4,6,54.5,331,1589,734,18,12,4,12,17,436,43,possession
-ENG-Premier League,2024,Crystal Palace,Daniel Muñoz,COL,DF,28-320,1996,27.9,1585,95,445,652,503,80,1585,46,17,37.0,27,58.7,614,3114,1277,42,25,14,43,15,757,166,possession
-ENG-Premier League,2024,Crystal Palace,Dean Henderson,ENG,GK,28-030,1997,30.0,1050,853,1047,2,1,1,1050,0,0,,0,,598,3597,1638,0,0,0,2,0,462,0,possession
-ENG-Premier League,2024,Crystal Palace,Eberechi Eze,ENG,"MF,FW",26-286,1998,23.3,1200,13,155,563,511,78,1200,119,56,47.1,57,47.9,722,4428,2072,62,41,20,42,40,788,135,possession
-ENG-Premier League,2024,Crystal Palace,Eddie Nketiah,ENG,"FW,MF",25-316,1999,8.3,315,7,33,128,160,52,315,17,8,47.1,6,35.3,184,1358,725,32,18,12,25,13,223,61,possession
-ENG-Premier League,2024,Crystal Palace,Ismaila Sarr,SEN,MF,27-045,1998,23.4,867,35,137,332,407,108,867,47,14,29.8,24,51.1,475,2955,1631,59,37,24,56,38,587,153,possession
-ENG-Premier League,2024,Crystal Palace,Jean-Philippe Mateta,FRA,FW,27-287,1997,25.1,643,24,53,310,294,82,641,40,17,42.5,19,47.5,340,1746,823,34,19,8,62,38,469,111,possession
-ENG-Premier League,2024,Crystal Palace,Jefferson Lerma,COL,"MF,DF",30-168,1994,19.1,1086,72,312,589,195,23,1086,10,5,50.0,3,30.0,489,1901,848,10,9,0,10,15,629,24,possession
-ENG-Premier League,2024,Crystal Palace,Jeffrey Schlupp,GHA,"MF,DF",32-109,1992,1.1,79,2,9,31,41,6,79,1,1,100.0,0,0.0,30,150,67,4,1,1,7,0,41,9,possession
-ENG-Premier League,2024,Crystal Palace,Joachim Andersen,DEN,DF,28-315,1996,1.0,93,14,38,50,5,0,93,0,0,,0,,49,189,103,1,1,0,0,1,67,1,possession
-ENG-Premier League,2024,Crystal Palace,Joel Ward,ENG,DF,35-164,1989,0.0,2,0,0,2,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-ENG-Premier League,2024,Crystal Palace,Jordan Ayew,GHA,"FW,MF",33-212,1991,0.2,12,0,0,7,5,1,12,0,0,,0,,6,25,12,0,0,0,0,1,9,1,possession
-ENG-Premier League,2024,Crystal Palace,Justin Devenny,NIR,MF,21-182,2003,3.7,192,6,38,94,65,5,192,4,2,50.0,2,50.0,83,429,199,3,4,1,9,2,113,9,possession
-ENG-Premier League,2024,Crystal Palace,Marc Guéhi,ENG,DF,24-272,2000,29.0,1836,275,934,798,114,24,1836,14,11,78.6,2,14.3,963,4860,2536,17,15,1,14,15,1129,8,possession
-ENG-Premier League,2024,Crystal Palace,Matheus França,BRA,"MF,DF",21-010,2004,0.2,8,0,0,3,5,2,8,0,0,,0,,7,29,15,1,0,1,1,0,6,1,possession
-ENG-Premier League,2024,Crystal Palace,Maxence Lacroix,FRA,DF,25-005,2000,26.9,1571,277,951,560,67,32,1571,13,8,61.5,3,23.1,843,4000,1842,8,4,0,18,3,931,6,possession
-ENG-Premier League,2024,Crystal Palace,Nathaniel Clyne,ENG,"DF,MF",34-006,1991,5.1,262,17,103,124,35,3,262,1,0,0.0,1,100.0,155,642,306,6,2,3,4,2,172,8,possession
-ENG-Premier League,2024,Crystal Palace,Odsonne Édouard,FRA,"MF,FW",27-085,1998,1.3,45,1,4,23,18,8,45,1,0,0.0,1,100.0,23,107,50,2,1,2,4,1,26,7,possession
-ENG-Premier League,2024,Crystal Palace,Romain Esse,ENG,MF,19-333,2005,0.1,7,0,1,3,3,2,7,0,0,,0,,3,17,1,0,0,0,0,0,4,2,possession
-ENG-Premier League,2024,Crystal Palace,Trevoh Chalobah,ENG,DF,25-280,1999,11.8,594,66,275,276,51,14,594,10,6,60.0,2,20.0,278,1213,661,11,9,1,4,7,317,6,possession
-ENG-Premier League,2024,Crystal Palace,Tyrick Mitchell,ENG,DF,25-222,1999,28.0,1451,93,500,558,406,39,1451,28,12,42.9,13,46.4,673,3133,1420,51,30,9,33,26,750,143,possession
-ENG-Premier League,2024,Crystal Palace,Will Hughes,ENG,MF,29-359,1995,18.3,972,35,215,509,260,14,972,11,3,27.3,5,45.5,432,2295,1070,18,22,1,16,22,547,24,possession
-ENG-Premier League,2024,Everton,Abdoulaye Doucouré,MLI,MF,32-100,1993,23.9,970,30,204,442,338,46,970,33,18,54.5,15,45.5,505,2546,1211,35,21,5,30,31,619,79,possession
-ENG-Premier League,2024,Everton,Armando Broja,ALB,FW,23-213,2001,2.3,83,4,10,25,52,13,83,14,6,42.9,7,50.0,43,462,246,10,6,3,8,9,59,18,possession
-ENG-Premier League,2024,Everton,Ashley Young,ENG,"DF,FW",39-276,1985,17.6,1015,51,311,433,276,9,1015,14,5,35.7,7,50.0,397,2047,1176,19,24,1,8,1,513,25,possession
-ENG-Premier League,2024,Everton,Beto,GNB,FW,27-070,1998,11.9,365,20,39,159,172,61,365,30,16,53.3,13,43.3,196,991,376,12,8,8,46,29,263,54,possession
-ENG-Premier League,2024,Everton,Carlos Alcaraz,ARG,"MF,FW",22-132,2002,4.6,218,9,41,90,93,11,218,10,6,60.0,3,30.0,114,693,390,10,12,0,8,8,136,8,possession
-ENG-Premier League,2024,Everton,Dominic Calvert-Lewin,ENG,FW,28-026,1997,17.5,491,21,38,204,254,82,491,25,10,40.0,13,52.0,268,1398,444,22,8,16,71,32,402,105,possession
-ENG-Premier League,2024,Everton,Dwight McNeil,ENG,"MF,FW",25-140,1999,12.7,619,2,61,267,305,18,619,37,20,54.1,16,43.2,360,2227,931,31,28,4,22,24,417,65,possession
-ENG-Premier League,2024,Everton,Harrison Armstrong,ENG,MF,18-082,2007,0.5,20,0,3,12,7,2,20,1,1,100.0,0,0.0,15,110,43,1,2,0,2,3,14,0,possession
-ENG-Premier League,2024,Everton,Idrissa Gana Gueye,SEN,MF,35-197,1989,27.2,1425,63,350,803,278,19,1425,35,17,48.6,16,45.7,663,3052,1327,20,21,4,25,32,817,21,possession
-ENG-Premier League,2024,Everton,Iliman Ndiaye,SEN,FW,25-036,2000,21.9,879,32,186,357,383,67,877,127,59,46.5,59,46.5,502,3999,2005,73,37,27,43,37,527,99,possession
-ENG-Premier League,2024,Everton,Jack Harrison,ENG,FW,28-142,1996,18.4,734,29,131,256,354,57,734,64,20,31.3,38,59.4,410,2313,1204,49,25,14,40,35,471,94,possession
-ENG-Premier League,2024,Everton,Jake O'Brien,IRL,DF,23-331,2001,11.5,596,50,239,240,119,16,596,8,2,25.0,5,62.5,251,1101,452,6,5,1,5,5,296,23,possession
-ENG-Premier League,2024,Everton,James Garner,ENG,"MF,DF",24-029,2001,10.7,555,26,142,262,157,8,555,13,5,38.5,8,61.5,251,1013,342,7,9,1,9,6,278,17,possession
-ENG-Premier League,2024,Everton,James Tarkowski,ENG,DF,32-143,1992,30.9,1612,346,928,594,99,50,1612,7,5,71.4,2,28.6,688,3350,1772,9,10,0,12,7,875,3,possession
-ENG-Premier League,2024,Everton,Jarrad Branthwaite,ENG,DF,22-288,2002,22.1,1157,172,621,489,53,19,1157,5,3,60.0,1,20.0,553,3020,1810,8,13,2,7,3,661,1,possession
-ENG-Premier League,2024,Everton,Jesper Lindstrøm,DEN,FW,25-041,2000,13.8,625,22,127,206,303,40,625,43,8,18.6,31,72.1,302,1627,780,30,19,7,31,24,347,81,possession
-ENG-Premier League,2024,Everton,Jordan Pickford,ENG,GK,31-035,1994,31.0,1378,901,1315,64,0,0,1378,0,0,,0,,762,4620,2665,0,0,0,2,0,666,0,possession
-ENG-Premier League,2024,Everton,Mason Holgate,ENG,"FW,DF",28-171,1996,0.1,3,0,0,2,1,0,3,0,0,,0,,1,0,0,0,0,0,1,0,1,0,possession
-ENG-Premier League,2024,Everton,Michael Keane,ENG,DF,32-090,1993,9.0,409,78,226,167,18,14,409,1,0,0.0,1,100.0,187,736,234,1,1,0,0,2,236,3,possession
-ENG-Premier League,2024,Everton,Nathan Patterson,SCO,"DF,FW",23-177,2001,2.3,126,6,31,51,46,4,126,8,7,87.5,0,0.0,50,220,113,4,2,2,3,1,63,7,possession
-ENG-Premier League,2024,Everton,Orel Mangala,BEL,MF,27-024,1998,14.0,621,22,133,335,157,13,621,24,14,58.3,9,37.5,298,1574,576,6,6,3,12,12,406,19,possession
-ENG-Premier League,2024,Everton,Roman Dixon,ENG,DF,20-106,2004,1.0,36,8,19,14,4,0,36,3,0,0.0,3,100.0,16,107,48,0,0,0,2,0,13,1,possession
-ENG-Premier League,2024,Everton,Séamus Coleman,IRL,DF,36-182,1988,2.2,100,11,39,43,19,2,100,5,4,80.0,1,20.0,43,225,109,1,1,0,1,1,51,2,possession
-ENG-Premier League,2024,Everton,Tim Iroegbunam,ENG,MF,21-285,2003,6.2,248,20,79,117,58,12,248,19,8,42.1,7,36.8,119,708,360,8,10,2,10,18,108,9,possession
-ENG-Premier League,2024,Everton,Vitaliy Mykolenko,UKR,DF,25-317,1999,27.2,1311,103,421,559,341,22,1311,16,5,31.3,8,50.0,525,2115,1178,27,21,1,18,8,645,69,possession
-ENG-Premier League,2024,Everton,Youssef Chermiti,POR,"FW,MF",20-322,2004,0.2,8,0,0,2,6,2,8,1,1,100.0,0,0.0,4,11,1,0,0,0,0,0,6,4,possession
-ENG-Premier League,2024,Fulham,Adama Traoré,ESP,"FW,MF",29-076,1996,16.5,676,2,71,242,383,82,676,83,40,48.2,32,38.6,461,3815,2097,80,39,32,30,18,520,135,possession
-ENG-Premier League,2024,Fulham,Alex Iwobi,NGA,"FW,MF",28-343,1996,27.4,1533,31,211,615,731,98,1533,80,40,50.0,36,45.0,1088,6599,3621,119,90,34,52,37,1192,202,possession
-ENG-Premier League,2024,Fulham,Andreas Pereira,BRA,MF,29-100,1996,18.6,1002,16,145,416,456,34,1001,27,12,44.4,7,25.9,511,2335,1114,21,31,6,20,19,593,71,possession
-ENG-Premier League,2024,Fulham,Antonee Robinson,USA,DF,27-246,1997,30.2,2196,112,688,849,691,58,2196,71,32,45.1,28,39.4,1170,6454,3747,106,55,26,38,16,1317,238,possession
-ENG-Premier League,2024,Fulham,Bernd Leno,GER,GK,33-038,1992,31.0,1227,972,1218,9,0,0,1227,0,0,,0,,809,3197,1770,0,0,0,0,0,730,0,possession
-ENG-Premier League,2024,Fulham,Calvin Bassey,NGA,DF,25-101,1999,28.2,2023,270,990,948,105,16,2023,27,12,44.4,9,33.3,1295,6355,3562,23,14,4,27,7,1396,12,possession
-ENG-Premier League,2024,Fulham,Carlos Vinícius,BRA,MF,30-017,1995,0.0,3,0,0,1,2,2,3,1,1,100.0,0,0.0,3,10,9,1,0,1,0,0,2,1,possession
-ENG-Premier League,2024,Fulham,Emile Smith Rowe,ENG,MF,24-257,2000,20.1,1067,20,148,504,425,51,1067,33,16,48.5,15,45.5,699,3431,1797,50,37,11,31,13,820,106,possession
-ENG-Premier League,2024,Fulham,Harrison Reed,ENG,MF,30-074,1995,1.0,77,2,11,28,39,5,77,2,0,0.0,1,50.0,31,95,27,1,1,0,2,2,38,7,possession
-ENG-Premier League,2024,Fulham,Harry Wilson,WAL,"FW,MF",28-020,1997,9.3,436,7,58,160,226,44,436,23,9,39.1,9,39.1,263,1376,610,16,17,8,13,4,295,71,possession
-ENG-Premier League,2024,Fulham,Issa Diop,FRA,DF,28-092,1997,14.9,903,125,498,381,26,13,903,2,1,50.0,1,50.0,533,2426,1216,6,2,0,9,2,617,3,possession
-ENG-Premier League,2024,Fulham,Jay Stansfield,ENG,MF,22-138,2002,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-ENG-Premier League,2024,Fulham,Joachim Andersen,DEN,DF,28-315,1996,21.7,1794,267,936,801,67,13,1794,4,4,100.0,0,0.0,1056,4845,2379,11,8,1,4,3,1256,1,possession
-ENG-Premier League,2024,Fulham,Jorge Cuenca,ESP,DF,25-145,1999,2.9,152,23,88,59,6,1,152,2,2,100.0,0,0.0,65,235,116,0,1,0,1,0,92,0,possession
-ENG-Premier League,2024,Fulham,Joshua King,ENG,"MF,FW",18-098,2007,0.9,54,2,8,19,28,7,54,7,4,57.1,3,42.9,22,176,70,1,3,0,1,3,36,9,possession
-ENG-Premier League,2024,Fulham,Kenny Tete,NED,DF,29-184,1995,14.1,881,48,273,383,232,26,881,17,8,47.1,4,23.5,460,2301,1126,33,17,7,16,10,511,39,possession
-ENG-Premier League,2024,Fulham,Martial Godo,ENG,FW,22-028,2003,0.2,11,0,1,4,6,3,11,2,0,0.0,2,100.0,8,48,18,0,0,0,0,0,6,3,possession
-ENG-Premier League,2024,Fulham,Raúl Jiménez,MEX,FW,33-341,1991,21.4,799,27,93,347,370,137,796,44,18,40.9,23,52.3,445,1999,879,30,16,16,53,38,582,107,possession
-ENG-Premier League,2024,Fulham,Reiss Nelson,ENG,FW,25-122,1999,5.4,347,5,30,110,212,35,347,35,13,37.1,13,37.1,259,1956,960,45,25,21,14,8,274,63,possession
-ENG-Premier League,2024,Fulham,Rodrigo Muniz,BRA,FW,23-342,2001,10.1,301,12,25,157,123,52,301,18,6,33.3,9,50.0,154,628,169,5,4,2,47,24,230,31,possession
-ENG-Premier League,2024,Fulham,Ryan Sessegnon,ENG,"FW,DF",24-328,2000,2.1,90,2,21,31,39,16,90,8,3,37.5,5,62.5,44,320,191,6,3,6,4,6,51,16,possession
-ENG-Premier League,2024,Fulham,Sander Berge,NOR,MF,27-056,1998,20.3,1143,68,317,665,166,11,1143,16,9,56.3,5,31.3,658,3474,1502,20,18,2,9,13,726,8,possession
-ENG-Premier League,2024,Fulham,Saša Lukić,SRB,MF,28-241,1996,20.9,1217,44,263,698,268,12,1217,13,6,46.2,4,30.8,683,3661,1827,32,33,3,18,7,782,26,possession
-ENG-Premier League,2024,Fulham,Timothy Castagne,BEL,DF,29-127,1995,16.9,1077,85,419,431,232,30,1077,10,4,40.0,4,40.0,521,2097,1016,17,14,2,13,5,628,65,possession
-ENG-Premier League,2024,Fulham,Tom Cairney,SCO,MF,34-081,1991,4.9,506,5,69,275,169,7,506,11,4,36.4,3,27.3,343,1676,807,13,15,3,4,3,417,21,possession
-ENG-Premier League,2024,Fulham,Willian,BRA,"MF,FW",36-245,1988,1.7,135,1,16,51,72,4,135,4,0,0.0,3,75.0,86,602,313,5,4,2,3,1,106,15,possession
-ENG-Premier League,2024,Ipswich Town,Alex Palmer,ENG,GK,28-244,1996,7.0,236,194,232,4,0,0,236,0,0,,0,,107,604,365,0,0,0,1,0,82,0,possession
-ENG-Premier League,2024,Ipswich Town,Ali Al Hamadi,IRQ,FW,23-041,2002,1.5,53,2,6,20,30,9,53,7,4,57.1,3,42.9,29,187,111,4,3,4,7,4,36,14,possession
-ENG-Premier League,2024,Ipswich Town,Arijanet Muric,KVX,GK,26-155,1998,18.0,689,559,672,18,0,0,689,0,0,,0,,405,2088,1178,0,0,0,3,1,321,0,possession
-ENG-Premier League,2024,Ipswich Town,Axel Tuanzebe,COD,DF,27-148,1997,14.1,718,66,301,324,99,6,718,9,4,44.4,5,55.6,309,1379,665,7,6,1,10,1,380,7,possession
-ENG-Premier League,2024,Ipswich Town,Ben Godfrey,ENG,DF,27-086,1998,1.2,63,3,22,32,9,1,63,0,0,,0,,33,202,79,2,2,0,2,1,40,1,possession
-ENG-Premier League,2024,Ipswich Town,Ben Johnson,ENG,"DF,FW",25-077,2000,12.6,554,52,218,197,142,10,554,21,7,33.3,12,57.1,227,1328,528,15,10,3,20,15,257,27,possession
-ENG-Premier League,2024,Ipswich Town,Cameron Burgess,AUS,DF,29-172,1995,12.5,750,163,435,275,41,21,750,0,0,,0,,346,1637,845,2,4,0,2,0,439,3,possession
-ENG-Premier League,2024,Ipswich Town,Chiedozie Ogbene,IRL,FW,27-345,1997,2.6,70,3,11,19,40,6,70,7,1,14.3,3,42.9,41,330,139,7,2,2,4,2,43,15,possession
-ENG-Premier League,2024,Ipswich Town,Christian Walton,ENG,GK,29-153,1995,6.0,242,224,241,1,0,0,242,0,0,,0,,122,572,305,0,0,0,0,0,117,0,possession
-ENG-Premier League,2024,Ipswich Town,Conor Chaplin,ENG,"MF,FW",28-054,1997,6.9,286,6,47,144,100,12,286,6,3,50.0,3,50.0,138,697,380,10,7,0,9,3,195,20,possession
-ENG-Premier League,2024,Ipswich Town,Conor Townsend,ENG,DF,32-038,1993,3.4,164,25,82,48,36,5,164,0,0,,0,,51,267,129,2,2,0,2,2,74,12,possession
-ENG-Premier League,2024,Ipswich Town,Dara O'Shea,IRL,DF,26-038,1999,27.7,1690,320,967,620,106,45,1690,2,1,50.0,1,50.0,753,3294,1626,3,2,0,10,4,969,5,possession
-ENG-Premier League,2024,Ipswich Town,George Edmundson,ENG,DF,27-223,1997,0.0,3,1,3,0,0,0,3,0,0,,0,,1,2,0,0,0,0,0,0,1,0,possession
-ENG-Premier League,2024,Ipswich Town,George Hirst,SCO,FW,26-055,1999,3.3,113,6,17,36,61,17,113,3,2,66.7,1,33.3,62,310,111,6,1,5,14,8,93,21,possession
-ENG-Premier League,2024,Ipswich Town,Harry Clarke,ENG,DF,24-040,2001,4.2,268,18,100,122,47,2,268,2,1,50.0,1,50.0,118,555,222,5,7,0,4,2,163,2,possession
-ENG-Premier League,2024,Ipswich Town,Jack Clarke,ENG,"FW,MF",24-139,2000,9.9,421,11,92,172,168,28,421,34,20,58.8,10,29.4,245,1715,849,25,14,9,19,14,265,47,possession
-ENG-Premier League,2024,Ipswich Town,Jack Taylor,IRL,MF,26-292,1998,6.0,380,21,105,207,76,6,380,5,2,40.0,2,40.0,193,1131,629,9,8,1,7,6,250,16,possession
-ENG-Premier League,2024,Ipswich Town,Jacob Greaves,ENG,DF,24-211,2000,18.5,1064,222,582,426,60,15,1064,2,1,50.0,1,50.0,503,2156,909,6,8,0,7,2,673,4,possession
-ENG-Premier League,2024,Ipswich Town,Jaden Philogene Bidace,ENG,"FW,DF",23-062,2002,5.2,218,10,53,66,101,18,218,18,5,27.8,11,61.1,127,862,305,13,3,5,11,10,133,36,possession
-ENG-Premier League,2024,Ipswich Town,Jens Cajuste,SWE,MF,25-244,1999,17.8,831,49,230,438,175,11,831,41,23,56.1,12,29.3,379,2098,1110,23,20,3,19,11,479,14,possession
-ENG-Premier League,2024,Ipswich Town,Julio Enciso,PAR,"FW,MF",21-078,2004,4.8,218,2,24,109,92,10,218,27,16,59.3,11,40.7,106,777,456,11,13,4,10,18,150,24,possession
-ENG-Premier League,2024,Ipswich Town,Kalvin Phillips,ENG,MF,29-130,1995,13.5,722,60,220,388,118,4,722,12,5,41.7,6,50.0,302,1447,541,4,5,0,24,10,383,4,possession
-ENG-Premier League,2024,Ipswich Town,Leif Davis,ENG,DF,25-089,2000,27.5,1421,108,497,469,474,36,1421,37,13,35.1,17,45.9,642,3504,1900,47,27,10,35,14,755,117,possession
-ENG-Premier League,2024,Ipswich Town,Liam Delap,ENG,FW,22-062,2003,25.8,612,28,71,254,303,83,610,74,35,47.3,31,41.9,403,2959,1387,57,41,27,92,54,485,100,possession
-ENG-Premier League,2024,Ipswich Town,Luke Woolfenden,ENG,DF,26-172,1998,11.2,608,126,345,254,9,3,608,0,0,,0,,331,1900,1111,7,3,0,4,0,389,0,possession
-ENG-Premier League,2024,Ipswich Town,Marcus Harness,ENG,MF,29-046,1996,0.5,22,4,7,2,13,3,22,1,0,0.0,1,100.0,9,49,14,0,0,0,0,0,9,1,possession
-ENG-Premier League,2024,Ipswich Town,Massimo Luongo,AUS,MF,32-198,1992,2.0,72,9,32,24,16,1,72,0,0,,0,,38,140,25,0,0,0,2,3,41,1,possession
-ENG-Premier League,2024,Ipswich Town,Nathan Broadhead,WAL,"MF,FW",27-006,1998,6.6,270,7,38,136,105,19,270,30,14,46.7,14,46.7,147,1048,480,15,13,4,18,11,187,25,possession
-ENG-Premier League,2024,Ipswich Town,Omari Hutchinson,ENG,"MF,FW",21-163,2003,24.7,1061,12,168,450,463,74,1061,114,45,39.5,54,47.4,645,4832,2288,71,35,30,68,55,748,131,possession
-ENG-Premier League,2024,Ipswich Town,Sam Morsy,EGY,MF,33-213,1991,23.9,1362,69,394,781,200,4,1362,19,11,57.9,6,31.6,705,3733,1579,13,20,2,13,9,930,9,possession
-ENG-Premier League,2024,Ipswich Town,Sammie Szmodics,IRL,"FW,MF",29-199,1995,10.9,309,17,80,119,116,33,309,12,4,33.3,6,50.0,174,989,399,16,8,7,24,17,189,46,possession
-ENG-Premier League,2024,Ipswich Town,Wes Burns,WAL,"FW,DF",30-139,1994,10.3,350,21,69,129,160,18,350,24,9,37.5,14,58.3,216,1458,696,38,13,10,17,13,220,65,possession
-ENG-Premier League,2024,Leicester City,Abdul Fatawu Issahaku,GHA,FW,21-034,2004,6.4,326,19,73,114,157,26,326,69,29,42.0,28,40.6,217,1869,1055,42,24,15,18,12,216,60,possession
-ENG-Premier League,2024,Leicester City,Bilal El Khannouss,MAR,MF,20-336,2004,18.4,997,11,134,519,353,26,997,41,24,58.5,16,39.0,569,3409,1549,54,35,8,32,28,673,70,possession
-ENG-Premier League,2024,Leicester City,Bobby Reid,JAM,"FW,MF",32-068,1993,7.1,250,13,44,105,101,13,250,8,0,0.0,6,75.0,156,706,332,12,4,4,11,9,175,40,possession
-ENG-Premier League,2024,Leicester City,Boubakary Soumaré,FRA,MF,26-043,1999,19.2,1191,51,304,760,140,14,1191,41,26,63.4,11,26.8,708,3304,1720,29,14,2,19,20,837,21,possession
-ENG-Premier League,2024,Leicester City,Caleb Okoli,ITA,DF,23-272,2001,11.5,733,142,412,297,27,8,733,0,0,,0,,419,2070,970,3,2,0,10,2,436,2,possession
-ENG-Premier League,2024,Leicester City,Conor Coady,ENG,DF,32-045,1993,12.0,772,139,416,344,12,3,772,1,1,100.0,0,0.0,511,2169,1173,2,2,1,4,2,568,0,possession
-ENG-Premier League,2024,Leicester City,Danny Ward,WAL,GK,31-293,1993,1.5,55,40,55,0,0,0,55,1,0,0.0,1,100.0,44,176,107,0,0,0,0,0,35,0,possession
-ENG-Premier League,2024,Leicester City,Facundo Buonanotte,ARG,"FW,MF",20-109,2004,15.5,805,23,117,412,289,32,805,74,25,33.8,45,60.8,442,2806,1261,37,26,8,51,37,491,63,possession
-ENG-Premier League,2024,Leicester City,Hamza Choudhury,BAN,"MF,DF",27-192,1997,1.5,100,4,19,61,20,3,100,4,3,75.0,1,25.0,63,246,130,4,2,2,1,0,71,6,possession
-ENG-Premier League,2024,Leicester City,Harry Winks,ENG,MF,29-068,1996,17.1,1158,49,275,746,151,1,1158,12,3,25.0,8,66.7,696,3268,1522,19,13,0,13,8,827,11,possession
-ENG-Premier League,2024,Leicester City,Jakub Stolarczyk,POL,GK,24-113,2000,6.0,241,179,236,6,0,0,241,0,0,,0,,130,592,396,0,0,0,1,0,131,0,possession
-ENG-Premier League,2024,Leicester City,James Justin,ENG,DF,27-047,1998,27.1,1606,126,560,714,342,36,1606,28,9,32.1,12,42.9,708,2955,1454,35,24,4,30,11,881,90,possession
-ENG-Premier League,2024,Leicester City,Jamie Vardy,ENG,FW,38-090,1987,26.2,504,25,50,227,232,99,503,20,9,45.0,10,50.0,242,1278,610,27,11,14,31,12,328,103,possession
-ENG-Premier League,2024,Leicester City,Jannik Vestergaard,DEN,DF,32-251,1992,15.5,1092,196,572,497,28,10,1092,4,4,100.0,0,0.0,672,2932,1458,3,3,0,2,0,757,2,possession
+league,season,team,player,nation,pos,age,born,90s,Touches Touches,Touches Def Pen,Touches Def 3rd,Touches Mid 3rd,Touches Att 3rd,Touches Att Pen,Touches Live,Take-Ons Att,Take-Ons Succ,Take-Ons Succ%,Take-Ons Tkld,Take-Ons Tkld%,Carries Carries,Carries TotDist,Carries PrgDist,Carries PrgC,Carries 1/3,Carries CPA,Carries Mis,Carries Dis,Receiving Rec,Receiving PrgR,stat_type
+ENG-Premier League,2024,Arsenal,Bukayo Saka,ENG,"FW,MF",23-218,2001.0,14.9,761,6,43,170,555,121,760,77,34,44.2,31,40.3,480,3309,1911,74,22,38,26,35,545,204,possession
+ENG-Premier League,2024,Arsenal,David Raya,ESP,GK,29-208,1995.0,31.0,1199,705,1122,77,0,0,1199,1,1,100.0,0,0.0,740,3709,2220,0,0,0,1,0,683,0,possession
+ENG-Premier League,2024,Arsenal,Declan Rice,ENG,MF,26-087,1999.0,26.0,1637,62,274,780,600,62,1637,25,11,44.0,13,52.0,865,5456,2876,78,52,12,34,23,1076,81,possession
+ENG-Premier League,2024,Arsenal,Ethan Nwaneri,ENG,"FW,MF",18-021,2007.0,8.0,420,3,43,143,239,32,420,51,28,54.9,17,33.3,284,2281,1103,40,19,14,17,16,305,90,possession
+ENG-Premier League,2024,Arsenal,Gabriel Jesus,BRA,FW,28-008,1997.0,6.8,299,9,28,108,165,48,299,22,9,40.9,10,45.5,179,953,432,15,6,11,13,13,217,57,possession
+ENG-Premier League,2024,Arsenal,Gabriel Magalhães,BRA,DF,27-113,1997.0,26.3,1873,189,672,985,225,40,1873,5,4,80.0,1,20.0,1116,4470,2669,10,22,0,9,2,1366,11,possession
+ENG-Premier League,2024,Arsenal,Gabriel Martinelli,BRA,"FW,MF",23-297,2001.0,18.9,757,13,76,203,490,140,757,98,30,30.6,52,53.1,502,3866,2105,102,27,51,42,30,565,223,possession
+ENG-Premier League,2024,Arsenal,Jakub Kiwior,POL,DF,25-055,2000.0,5.5,326,41,129,182,15,2,326,3,2,66.7,1,33.3,168,737,414,4,0,1,1,1,233,0,possession
+ENG-Premier League,2024,Arsenal,Jorginho,ITA,MF,33-112,1991.0,6.8,443,9,81,262,105,3,443,4,1,25.0,2,50.0,258,1320,754,10,9,0,9,9,330,4,possession
+ENG-Premier League,2024,Arsenal,Jurriën Timber,NED,DF,23-298,2001.0,25.6,1564,50,280,802,489,66,1564,53,24,45.3,24,45.3,831,3649,1915,53,26,11,32,23,971,103,possession
+ENG-Premier League,2024,Arsenal,Kai Havertz,GER,"FW,MF",25-304,1999.0,20.4,768,31,88,282,403,103,768,38,9,23.7,24,63.2,411,1957,922,34,23,18,42,22,575,110,possession
+ENG-Premier League,2024,Arsenal,Kieran Tierney,SCO,"DF,FW",27-310,1997.0,1.1,61,1,7,22,32,4,61,1,0,0.0,1,100.0,24,120,75,3,2,1,1,0,42,11,possession
+ENG-Premier League,2024,Arsenal,Leandro Trossard,BEL,FW,30-128,1994.0,22.2,983,14,111,302,586,117,983,67,27,40.3,31,46.3,621,3916,1737,67,45,25,45,36,725,179,possession
+ENG-Premier League,2024,Arsenal,Martin Ødegaard,NOR,MF,26-115,1998.0,20.4,1294,6,89,540,679,84,1293,47,20,42.6,26,55.3,883,5389,2695,66,57,18,26,36,1022,125,possession
+ENG-Premier League,2024,Arsenal,Mikel Merino,ESP,"MF,FW",28-293,1996.0,14.8,669,34,121,289,268,68,669,16,7,43.8,6,37.5,327,1227,581,8,12,4,21,20,434,82,possession
+ENG-Premier League,2024,Arsenal,Myles Lewis-Skelly,ENG,DF,18-197,2006.0,10.3,598,15,108,326,176,12,598,22,11,50.0,8,36.4,333,1834,1134,24,16,4,7,8,399,24,possession
+ENG-Premier League,2024,Arsenal,Oleksandr Zinchenko,UKR,"DF,MF",28-117,1996.0,3.3,263,10,57,144,63,14,263,2,1,50.0,0,0.0,144,771,331,7,3,2,2,2,169,7,possession
+ENG-Premier League,2024,Arsenal,Raheem Sterling,ENG,"FW,MF",30-124,1994.0,3.9,210,1,7,45,161,33,210,22,9,40.9,7,31.8,152,1072,588,21,9,14,10,13,159,63,possession
+ENG-Premier League,2024,Arsenal,Reiss Nelson,ENG,FW,25-122,1999.0,0.0,2,0,1,1,0,0,2,0,0,,0,,1,4,4,0,0,0,0,0,1,0,possession
+ENG-Premier League,2024,Arsenal,Riccardo Calafiori,ITA,DF,22-327,2002.0,10.3,628,30,161,249,222,29,628,13,9,69.2,3,23.1,291,1572,839,21,12,3,11,5,377,29,possession
+ENG-Premier League,2024,Arsenal,Takehiro Tomiyasu,JPN,DF,26-157,1998.0,0.1,7,1,4,1,2,1,7,0,0,,0,,1,7,5,0,0,0,0,0,2,0,possession
+ENG-Premier League,2024,Arsenal,Thomas Partey,GHA,"MF,DF",31-302,1993.0,25.3,1798,58,371,978,458,24,1798,27,17,63.0,8,29.6,999,5320,2805,30,33,2,19,11,1265,38,possession
+ENG-Premier League,2024,Arsenal,William Saliba,FRA,DF,24-018,2001.0,28.3,2301,162,919,1277,117,17,2301,16,10,62.5,5,31.3,1396,6045,3111,14,10,1,17,5,1704,6,possession
+ENG-Premier League,2024,Aston Villa,Amadou Onana,BEL,MF,23-238,2001.0,13.0,718,51,198,429,104,15,718,16,10,62.5,3,18.8,398,2017,1005,16,15,0,9,7,478,11,possession
+ENG-Premier League,2024,Aston Villa,Andrés García,ESP,"DF,MF",22-063,2003.0,3.5,248,6,36,104,110,2,248,18,5,27.8,12,66.7,155,1230,658,25,13,2,10,6,162,27,possession
+ENG-Premier League,2024,Aston Villa,Axel Disasi,FRA,DF,27-031,1998.0,5.1,324,32,125,174,28,6,324,15,9,60.0,6,40.0,204,1250,618,10,8,2,3,2,219,5,possession
+ENG-Premier League,2024,Aston Villa,Boubacar Kamara,FRA,MF,25-139,1999.0,13.3,827,82,257,477,98,8,827,22,8,36.4,7,31.8,428,2126,1019,16,10,1,7,9,551,5,possession
+ENG-Premier League,2024,Aston Villa,Diego Carlos,BRA,DF,32-027,1993.0,9.2,674,86,331,330,15,6,674,2,2,100.0,0,0.0,419,2133,1162,3,3,0,1,2,481,0,possession
+ENG-Premier League,2024,Aston Villa,Donyell Malen,NED,FW,26-092,1999.0,2.6,90,1,5,26,65,14,90,10,3,30.0,5,50.0,53,405,199,6,5,2,6,5,56,18,possession
+ENG-Premier League,2024,Aston Villa,Emi Buendía,ARG,"MF,FW",28-107,1996.0,1.1,82,0,17,35,31,3,82,2,0,0.0,2,100.0,53,185,119,3,5,0,4,3,64,6,possession
+ENG-Premier League,2024,Aston Villa,Emiliano Martínez,ARG,GK,32-221,1992.0,29.0,1189,892,1176,13,0,0,1189,1,1,100.0,0,0.0,721,3622,2275,0,0,0,1,0,652,0,possession
+ENG-Premier League,2024,Aston Villa,Ezri Konsa,ENG,DF,27-170,1997.0,25.6,1546,188,733,728,92,17,1546,17,7,41.2,7,41.2,905,4582,2273,16,8,2,15,8,1082,11,possession
+ENG-Premier League,2024,Aston Villa,Ian Maatsen,NED,DF,23-032,2002.0,7.9,596,35,159,219,224,30,596,17,9,52.9,8,47.1,317,1732,824,21,13,8,17,18,356,70,possession
+ENG-Premier League,2024,Aston Villa,Jacob Ramsey,ENG,"FW,MF",23-318,2001.0,14.9,638,12,121,233,294,57,638,36,20,55.6,9,25.0,417,2790,1424,52,26,17,36,19,487,92,possession
+ENG-Premier League,2024,Aston Villa,Jaden Philogene Bidace,ENG,"FW,MF",23-062,2002.0,3.7,145,4,27,54,66,14,145,15,4,26.7,8,53.3,75,520,239,7,5,7,7,3,83,17,possession
+ENG-Premier League,2024,Aston Villa,John McGinn,SCO,"MF,FW",30-175,1994.0,20.9,916,22,143,496,287,46,916,43,17,39.5,12,27.9,509,2522,1077,27,16,5,32,24,649,66,possession
+ENG-Premier League,2024,Aston Villa,Jáder Durán,COL,FW,21-119,2003.0,7.1,263,13,36,110,122,47,263,14,3,21.4,9,64.3,133,535,267,7,7,2,16,15,192,44,possession
+ENG-Premier League,2024,Aston Villa,Kosta Nedeljković,SRB,DF,19-116,2005.0,1.4,66,4,15,32,19,0,66,2,1,50.0,1,50.0,27,101,33,1,0,0,1,0,32,0,possession
+ENG-Premier League,2024,Aston Villa,Lamare Bogarde,NED,"DF,MF",21-096,2004.0,5.3,325,16,95,191,40,4,325,4,2,50.0,1,25.0,173,1031,599,12,6,1,6,8,212,9,possession
+ENG-Premier League,2024,Aston Villa,Leon Bailey,JAM,"FW,MF",27-245,1997.0,12.6,539,18,76,155,318,69,539,57,22,38.6,24,42.1,344,2540,1334,57,22,33,35,25,386,121,possession
+ENG-Premier League,2024,Aston Villa,Lucas Digne,FRA,DF,31-265,1993.0,23.9,1422,86,485,434,513,28,1422,18,9,50.0,8,44.4,652,2822,1253,21,14,4,17,15,778,135,possession
+ENG-Premier League,2024,Aston Villa,Marco Asensio,ESP,"MF,FW",29-080,1996.0,3.4,163,1,15,77,76,13,163,7,5,71.4,2,28.6,104,651,364,14,14,2,4,3,114,11,possession
+ENG-Premier League,2024,Aston Villa,Marcus Rashford,ENG,FW,27-162,1997.0,3.3,170,2,12,38,121,21,170,17,8,47.1,9,52.9,104,638,379,16,7,11,4,1,121,35,possession
+ENG-Premier League,2024,Aston Villa,Matty Cash,POL,DF,27-247,1997.0,16.4,837,59,304,340,203,33,837,32,15,46.9,14,43.8,413,2711,1381,39,31,4,14,6,472,53,possession
+ENG-Premier League,2024,Aston Villa,Morgan Rogers,ENG,"FW,MF",22-259,2002.0,27.9,1119,32,166,491,485,120,1119,136,55,40.4,63,46.3,651,4652,2675,95,59,29,88,60,780,149,possession
+ENG-Premier League,2024,Aston Villa,Ollie Watkins,ENG,FW,29-102,1995.0,23.8,576,17,43,209,333,142,574,36,8,22.2,25,69.4,340,1850,963,47,20,32,46,42,454,133,possession
+ENG-Premier League,2024,Aston Villa,Pau Torres,ESP,DF,28-085,1997.0,18.2,1241,190,591,581,75,13,1241,16,14,87.5,2,12.5,772,5098,3343,31,19,0,3,3,882,4,possession
+ENG-Premier League,2024,Aston Villa,Robin Olsen,SWE,GK,35-093,1990.0,2.0,83,73,82,1,0,0,83,0,0,,0,,44,226,109,0,0,0,0,0,41,0,possession
+ENG-Premier League,2024,Aston Villa,Ross Barkley,ENG,MF,31-127,1993.0,6.2,429,16,68,255,112,17,429,10,8,80.0,2,20.0,254,1377,640,14,13,2,5,8,302,8,possession
+ENG-Premier League,2024,Aston Villa,Tyrone Mings,ENG,DF,32-029,1993.0,9.7,664,120,341,288,39,13,664,2,2,100.0,0,0.0,407,2191,1096,5,12,0,3,1,453,0,possession
+ENG-Premier League,2024,Aston Villa,Youri Tielemans,BEL,MF,27-339,1997.0,29.4,2067,89,424,1183,481,33,2066,55,29,52.7,17,30.9,1106,4798,2158,31,23,8,29,25,1443,38,possession
+ENG-Premier League,2024,Bournemouth,Adam Smith,ENG,DF,33-347,1991.0,12.7,562,31,181,258,127,3,562,12,4,33.3,5,41.7,241,935,436,10,13,0,10,5,256,19,possession
+ENG-Premier League,2024,Bournemouth,Alex Scott,ENG,MF,21-233,2003.0,5.6,347,14,63,190,99,13,347,22,5,22.7,11,50.0,195,992,457,9,5,1,18,7,215,22,possession
+ENG-Premier League,2024,Bournemouth,Antoine Semenyo,GHA,FW,25-094,2000.0,29.4,1361,36,162,472,759,169,1361,116,60,51.7,49,42.2,817,6173,3060,124,61,62,72,63,948,242,possession
+ENG-Premier League,2024,Bournemouth,Ben Winterburn,ENG,"FW,MF",20-219,2004.0,0.3,9,0,2,5,2,1,9,0,0,,0,,6,50,40,2,0,1,0,0,6,2,possession
+ENG-Premier League,2024,Bournemouth,Dango Ouattara,BFA,FW,23-059,2002.0,18.7,795,47,131,255,424,114,795,67,30,44.8,32,47.8,407,2983,1457,67,27,35,51,28,478,169,possession
+ENG-Premier League,2024,Bournemouth,Daniel Jebbison,ENG,FW,21-241,2003.0,0.8,52,2,4,21,27,9,52,5,4,80.0,1,20.0,33,212,81,2,1,3,11,4,37,11,possession
+ENG-Premier League,2024,Bournemouth,David Brooks,WAL,"FW,MF",27-277,1997.0,8.8,427,12,53,160,222,32,427,30,8,26.7,19,63.3,262,1775,792,25,20,8,26,10,284,72,possession
+ENG-Premier League,2024,Bournemouth,Dean Huijsen,ESP,DF,19-362,2005.0,20.8,1506,199,709,707,98,28,1506,5,2,40.0,3,60.0,815,4913,3022,31,14,0,14,1,916,9,possession
+ENG-Premier League,2024,Bournemouth,Enes Ünal,TUR,"FW,MF",27-336,1997.0,3.8,172,6,14,63,95,26,172,12,1,8.3,10,83.3,91,261,95,4,3,1,17,13,133,22,possession
+ENG-Premier League,2024,Bournemouth,Evanilson,BRA,FW,25-187,1999.0,19.1,408,15,31,154,225,101,407,19,6,31.6,7,36.8,249,1355,637,24,13,13,28,19,291,79,possession
+ENG-Premier League,2024,Bournemouth,Illia Zabarnyi,UKR,DF,22-222,2002.0,28.1,1652,196,790,829,52,11,1652,8,5,62.5,2,25.0,1023,6487,3836,18,14,0,14,3,1020,3,possession
+ENG-Premier League,2024,Bournemouth,James Hill,ENG,DF,23-091,2002.0,5.0,319,19,99,167,54,8,319,2,1,50.0,1,50.0,146,552,295,3,6,0,2,0,179,8,possession
+ENG-Premier League,2024,Bournemouth,Julian Araujo,MEX,DF,23-241,2001.0,3.9,200,15,68,103,32,1,200,0,0,,0,,84,290,138,2,0,0,4,2,100,11,possession
+ENG-Premier League,2024,Bournemouth,Justin Kluivert,NED,"MF,FW",25-341,1999.0,21.5,879,21,87,295,517,111,873,76,31,40.8,36,47.4,511,3273,1885,64,44,33,44,24,562,132,possession
+ENG-Premier League,2024,Bournemouth,Kepa Arrizabalaga,ESP,GK,30-190,1994.0,24.0,843,617,820,22,1,1,843,1,1,100.0,0,0.0,488,2436,1381,0,0,0,0,0,378,0,possession
+ENG-Premier League,2024,Bournemouth,Lewis Cook,ENG,"MF,DF",28-067,1997.0,28.6,1676,72,387,882,426,19,1676,16,10,62.5,6,37.5,742,3718,2048,33,26,4,28,15,835,46,possession
+ENG-Premier League,2024,Bournemouth,Luis Sinisterra,COL,"FW,MF",25-298,1999.0,2.6,155,7,18,41,96,23,155,20,8,40.0,10,50.0,95,744,393,19,6,10,6,3,102,38,possession
+ENG-Premier League,2024,Bournemouth,Marcos Senesi,ARG,DF,27-336,1997.0,10.7,749,62,326,366,66,12,749,9,5,55.6,4,44.4,464,2404,1418,12,14,0,5,5,472,5,possession
+ENG-Premier League,2024,Bournemouth,Marcus Tavernier,ENG,"FW,MF",26-020,1999.0,16.7,905,17,100,345,480,47,905,47,20,42.6,24,51.1,510,3047,1435,36,33,7,36,41,571,101,possession
+ENG-Premier League,2024,Bournemouth,Mark Travers,IRL,GK,25-328,1999.0,5.0,162,144,159,3,0,0,162,0,0,,0,,85,426,188,0,0,0,0,0,68,0,possession
+ENG-Premier League,2024,Bournemouth,Max Aarons,ENG,DF,25-097,2000.0,1.0,73,2,19,40,15,0,73,2,0,0.0,1,50.0,41,152,68,1,0,0,1,0,40,3,possession
+ENG-Premier League,2024,Bournemouth,Milos Kerkez,HUN,DF,21-155,2003.0,30.2,1727,93,443,734,571,55,1727,41,17,41.5,14,34.1,869,5038,2962,85,56,14,41,15,930,151,possession
+ENG-Premier League,2024,Bournemouth,Neto,BRA,GK,35-266,1989.0,2.0,70,60,70,0,0,0,70,0,0,,0,,35,148,99,0,0,0,0,0,28,0,possession
+ENG-Premier League,2024,Bournemouth,Philip Billing,DEN,MF,28-304,1996.0,2.0,148,5,20,72,57,12,148,3,1,33.3,0,0.0,58,254,163,3,1,1,7,4,75,13,possession
+ENG-Premier League,2024,Bournemouth,Remy Rees-Dottin,ENG,FW,19-036,2006.0,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+ENG-Premier League,2024,Bournemouth,Ryan Christie,SCO,MF,30-048,1995.0,23.5,1376,74,256,773,372,46,1376,48,23,47.9,22,45.8,726,3802,1773,34,40,8,44,25,777,44,possession
+ENG-Premier League,2024,Bournemouth,Tyler Adams,USA,MF,26-056,1999.0,15.3,939,40,239,545,164,12,939,14,2,14.3,9,64.3,448,2051,936,11,15,1,21,9,500,7,possession
+ENG-Premier League,2024,Bournemouth,Zain Silcott-Duberry,MSR,FW,19-276,2005.0,0.0,3,0,1,0,2,0,3,0,0,,0,,1,6,6,0,0,0,0,0,2,0,possession
+ENG-Premier League,2024,Brentford,Ben Mee,ENG,DF,35-202,1989.0,2.0,138,18,66,62,11,3,138,0,0,,0,,78,404,274,3,1,1,0,0,86,2,possession
+ENG-Premier League,2024,Brentford,Bryan Mbeumo,CMR,FW,25-247,1999.0,30.9,1429,44,201,455,798,127,1424,85,38,44.7,36,42.4,862,5461,2841,103,59,60,84,38,973,287,possession
+ENG-Premier League,2024,Brentford,Christian Nørgaard,DEN,MF,31-032,1994.0,24.3,1422,142,487,676,273,46,1422,12,6,50.0,4,33.3,656,2528,1080,12,11,4,28,18,861,34,possession
+ENG-Premier League,2024,Brentford,Edmond-Paris Maghoma,ENG,"MF,FW",23-338,2001.0,1.3,101,2,18,58,27,4,101,4,3,75.0,1,25.0,68,414,221,4,3,1,2,0,75,4,possession
+ENG-Premier League,2024,Brentford,Ethan Pinnock,JAM,DF,31-317,1993.0,21.3,1348,294,783,457,109,24,1348,9,3,33.3,6,66.7,633,3117,1633,3,4,0,2,4,760,9,possession
+ENG-Premier League,2024,Brentford,Fabio Carvalho,POR,"FW,MF",22-224,2002.0,5.1,247,4,44,91,113,22,247,14,2,14.3,10,71.4,137,698,356,9,3,0,13,8,145,23,possession
+ENG-Premier League,2024,Brentford,Frank Onyeka,NGA,MF,27-100,1998.0,0.3,10,0,1,5,4,0,10,0,0,,0,,6,55,14,0,0,0,2,1,6,0,possession
+ENG-Premier League,2024,Brentford,Hákon Rafn Valdimarsson,ISL,GK,23-180,2001.0,1.6,72,60,71,1,0,0,72,0,0,,0,,44,191,80,0,0,0,0,0,36,0,possession
+ENG-Premier League,2024,Brentford,Jayden Meghoma,ENG,DF,18-287,2006.0,0.1,3,1,2,0,1,0,3,0,0,,0,,1,1,0,0,0,0,0,0,2,0,possession
+ENG-Premier League,2024,Brentford,Keane Lewis-Potter,ENG,"DF,FW",24-048,2001.0,28.3,1346,85,399,519,445,69,1346,90,35,38.9,46,51.1,707,5225,2779,88,60,34,41,18,795,132,possession
+ENG-Premier League,2024,Brentford,Kevin Schade,GER,FW,23-135,2001.0,19.5,710,32,109,193,420,112,710,73,25,34.2,42,57.5,367,2671,1212,54,26,33,44,33,442,134,possession
+ENG-Premier League,2024,Brentford,Kim Jisoo,KOR,DF,20-108,2004.0,0.3,30,1,15,12,3,0,30,0,0,,0,,15,57,22,0,0,0,0,1,22,0,possession
+ENG-Premier League,2024,Brentford,Kristoffer Ajer,NOR,DF,26-359,1998.0,14.4,714,47,238,334,147,33,714,14,7,50.0,6,42.9,348,1951,1116,26,10,2,14,12,450,39,possession
+ENG-Premier League,2024,Brentford,Mads Roerslev,DEN,DF,25-291,1999.0,12.2,645,49,234,268,146,20,645,19,7,36.8,8,42.1,352,1630,858,17,13,0,9,6,407,54,possession
+ENG-Premier League,2024,Brentford,Mark Flekken,NED,GK,31-302,1993.0,29.4,1515,1184,1471,49,0,0,1515,1,1,100.0,0,0.0,928,4676,2666,0,0,0,2,0,850,0,possession
+ENG-Premier League,2024,Brentford,Mathias Jensen,DEN,MF,29-100,1996.0,8.3,487,20,109,204,176,9,487,14,8,57.1,4,28.6,264,1145,527,6,8,0,7,6,303,25,possession
+ENG-Premier League,2024,Brentford,Michael Kayode,ITA,DF,20-275,2004.0,0.5,33,1,11,9,13,3,33,0,0,,0,,12,69,38,2,1,1,0,0,14,6,possession
+ENG-Premier League,2024,Brentford,Mikkel Damsgaard,DEN,"MF,FW",24-282,2000.0,25.9,1526,32,272,693,583,65,1526,84,44,52.4,30,35.7,863,4780,2453,59,38,8,53,40,1014,110,possession
+ENG-Premier League,2024,Brentford,Nathan Collins,IRL,DF,23-346,2001.0,31.0,2037,327,1076,822,149,58,2037,12,6,50.0,5,41.7,1069,5784,3358,24,8,0,15,8,1240,17,possession
+ENG-Premier League,2024,Brentford,Rico Henry,ENG,DF,27-277,1997.0,0.0,6,0,4,1,1,0,6,0,0,,0,,2,5,0,0,0,0,0,0,2,1,possession
+ENG-Premier League,2024,Brentford,Ryan Trevitt,ENG,MF,22-030,2003.0,0.0,7,1,2,4,1,0,7,0,0,,0,,4,7,2,0,0,0,0,0,4,1,possession
+ENG-Premier League,2024,Brentford,Sepp van den Berg,NED,DF,23-112,2001.0,21.7,1209,218,603,459,149,38,1209,7,4,57.1,3,42.9,509,2398,1187,7,9,0,13,5,665,26,possession
+ENG-Premier League,2024,Brentford,Thiago,BRA,FW,23-289,2001.0,1.5,56,6,11,23,23,2,56,3,2,66.7,1,33.3,34,119,42,3,2,1,5,1,35,4,possession
+ENG-Premier League,2024,Brentford,Vitaly Janelt,GER,MF,26-336,1998.0,24.2,1259,117,405,565,297,30,1259,11,3,27.3,6,54.5,640,2983,1272,17,17,3,16,10,800,36,possession
+ENG-Premier League,2024,Brentford,Yehor Yarmoliuk,UKR,MF,21-041,2004.0,10.5,649,42,176,329,158,14,649,20,9,45.0,9,45.0,327,1809,575,12,14,2,19,15,393,40,possession
+ENG-Premier League,2024,Brentford,Yoane Wissa,COD,FW,28-220,1996.0,25.4,755,27,115,308,345,130,755,40,12,30.0,19,47.5,444,2663,1220,45,17,25,58,25,537,126,possession
+ENG-Premier League,2024,Brentford,Yunus Emre Konak,TUR,"FW,MF",19-091,2006.0,0.3,39,0,6,20,13,0,39,2,0,0.0,2,100.0,13,57,36,1,0,1,2,3,21,1,possession
+ENG-Premier League,2024,Brighton,Adam Webster,ENG,DF,30-097,1995.0,6.9,569,84,279,271,22,8,569,3,1,33.3,2,66.7,326,1927,1142,7,2,0,3,1,384,2,possession
+ENG-Premier League,2024,Brighton,Bart Verbruggen,NED,GK,22-236,2002.0,29.0,1137,921,1125,12,0,0,1137,2,2,100.0,0,0.0,760,2764,1352,0,1,1,2,0,735,0,possession
+ENG-Premier League,2024,Brighton,Billy Gilmour,SCO,MF,23-304,2001.0,1.1,73,2,14,46,13,0,73,2,1,50.0,1,50.0,44,210,117,2,0,0,0,0,58,2,possession
+ENG-Premier League,2024,Brighton,Brajan Gruda,GER,"FW,MF",20-315,2004.0,5.4,243,4,30,83,132,29,243,20,8,40.0,8,40.0,141,987,458,15,16,9,7,20,160,45,possession
+ENG-Premier League,2024,Brighton,Carlos Baleba,CMR,MF,21-098,2004.0,22.9,1267,56,285,751,268,10,1267,48,29,60.4,16,33.3,688,3945,1981,34,34,2,32,31,749,26,possession
+ENG-Premier League,2024,Brighton,Danny Welbeck,ENG,FW,34-136,1990.0,17.7,538,10,42,238,262,73,538,29,10,34.5,16,55.2,314,1449,612,17,19,6,38,22,398,65,possession
+ENG-Premier League,2024,Brighton,Diego Gómez,PAR,MF,22-015,2003.0,4.4,304,16,72,166,70,5,304,12,6,50.0,6,50.0,142,516,233,5,3,0,6,9,180,11,possession
+ENG-Premier League,2024,Brighton,Eiran Cashin,IRL,DF,23-153,2001.0,0.2,30,2,9,19,2,0,30,1,0,0.0,1,100.0,19,131,99,0,0,0,0,0,23,1,possession
+ENG-Premier League,2024,Brighton,Evan Ferguson,IRL,FW,20-174,2004.0,2.7,88,7,13,50,26,9,88,2,1,50.0,1,50.0,42,183,56,2,1,2,5,6,52,9,possession
+ENG-Premier League,2024,Brighton,Ferdi Kadioglu,TUR,"DF,MF",25-186,1999.0,4.3,231,13,71,91,72,9,231,7,3,42.9,3,42.9,124,479,183,1,0,0,6,2,144,27,possession
+ENG-Premier League,2024,Brighton,Georginio Rutter,FRA,"MF,FW",22-356,2002.0,18.4,641,20,83,246,326,79,641,71,27,38.0,34,47.9,361,2467,1405,42,36,16,45,37,411,79,possession
+ENG-Premier League,2024,Brighton,Igor,BRA,DF,27-063,1998.0,10.0,764,109,377,353,38,1,764,4,3,75.0,1,25.0,497,2837,1782,9,14,0,1,0,568,0,possession
+ENG-Premier League,2024,Brighton,Jack Hinshelwood,ENG,"DF,MF",20-000,2005.0,15.7,928,44,269,422,242,21,928,9,1,11.1,7,77.8,420,1802,878,15,15,1,16,2,562,38,possession
+ENG-Premier League,2024,Brighton,Jakub Moder,POL,MF,26-004,1999.0,0.1,27,2,7,12,9,1,27,0,0,,0,,13,93,62,2,3,0,0,0,14,0,possession
+ENG-Premier League,2024,Brighton,James Milner,ENG,MF,39-097,1986.0,1.9,92,3,13,48,31,4,92,1,1,100.0,0,0.0,46,223,97,1,1,0,0,0,58,10,possession
+ENG-Premier League,2024,Brighton,Jan Paul van Hecke,NED,DF,24-307,2000.0,27.9,2232,237,955,1154,142,28,2232,10,4,40.0,4,40.0,1471,9213,6356,50,39,0,10,7,1563,5,possession
+ENG-Premier League,2024,Brighton,Jason Steele,ENG,GK,34-236,1990.0,2.0,114,107,114,0,0,0,114,0,0,,0,,91,361,151,0,0,0,0,0,83,0,possession
+ENG-Premier League,2024,Brighton,Jeremy Sarmiento,ECU,MF,22-299,2002.0,0.1,8,0,0,6,2,0,8,0,0,,0,,6,61,10,0,0,0,1,0,7,2,possession
+ENG-Premier League,2024,Brighton,João Pedro,BRA,"FW,MF",23-197,2001.0,20.0,854,10,51,351,463,112,851,72,25,34.7,39,54.2,552,3383,1596,61,33,29,68,36,673,118,possession
+ENG-Premier League,2024,Brighton,Joël Veltman,NED,DF,33-086,1992.0,18.3,1097,64,327,540,240,10,1097,15,4,26.7,5,33.3,524,2780,1414,29,22,3,19,7,598,32,possession
+ENG-Premier League,2024,Brighton,Julio Enciso,PAR,"MF,FW",21-078,2004.0,3.3,202,2,17,72,116,20,202,21,10,47.6,8,38.1,114,678,386,11,10,4,7,9,141,17,possession
+ENG-Premier League,2024,Brighton,Kaoru Mitoma,JPN,"FW,MF",27-326,1997.0,27.4,1265,14,143,438,711,151,1265,126,48,38.1,73,57.9,764,6138,3567,135,74,54,48,22,888,274,possession
+ENG-Premier League,2024,Brighton,Lewis Dunk,ENG,DF,33-141,1991.0,19.1,1801,221,868,851,92,16,1801,1,0,0.0,1,100.0,1117,5326,2906,20,16,0,5,3,1317,3,possession
+ENG-Premier League,2024,Brighton,Mats Wieffer,NED,MF,25-146,1999.0,5.7,481,26,114,284,90,10,481,9,4,44.4,5,55.6,265,1150,456,5,6,0,10,7,313,9,possession
+ENG-Premier League,2024,Brighton,Matt O'Riley,DEN,MF,24-141,2000.0,6.0,333,14,56,155,123,23,333,9,4,44.4,4,44.4,160,659,326,11,7,2,9,3,188,29,possession
+ENG-Premier League,2024,Brighton,Pervis Estupiñán,ECU,DF,27-080,1998.0,20.7,1482,61,372,740,384,24,1482,27,13,48.1,13,48.1,767,3702,1985,48,36,7,25,23,898,93,possession
+ENG-Premier League,2024,Brighton,Simon Adingra,CIV,"FW,MF",23-100,2002.0,8.3,374,6,52,115,212,48,374,35,15,42.9,20,57.1,246,1626,759,27,15,13,29,9,262,96,possession
+ENG-Premier League,2024,Brighton,Solly March,ENG,"MF,FW",30-265,1994.0,0.7,50,0,4,13,33,2,50,1,1,100.0,0,0.0,16,83,32,0,0,0,1,1,22,7,possession
+ENG-Premier League,2024,Brighton,Tariq Lamptey,GHA,DF,24-193,2000.0,8.5,489,25,147,208,137,9,489,27,9,33.3,15,55.6,267,1867,893,25,13,2,9,4,276,40,possession
+ENG-Premier League,2024,Brighton,Yankuba Minteh,GAM,"FW,MF",20-263,2004.0,14.9,604,25,111,170,340,101,604,78,37,47.4,34,43.6,334,2424,1446,58,15,45,40,19,343,141,possession
+ENG-Premier League,2024,Brighton,Yasin Ayari,SWE,MF,21-187,2003.0,17.1,957,47,216,480,274,41,957,38,16,42.1,13,34.2,483,2366,1051,22,17,6,31,21,616,54,possession
+ENG-Premier League,2024,Chelsea,Axel Disasi,FRA,DF,27-031,1998.0,4.0,323,17,110,175,40,2,323,1,1,100.0,0,0.0,196,953,519,6,3,0,1,3,242,2,possession
+ENG-Premier League,2024,Chelsea,Benoît Badiashile,FRA,DF,24-016,2001.0,3.7,336,31,138,186,13,0,336,1,0,0.0,1,100.0,177,660,340,3,5,0,1,0,247,2,possession
+ENG-Premier League,2024,Chelsea,Christopher Nkunku,FRA,FW,27-148,1997.0,10.2,446,10,52,182,216,52,446,27,10,37.0,14,51.9,279,1368,628,17,16,13,18,17,354,67,possession
+ENG-Premier League,2024,Chelsea,Cole Palmer,ENG,MF,22-340,2002.0,28.5,1481,17,119,661,721,116,1477,94,42,44.7,37,39.4,935,6248,2995,91,61,30,54,28,1093,149,possession
+ENG-Premier League,2024,Chelsea,Enzo Fernández,ARG,MF,24-084,2001.0,25.8,1822,31,288,933,613,68,1822,43,21,48.8,15,34.9,981,4400,2188,47,46,7,25,26,1331,93,possession
+ENG-Premier League,2024,Chelsea,Filip Jørgensen,DEN,GK,22-360,2002.0,6.0,202,174,201,1,0,0,202,0,0,,0,,145,676,423,0,0,0,0,0,139,0,possession
+ENG-Premier League,2024,Chelsea,Jadon Sancho,ENG,FW,25-017,2000.0,17.6,864,11,110,260,504,109,864,91,43,47.3,36,39.6,575,3925,2155,88,31,51,26,19,672,196,possession
+ENG-Premier League,2024,Chelsea,Joshua Acheampong,ENG,DF,18-341,2006.0,1.9,137,7,48,81,8,3,137,2,1,50.0,0,0.0,106,709,409,0,2,0,2,0,111,0,possession
+ENG-Premier League,2024,Chelsea,João Félix,POR,"FW,MF",25-152,1999.0,4.1,272,2,26,128,125,30,272,31,10,32.3,14,45.2,193,1248,712,21,13,5,6,4,218,30,possession
+ENG-Premier League,2024,Chelsea,Kiernan Dewsbury-Hall,ENG,"MF,FW",26-217,1998.0,2.9,180,4,28,94,58,6,180,4,2,50.0,2,50.0,93,474,221,5,1,0,1,3,136,11,possession
+ENG-Premier League,2024,Chelsea,Levi Colwill,ENG,DF,22-044,2003.0,28.0,2406,300,1110,1204,100,25,2406,8,5,62.5,3,37.5,1368,6203,3424,10,10,1,10,7,1766,7,possession
+ENG-Premier League,2024,Chelsea,Malo Gusto,FRA,DF,21-327,2003.0,19.2,1464,54,364,709,402,39,1464,15,4,26.7,10,66.7,800,4028,2027,44,31,7,15,17,978,79,possession
+ENG-Premier League,2024,Chelsea,Marc Cucurella,ESP,DF,26-263,1998.0,26.2,1788,91,543,827,425,59,1788,12,4,33.3,7,58.3,767,3210,1892,29,14,2,25,5,1125,96,possession
+ENG-Premier League,2024,Chelsea,Marc Guiu,ESP,FW,19-097,2006.0,0.8,22,0,2,8,12,3,22,1,0,0.0,1,100.0,12,30,8,0,0,0,2,0,12,3,possession
+ENG-Premier League,2024,Chelsea,Mathis Amougou,FRA,MF,19-083,2006.0,0.1,9,1,2,4,3,0,9,0,0,,0,,7,25,5,0,1,0,0,1,6,0,possession
+ENG-Premier League,2024,Chelsea,Moisés Caicedo,ECU,MF,23-160,2001.0,30.2,2140,77,461,1316,384,12,2140,47,19,40.4,18,38.3,1192,5556,2635,35,23,2,30,20,1512,28,possession
+ENG-Premier League,2024,Chelsea,Mykhailo Mudryk,UKR,FW,24-096,2001.0,1.7,62,3,12,15,38,6,62,8,3,37.5,5,62.5,39,468,227,7,8,0,3,7,42,12,possession
+ENG-Premier League,2024,Chelsea,Nicolas Jackson,SEN,FW,23-295,2001.0,20.7,583,19,43,241,307,124,583,55,17,30.9,28,50.9,349,2217,1188,43,22,28,56,34,425,101,possession
+ENG-Premier League,2024,Chelsea,Noni Madueke,ENG,FW,23-032,2002.0,17.0,736,16,76,203,469,140,736,71,28,39.4,36,50.7,497,4133,2602,114,40,68,38,23,566,185,possession
+ENG-Premier League,2024,Chelsea,Pedro Neto,POR,FW,25-033,2000.0,18.4,843,7,73,252,530,89,843,83,25,30.1,38,45.8,554,4625,2397,97,46,36,33,23,624,174,possession
+ENG-Premier League,2024,Chelsea,Reece James,ENG,"DF,MF",25-124,1999.0,8.5,703,31,203,386,118,4,703,15,6,40.0,5,33.3,358,1413,655,5,4,0,6,4,442,8,possession
+ENG-Premier League,2024,Chelsea,Renato Veiga,POR,"DF,MF",21-256,2003.0,2.0,167,2,61,82,27,3,167,5,3,60.0,2,40.0,85,417,144,4,5,1,1,0,110,3,possession
+ENG-Premier League,2024,Chelsea,Robert Sánchez,ESP,GK,27-144,1997.0,25.0,1058,775,1047,11,0,0,1058,0,0,,0,,709,3363,2136,0,0,0,0,0,668,0,possession
+ENG-Premier League,2024,Chelsea,Roméo Lavia,BEL,MF,21-095,2004.0,6.0,344,12,86,209,53,1,344,12,7,58.3,5,41.7,204,935,407,3,8,0,1,6,249,6,possession
+ENG-Premier League,2024,Chelsea,Shumaira Mheuka,ENG,MF,17-173,2007.0,0.0,2,0,0,0,2,1,2,0,0,,0,,1,0,0,0,0,0,0,0,2,0,possession
+ENG-Premier League,2024,Chelsea,Tosin Adarabioyo,ENG,DF,27-199,1997.0,13.1,1132,156,543,568,22,13,1132,3,2,66.7,0,0.0,675,2716,1530,5,1,0,3,0,865,1,possession
+ENG-Premier League,2024,Chelsea,Trevoh Chalobah,ENG,DF,25-280,1999.0,5.3,411,33,190,197,28,7,411,3,1,33.3,0,0.0,222,814,333,2,2,0,3,2,307,0,possession
+ENG-Premier League,2024,Chelsea,Tyrique George,ENG,FW,19-066,2006.0,1.0,51,0,9,12,31,8,51,4,3,75.0,1,25.0,36,342,206,9,1,5,1,0,41,16,possession
+ENG-Premier League,2024,Chelsea,Wesley Fofana,FRA,DF,24-115,2000.0,13.0,933,81,370,523,55,10,933,15,8,53.3,3,20.0,557,3149,1614,19,12,1,16,5,665,4,possession
+ENG-Premier League,2024,Crystal Palace,Adam Wharton,ENG,MF,20-313,2004.0,11.2,700,21,158,372,173,8,700,9,2,22.2,7,77.8,346,1593,814,11,16,2,13,12,433,10,possession
+ENG-Premier League,2024,Crystal Palace,Asher Agbinone,ENG,MF,19-195,2005.0,0.1,8,0,0,2,6,0,8,2,0,0.0,1,50.0,5,53,23,2,0,0,0,1,5,1,possession
+ENG-Premier League,2024,Crystal Palace,Ben Chilwell,ENG,DF,28-111,1996.0,1.2,83,6,30,33,21,1,83,3,0,0.0,2,66.7,34,146,99,1,0,0,2,2,34,7,possession
+ENG-Premier League,2024,Crystal Palace,Caleb Kporha,ENG,DF,18-270,2006.0,0.1,11,1,4,2,5,0,11,0,0,,0,,4,46,36,1,1,0,0,2,3,0,possession
+ENG-Premier League,2024,Crystal Palace,Chadi Riad,MAR,DF,21-298,2003.0,1.0,90,5,41,49,1,0,90,0,0,,0,,58,318,232,2,0,0,1,0,69,0,possession
+ENG-Premier League,2024,Crystal Palace,Cheick Doucouré,MLI,MF,25-093,2000.0,5.0,263,11,56,165,45,4,263,5,2,40.0,2,40.0,133,581,280,2,7,1,4,7,160,7,possession
+ENG-Premier League,2024,Crystal Palace,Chris Richards,USA,DF,25-014,2000.0,14.9,822,93,432,349,46,13,822,5,1,20.0,4,80.0,382,1696,777,5,5,0,5,5,463,1,possession
+ENG-Premier League,2024,Crystal Palace,Daichi Kamada,JPN,MF,28-249,1996.0,12.3,682,17,142,361,183,20,682,11,4,36.4,6,54.5,331,1589,734,18,12,4,12,17,436,43,possession
+ENG-Premier League,2024,Crystal Palace,Daniel Muñoz,COL,DF,28-320,1996.0,27.9,1585,95,445,652,503,80,1585,46,17,37.0,27,58.7,614,3114,1277,42,25,14,43,15,757,166,possession
+ENG-Premier League,2024,Crystal Palace,Dean Henderson,ENG,GK,28-030,1997.0,30.0,1050,853,1047,2,1,1,1050,0,0,,0,,598,3597,1638,0,0,0,2,0,462,0,possession
+ENG-Premier League,2024,Crystal Palace,Eberechi Eze,ENG,"MF,FW",26-286,1998.0,23.3,1200,13,155,563,511,78,1200,119,56,47.1,57,47.9,722,4428,2072,62,41,20,42,40,788,135,possession
+ENG-Premier League,2024,Crystal Palace,Eddie Nketiah,ENG,"FW,MF",25-316,1999.0,8.3,315,7,33,128,160,52,315,17,8,47.1,6,35.3,184,1358,725,32,18,12,25,13,223,61,possession
+ENG-Premier League,2024,Crystal Palace,Ismaila Sarr,SEN,MF,27-045,1998.0,23.4,867,35,137,332,407,108,867,47,14,29.8,24,51.1,475,2955,1631,59,37,24,56,38,587,153,possession
+ENG-Premier League,2024,Crystal Palace,Jean-Philippe Mateta,FRA,FW,27-287,1997.0,25.1,643,24,53,310,294,82,641,40,17,42.5,19,47.5,340,1746,823,34,19,8,62,38,469,111,possession
+ENG-Premier League,2024,Crystal Palace,Jefferson Lerma,COL,"MF,DF",30-168,1994.0,19.1,1086,72,312,589,195,23,1086,10,5,50.0,3,30.0,489,1901,848,10,9,0,10,15,629,24,possession
+ENG-Premier League,2024,Crystal Palace,Jeffrey Schlupp,GHA,"MF,DF",32-109,1992.0,1.1,79,2,9,31,41,6,79,1,1,100.0,0,0.0,30,150,67,4,1,1,7,0,41,9,possession
+ENG-Premier League,2024,Crystal Palace,Joachim Andersen,DEN,DF,28-315,1996.0,1.0,93,14,38,50,5,0,93,0,0,,0,,49,189,103,1,1,0,0,1,67,1,possession
+ENG-Premier League,2024,Crystal Palace,Joel Ward,ENG,DF,35-164,1989.0,0.0,2,0,0,2,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+ENG-Premier League,2024,Crystal Palace,Jordan Ayew,GHA,"FW,MF",33-212,1991.0,0.2,12,0,0,7,5,1,12,0,0,,0,,6,25,12,0,0,0,0,1,9,1,possession
+ENG-Premier League,2024,Crystal Palace,Justin Devenny,NIR,MF,21-182,2003.0,3.7,192,6,38,94,65,5,192,4,2,50.0,2,50.0,83,429,199,3,4,1,9,2,113,9,possession
+ENG-Premier League,2024,Crystal Palace,Marc Guéhi,ENG,DF,24-272,2000.0,29.0,1836,275,934,798,114,24,1836,14,11,78.6,2,14.3,963,4860,2536,17,15,1,14,15,1129,8,possession
+ENG-Premier League,2024,Crystal Palace,Matheus França,BRA,"MF,DF",21-010,2004.0,0.2,8,0,0,3,5,2,8,0,0,,0,,7,29,15,1,0,1,1,0,6,1,possession
+ENG-Premier League,2024,Crystal Palace,Maxence Lacroix,FRA,DF,25-005,2000.0,26.9,1571,277,951,560,67,32,1571,13,8,61.5,3,23.1,843,4000,1842,8,4,0,18,3,931,6,possession
+ENG-Premier League,2024,Crystal Palace,Nathaniel Clyne,ENG,"DF,MF",34-006,1991.0,5.1,262,17,103,124,35,3,262,1,0,0.0,1,100.0,155,642,306,6,2,3,4,2,172,8,possession
+ENG-Premier League,2024,Crystal Palace,Odsonne Édouard,FRA,"MF,FW",27-085,1998.0,1.3,45,1,4,23,18,8,45,1,0,0.0,1,100.0,23,107,50,2,1,2,4,1,26,7,possession
+ENG-Premier League,2024,Crystal Palace,Romain Esse,ENG,MF,19-333,2005.0,0.1,7,0,1,3,3,2,7,0,0,,0,,3,17,1,0,0,0,0,0,4,2,possession
+ENG-Premier League,2024,Crystal Palace,Trevoh Chalobah,ENG,DF,25-280,1999.0,11.8,594,66,275,276,51,14,594,10,6,60.0,2,20.0,278,1213,661,11,9,1,4,7,317,6,possession
+ENG-Premier League,2024,Crystal Palace,Tyrick Mitchell,ENG,DF,25-222,1999.0,28.0,1451,93,500,558,406,39,1451,28,12,42.9,13,46.4,673,3133,1420,51,30,9,33,26,750,143,possession
+ENG-Premier League,2024,Crystal Palace,Will Hughes,ENG,MF,29-359,1995.0,18.3,972,35,215,509,260,14,972,11,3,27.3,5,45.5,432,2295,1070,18,22,1,16,22,547,24,possession
+ENG-Premier League,2024,Everton,Abdoulaye Doucouré,MLI,MF,32-100,1993.0,23.9,970,30,204,442,338,46,970,33,18,54.5,15,45.5,505,2546,1211,35,21,5,30,31,619,79,possession
+ENG-Premier League,2024,Everton,Armando Broja,ALB,FW,23-213,2001.0,2.3,83,4,10,25,52,13,83,14,6,42.9,7,50.0,43,462,246,10,6,3,8,9,59,18,possession
+ENG-Premier League,2024,Everton,Ashley Young,ENG,"DF,FW",39-276,1985.0,17.6,1015,51,311,433,276,9,1015,14,5,35.7,7,50.0,397,2047,1176,19,24,1,8,1,513,25,possession
+ENG-Premier League,2024,Everton,Beto,GNB,FW,27-070,1998.0,11.9,365,20,39,159,172,61,365,30,16,53.3,13,43.3,196,991,376,12,8,8,46,29,263,54,possession
+ENG-Premier League,2024,Everton,Carlos Alcaraz,ARG,"MF,FW",22-132,2002.0,4.6,218,9,41,90,93,11,218,10,6,60.0,3,30.0,114,693,390,10,12,0,8,8,136,8,possession
+ENG-Premier League,2024,Everton,Dominic Calvert-Lewin,ENG,FW,28-026,1997.0,17.5,491,21,38,204,254,82,491,25,10,40.0,13,52.0,268,1398,444,22,8,16,71,32,402,105,possession
+ENG-Premier League,2024,Everton,Dwight McNeil,ENG,"MF,FW",25-140,1999.0,12.7,619,2,61,267,305,18,619,37,20,54.1,16,43.2,360,2227,931,31,28,4,22,24,417,65,possession
+ENG-Premier League,2024,Everton,Harrison Armstrong,ENG,MF,18-082,2007.0,0.5,20,0,3,12,7,2,20,1,1,100.0,0,0.0,15,110,43,1,2,0,2,3,14,0,possession
+ENG-Premier League,2024,Everton,Idrissa Gana Gueye,SEN,MF,35-197,1989.0,27.2,1425,63,350,803,278,19,1425,35,17,48.6,16,45.7,663,3052,1327,20,21,4,25,32,817,21,possession
+ENG-Premier League,2024,Everton,Iliman Ndiaye,SEN,FW,25-036,2000.0,21.9,879,32,186,357,383,67,877,127,59,46.5,59,46.5,502,3999,2005,73,37,27,43,37,527,99,possession
+ENG-Premier League,2024,Everton,Jack Harrison,ENG,FW,28-142,1996.0,18.4,734,29,131,256,354,57,734,64,20,31.3,38,59.4,410,2313,1204,49,25,14,40,35,471,94,possession
+ENG-Premier League,2024,Everton,Jake O'Brien,IRL,DF,23-331,2001.0,11.5,596,50,239,240,119,16,596,8,2,25.0,5,62.5,251,1101,452,6,5,1,5,5,296,23,possession
+ENG-Premier League,2024,Everton,James Garner,ENG,"MF,DF",24-029,2001.0,10.7,555,26,142,262,157,8,555,13,5,38.5,8,61.5,251,1013,342,7,9,1,9,6,278,17,possession
+ENG-Premier League,2024,Everton,James Tarkowski,ENG,DF,32-143,1992.0,30.9,1612,346,928,594,99,50,1612,7,5,71.4,2,28.6,688,3350,1772,9,10,0,12,7,875,3,possession
+ENG-Premier League,2024,Everton,Jarrad Branthwaite,ENG,DF,22-288,2002.0,22.1,1157,172,621,489,53,19,1157,5,3,60.0,1,20.0,553,3020,1810,8,13,2,7,3,661,1,possession
+ENG-Premier League,2024,Everton,Jesper Lindstrøm,DEN,FW,25-041,2000.0,13.8,625,22,127,206,303,40,625,43,8,18.6,31,72.1,302,1627,780,30,19,7,31,24,347,81,possession
+ENG-Premier League,2024,Everton,Jordan Pickford,ENG,GK,31-035,1994.0,31.0,1378,901,1315,64,0,0,1378,0,0,,0,,762,4620,2665,0,0,0,2,0,666,0,possession
+ENG-Premier League,2024,Everton,Mason Holgate,ENG,"FW,DF",28-171,1996.0,0.1,3,0,0,2,1,0,3,0,0,,0,,1,0,0,0,0,0,1,0,1,0,possession
+ENG-Premier League,2024,Everton,Michael Keane,ENG,DF,32-090,1993.0,9.0,409,78,226,167,18,14,409,1,0,0.0,1,100.0,187,736,234,1,1,0,0,2,236,3,possession
+ENG-Premier League,2024,Everton,Nathan Patterson,SCO,"DF,FW",23-177,2001.0,2.3,126,6,31,51,46,4,126,8,7,87.5,0,0.0,50,220,113,4,2,2,3,1,63,7,possession
+ENG-Premier League,2024,Everton,Orel Mangala,BEL,MF,27-024,1998.0,14.0,621,22,133,335,157,13,621,24,14,58.3,9,37.5,298,1574,576,6,6,3,12,12,406,19,possession
+ENG-Premier League,2024,Everton,Roman Dixon,ENG,DF,20-106,2004.0,1.0,36,8,19,14,4,0,36,3,0,0.0,3,100.0,16,107,48,0,0,0,2,0,13,1,possession
+ENG-Premier League,2024,Everton,Séamus Coleman,IRL,DF,36-182,1988.0,2.2,100,11,39,43,19,2,100,5,4,80.0,1,20.0,43,225,109,1,1,0,1,1,51,2,possession
+ENG-Premier League,2024,Everton,Tim Iroegbunam,ENG,MF,21-285,2003.0,6.2,248,20,79,117,58,12,248,19,8,42.1,7,36.8,119,708,360,8,10,2,10,18,108,9,possession
+ENG-Premier League,2024,Everton,Vitaliy Mykolenko,UKR,DF,25-317,1999.0,27.2,1311,103,421,559,341,22,1311,16,5,31.3,8,50.0,525,2115,1178,27,21,1,18,8,645,69,possession
+ENG-Premier League,2024,Everton,Youssef Chermiti,POR,"FW,MF",20-322,2004.0,0.2,8,0,0,2,6,2,8,1,1,100.0,0,0.0,4,11,1,0,0,0,0,0,6,4,possession
+ENG-Premier League,2024,Fulham,Adama Traoré,ESP,"FW,MF",29-076,1996.0,16.5,676,2,71,242,383,82,676,83,40,48.2,32,38.6,461,3815,2097,80,39,32,30,18,520,135,possession
+ENG-Premier League,2024,Fulham,Alex Iwobi,NGA,"FW,MF",28-343,1996.0,27.4,1533,31,211,615,731,98,1533,80,40,50.0,36,45.0,1088,6599,3621,119,90,34,52,37,1192,202,possession
+ENG-Premier League,2024,Fulham,Andreas Pereira,BRA,MF,29-100,1996.0,18.6,1002,16,145,416,456,34,1001,27,12,44.4,7,25.9,511,2335,1114,21,31,6,20,19,593,71,possession
+ENG-Premier League,2024,Fulham,Antonee Robinson,USA,DF,27-246,1997.0,30.2,2196,112,688,849,691,58,2196,71,32,45.1,28,39.4,1170,6454,3747,106,55,26,38,16,1317,238,possession
+ENG-Premier League,2024,Fulham,Bernd Leno,GER,GK,33-038,1992.0,31.0,1227,972,1218,9,0,0,1227,0,0,,0,,809,3197,1770,0,0,0,0,0,730,0,possession
+ENG-Premier League,2024,Fulham,Calvin Bassey,NGA,DF,25-101,1999.0,28.2,2023,270,990,948,105,16,2023,27,12,44.4,9,33.3,1295,6355,3562,23,14,4,27,7,1396,12,possession
+ENG-Premier League,2024,Fulham,Carlos Vinícius,BRA,MF,30-017,1995.0,0.0,3,0,0,1,2,2,3,1,1,100.0,0,0.0,3,10,9,1,0,1,0,0,2,1,possession
+ENG-Premier League,2024,Fulham,Emile Smith Rowe,ENG,MF,24-257,2000.0,20.1,1067,20,148,504,425,51,1067,33,16,48.5,15,45.5,699,3431,1797,50,37,11,31,13,820,106,possession
+ENG-Premier League,2024,Fulham,Harrison Reed,ENG,MF,30-074,1995.0,1.0,77,2,11,28,39,5,77,2,0,0.0,1,50.0,31,95,27,1,1,0,2,2,38,7,possession
+ENG-Premier League,2024,Fulham,Harry Wilson,WAL,"FW,MF",28-020,1997.0,9.3,436,7,58,160,226,44,436,23,9,39.1,9,39.1,263,1376,610,16,17,8,13,4,295,71,possession
+ENG-Premier League,2024,Fulham,Issa Diop,FRA,DF,28-092,1997.0,14.9,903,125,498,381,26,13,903,2,1,50.0,1,50.0,533,2426,1216,6,2,0,9,2,617,3,possession
+ENG-Premier League,2024,Fulham,Jay Stansfield,ENG,MF,22-138,2002.0,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+ENG-Premier League,2024,Fulham,Joachim Andersen,DEN,DF,28-315,1996.0,21.7,1794,267,936,801,67,13,1794,4,4,100.0,0,0.0,1056,4845,2379,11,8,1,4,3,1256,1,possession
+ENG-Premier League,2024,Fulham,Jorge Cuenca,ESP,DF,25-145,1999.0,2.9,152,23,88,59,6,1,152,2,2,100.0,0,0.0,65,235,116,0,1,0,1,0,92,0,possession
+ENG-Premier League,2024,Fulham,Joshua King,ENG,"MF,FW",18-098,2007.0,0.9,54,2,8,19,28,7,54,7,4,57.1,3,42.9,22,176,70,1,3,0,1,3,36,9,possession
+ENG-Premier League,2024,Fulham,Kenny Tete,NED,DF,29-184,1995.0,14.1,881,48,273,383,232,26,881,17,8,47.1,4,23.5,460,2301,1126,33,17,7,16,10,511,39,possession
+ENG-Premier League,2024,Fulham,Martial Godo,ENG,FW,22-028,2003.0,0.2,11,0,1,4,6,3,11,2,0,0.0,2,100.0,8,48,18,0,0,0,0,0,6,3,possession
+ENG-Premier League,2024,Fulham,Raúl Jiménez,MEX,FW,33-341,1991.0,21.4,799,27,93,347,370,137,796,44,18,40.9,23,52.3,445,1999,879,30,16,16,53,38,582,107,possession
+ENG-Premier League,2024,Fulham,Reiss Nelson,ENG,FW,25-122,1999.0,5.4,347,5,30,110,212,35,347,35,13,37.1,13,37.1,259,1956,960,45,25,21,14,8,274,63,possession
+ENG-Premier League,2024,Fulham,Rodrigo Muniz,BRA,FW,23-342,2001.0,10.1,301,12,25,157,123,52,301,18,6,33.3,9,50.0,154,628,169,5,4,2,47,24,230,31,possession
+ENG-Premier League,2024,Fulham,Ryan Sessegnon,ENG,"FW,DF",24-328,2000.0,2.1,90,2,21,31,39,16,90,8,3,37.5,5,62.5,44,320,191,6,3,6,4,6,51,16,possession
+ENG-Premier League,2024,Fulham,Sander Berge,NOR,MF,27-056,1998.0,20.3,1143,68,317,665,166,11,1143,16,9,56.3,5,31.3,658,3474,1502,20,18,2,9,13,726,8,possession
+ENG-Premier League,2024,Fulham,Saša Lukić,SRB,MF,28-241,1996.0,20.9,1217,44,263,698,268,12,1217,13,6,46.2,4,30.8,683,3661,1827,32,33,3,18,7,782,26,possession
+ENG-Premier League,2024,Fulham,Timothy Castagne,BEL,DF,29-127,1995.0,16.9,1077,85,419,431,232,30,1077,10,4,40.0,4,40.0,521,2097,1016,17,14,2,13,5,628,65,possession
+ENG-Premier League,2024,Fulham,Tom Cairney,SCO,MF,34-081,1991.0,4.9,506,5,69,275,169,7,506,11,4,36.4,3,27.3,343,1676,807,13,15,3,4,3,417,21,possession
+ENG-Premier League,2024,Fulham,Willian,BRA,"MF,FW",36-245,1988.0,1.7,135,1,16,51,72,4,135,4,0,0.0,3,75.0,86,602,313,5,4,2,3,1,106,15,possession
+ENG-Premier League,2024,Ipswich Town,Alex Palmer,ENG,GK,28-244,1996.0,7.0,236,194,232,4,0,0,236,0,0,,0,,107,604,365,0,0,0,1,0,82,0,possession
+ENG-Premier League,2024,Ipswich Town,Ali Al Hamadi,IRQ,FW,23-041,2002.0,1.5,53,2,6,20,30,9,53,7,4,57.1,3,42.9,29,187,111,4,3,4,7,4,36,14,possession
+ENG-Premier League,2024,Ipswich Town,Arijanet Muric,KVX,GK,26-155,1998.0,18.0,689,559,672,18,0,0,689,0,0,,0,,405,2088,1178,0,0,0,3,1,321,0,possession
+ENG-Premier League,2024,Ipswich Town,Axel Tuanzebe,COD,DF,27-148,1997.0,14.1,718,66,301,324,99,6,718,9,4,44.4,5,55.6,309,1379,665,7,6,1,10,1,380,7,possession
+ENG-Premier League,2024,Ipswich Town,Ben Godfrey,ENG,DF,27-086,1998.0,1.2,63,3,22,32,9,1,63,0,0,,0,,33,202,79,2,2,0,2,1,40,1,possession
+ENG-Premier League,2024,Ipswich Town,Ben Johnson,ENG,"DF,FW",25-077,2000.0,12.6,554,52,218,197,142,10,554,21,7,33.3,12,57.1,227,1328,528,15,10,3,20,15,257,27,possession
+ENG-Premier League,2024,Ipswich Town,Cameron Burgess,AUS,DF,29-172,1995.0,12.5,750,163,435,275,41,21,750,0,0,,0,,346,1637,845,2,4,0,2,0,439,3,possession
+ENG-Premier League,2024,Ipswich Town,Chiedozie Ogbene,IRL,FW,27-345,1997.0,2.6,70,3,11,19,40,6,70,7,1,14.3,3,42.9,41,330,139,7,2,2,4,2,43,15,possession
+ENG-Premier League,2024,Ipswich Town,Christian Walton,ENG,GK,29-153,1995.0,6.0,242,224,241,1,0,0,242,0,0,,0,,122,572,305,0,0,0,0,0,117,0,possession
+ENG-Premier League,2024,Ipswich Town,Conor Chaplin,ENG,"MF,FW",28-054,1997.0,6.9,286,6,47,144,100,12,286,6,3,50.0,3,50.0,138,697,380,10,7,0,9,3,195,20,possession
+ENG-Premier League,2024,Ipswich Town,Conor Townsend,ENG,DF,32-038,1993.0,3.4,164,25,82,48,36,5,164,0,0,,0,,51,267,129,2,2,0,2,2,74,12,possession
+ENG-Premier League,2024,Ipswich Town,Dara O'Shea,IRL,DF,26-038,1999.0,27.7,1690,320,967,620,106,45,1690,2,1,50.0,1,50.0,753,3294,1626,3,2,0,10,4,969,5,possession
+ENG-Premier League,2024,Ipswich Town,George Edmundson,ENG,DF,27-223,1997.0,0.0,3,1,3,0,0,0,3,0,0,,0,,1,2,0,0,0,0,0,0,1,0,possession
+ENG-Premier League,2024,Ipswich Town,George Hirst,SCO,FW,26-055,1999.0,3.3,113,6,17,36,61,17,113,3,2,66.7,1,33.3,62,310,111,6,1,5,14,8,93,21,possession
+ENG-Premier League,2024,Ipswich Town,Harry Clarke,ENG,DF,24-040,2001.0,4.2,268,18,100,122,47,2,268,2,1,50.0,1,50.0,118,555,222,5,7,0,4,2,163,2,possession
+ENG-Premier League,2024,Ipswich Town,Jack Clarke,ENG,"FW,MF",24-139,2000.0,9.9,421,11,92,172,168,28,421,34,20,58.8,10,29.4,245,1715,849,25,14,9,19,14,265,47,possession
+ENG-Premier League,2024,Ipswich Town,Jack Taylor,IRL,MF,26-292,1998.0,6.0,380,21,105,207,76,6,380,5,2,40.0,2,40.0,193,1131,629,9,8,1,7,6,250,16,possession
+ENG-Premier League,2024,Ipswich Town,Jacob Greaves,ENG,DF,24-211,2000.0,18.5,1064,222,582,426,60,15,1064,2,1,50.0,1,50.0,503,2156,909,6,8,0,7,2,673,4,possession
+ENG-Premier League,2024,Ipswich Town,Jaden Philogene Bidace,ENG,"FW,DF",23-062,2002.0,5.2,218,10,53,66,101,18,218,18,5,27.8,11,61.1,127,862,305,13,3,5,11,10,133,36,possession
+ENG-Premier League,2024,Ipswich Town,Jens Cajuste,SWE,MF,25-244,1999.0,17.8,831,49,230,438,175,11,831,41,23,56.1,12,29.3,379,2098,1110,23,20,3,19,11,479,14,possession
+ENG-Premier League,2024,Ipswich Town,Julio Enciso,PAR,"FW,MF",21-078,2004.0,4.8,218,2,24,109,92,10,218,27,16,59.3,11,40.7,106,777,456,11,13,4,10,18,150,24,possession
+ENG-Premier League,2024,Ipswich Town,Kalvin Phillips,ENG,MF,29-130,1995.0,13.5,722,60,220,388,118,4,722,12,5,41.7,6,50.0,302,1447,541,4,5,0,24,10,383,4,possession
+ENG-Premier League,2024,Ipswich Town,Leif Davis,ENG,DF,25-089,2000.0,27.5,1421,108,497,469,474,36,1421,37,13,35.1,17,45.9,642,3504,1900,47,27,10,35,14,755,117,possession
+ENG-Premier League,2024,Ipswich Town,Liam Delap,ENG,FW,22-062,2003.0,25.8,612,28,71,254,303,83,610,74,35,47.3,31,41.9,403,2959,1387,57,41,27,92,54,485,100,possession
+ENG-Premier League,2024,Ipswich Town,Luke Woolfenden,ENG,DF,26-172,1998.0,11.2,608,126,345,254,9,3,608,0,0,,0,,331,1900,1111,7,3,0,4,0,389,0,possession
+ENG-Premier League,2024,Ipswich Town,Marcus Harness,ENG,MF,29-046,1996.0,0.5,22,4,7,2,13,3,22,1,0,0.0,1,100.0,9,49,14,0,0,0,0,0,9,1,possession
+ENG-Premier League,2024,Ipswich Town,Massimo Luongo,AUS,MF,32-198,1992.0,2.0,72,9,32,24,16,1,72,0,0,,0,,38,140,25,0,0,0,2,3,41,1,possession
+ENG-Premier League,2024,Ipswich Town,Nathan Broadhead,WAL,"MF,FW",27-006,1998.0,6.6,270,7,38,136,105,19,270,30,14,46.7,14,46.7,147,1048,480,15,13,4,18,11,187,25,possession
+ENG-Premier League,2024,Ipswich Town,Omari Hutchinson,ENG,"MF,FW",21-163,2003.0,24.7,1061,12,168,450,463,74,1061,114,45,39.5,54,47.4,645,4832,2288,71,35,30,68,55,748,131,possession
+ENG-Premier League,2024,Ipswich Town,Sam Morsy,EGY,MF,33-213,1991.0,23.9,1362,69,394,781,200,4,1362,19,11,57.9,6,31.6,705,3733,1579,13,20,2,13,9,930,9,possession
+ENG-Premier League,2024,Ipswich Town,Sammie Szmodics,IRL,"FW,MF",29-199,1995.0,10.9,309,17,80,119,116,33,309,12,4,33.3,6,50.0,174,989,399,16,8,7,24,17,189,46,possession
+ENG-Premier League,2024,Ipswich Town,Wes Burns,WAL,"FW,DF",30-139,1994.0,10.3,350,21,69,129,160,18,350,24,9,37.5,14,58.3,216,1458,696,38,13,10,17,13,220,65,possession
+ENG-Premier League,2024,Leicester City,Abdul Fatawu Issahaku,GHA,FW,21-034,2004.0,6.4,326,19,73,114,157,26,326,69,29,42.0,28,40.6,217,1869,1055,42,24,15,18,12,216,60,possession
+ENG-Premier League,2024,Leicester City,Bilal El Khannouss,MAR,MF,20-336,2004.0,18.4,997,11,134,519,353,26,997,41,24,58.5,16,39.0,569,3409,1549,54,35,8,32,28,673,70,possession
+ENG-Premier League,2024,Leicester City,Bobby Reid,JAM,"FW,MF",32-068,1993.0,7.1,250,13,44,105,101,13,250,8,0,0.0,6,75.0,156,706,332,12,4,4,11,9,175,40,possession
+ENG-Premier League,2024,Leicester City,Boubakary Soumaré,FRA,MF,26-043,1999.0,19.2,1191,51,304,760,140,14,1191,41,26,63.4,11,26.8,708,3304,1720,29,14,2,19,20,837,21,possession
+ENG-Premier League,2024,Leicester City,Caleb Okoli,ITA,DF,23-272,2001.0,11.5,733,142,412,297,27,8,733,0,0,,0,,419,2070,970,3,2,0,10,2,436,2,possession
+ENG-Premier League,2024,Leicester City,Conor Coady,ENG,DF,32-045,1993.0,12.0,772,139,416,344,12,3,772,1,1,100.0,0,0.0,511,2169,1173,2,2,1,4,2,568,0,possession
+ENG-Premier League,2024,Leicester City,Danny Ward,WAL,GK,31-293,1993.0,1.5,55,40,55,0,0,0,55,1,0,0.0,1,100.0,44,176,107,0,0,0,0,0,35,0,possession
+ENG-Premier League,2024,Leicester City,Facundo Buonanotte,ARG,"FW,MF",20-109,2004.0,15.5,805,23,117,412,289,32,805,74,25,33.8,45,60.8,442,2806,1261,37,26,8,51,37,491,63,possession
+ENG-Premier League,2024,Leicester City,Hamza Choudhury,BAN,"MF,DF",27-192,1997.0,1.5,100,4,19,61,20,3,100,4,3,75.0,1,25.0,63,246,130,4,2,2,1,0,71,6,possession
+ENG-Premier League,2024,Leicester City,Harry Winks,ENG,MF,29-068,1996.0,17.1,1158,49,275,746,151,1,1158,12,3,25.0,8,66.7,696,3268,1522,19,13,0,13,8,827,11,possession
+ENG-Premier League,2024,Leicester City,Jakub Stolarczyk,POL,GK,24-113,2000.0,6.0,241,179,236,6,0,0,241,0,0,,0,,130,592,396,0,0,0,1,0,131,0,possession
+ENG-Premier League,2024,Leicester City,James Justin,ENG,DF,27-047,1998.0,27.1,1606,126,560,714,342,36,1606,28,9,32.1,12,42.9,708,2955,1454,35,24,4,30,11,881,90,possession
+ENG-Premier League,2024,Leicester City,Jamie Vardy,ENG,FW,38-090,1987.0,26.2,504,25,50,227,232,99,503,20,9,45.0,10,50.0,242,1278,610,27,11,14,31,12,328,103,possession
+ENG-Premier League,2024,Leicester City,Jannik Vestergaard,DEN,DF,32-251,1992.0,15.5,1092,196,572,497,28,10,1092,4,4,100.0,0,0.0,672,2932,1458,3,3,0,2,0,757,2,possession
 ENG-Premier League,2024,Leicester City,Jeremy Monga,,FW,,,0.2,9,0,0,5,4,0,9,2,0,0.0,1,50.0,7,70,4,0,0,0,1,1,8,2,possession
-ENG-Premier League,2024,Leicester City,Jordan Ayew,GHA,"FW,MF",33-212,1991,14.6,649,18,89,331,251,46,648,52,19,36.5,27,51.9,389,2649,1195,38,30,7,51,31,434,68,possession
-ENG-Premier League,2024,Leicester City,Kasey McAteer,IRL,"FW,MF",23-140,2001,4.4,200,15,47,77,82,16,200,9,1,11.1,5,55.6,116,795,387,13,8,6,6,4,132,36,possession
-ENG-Premier League,2024,Leicester City,Luke Thomas,ENG,DF,23-305,2001,6.0,417,28,155,205,60,4,417,5,2,40.0,3,60.0,201,766,342,2,2,1,7,0,239,9,possession
-ENG-Premier League,2024,Leicester City,Mads Hermansen,DEN,GK,24-274,2000,23.5,998,715,959,41,0,0,998,1,1,100.0,0,0.0,631,3177,1691,0,0,0,1,0,546,0,possession
-ENG-Premier League,2024,Leicester City,Odsonne Édouard,FRA,FW,27-085,1998,0.3,20,1,2,7,11,6,20,2,1,50.0,1,50.0,11,25,2,0,0,1,7,2,13,2,possession
-ENG-Premier League,2024,Leicester City,Oliver Skipp,ENG,MF,24-207,2000,9.2,441,22,103,281,61,6,441,9,4,44.4,5,55.6,254,1011,506,14,7,2,10,5,304,14,possession
-ENG-Premier League,2024,Leicester City,Patson Daka,ZAM,"FW,MF",26-184,1998,6.5,212,8,36,99,81,20,212,15,2,13.3,10,66.7,119,589,255,8,6,2,16,10,141,30,possession
-ENG-Premier League,2024,Leicester City,Ricardo Pereira,POR,DF,31-187,1993,2.1,150,6,37,85,29,5,150,7,5,71.4,1,14.3,84,277,125,3,3,2,1,0,92,5,possession
-ENG-Premier League,2024,Leicester City,Stephy Mavididi,ENG,FW,26-315,1998,16.0,788,22,120,299,385,52,788,85,31,36.5,44,51.8,530,3906,2104,78,36,22,37,34,567,124,possession
-ENG-Premier League,2024,Leicester City,Victor Bernth Kristiansen,DEN,DF,22-116,2002,26.4,1581,113,564,711,319,15,1581,17,8,47.1,8,47.1,800,3839,1806,39,25,5,13,12,872,75,possession
-ENG-Premier League,2024,Leicester City,Wilfred Ndidi,NGA,MF,28-116,1996,20.3,1103,102,373,522,218,52,1103,27,12,44.4,13,48.1,527,2199,878,13,18,2,31,26,642,71,possession
-ENG-Premier League,2024,Leicester City,Will Alves,ENG,FW,20-067,2005,0.0,1,0,0,0,1,0,1,0,0,,0,,1,5,5,0,0,0,0,0,1,1,possession
-ENG-Premier League,2024,Leicester City,Wout Faes,BEL,DF,27-008,1998,25.3,1531,246,744,730,65,26,1531,5,4,80.0,1,20.0,873,4107,2433,11,12,2,15,5,998,1,possession
-ENG-Premier League,2024,Leicester City,Woyo Coulibaly,FRA,DF,25-326,1999,1.2,76,8,27,31,20,4,76,1,0,0.0,1,100.0,48,288,169,4,2,1,4,0,36,2,possession
-ENG-Premier League,2024,Liverpool,Alexis Mac Allister,ARG,MF,26-108,1998,25.5,1645,49,250,865,544,49,1645,38,14,36.8,20,52.6,818,3373,1762,31,37,3,24,20,1100,65,possession
-ENG-Premier League,2024,Liverpool,Alisson,BRA,GK,32-191,1992,20.9,682,499,668,14,0,0,682,1,1,100.0,0,0.0,447,1803,1063,0,0,0,1,0,407,0,possession
-ENG-Premier League,2024,Liverpool,Andrew Robertson,SCO,DF,31-031,1994,24.3,1860,82,469,849,555,46,1860,17,7,41.2,9,52.9,992,4404,2524,57,47,6,23,10,1248,90,possession
-ENG-Premier League,2024,Liverpool,Caoimhín Kelleher,IRL,GK,26-139,1998,10.0,398,286,396,2,0,0,398,1,1,100.0,0,0.0,290,1131,616,0,0,0,1,0,275,0,possession
-ENG-Premier League,2024,Liverpool,Cody Gakpo,NED,FW,25-339,1999,16.3,685,20,64,201,434,79,685,47,27,57.4,15,31.9,457,3192,1601,40,25,18,34,17,515,216,possession
-ENG-Premier League,2024,Liverpool,Conor Bradley,NIR,DF,21-276,2003,4.4,377,15,118,163,102,21,377,8,3,37.5,4,50.0,207,1201,668,20,10,5,8,1,234,18,possession
-ENG-Premier League,2024,Liverpool,Curtis Jones,ENG,"MF,DF",24-071,2001,15.0,957,26,147,511,305,50,957,15,10,66.7,4,26.7,581,2820,1265,20,13,5,21,29,717,65,possession
-ENG-Premier League,2024,Liverpool,Darwin Núñez,URU,FW,25-291,1999,11.2,326,10,43,110,183,60,326,21,8,38.1,12,57.1,175,939,492,20,16,10,21,17,216,67,possession
-ENG-Premier League,2024,Liverpool,Diogo Jota,POR,FW,28-128,1996,10.9,407,5,27,162,225,83,407,29,11,37.9,17,58.6,228,1357,711,34,21,20,35,21,283,81,possession
-ENG-Premier League,2024,Liverpool,Dominik Szoboszlai,HUN,MF,24-168,2000,23.3,1355,21,174,660,539,89,1355,35,19,54.3,13,37.1,702,3587,1992,63,44,17,34,20,928,115,possession
-ENG-Premier League,2024,Liverpool,Federico Chiesa,ITA,FW,27-168,1997,0.4,32,0,5,12,15,4,32,1,0,0.0,1,100.0,22,80,35,2,0,1,1,3,24,6,possession
-ENG-Premier League,2024,Liverpool,Harvey Elliott,ENG,"MF,FW",22-007,2003,1.8,191,2,18,81,93,13,191,5,2,40.0,3,60.0,113,509,249,7,6,5,2,2,145,20,possession
-ENG-Premier League,2024,Liverpool,Ibrahima Konaté,FRA,DF,25-321,1999,22.8,1762,194,756,913,98,18,1762,4,2,50.0,1,25.0,1043,4835,2812,21,12,0,8,2,1271,2,possession
-ENG-Premier League,2024,Liverpool,Jarell Quansah,ENG,DF,22-072,2003,3.2,258,32,128,110,20,3,258,2,1,50.0,1,50.0,162,916,483,2,3,1,3,2,182,3,possession
-ENG-Premier League,2024,Liverpool,Jayden Danns,ENG,MF,19-085,2006,0.1,2,0,0,0,2,0,2,0,0,,0,,1,2,1,0,0,0,0,1,1,0,possession
-ENG-Premier League,2024,Liverpool,Joe Gomez,ENG,DF,27-323,1997,5.8,481,54,183,264,37,5,481,0,0,,0,,303,1638,947,5,2,1,1,2,335,2,possession
-ENG-Premier League,2024,Liverpool,Kostas Tsimikas,GRE,DF,28-334,1996,5.7,487,23,121,220,148,8,487,4,3,75.0,1,25.0,231,1012,570,13,5,2,4,2,306,25,possession
-ENG-Premier League,2024,Liverpool,Luis Díaz,COL,FW,28-088,1997,21.9,1014,13,71,355,607,141,1014,104,46,44.2,47,45.2,672,5055,2648,98,48,53,49,41,796,246,possession
-ENG-Premier League,2024,Liverpool,Mohamed Salah,EGY,FW,32-300,1992,30.5,1399,10,83,424,911,291,1390,114,51,44.7,60,52.6,957,5808,2980,128,52,104,98,58,1164,384,possession
-ENG-Premier League,2024,Liverpool,Ryan Gravenberch,NED,MF,22-330,2002,29.5,1997,98,412,1175,436,22,1997,67,31,46.3,25,37.3,1196,6290,3171,59,65,9,43,19,1431,49,possession
-ENG-Premier League,2024,Liverpool,Trent Alexander-Arnold,ENG,DF,26-186,1998,23.8,2044,82,546,902,609,39,2044,29,13,44.8,14,48.3,1075,4978,2652,48,35,8,19,15,1299,87,possession
-ENG-Premier League,2024,Liverpool,Virgil van Dijk,NED,DF,33-277,1991,31.0,2740,369,1096,1519,133,37,2740,5,3,60.0,2,40.0,1550,7564,4152,17,19,3,5,4,1882,5,possession
-ENG-Premier League,2024,Liverpool,Vitezslav Jaros,CZE,GK,23-262,2001,0.1,8,5,8,0,0,0,8,0,0,,0,,7,29,8,0,0,0,0,0,5,0,possession
-ENG-Premier League,2024,Liverpool,Wataru Endo,JPN,MF,32-061,1993,1.6,111,4,25,69,18,2,111,1,1,100.0,0,0.0,48,174,47,0,0,1,5,2,71,1,possession
-ENG-Premier League,2024,Manchester City,Abdukodir Khusanov,UZB,DF,21-041,2004,5.6,445,45,205,211,31,1,445,2,0,0.0,2,100.0,274,1155,435,1,1,0,2,1,332,2,possession
-ENG-Premier League,2024,Manchester City,Bernardo Silva,POR,"MF,FW",30-244,1994,23.7,1556,37,270,612,690,125,1556,53,25,47.2,22,41.5,969,6251,3170,84,54,30,18,30,1145,169,possession
-ENG-Premier League,2024,Manchester City,Divin Mubama,ENG,FW,20-168,2004,0.3,5,0,0,2,3,1,5,0,0,,0,,2,14,0,0,0,0,0,1,3,0,possession
-ENG-Premier League,2024,Manchester City,Ederson,BRA,GK,31-237,1993,21.0,804,564,795,9,0,0,804,0,0,,0,,540,2526,1609,0,0,0,1,0,510,0,possession
-ENG-Premier League,2024,Manchester City,Erling Haaland,NOR,FW,24-264,2000,27.6,578,22,39,200,344,170,575,32,11,34.4,19,59.4,272,1310,478,19,14,19,39,25,427,103,possession
-ENG-Premier League,2024,Manchester City,Jack Grealish,ENG,"FW,MF",29-213,1995,8.0,509,14,38,155,321,70,509,27,13,48.1,9,33.3,368,2843,1708,69,23,46,10,16,413,118,possession
-ENG-Premier League,2024,Manchester City,Jahmai Simpson-Pusey,ENG,DF,19-158,2005,1.1,123,9,61,59,3,1,123,1,0,0.0,0,0.0,79,376,190,1,0,0,1,0,101,0,possession
-ENG-Premier League,2024,Manchester City,James Mcatee,ENG,"MF,FW",22-175,2002,1.6,92,1,11,43,39,9,92,5,1,20.0,4,80.0,54,301,150,5,4,0,2,1,68,12,possession
-ENG-Premier League,2024,Manchester City,Jeremy Doku,BEL,"FW,MF",22-319,2002,14.1,844,4,40,198,628,116,844,166,92,55.4,48,28.9,650,6097,3833,166,77,77,48,50,700,223,possession
-ENG-Premier League,2024,Manchester City,John Stones,ENG,"DF,MF",30-318,1994,6.1,442,40,142,234,68,4,442,2,2,100.0,0,0.0,292,2146,1183,10,14,0,2,0,333,2,possession
-ENG-Premier League,2024,Manchester City,Joško Gvardiol,CRO,DF,23-078,2002,29.4,2505,119,616,1203,707,82,2505,39,23,59.0,13,33.3,1605,8403,4655,74,88,13,23,15,1821,96,possession
-ENG-Premier League,2024,Manchester City,Kevin De Bruyne,BEL,MF,33-287,1991,13.3,982,10,62,330,597,56,982,27,10,37.0,14,51.9,568,2978,1614,39,37,15,20,23,743,112,possession
-ENG-Premier League,2024,Manchester City,Kyle Walker,ENG,DF,34-318,1990,10.8,892,26,197,473,228,5,892,6,3,50.0,2,33.3,499,2284,1106,12,13,0,9,2,630,11,possession
-ENG-Premier League,2024,Manchester City,Manuel Akanji,SUI,DF,29-266,1995,19.0,1591,108,472,773,348,11,1591,2,2,100.0,0,0.0,1041,5502,3286,38,52,0,4,5,1258,6,possession
-ENG-Premier League,2024,Manchester City,Mateo Kovačić,CRO,MF,30-340,1994,19.7,1686,40,247,953,505,15,1686,36,19,52.8,11,30.6,1128,6704,3147,48,62,3,15,28,1360,14,possession
-ENG-Premier League,2024,Manchester City,Matheus Nunes,POR,"DF,MF",26-227,1998,13.6,1020,32,189,372,463,50,1020,30,13,43.3,13,43.3,644,3481,1771,49,22,21,24,10,738,139,possession
-ENG-Premier League,2024,Manchester City,Nathan Aké,NED,DF,30-052,1995,7.5,596,51,205,331,61,5,596,1,1,100.0,0,0.0,403,2244,1501,12,12,1,4,3,449,2,possession
-ENG-Premier League,2024,Manchester City,Nico O’Reilly,ENG,"DF,MF",20-021,2005,2.1,168,4,28,88,54,7,168,6,4,66.7,2,33.3,117,629,323,9,8,0,6,2,128,11,possession
-ENG-Premier League,2024,Manchester City,Nicolás González,ESP,MF,23-098,2002,5.3,463,10,66,288,110,6,463,4,1,25.0,2,50.0,288,1193,455,5,7,1,6,5,354,8,possession
-ENG-Premier League,2024,Manchester City,Omar Marmoush,EGY,"FW,MF",26-063,1999,7.3,298,2,23,92,186,34,298,18,4,22.2,11,61.1,184,1066,542,13,12,4,26,7,207,44,possession
-ENG-Premier League,2024,Manchester City,Oscar Bobb,NOR,FW,21-273,2003,0.1,2,0,1,1,0,0,2,0,0,,0,,1,4,0,0,0,0,0,0,1,0,possession
-ENG-Premier League,2024,Manchester City,Phil Foden,ENG,"MF,FW",24-318,2000,18.7,1074,13,81,374,628,79,1074,39,13,33.3,21,53.8,676,3472,1674,47,30,15,35,30,840,119,possession
-ENG-Premier League,2024,Manchester City,Rico Lewis,ENG,"DF,MF",20-141,2004,19.1,1313,49,260,661,405,42,1313,20,8,40.0,11,55.0,761,3860,1981,36,37,8,19,19,933,65,possession
-ENG-Premier League,2024,Manchester City,Rodri,ESP,MF,28-293,1996,0.7,65,1,12,30,24,0,65,1,0,0.0,0,0.0,34,125,42,0,2,0,0,0,49,1,possession
-ENG-Premier League,2024,Manchester City,Rúben Dias,POR,DF,27-332,1997,18.2,1813,165,592,987,237,19,1813,3,2,66.7,1,33.3,1286,7393,4343,30,51,1,5,1,1474,6,possession
-ENG-Premier League,2024,Manchester City,Stefan Ortega,GER,GK,32-156,1992,10.0,405,308,402,3,0,0,405,0,0,,0,,261,1221,687,0,0,0,0,0,249,0,possession
-ENG-Premier League,2024,Manchester City,Sávio,BRA,"FW,MF",21-001,2004,18.3,1022,11,51,261,727,146,1022,109,50,45.9,38,34.9,737,6115,3385,129,42,73,41,37,799,226,possession
-ENG-Premier League,2024,Manchester City,Vitor Reis,BRA,DF,19-089,2006,0.0,3,1,2,1,0,0,3,1,1,100.0,0,0.0,2,3,0,0,0,0,0,0,2,0,possession
-ENG-Premier League,2024,Manchester City,İlkay Gündoğan,GER,MF,34-169,1990,18.9,1506,35,224,730,571,49,1506,28,13,46.4,10,35.7,893,4957,2380,44,46,7,20,17,1176,70,possession
-ENG-Premier League,2024,Manchester Utd,Alejandro Garnacho,ARG,"MF,FW",20-284,2004,20.2,948,13,110,308,546,139,948,74,21,28.4,46,62.2,691,5270,2702,118,61,57,51,41,722,241,possession
-ENG-Premier League,2024,Manchester Utd,Amad Diallo,CIV,"FW,MF",22-274,2002,17.7,1012,13,150,374,504,109,1012,72,36,50.0,32,44.4,656,4482,2294,92,46,52,35,32,714,159,possession
-ENG-Premier League,2024,Manchester Utd,André Onana,CMR,GK,29-009,1996,31.0,1256,951,1235,22,0,0,1256,0,0,,0,,889,4545,2530,0,0,0,1,0,768,0,possession
-ENG-Premier League,2024,Manchester Utd,Antony,BRA,"DF,MF",25-046,2000,1.6,101,2,22,26,54,8,101,11,4,36.4,6,54.5,60,317,182,5,6,1,5,1,69,7,possession
-ENG-Premier League,2024,Manchester Utd,Ayden Heaven,ENG,DF,18-201,2006,1.1,67,21,42,23,3,1,67,2,2,100.0,0,0.0,42,245,122,1,1,0,2,1,40,1,possession
-ENG-Premier League,2024,Manchester Utd,Bruno Fernandes,POR,MF,30-215,1994,28.4,2187,53,364,1034,811,68,2184,61,25,41.0,30,49.2,1283,6030,3139,60,53,10,35,35,1528,112,possession
-ENG-Premier League,2024,Manchester Utd,Casemiro,BRA,MF,33-047,1992,14.1,1039,67,309,523,215,37,1039,6,3,50.0,3,50.0,546,1680,775,4,10,0,10,10,663,26,possession
-ENG-Premier League,2024,Manchester Utd,Chidozie Obi-Martin,DEN,FW,17-133,2007,0.3,16,1,4,7,5,1,16,1,0,0.0,1,100.0,7,47,26,1,0,0,2,1,9,2,possession
-ENG-Premier League,2024,Manchester Utd,Christian Eriksen,DEN,MF,33-056,1992,9.0,618,20,124,314,184,11,618,3,0,0.0,3,100.0,348,1258,545,8,8,0,6,4,408,23,possession
-ENG-Premier League,2024,Manchester Utd,Diogo Dalot,POR,DF,26-024,1999,29.6,1889,113,638,739,526,64,1889,47,24,51.1,19,40.4,1077,4742,2578,60,36,15,35,17,1141,157,possession
-ENG-Premier League,2024,Manchester Utd,Harry Amass,ENG,DF,18-026,2007,0.2,27,3,12,9,6,0,27,0,0,,0,,11,44,10,0,0,0,1,3,10,1,possession
-ENG-Premier League,2024,Manchester Utd,Harry Maguire,ENG,DF,32-037,1993,15.8,1085,133,541,497,60,35,1085,5,2,40.0,3,60.0,640,3970,1629,6,6,3,6,2,702,5,possession
-ENG-Premier League,2024,Manchester Utd,Jonny Evans,NIR,DF,37-098,1988,3.2,223,30,125,91,11,2,223,1,1,100.0,0,0.0,128,498,183,1,0,0,1,0,137,2,possession
-ENG-Premier League,2024,Manchester Utd,Joshua Zirkzee,NED,"FW,MF",23-324,2001,15.0,565,16,69,291,211,53,565,33,9,27.3,24,72.7,316,1393,471,13,20,4,40,29,402,69,possession
-ENG-Premier League,2024,Manchester Utd,Kobbie Mainoo,ENG,MF,19-357,2005,14.3,845,17,165,477,210,30,845,41,20,48.8,19,46.3,526,2343,1032,19,12,9,23,29,598,35,possession
-ENG-Premier League,2024,Manchester Utd,Leny Yoro,FRA,DF,19-149,2005,9.7,663,56,296,318,51,10,663,2,1,50.0,1,50.0,465,2304,1250,15,10,1,2,2,496,4,possession
-ENG-Premier League,2024,Manchester Utd,Lisandro Martínez,ARG,DF,27-083,1998,19.5,1524,156,713,697,125,18,1524,7,6,85.7,1,14.3,1017,5141,3129,23,23,2,1,3,1069,7,possession
-ENG-Premier League,2024,Manchester Utd,Luke Shaw,ENG,DF,29-273,1995,0.8,107,3,46,56,5,0,107,0,0,,0,,86,335,143,1,2,0,1,0,93,0,possession
-ENG-Premier League,2024,Manchester Utd,Manuel Ugarte Ribeiro,URU,MF,24-000,2001,16.0,909,36,261,507,155,14,909,24,11,45.8,9,37.5,517,2066,869,9,9,1,26,19,555,18,possession
-ENG-Premier League,2024,Manchester Utd,Marcus Rashford,ENG,"FW,MF",27-162,1997,10.9,440,3,35,189,222,34,440,39,9,23.1,26,66.7,293,1694,728,20,19,12,14,6,341,79,possession
-ENG-Premier League,2024,Manchester Utd,Mason Mount,ENG,"MF,FW",26-091,1999,3.1,141,1,21,75,46,8,141,4,0,0.0,3,75.0,89,426,166,4,5,1,5,6,98,8,possession
-ENG-Premier League,2024,Manchester Utd,Matthijs de Ligt,NED,DF,25-242,1999,23.2,1584,181,813,722,56,29,1584,4,2,50.0,2,50.0,1063,4696,2219,7,3,0,5,3,1142,6,possession
-ENG-Premier League,2024,Manchester Utd,Noussair Mazraoui,MAR,DF,27-148,1997,26.6,1818,138,711,842,289,26,1818,43,24,55.8,16,37.2,1010,4695,2450,34,26,3,22,16,1093,44,possession
-ENG-Premier League,2024,Manchester Utd,Patrick Dorgu,DEN,DF,20-167,2004,4.5,296,11,77,102,119,20,296,5,2,40.0,2,40.0,178,1017,678,20,10,3,8,5,196,43,possession
-ENG-Premier League,2024,Manchester Utd,Rasmus Højlund,DEN,FW,22-066,2003,17.2,396,5,23,201,178,50,396,25,7,28.0,16,64.0,247,1198,513,23,11,14,56,26,311,79,possession
-ENG-Premier League,2024,Manchester Utd,Scott McTominay,SCO,MF,28-124,1996,0.2,14,1,3,8,3,1,14,1,0,0.0,1,100.0,10,68,44,0,0,0,1,1,9,2,possession
-ENG-Premier League,2024,Manchester Utd,Toby Collyer,ENG,MF,21-098,2004,2.0,129,9,46,59,25,3,129,2,1,50.0,1,50.0,68,239,56,0,0,0,11,1,71,2,possession
-ENG-Premier League,2024,Manchester Utd,Tyrell Malacia,NED,DF,25-237,1999,1.1,62,2,20,27,15,0,62,1,1,100.0,0,0.0,37,190,118,3,2,0,1,2,43,6,possession
-ENG-Premier League,2024,Manchester Utd,Victor Lindelöf,SWE,DF,30-268,1994,3.1,141,26,84,50,7,3,141,0,0,,0,,71,374,173,1,0,0,1,0,83,1,possession
-ENG-Premier League,2024,Newcastle Utd,Alexander Isak,SWE,FW,25-202,1999,24.3,838,19,52,310,489,150,836,80,39,48.8,40,50.0,510,3167,1623,72,38,40,54,48,592,174,possession
-ENG-Premier League,2024,Newcastle Utd,Anthony Gordon,ENG,FW,24-046,2001,23.4,1100,16,110,413,595,122,1098,93,35,37.6,42,45.2,710,5230,2813,104,52,54,28,34,787,187,possession
-ENG-Premier League,2024,Newcastle Utd,Bruno Guimarães,BRA,MF,27-146,1997,28.6,1737,66,376,910,469,49,1737,63,27,42.9,20,31.7,1141,6274,2748,44,35,7,47,69,1298,69,possession
-ENG-Premier League,2024,Newcastle Utd,Callum Wilson,ENG,FW,33-043,1992,2.3,58,1,5,33,23,12,58,5,1,20.0,2,40.0,30,182,86,4,4,4,6,7,33,7,possession
-ENG-Premier League,2024,Newcastle Utd,Dan Burn,ENG,DF,32-337,1992,29.0,1819,312,1060,682,80,37,1819,3,3,100.0,0,0.0,1042,4715,2039,6,3,1,19,3,1216,6,possession
-ENG-Premier League,2024,Newcastle Utd,Emil Krafth,SWE,DF,30-252,1994,2.8,118,24,67,36,15,4,118,1,0,0.0,1,100.0,54,206,64,1,2,0,2,1,58,1,possession
-ENG-Premier League,2024,Newcastle Utd,Fabian Schär,SUI,DF,33-112,1991,24.8,1740,212,925,719,106,25,1740,11,7,63.6,2,18.2,1097,4912,2791,12,21,1,9,5,1200,16,possession
-ENG-Premier League,2024,Newcastle Utd,Harvey Barnes,ENG,FW,27-123,1997,12.0,515,10,72,166,280,78,515,41,16,39.0,20,48.8,369,2681,1515,57,30,30,21,12,409,118,possession
-ENG-Premier League,2024,Newcastle Utd,Jacob Murphy,ENG,FW,30-046,1995,20.2,949,13,143,368,447,68,949,50,24,48.0,24,48.0,564,3314,1734,59,26,21,24,31,681,163,possession
-ENG-Premier League,2024,Newcastle Utd,Joe Willock,ENG,"MF,FW",25-234,1999,9.4,408,10,61,169,185,36,408,31,11,35.5,14,45.2,255,1730,801,30,22,11,31,22,286,68,possession
-ENG-Premier League,2024,Newcastle Utd,Joelinton,BRA,"MF,FW",28-240,1996,24.0,1242,65,248,600,407,76,1242,44,14,31.8,27,61.4,674,3369,1661,37,23,8,35,51,845,100,possession
-ENG-Premier League,2024,Newcastle Utd,Kieran Trippier,ENG,DF,34-204,1990,9.7,901,37,290,389,228,8,901,5,4,80.0,1,20.0,416,1558,853,16,6,3,7,4,553,30,possession
-ENG-Premier League,2024,Newcastle Utd,Lewis Hall,ENG,DF,20-215,2004,24.3,1820,95,623,804,414,47,1820,21,11,52.4,7,33.3,950,4398,2358,41,22,13,33,20,1094,80,possession
-ENG-Premier League,2024,Newcastle Utd,Lewis Miley,ENG,MF,18-345,2006,2.4,170,5,36,96,39,5,170,2,0,0.0,1,50.0,84,433,174,1,1,0,5,0,121,6,possession
-ENG-Premier League,2024,Newcastle Utd,Lloyd Kelly,ENG,DF,26-187,1998,3.4,215,26,105,94,19,4,215,3,2,66.7,1,33.3,120,474,202,0,2,0,3,2,129,5,possession
-ENG-Premier League,2024,Newcastle Utd,Martin Dúbravka,SVK,GK,36-086,1989,10.0,350,262,337,14,0,0,350,0,0,,0,,202,1043,643,0,0,0,0,0,175,0,possession
-ENG-Premier League,2024,Newcastle Utd,Matt Targett,ENG,DF,29-205,1995,0.1,8,0,1,4,3,0,8,0,0,,0,,2,5,1,0,0,0,0,0,5,0,possession
-ENG-Premier League,2024,Newcastle Utd,Miguel Almirón,PAR,FW,31-060,1994,1.7,81,1,10,35,36,9,81,2,1,50.0,1,50.0,54,284,93,3,3,2,0,2,59,18,possession
-ENG-Premier League,2024,Newcastle Utd,Nick Pope,ENG,GK,32-357,1992,20.0,635,511,627,8,0,0,635,0,0,,0,,332,1813,1200,0,0,0,0,1,221,0,possession
-ENG-Premier League,2024,Newcastle Utd,Sandro Tonali,ITA,MF,24-338,2000,21.2,1259,49,301,701,279,31,1259,29,17,58.6,9,31.0,698,3725,1573,29,30,4,21,23,868,38,possession
-ENG-Premier League,2024,Newcastle Utd,Sean Longstaff,ENG,MF,27-163,1997,8.6,406,20,111,182,116,21,406,6,2,33.3,3,50.0,235,1132,415,4,10,2,8,7,291,20,possession
-ENG-Premier League,2024,Newcastle Utd,Sven Botman,NED,DF,25-089,2000,2.5,156,24,63,89,5,5,156,3,1,33.3,1,33.3,82,350,171,0,0,0,1,0,101,0,possession
-ENG-Premier League,2024,Newcastle Utd,Valentino Livramento,ENG,DF,22-150,2002,23.6,1492,98,510,674,333,20,1492,39,17,43.6,15,38.5,780,4590,2394,57,30,6,21,30,834,77,possession
-ENG-Premier League,2024,Newcastle Utd,William Osula,DEN,FW,21-250,2003,1.0,31,1,2,17,12,3,31,5,2,40.0,3,60.0,17,91,17,1,1,0,5,4,16,7,possession
-ENG-Premier League,2024,Nott'ham Forest,Anthony Elanga,SWE,FW,22-349,2002,21.9,875,29,124,247,520,86,875,71,22,31.0,32,45.1,460,3593,2062,79,40,36,64,33,575,161,possession
-ENG-Premier League,2024,Nott'ham Forest,Callum Hudson-Odoi,ENG,FW,24-155,2000,22.0,938,14,101,293,566,69,938,57,32,56.1,17,29.8,586,4832,3072,116,55,43,43,22,717,180,possession
-ENG-Premier League,2024,Nott'ham Forest,Chris Wood,NZL,FW,33-125,1991,26.0,605,30,70,289,248,78,602,10,4,40.0,5,50.0,303,1083,424,13,9,5,62,21,452,72,possession
-ENG-Premier League,2024,Nott'ham Forest,Danilo,BRA,"MF,FW",23-347,2001,2.3,111,6,33,67,12,0,111,5,2,40.0,3,60.0,41,202,55,2,0,0,6,0,69,1,possession
-ENG-Premier League,2024,Nott'ham Forest,Elliot Anderson,ENG,MF,22-156,2002,23.7,1378,76,316,648,441,55,1378,67,33,49.3,26,38.8,688,3800,1752,36,27,15,51,34,814,76,possession
-ENG-Premier League,2024,Nott'ham Forest,Eric da Silva Moreira,GER,"MF,DF",18-343,2006,0.3,13,3,7,4,2,0,13,1,0,0.0,1,100.0,4,26,11,1,0,0,1,0,3,1,possession
-ENG-Premier League,2024,Nott'ham Forest,Harry Toffolo,ENG,DF,29-235,1995,0.5,44,3,13,10,21,2,44,0,0,,0,,10,21,11,0,0,0,0,0,18,4,possession
-ENG-Premier League,2024,Nott'ham Forest,Ibrahim Sangaré,CIV,MF,27-130,1997,3.1,193,8,44,123,28,7,193,1,0,0.0,1,100.0,75,297,83,0,2,0,4,1,101,2,possession
-ENG-Premier League,2024,Nott'ham Forest,James Ward-Prowse,ENG,MF,30-161,1994,4.4,205,13,49,115,45,1,205,0,0,,0,,92,407,170,1,3,0,3,3,115,3,possession
-ENG-Premier League,2024,Nott'ham Forest,Jota Silva,POR,"FW,MF",25-253,1999,8.6,322,18,79,88,166,42,322,32,10,31.3,14,43.8,158,1035,551,18,10,8,23,11,181,50,possession
-ENG-Premier League,2024,Nott'ham Forest,Matz Sels,BEL,GK,33-044,1992,31.0,905,686,891,14,0,0,905,0,0,,0,,444,2575,1348,0,0,0,0,0,351,0,possession
-ENG-Premier League,2024,Nott'ham Forest,Morato,BRA,DF,23-285,2001,8.4,369,78,230,122,19,2,369,1,1,100.0,0,0.0,122,608,272,0,2,0,6,3,153,1,possession
-ENG-Premier League,2024,Nott'ham Forest,Morgan Gibbs-White,ENG,MF,25-074,2000,24.4,1313,28,155,650,529,82,1313,69,28,40.6,31,44.9,742,4299,2200,61,45,12,62,36,991,109,possession
-ENG-Premier League,2024,Nott'ham Forest,Murillo,BRA,DF,22-281,2002,29.5,1541,347,791,676,88,17,1541,31,26,83.9,5,16.1,659,3416,2034,17,24,1,17,9,777,4,possession
-ENG-Premier League,2024,Nott'ham Forest,Neco Williams,WAL,DF,23-363,2001,21.8,1141,119,409,404,342,35,1141,39,15,38.5,17,43.6,472,2923,1617,53,25,14,17,14,541,75,possession
-ENG-Premier League,2024,Nott'ham Forest,Nicolás Domínguez,ARG,"MF,FW",26-287,1998,16.6,937,60,233,490,222,23,937,8,3,37.5,3,37.5,357,1406,654,12,9,2,16,9,516,22,possession
-ENG-Premier League,2024,Nott'ham Forest,Nikola Milenković,SRB,DF,27-181,1997,30.0,1107,210,601,435,75,57,1107,1,1,100.0,0,0.0,422,1839,879,3,3,2,1,2,561,5,possession
-ENG-Premier League,2024,Nott'ham Forest,Ola Aina,NGA,DF,28-185,1996,28.5,1462,138,539,610,338,21,1462,64,29,45.3,24,37.5,629,4026,2328,54,35,10,39,21,691,52,possession
-ENG-Premier League,2024,Nott'ham Forest,Ramón Sosa,PAR,"FW,MF",25-223,1999,2.9,135,5,32,40,68,12,135,11,8,72.7,3,27.3,65,546,303,11,6,4,5,5,71,15,possession
-ENG-Premier League,2024,Nott'ham Forest,Ryan Yates,ENG,MF,27-141,1997,19.2,929,70,244,456,239,37,929,18,9,50.0,5,27.8,378,1848,849,17,18,1,22,18,486,12,possession
-ENG-Premier League,2024,Nott'ham Forest,Taiwo Awoniyi,NGA,FW,27-242,1997,4.0,151,4,13,68,71,21,151,8,3,37.5,5,62.5,83,373,183,6,5,2,17,16,104,19,possession
-ENG-Premier League,2024,Nott'ham Forest,Willy Boly,CIV,DF,34-067,1991,1.7,97,22,63,32,2,1,97,0,0,,0,,35,128,45,0,0,0,1,0,46,0,possession
-ENG-Premier League,2024,Nott'ham Forest,Álex Moreno,ESP,"DF,MF",31-307,1993,9.6,502,55,183,186,144,8,502,20,8,40.0,7,35.0,211,1380,821,25,16,4,13,5,232,32,possession
-ENG-Premier League,2024,Southampton,Aaron Ramsdale,ENG,GK,26-332,1998,23.0,1029,745,1018,13,0,0,1029,0,0,,0,,645,3258,1886,0,0,0,1,0,588,0,possession
-ENG-Premier League,2024,Southampton,Adam Armstrong,ENG,"FW,MF",28-060,1997,13.9,377,11,44,143,192,49,376,14,6,42.9,8,57.1,235,1324,599,25,13,6,11,18,286,79,possession
-ENG-Premier League,2024,Southampton,Adam Lallana,ENG,MF,36-336,1988,4.0,318,19,91,155,73,6,318,12,5,41.7,5,41.7,178,831,366,6,8,0,10,6,245,10,possession
-ENG-Premier League,2024,Southampton,Albert Grønbaek,DEN,"FW,MF",23-323,2001,1.6,38,2,9,14,15,2,38,4,0,0.0,4,100.0,18,79,15,1,0,1,5,4,21,3,possession
-ENG-Premier League,2024,Southampton,Alex McCarthy,ENG,GK,35-129,1989,5.0,173,141,173,0,0,0,173,0,0,,0,,100,452,276,0,0,0,0,0,88,0,possession
-ENG-Premier League,2024,Southampton,Armel Bella Kotchap,GER,DF,23-121,2001,3.7,263,33,147,115,3,1,263,1,0,0.0,1,100.0,186,936,326,0,0,0,1,0,192,0,possession
-ENG-Premier League,2024,Southampton,Ben Brereton,CHI,FW,25-358,1999,5.0,206,4,19,76,112,20,206,4,1,25.0,2,50.0,136,791,394,12,13,4,9,4,171,42,possession
-ENG-Premier League,2024,Southampton,Cameron Archer,ENG,FW,23-264,2001,13.9,329,14,53,148,131,46,328,29,13,44.8,15,51.7,189,947,443,16,7,13,29,23,227,58,possession
-ENG-Premier League,2024,Southampton,Carlos Alcaraz,ARG,MF,22-132,2002,0.1,17,0,1,8,9,2,17,2,0,0.0,2,100.0,12,112,98,4,1,0,0,0,12,1,possession
-ENG-Premier League,2024,Southampton,Charlie Taylor,ENG,DF,31-205,1993,3.0,219,21,93,91,36,1,219,2,2,100.0,0,0.0,91,386,155,3,3,0,1,1,133,6,possession
-ENG-Premier League,2024,Southampton,Flynn Downes,ENG,MF,26-081,1999,17.9,1048,71,315,560,179,19,1048,13,4,30.8,7,53.8,494,2677,1405,21,17,4,12,16,745,26,possession
-ENG-Premier League,2024,Southampton,Jack Stephens,ENG,DF,31-074,1994,9.9,748,75,307,369,76,6,748,3,0,0.0,3,100.0,415,1932,932,11,10,1,1,1,543,1,possession
-ENG-Premier League,2024,Southampton,James Bree,ENG,DF,27-182,1997,9.9,598,42,194,261,148,10,598,8,4,50.0,2,25.0,316,1372,688,9,11,0,6,4,385,34,possession
-ENG-Premier League,2024,Southampton,Jan Bednarek,POL,DF,28-364,1996,23.1,1809,317,940,839,37,14,1809,3,3,100.0,0,0.0,914,3304,1564,4,5,1,9,3,1159,1,possession
-ENG-Premier League,2024,Southampton,Joe Aribo,NGA,"MF,DF",28-264,1996,21.2,1203,46,288,632,294,44,1203,46,18,39.1,22,47.8,708,3880,1923,35,28,12,25,16,879,64,possession
-ENG-Premier League,2024,Southampton,Joe Lumley,ENG,GK,30-055,1995,3.0,164,116,161,3,0,0,164,0,0,,0,,103,476,296,0,0,0,0,0,108,0,possession
-ENG-Premier League,2024,Southampton,Kamaldeen Sulemana,GHA,"FW,MF",23-055,2002,10.1,401,10,48,149,216,40,401,73,30,41.1,37,50.7,266,2319,1176,47,30,18,31,19,289,64,possession
-ENG-Premier League,2024,Southampton,Kyle Walker-Peters,ENG,DF,27-363,1997,28.4,1810,133,550,791,483,53,1810,79,31,39.2,35,44.3,1117,7152,3964,108,65,22,26,34,1277,124,possession
-ENG-Premier League,2024,Southampton,Lesley Ugochukwu,FRA,MF,21-016,2004,13.1,659,30,141,387,137,18,659,23,17,73.9,5,21.7,361,1946,893,22,11,5,8,8,456,18,possession
-ENG-Premier League,2024,Southampton,Mateus Fernandes,POR,MF,20-275,2004,25.8,1427,50,300,706,452,43,1427,90,43,47.8,40,44.4,737,4715,2546,65,55,8,42,29,881,91,possession
-ENG-Premier League,2024,Southampton,Maxwel Cornet,CIV,FW,28-196,1996,0.8,34,1,8,14,13,2,34,1,0,0.0,1,100.0,16,73,26,1,0,1,3,0,23,5,possession
-ENG-Premier League,2024,Southampton,Nathan Wood-Gordon,ENG,DF,22-315,2002,6.9,457,54,219,212,27,2,457,5,3,60.0,1,20.0,253,1150,454,2,6,0,4,1,339,0,possession
-ENG-Premier League,2024,Southampton,Paul Onuachu,NGA,FW,30-318,1994,9.7,379,12,36,207,139,56,379,24,7,29.2,13,54.2,187,761,227,7,4,2,44,31,314,35,possession
-ENG-Premier League,2024,Southampton,Ronnie Edwards,ENG,DF,22-014,2003,0.1,6,3,4,2,0,0,6,0,0,,0,,3,10,0,0,0,0,0,0,5,0,possession
-ENG-Premier League,2024,Southampton,Ross Stewart,SCO,"FW,MF",28-274,1996,1.6,64,5,13,32,19,2,64,2,1,50.0,1,50.0,36,152,59,1,0,0,1,5,49,5,possession
-ENG-Premier League,2024,Southampton,Ryan Fraser,SCO,"FW,DF",31-046,1994,3.4,131,12,45,50,37,3,131,3,2,66.7,1,33.3,74,492,252,10,5,2,4,2,94,18,possession
-ENG-Premier League,2024,Southampton,Ryan Manning,IRL,DF,28-301,1996,12.4,746,54,205,301,249,21,746,31,11,35.5,13,41.9,372,1596,779,12,10,4,16,5,440,61,possession
-ENG-Premier League,2024,Southampton,Samuel Amo-Ameyaw,ENG,"FW,DF",18-267,2006,0.3,16,0,5,5,7,1,16,4,0,0.0,3,75.0,11,98,68,1,0,1,0,2,11,3,possession
-ENG-Premier League,2024,Southampton,Samuel Edozie,ENG,"DF,FW",22-073,2003,0.7,43,0,0,7,36,10,43,4,2,50.0,2,50.0,34,336,197,6,2,4,4,0,39,23,possession
-ENG-Premier League,2024,Southampton,Taylor Harwood-Bellis,ENG,DF,23-071,2002,25.6,2098,276,969,986,152,34,2098,3,3,100.0,0,0.0,1208,5569,3240,27,27,0,13,5,1525,8,possession
-ENG-Premier League,2024,Southampton,Tyler Dibling,ENG,"FW,MF",19-030,2006,18.0,761,19,98,353,329,39,761,99,42,42.4,36,36.4,488,3942,1970,63,45,26,39,49,568,85,possession
-ENG-Premier League,2024,Southampton,Welington,BRA,"DF,MF",24-051,2001,2.3,122,11,45,44,36,2,122,4,3,75.0,0,0.0,42,190,113,3,3,1,6,0,50,10,possession
-ENG-Premier League,2024,Southampton,William Smallbone,IRL,MF,25-049,2000,6.5,359,15,72,175,116,14,359,4,4,100.0,0,0.0,160,652,329,5,7,1,9,5,216,21,possession
-ENG-Premier League,2024,Southampton,Yukinari Sugawara,JPN,"DF,MF",24-287,2000,16.2,1016,61,306,395,320,29,1016,20,9,45.0,10,50.0,548,2511,1352,32,15,7,18,4,688,76,possession
-ENG-Premier League,2024,Tottenham,Alfie Dorrington,ENG,DF,19-356,2005,0.2,16,0,11,5,0,0,16,0,0,,0,,12,61,26,0,0,0,0,0,13,0,possession
-ENG-Premier League,2024,Tottenham,Antonín Kinský,CZE,GK,22-029,2003,4.0,156,134,154,2,0,0,156,0,0,,0,,97,444,267,1,0,0,0,0,98,0,possession
-ENG-Premier League,2024,Tottenham,Archie Gray,ENG,"DF,MF",19-030,2006,14.0,1046,133,526,472,57,1,1046,8,4,50.0,3,37.5,741,3362,1393,4,5,0,6,8,796,7,possession
-ENG-Premier League,2024,Tottenham,Ben Davies,WAL,DF,31-352,1993,9.0,748,134,391,324,33,9,748,1,1,100.0,0,0.0,437,2122,1167,6,5,0,2,0,505,5,possession
-ENG-Premier League,2024,Tottenham,Brandon Austin,ENG,GK,26-093,1999,1.0,36,30,36,0,0,0,36,0,0,,0,,22,104,46,0,0,0,0,0,16,0,possession
-ENG-Premier League,2024,Tottenham,Brennan Johnson,WAL,FW,23-323,2001,20.9,758,16,85,256,429,117,758,39,18,46.2,18,46.2,476,2567,1305,54,18,32,23,15,550,179,possession
-ENG-Premier League,2024,Tottenham,Cristian Romero,ARG,DF,26-349,1998,14.2,1236,152,543,640,62,20,1236,4,1,25.0,2,50.0,810,4266,2590,12,17,0,6,4,844,3,possession
-ENG-Premier League,2024,Tottenham,Dane Scarlett,ENG,"FW,MF",21-018,2004,0.4,9,1,3,5,1,1,9,0,0,,0,,5,66,33,1,0,0,0,1,4,1,possession
-ENG-Premier League,2024,Tottenham,Dejan Kulusevski,SWE,"MF,FW",24-351,2000,23.9,1172,20,133,390,673,145,1172,107,35,32.7,64,59.8,766,5793,3065,115,66,37,71,69,834,199,possession
-ENG-Premier League,2024,Tottenham,Destiny Udogie,ITA,DF,22-134,2002,19.4,1287,57,353,572,376,48,1287,30,12,40.0,15,50.0,714,4005,2187,51,38,11,31,19,778,92,possession
-ENG-Premier League,2024,Tottenham,Djed Spence,ENG,DF,24-245,2000,13.8,1040,58,356,471,228,20,1040,57,29,50.9,23,40.4,607,3608,1899,38,33,6,21,21,652,56,possession
-ENG-Premier League,2024,Tottenham,Dominic Solanke,ENG,FW,27-209,1997,21.7,602,31,66,274,268,105,602,48,16,33.3,29,60.4,355,1926,777,29,20,14,62,44,421,84,possession
-ENG-Premier League,2024,Tottenham,Fraser Forster,ENG,GK,37-025,1988,7.0,228,212,228,0,0,0,228,1,1,100.0,0,0.0,113,501,264,0,0,0,1,0,94,0,possession
-ENG-Premier League,2024,Tottenham,Guglielmo Vicario,ITA,GK,28-186,1996,19.0,742,492,727,15,0,0,742,1,1,100.0,0,0.0,536,2507,1420,0,0,0,0,0,481,0,possession
-ENG-Premier League,2024,Tottenham,James Maddison,ENG,MF,28-139,1996,18.8,1370,25,200,635,548,73,1370,70,30,42.9,31,44.3,959,4700,2096,40,37,18,21,24,1057,84,possession
-ENG-Premier League,2024,Tottenham,Kevin Danso,AUT,DF,26-204,1998,3.9,334,42,179,141,15,7,334,2,1,50.0,1,50.0,242,1075,466,2,0,0,6,0,254,0,possession
-ENG-Premier League,2024,Tottenham,Lucas Bergvall,SWE,MF,19-068,2006,12.0,815,34,173,442,213,20,815,44,21,47.7,19,43.2,494,3114,1475,27,20,4,19,16,542,27,possession
-ENG-Premier League,2024,Tottenham,Mathys Tel,FRA,FW,19-349,2005,3.5,117,0,13,45,62,17,116,16,3,18.8,11,68.8,85,539,235,8,7,3,8,6,80,17,possession
-ENG-Premier League,2024,Tottenham,Micky van de Ven,NED,DF,23-357,2001,10.1,808,100,425,359,33,9,808,8,4,50.0,4,50.0,564,2661,1301,8,10,1,5,4,587,1,possession
-ENG-Premier League,2024,Tottenham,Mikey Moore,ENG,"FW,MF",17-243,2007,2.1,96,1,10,22,65,12,96,11,1,9.1,9,81.8,68,521,239,9,3,4,6,4,73,30,possession
-ENG-Premier League,2024,Tottenham,Pape Matar Sarr,SEN,MF,22-209,2002,16.2,1041,31,224,584,251,21,1041,25,11,44.0,12,48.0,662,3910,1679,28,28,4,24,18,743,41,possession
-ENG-Premier League,2024,Tottenham,Pedro Porro,ESP,DF,25-210,1999,26.4,2024,122,610,732,694,29,2024,33,11,33.3,20,60.6,1071,4844,2489,58,37,5,23,16,1164,95,possession
-ENG-Premier League,2024,Tottenham,Radu Drăgușin,ROU,DF,23-067,2002,13.9,961,148,510,430,30,12,961,2,0,0.0,0,0.0,623,3349,1666,7,3,0,8,2,669,2,possession
-ENG-Premier League,2024,Tottenham,Richarlison,BRA,FW,27-336,1997,3.1,116,8,19,62,36,12,116,9,1,11.1,7,77.8,56,310,138,8,7,3,4,5,79,17,possession
-ENG-Premier League,2024,Tottenham,Rodrigo Bentancur,URU,MF,27-290,1997,15.5,1132,67,278,673,190,21,1132,17,8,47.1,7,41.2,678,3054,1203,21,22,5,15,17,749,30,possession
-ENG-Premier League,2024,Tottenham,Sergio Reguilón,ESP,DF,28-116,1996,1.4,121,2,28,61,33,3,121,4,2,50.0,0,0.0,64,293,180,4,2,1,1,1,74,10,possession
-ENG-Premier League,2024,Tottenham,Son Heung-min,KOR,FW,32-277,1992,22.3,1093,15,110,347,646,117,1091,82,29,35.4,40,48.8,732,4522,2334,87,45,40,25,29,837,259,possession
-ENG-Premier League,2024,Tottenham,Timo Werner,GER,"FW,MF",29-036,1996,5.7,298,8,24,78,203,33,298,19,10,52.6,8,42.1,215,1768,1062,42,24,18,14,6,227,89,possession
-ENG-Premier League,2024,Tottenham,Will Lankshear,ENG,"FW,MF",19-356,2005,0.1,3,0,0,2,1,0,3,0,0,,0,,3,3,0,0,0,0,2,0,3,1,possession
-ENG-Premier League,2024,Tottenham,Wilson Odobert,FRA,FW,20-134,2004,5.0,244,4,26,90,130,27,244,24,9,37.5,13,54.2,176,1379,796,30,17,16,13,12,182,40,possession
-ENG-Premier League,2024,Tottenham,Yves Bissouma,MLI,MF,28-224,1996,12.8,890,56,252,503,141,5,890,21,7,33.3,14,66.7,537,3183,1461,15,17,0,22,12,619,3,possession
-ENG-Premier League,2024,West Ham,Aaron Cresswell,ENG,DF,35-117,1989,6.5,495,33,196,236,68,1,495,1,1,100.0,0,0.0,200,773,388,4,7,0,3,0,312,2,possession
-ENG-Premier League,2024,West Ham,Aaron Wan-Bissaka,ENG,DF,27-136,1997,29.0,1848,127,588,791,496,37,1848,92,48,52.2,33,35.9,862,5511,3102,91,52,11,27,18,1061,126,possession
-ENG-Premier League,2024,West Ham,Alphonse Areola,FRA,GK,32-043,1993,19.1,814,657,808,6,0,0,814,0,0,,0,,460,1901,1008,0,0,0,0,0,423,0,possession
-ENG-Premier League,2024,West Ham,Andy Irving,SCO,MF,24-333,2000,1.8,150,7,37,89,24,0,150,1,1,100.0,0,0.0,73,305,137,0,1,0,1,3,104,4,possession
-ENG-Premier League,2024,West Ham,Carlos Soler,ESP,"MF,FW",28-099,1997,13.1,646,21,154,331,166,19,646,17,8,47.1,8,47.1,302,1488,642,13,15,4,9,12,433,24,possession
-ENG-Premier League,2024,West Ham,Crysencio Summerville,NED,"FW,MF",23-163,2001,8.7,372,9,47,147,181,38,372,39,13,33.3,18,46.2,207,1463,762,29,15,13,20,16,259,71,possession
-ENG-Premier League,2024,West Ham,Danny Ings,ENG,"FW,MF",32-262,1992,3.2,139,2,15,51,73,27,139,7,4,57.1,2,28.6,63,324,118,6,0,2,6,6,96,29,possession
-ENG-Premier League,2024,West Ham,Edson Álvarez,MEX,MF,27-169,1997,18.1,1101,61,323,612,174,12,1101,31,14,45.2,12,38.7,603,3371,1528,21,20,2,25,13,734,18,possession
-ENG-Premier League,2024,West Ham,Emerson Palmieri,ITA,DF,30-251,1994,20.6,1167,74,378,491,313,24,1167,30,10,33.3,17,56.7,483,2644,1465,38,22,8,22,7,636,72,possession
-ENG-Premier League,2024,West Ham,Evan Ferguson,IRL,FW,20-174,2004,1.6,61,1,6,26,29,10,61,5,3,60.0,2,40.0,31,123,41,1,1,1,8,5,40,6,possession
-ENG-Premier League,2024,West Ham,Guido Rodríguez,ARG,MF,30-364,1994,11.3,617,42,196,366,56,2,617,3,2,66.7,0,0.0,284,988,392,2,5,0,2,6,354,5,possession
-ENG-Premier League,2024,West Ham,James Ward-Prowse,ENG,MF,30-161,1994,6.5,470,19,106,278,86,2,470,1,1,100.0,0,0.0,225,1026,409,6,10,0,1,3,321,2,possession
-ENG-Premier League,2024,West Ham,Jarrod Bowen,ENG,"FW,MF",28-112,1996,26.3,1015,23,117,368,553,137,1014,107,40,37.4,58,54.2,599,4368,2104,88,39,47,62,63,652,164,possession
-ENG-Premier League,2024,West Ham,Jean-Clair Todibo,FRA,DF,25-102,1999,13.6,865,123,485,354,33,9,865,13,7,53.8,6,46.2,511,2287,1154,7,5,0,6,7,585,4,possession
-ENG-Premier League,2024,West Ham,Kaelan Casey,ENG,DF,20-165,2004,0.0,1,1,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-ENG-Premier League,2024,West Ham,Konstantinos Mavropanos,GRE,DF,27-121,1997,19.5,1295,192,670,573,59,21,1295,17,9,52.9,5,29.4,711,3567,1967,15,10,1,12,0,841,2,possession
-ENG-Premier League,2024,West Ham,Lewis Orford,ENG,MF,19-052,2006,0.5,42,1,8,28,7,2,42,0,0,,0,,22,98,27,0,0,0,1,0,31,1,possession
-ENG-Premier League,2024,West Ham,Lucas Paquetá,BRA,"MF,FW",27-227,1997,22.1,1439,41,272,802,376,53,1437,33,13,39.4,17,51.5,738,2502,1018,16,26,2,47,46,1008,77,possession
-ENG-Premier League,2024,West Ham,Luis Guilherme,BRA,"MF,FW",19-061,2006,1.2,66,3,14,25,27,3,66,6,2,33.3,2,33.3,31,237,111,3,2,1,1,2,41,11,possession
-ENG-Premier League,2024,West Ham,Max Kilman,ENG,DF,27-323,1997,30.2,1897,368,1046,774,92,28,1897,18,13,72.2,1,5.6,1010,4559,2627,26,10,2,13,2,1257,5,possession
-ENG-Premier League,2024,West Ham,Michail Antonio,JAM,FW,35-014,1990,9.3,296,3,26,124,151,36,296,27,9,33.3,13,48.1,173,1177,695,29,13,9,35,19,221,59,possession
-ENG-Premier League,2024,West Ham,Mohammed Kudus,GHA,"FW,MF",24-252,2000,23.1,1018,10,136,421,495,101,1018,169,73,43.2,79,46.7,673,4392,2055,81,52,35,60,79,791,175,possession
-ENG-Premier League,2024,West Ham,Niclas Füllkrug,GER,FW,32-061,1993,5.0,152,10,13,77,62,24,152,4,1,25.0,3,75.0,55,205,110,4,2,2,11,3,106,15,possession
-ENG-Premier League,2024,West Ham,Oliver Scarles,ENG,DF,19-120,2005,5.9,380,18,113,155,116,7,380,6,1,16.7,5,83.3,177,692,378,9,9,1,10,3,223,38,possession
-ENG-Premier League,2024,West Ham,Tomáš Souček,CZE,MF,30-043,1995,23.9,1070,105,293,526,255,93,1070,11,6,54.5,5,45.5,413,1237,439,6,10,3,16,10,643,58,possession
-ENG-Premier League,2024,West Ham,Vladimír Coufal,CZE,DF,32-232,1992,8.2,484,48,188,191,106,8,484,7,2,28.6,2,28.6,190,932,425,11,4,1,8,5,252,21,possession
-ENG-Premier League,2024,West Ham,Łukasz Fabiański,POL,GK,39-358,1985,11.9,488,382,483,5,0,0,488,2,2,100.0,0,0.0,258,1371,845,0,0,0,0,0,227,0,possession
-ENG-Premier League,2024,Wolves,Alfie Pond,ENG,DF,21-041,2004,0.0,1,0,0,1,0,0,1,0,0,,0,,1,2,2,0,0,0,0,0,1,0,possession
-ENG-Premier League,2024,Wolves,André,BRA,MF,23-269,2001,21.2,1213,77,333,780,110,3,1213,23,11,47.8,8,34.8,664,2798,1237,7,13,0,22,13,814,11,possession
-ENG-Premier League,2024,Wolves,Boubacar Traoré,MLI,MF,23-234,2001,0.0,2,0,0,2,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-ENG-Premier League,2024,Wolves,Carlos Forbs,POR,"MF,FW",21-023,2004,2.6,117,3,20,38,60,13,117,12,7,58.3,5,41.7,72,435,297,9,3,8,7,4,82,28,possession
-ENG-Premier League,2024,Wolves,Chiquinho,POR,MF,25-065,2000,0.1,3,0,0,1,2,1,3,0,0,,0,,1,13,5,0,0,0,0,0,2,0,possession
-ENG-Premier League,2024,Wolves,Craig Dawson,ENG,DF,34-340,1990,10.8,671,130,396,249,28,14,671,5,1,20.0,2,40.0,390,1819,938,6,1,0,2,0,443,5,possession
-ENG-Premier League,2024,Wolves,Daniel Podence,POR,"MF,FW",29-172,1995,0.5,20,0,2,11,7,0,20,2,2,100.0,0,0.0,13,77,43,1,1,0,0,0,17,3,possession
-ENG-Premier League,2024,Wolves,Emmanuel Agbadou,CIV,DF,27-298,1997,8.7,611,96,325,274,17,2,611,7,6,85.7,1,14.3,361,1760,762,1,2,0,2,3,385,0,possession
-ENG-Premier League,2024,Wolves,Gonçalo Guedes,POR,"MF,FW",28-133,1996,8.6,366,4,42,161,176,28,366,20,5,25.0,11,55.0,223,1693,878,31,19,5,33,14,247,58,possession
-ENG-Premier League,2024,Wolves,Hwang Hee-chan,KOR,"MF,FW",29-075,1996,7.1,254,9,39,97,120,22,254,11,1,9.1,10,90.9,146,913,416,14,5,7,12,10,168,40,possession
-ENG-Premier League,2024,Wolves,Jean-Ricner Bellegarde,FRA,"MF,FW",26-288,1998,16.0,703,21,119,322,278,41,703,57,13,22.8,30,52.6,435,2719,1329,45,33,10,34,23,490,79,possession
-ENG-Premier League,2024,Wolves,José Sá,POR,GK,32-084,1993,24.0,804,639,797,8,0,0,804,6,6,100.0,0,0.0,498,3022,1924,0,0,0,1,0,392,0,possession
-ENG-Premier League,2024,Wolves,João Gomes,BRA,MF,24-058,2001,27.0,1617,55,346,887,403,37,1617,49,21,42.9,22,44.9,836,4926,2359,49,45,5,32,43,1073,61,possession
-ENG-Premier League,2024,Wolves,Jørgen Strand Larsen,NOR,FW,25-064,2000,24.9,624,32,80,297,248,91,624,14,6,42.9,8,57.1,290,993,400,13,11,7,79,29,452,92,possession
-ENG-Premier League,2024,Wolves,Mario Lemina,GAB,"MF,DF",31-222,1993,15.2,809,92,324,378,119,18,809,16,10,62.5,4,25.0,382,2068,1038,8,12,2,21,11,482,21,possession
-ENG-Premier League,2024,Wolves,Marshall Munetsi,ZIM,"MF,FW",28-293,1996,5.8,185,10,25,104,56,15,185,1,0,0.0,1,100.0,76,263,86,3,1,2,21,4,98,19,possession
-ENG-Premier League,2024,Wolves,Matheus Cunha,BRA,"MF,FW",25-319,1999,23.8,1267,20,156,579,577,106,1266,115,49,42.6,52,45.2,715,5449,2702,92,74,32,67,42,839,137,possession
-ENG-Premier League,2024,Wolves,Matt Doherty,IRL,DF,33-085,1992,19.6,1293,106,498,637,175,25,1293,20,11,55.0,6,30.0,684,3194,1943,29,19,4,11,5,811,39,possession
-ENG-Premier League,2024,Wolves,Nasser Djiga,BFA,DF,22-147,2002,0.2,16,2,8,8,0,0,16,0,0,,0,,7,25,0,0,0,0,1,2,7,1,possession
-ENG-Premier League,2024,Wolves,Nélson Semedo,POR,DF,31-146,1993,25.8,1381,109,400,628,370,22,1381,57,26,45.6,23,40.4,701,4121,2191,60,35,9,30,16,792,99,possession
-ENG-Premier League,2024,Wolves,Pablo Sarabia,ESP,"MF,FW",32-335,1992,6.8,390,3,44,193,155,20,390,10,5,50.0,3,30.0,232,1061,515,11,12,0,14,11,274,47,possession
-ENG-Premier League,2024,Wolves,Pedro Lima,BRA,DF,18-284,2006,0.8,48,0,9,12,28,3,48,3,1,33.3,2,66.7,22,120,83,4,3,1,1,0,30,11,possession
-ENG-Premier League,2024,Wolves,Rayan Aït-Nouri,ALG,DF,23-309,2001,28.3,1728,81,475,745,529,72,1728,98,48,49.0,36,36.7,896,4944,2577,68,50,22,38,36,1038,147,possession
-ENG-Premier League,2024,Wolves,Rodrigo Gomes,POR,"DF,FW",21-278,2003,6.6,311,22,73,109,134,23,311,11,3,27.3,6,54.5,155,1056,643,19,13,7,14,6,179,57,possession
-ENG-Premier League,2024,Wolves,Sam Johnstone,ENG,GK,32-017,1993,7.0,306,229,304,2,0,0,306,0,0,,0,,196,1221,756,0,0,0,0,0,179,0,possession
-ENG-Premier League,2024,Wolves,Santiago Bueno,URU,DF,26-153,1998,17.1,937,151,475,447,18,6,937,2,0,0.0,2,100.0,514,2613,1376,1,2,0,2,2,614,1,possession
-ENG-Premier League,2024,Wolves,Tommy Doyle,ENG,MF,23-176,2001,5.4,463,22,128,258,80,4,463,9,5,55.6,1,11.1,260,1417,578,6,3,0,9,4,303,4,possession
-ENG-Premier League,2024,Wolves,Toti Gomes,POR,DF,26-085,1999,22.0,1511,185,713,731,85,15,1511,23,16,69.6,5,21.7,871,4326,2369,20,16,0,16,12,1014,12,possession
-ENG-Premier League,2024,Wolves,Yerson Mosquera,COL,DF,23-344,2001,4.9,294,43,170,115,12,7,294,0,0,,0,,168,683,322,0,1,0,4,1,182,0,possession
+ENG-Premier League,2024,Leicester City,Jordan Ayew,GHA,"FW,MF",33-212,1991.0,14.6,649,18,89,331,251,46,648,52,19,36.5,27,51.9,389,2649,1195,38,30,7,51,31,434,68,possession
+ENG-Premier League,2024,Leicester City,Kasey McAteer,IRL,"FW,MF",23-140,2001.0,4.4,200,15,47,77,82,16,200,9,1,11.1,5,55.6,116,795,387,13,8,6,6,4,132,36,possession
+ENG-Premier League,2024,Leicester City,Luke Thomas,ENG,DF,23-305,2001.0,6.0,417,28,155,205,60,4,417,5,2,40.0,3,60.0,201,766,342,2,2,1,7,0,239,9,possession
+ENG-Premier League,2024,Leicester City,Mads Hermansen,DEN,GK,24-274,2000.0,23.5,998,715,959,41,0,0,998,1,1,100.0,0,0.0,631,3177,1691,0,0,0,1,0,546,0,possession
+ENG-Premier League,2024,Leicester City,Odsonne Édouard,FRA,FW,27-085,1998.0,0.3,20,1,2,7,11,6,20,2,1,50.0,1,50.0,11,25,2,0,0,1,7,2,13,2,possession
+ENG-Premier League,2024,Leicester City,Oliver Skipp,ENG,MF,24-207,2000.0,9.2,441,22,103,281,61,6,441,9,4,44.4,5,55.6,254,1011,506,14,7,2,10,5,304,14,possession
+ENG-Premier League,2024,Leicester City,Patson Daka,ZAM,"FW,MF",26-184,1998.0,6.5,212,8,36,99,81,20,212,15,2,13.3,10,66.7,119,589,255,8,6,2,16,10,141,30,possession
+ENG-Premier League,2024,Leicester City,Ricardo Pereira,POR,DF,31-187,1993.0,2.1,150,6,37,85,29,5,150,7,5,71.4,1,14.3,84,277,125,3,3,2,1,0,92,5,possession
+ENG-Premier League,2024,Leicester City,Stephy Mavididi,ENG,FW,26-315,1998.0,16.0,788,22,120,299,385,52,788,85,31,36.5,44,51.8,530,3906,2104,78,36,22,37,34,567,124,possession
+ENG-Premier League,2024,Leicester City,Victor Bernth Kristiansen,DEN,DF,22-116,2002.0,26.4,1581,113,564,711,319,15,1581,17,8,47.1,8,47.1,800,3839,1806,39,25,5,13,12,872,75,possession
+ENG-Premier League,2024,Leicester City,Wilfred Ndidi,NGA,MF,28-116,1996.0,20.3,1103,102,373,522,218,52,1103,27,12,44.4,13,48.1,527,2199,878,13,18,2,31,26,642,71,possession
+ENG-Premier League,2024,Leicester City,Will Alves,ENG,FW,20-067,2005.0,0.0,1,0,0,0,1,0,1,0,0,,0,,1,5,5,0,0,0,0,0,1,1,possession
+ENG-Premier League,2024,Leicester City,Wout Faes,BEL,DF,27-008,1998.0,25.3,1531,246,744,730,65,26,1531,5,4,80.0,1,20.0,873,4107,2433,11,12,2,15,5,998,1,possession
+ENG-Premier League,2024,Leicester City,Woyo Coulibaly,FRA,DF,25-326,1999.0,1.2,76,8,27,31,20,4,76,1,0,0.0,1,100.0,48,288,169,4,2,1,4,0,36,2,possession
+ENG-Premier League,2024,Liverpool,Alexis Mac Allister,ARG,MF,26-108,1998.0,25.5,1645,49,250,865,544,49,1645,38,14,36.8,20,52.6,818,3373,1762,31,37,3,24,20,1100,65,possession
+ENG-Premier League,2024,Liverpool,Alisson,BRA,GK,32-191,1992.0,20.9,682,499,668,14,0,0,682,1,1,100.0,0,0.0,447,1803,1063,0,0,0,1,0,407,0,possession
+ENG-Premier League,2024,Liverpool,Andrew Robertson,SCO,DF,31-031,1994.0,24.3,1860,82,469,849,555,46,1860,17,7,41.2,9,52.9,992,4404,2524,57,47,6,23,10,1248,90,possession
+ENG-Premier League,2024,Liverpool,Caoimhín Kelleher,IRL,GK,26-139,1998.0,10.0,398,286,396,2,0,0,398,1,1,100.0,0,0.0,290,1131,616,0,0,0,1,0,275,0,possession
+ENG-Premier League,2024,Liverpool,Cody Gakpo,NED,FW,25-339,1999.0,16.3,685,20,64,201,434,79,685,47,27,57.4,15,31.9,457,3192,1601,40,25,18,34,17,515,216,possession
+ENG-Premier League,2024,Liverpool,Conor Bradley,NIR,DF,21-276,2003.0,4.4,377,15,118,163,102,21,377,8,3,37.5,4,50.0,207,1201,668,20,10,5,8,1,234,18,possession
+ENG-Premier League,2024,Liverpool,Curtis Jones,ENG,"MF,DF",24-071,2001.0,15.0,957,26,147,511,305,50,957,15,10,66.7,4,26.7,581,2820,1265,20,13,5,21,29,717,65,possession
+ENG-Premier League,2024,Liverpool,Darwin Núñez,URU,FW,25-291,1999.0,11.2,326,10,43,110,183,60,326,21,8,38.1,12,57.1,175,939,492,20,16,10,21,17,216,67,possession
+ENG-Premier League,2024,Liverpool,Diogo Jota,POR,FW,28-128,1996.0,10.9,407,5,27,162,225,83,407,29,11,37.9,17,58.6,228,1357,711,34,21,20,35,21,283,81,possession
+ENG-Premier League,2024,Liverpool,Dominik Szoboszlai,HUN,MF,24-168,2000.0,23.3,1355,21,174,660,539,89,1355,35,19,54.3,13,37.1,702,3587,1992,63,44,17,34,20,928,115,possession
+ENG-Premier League,2024,Liverpool,Federico Chiesa,ITA,FW,27-168,1997.0,0.4,32,0,5,12,15,4,32,1,0,0.0,1,100.0,22,80,35,2,0,1,1,3,24,6,possession
+ENG-Premier League,2024,Liverpool,Harvey Elliott,ENG,"MF,FW",22-007,2003.0,1.8,191,2,18,81,93,13,191,5,2,40.0,3,60.0,113,509,249,7,6,5,2,2,145,20,possession
+ENG-Premier League,2024,Liverpool,Ibrahima Konaté,FRA,DF,25-321,1999.0,22.8,1762,194,756,913,98,18,1762,4,2,50.0,1,25.0,1043,4835,2812,21,12,0,8,2,1271,2,possession
+ENG-Premier League,2024,Liverpool,Jarell Quansah,ENG,DF,22-072,2003.0,3.2,258,32,128,110,20,3,258,2,1,50.0,1,50.0,162,916,483,2,3,1,3,2,182,3,possession
+ENG-Premier League,2024,Liverpool,Jayden Danns,ENG,MF,19-085,2006.0,0.1,2,0,0,0,2,0,2,0,0,,0,,1,2,1,0,0,0,0,1,1,0,possession
+ENG-Premier League,2024,Liverpool,Joe Gomez,ENG,DF,27-323,1997.0,5.8,481,54,183,264,37,5,481,0,0,,0,,303,1638,947,5,2,1,1,2,335,2,possession
+ENG-Premier League,2024,Liverpool,Kostas Tsimikas,GRE,DF,28-334,1996.0,5.7,487,23,121,220,148,8,487,4,3,75.0,1,25.0,231,1012,570,13,5,2,4,2,306,25,possession
+ENG-Premier League,2024,Liverpool,Luis Díaz,COL,FW,28-088,1997.0,21.9,1014,13,71,355,607,141,1014,104,46,44.2,47,45.2,672,5055,2648,98,48,53,49,41,796,246,possession
+ENG-Premier League,2024,Liverpool,Mohamed Salah,EGY,FW,32-300,1992.0,30.5,1399,10,83,424,911,291,1390,114,51,44.7,60,52.6,957,5808,2980,128,52,104,98,58,1164,384,possession
+ENG-Premier League,2024,Liverpool,Ryan Gravenberch,NED,MF,22-330,2002.0,29.5,1997,98,412,1175,436,22,1997,67,31,46.3,25,37.3,1196,6290,3171,59,65,9,43,19,1431,49,possession
+ENG-Premier League,2024,Liverpool,Trent Alexander-Arnold,ENG,DF,26-186,1998.0,23.8,2044,82,546,902,609,39,2044,29,13,44.8,14,48.3,1075,4978,2652,48,35,8,19,15,1299,87,possession
+ENG-Premier League,2024,Liverpool,Virgil van Dijk,NED,DF,33-277,1991.0,31.0,2740,369,1096,1519,133,37,2740,5,3,60.0,2,40.0,1550,7564,4152,17,19,3,5,4,1882,5,possession
+ENG-Premier League,2024,Liverpool,Vitezslav Jaros,CZE,GK,23-262,2001.0,0.1,8,5,8,0,0,0,8,0,0,,0,,7,29,8,0,0,0,0,0,5,0,possession
+ENG-Premier League,2024,Liverpool,Wataru Endo,JPN,MF,32-061,1993.0,1.6,111,4,25,69,18,2,111,1,1,100.0,0,0.0,48,174,47,0,0,1,5,2,71,1,possession
+ENG-Premier League,2024,Manchester City,Abdukodir Khusanov,UZB,DF,21-041,2004.0,5.6,445,45,205,211,31,1,445,2,0,0.0,2,100.0,274,1155,435,1,1,0,2,1,332,2,possession
+ENG-Premier League,2024,Manchester City,Bernardo Silva,POR,"MF,FW",30-244,1994.0,23.7,1556,37,270,612,690,125,1556,53,25,47.2,22,41.5,969,6251,3170,84,54,30,18,30,1145,169,possession
+ENG-Premier League,2024,Manchester City,Divin Mubama,ENG,FW,20-168,2004.0,0.3,5,0,0,2,3,1,5,0,0,,0,,2,14,0,0,0,0,0,1,3,0,possession
+ENG-Premier League,2024,Manchester City,Ederson,BRA,GK,31-237,1993.0,21.0,804,564,795,9,0,0,804,0,0,,0,,540,2526,1609,0,0,0,1,0,510,0,possession
+ENG-Premier League,2024,Manchester City,Erling Haaland,NOR,FW,24-264,2000.0,27.6,578,22,39,200,344,170,575,32,11,34.4,19,59.4,272,1310,478,19,14,19,39,25,427,103,possession
+ENG-Premier League,2024,Manchester City,Jack Grealish,ENG,"FW,MF",29-213,1995.0,8.0,509,14,38,155,321,70,509,27,13,48.1,9,33.3,368,2843,1708,69,23,46,10,16,413,118,possession
+ENG-Premier League,2024,Manchester City,Jahmai Simpson-Pusey,ENG,DF,19-158,2005.0,1.1,123,9,61,59,3,1,123,1,0,0.0,0,0.0,79,376,190,1,0,0,1,0,101,0,possession
+ENG-Premier League,2024,Manchester City,James Mcatee,ENG,"MF,FW",22-175,2002.0,1.6,92,1,11,43,39,9,92,5,1,20.0,4,80.0,54,301,150,5,4,0,2,1,68,12,possession
+ENG-Premier League,2024,Manchester City,Jeremy Doku,BEL,"FW,MF",22-319,2002.0,14.1,844,4,40,198,628,116,844,166,92,55.4,48,28.9,650,6097,3833,166,77,77,48,50,700,223,possession
+ENG-Premier League,2024,Manchester City,John Stones,ENG,"DF,MF",30-318,1994.0,6.1,442,40,142,234,68,4,442,2,2,100.0,0,0.0,292,2146,1183,10,14,0,2,0,333,2,possession
+ENG-Premier League,2024,Manchester City,Joško Gvardiol,CRO,DF,23-078,2002.0,29.4,2505,119,616,1203,707,82,2505,39,23,59.0,13,33.3,1605,8403,4655,74,88,13,23,15,1821,96,possession
+ENG-Premier League,2024,Manchester City,Kevin De Bruyne,BEL,MF,33-287,1991.0,13.3,982,10,62,330,597,56,982,27,10,37.0,14,51.9,568,2978,1614,39,37,15,20,23,743,112,possession
+ENG-Premier League,2024,Manchester City,Kyle Walker,ENG,DF,34-318,1990.0,10.8,892,26,197,473,228,5,892,6,3,50.0,2,33.3,499,2284,1106,12,13,0,9,2,630,11,possession
+ENG-Premier League,2024,Manchester City,Manuel Akanji,SUI,DF,29-266,1995.0,19.0,1591,108,472,773,348,11,1591,2,2,100.0,0,0.0,1041,5502,3286,38,52,0,4,5,1258,6,possession
+ENG-Premier League,2024,Manchester City,Mateo Kovačić,CRO,MF,30-340,1994.0,19.7,1686,40,247,953,505,15,1686,36,19,52.8,11,30.6,1128,6704,3147,48,62,3,15,28,1360,14,possession
+ENG-Premier League,2024,Manchester City,Matheus Nunes,POR,"DF,MF",26-227,1998.0,13.6,1020,32,189,372,463,50,1020,30,13,43.3,13,43.3,644,3481,1771,49,22,21,24,10,738,139,possession
+ENG-Premier League,2024,Manchester City,Nathan Aké,NED,DF,30-052,1995.0,7.5,596,51,205,331,61,5,596,1,1,100.0,0,0.0,403,2244,1501,12,12,1,4,3,449,2,possession
+ENG-Premier League,2024,Manchester City,Nico O’Reilly,ENG,"DF,MF",20-021,2005.0,2.1,168,4,28,88,54,7,168,6,4,66.7,2,33.3,117,629,323,9,8,0,6,2,128,11,possession
+ENG-Premier League,2024,Manchester City,Nicolás González,ESP,MF,23-098,2002.0,5.3,463,10,66,288,110,6,463,4,1,25.0,2,50.0,288,1193,455,5,7,1,6,5,354,8,possession
+ENG-Premier League,2024,Manchester City,Omar Marmoush,EGY,"FW,MF",26-063,1999.0,7.3,298,2,23,92,186,34,298,18,4,22.2,11,61.1,184,1066,542,13,12,4,26,7,207,44,possession
+ENG-Premier League,2024,Manchester City,Oscar Bobb,NOR,FW,21-273,2003.0,0.1,2,0,1,1,0,0,2,0,0,,0,,1,4,0,0,0,0,0,0,1,0,possession
+ENG-Premier League,2024,Manchester City,Phil Foden,ENG,"MF,FW",24-318,2000.0,18.7,1074,13,81,374,628,79,1074,39,13,33.3,21,53.8,676,3472,1674,47,30,15,35,30,840,119,possession
+ENG-Premier League,2024,Manchester City,Rico Lewis,ENG,"DF,MF",20-141,2004.0,19.1,1313,49,260,661,405,42,1313,20,8,40.0,11,55.0,761,3860,1981,36,37,8,19,19,933,65,possession
+ENG-Premier League,2024,Manchester City,Rodri,ESP,MF,28-293,1996.0,0.7,65,1,12,30,24,0,65,1,0,0.0,0,0.0,34,125,42,0,2,0,0,0,49,1,possession
+ENG-Premier League,2024,Manchester City,Rúben Dias,POR,DF,27-332,1997.0,18.2,1813,165,592,987,237,19,1813,3,2,66.7,1,33.3,1286,7393,4343,30,51,1,5,1,1474,6,possession
+ENG-Premier League,2024,Manchester City,Stefan Ortega,GER,GK,32-156,1992.0,10.0,405,308,402,3,0,0,405,0,0,,0,,261,1221,687,0,0,0,0,0,249,0,possession
+ENG-Premier League,2024,Manchester City,Sávio,BRA,"FW,MF",21-001,2004.0,18.3,1022,11,51,261,727,146,1022,109,50,45.9,38,34.9,737,6115,3385,129,42,73,41,37,799,226,possession
+ENG-Premier League,2024,Manchester City,Vitor Reis,BRA,DF,19-089,2006.0,0.0,3,1,2,1,0,0,3,1,1,100.0,0,0.0,2,3,0,0,0,0,0,0,2,0,possession
+ENG-Premier League,2024,Manchester City,İlkay Gündoğan,GER,MF,34-169,1990.0,18.9,1506,35,224,730,571,49,1506,28,13,46.4,10,35.7,893,4957,2380,44,46,7,20,17,1176,70,possession
+ENG-Premier League,2024,Manchester Utd,Alejandro Garnacho,ARG,"MF,FW",20-284,2004.0,20.2,948,13,110,308,546,139,948,74,21,28.4,46,62.2,691,5270,2702,118,61,57,51,41,722,241,possession
+ENG-Premier League,2024,Manchester Utd,Amad Diallo,CIV,"FW,MF",22-274,2002.0,17.7,1012,13,150,374,504,109,1012,72,36,50.0,32,44.4,656,4482,2294,92,46,52,35,32,714,159,possession
+ENG-Premier League,2024,Manchester Utd,André Onana,CMR,GK,29-009,1996.0,31.0,1256,951,1235,22,0,0,1256,0,0,,0,,889,4545,2530,0,0,0,1,0,768,0,possession
+ENG-Premier League,2024,Manchester Utd,Antony,BRA,"DF,MF",25-046,2000.0,1.6,101,2,22,26,54,8,101,11,4,36.4,6,54.5,60,317,182,5,6,1,5,1,69,7,possession
+ENG-Premier League,2024,Manchester Utd,Ayden Heaven,ENG,DF,18-201,2006.0,1.1,67,21,42,23,3,1,67,2,2,100.0,0,0.0,42,245,122,1,1,0,2,1,40,1,possession
+ENG-Premier League,2024,Manchester Utd,Bruno Fernandes,POR,MF,30-215,1994.0,28.4,2187,53,364,1034,811,68,2184,61,25,41.0,30,49.2,1283,6030,3139,60,53,10,35,35,1528,112,possession
+ENG-Premier League,2024,Manchester Utd,Casemiro,BRA,MF,33-047,1992.0,14.1,1039,67,309,523,215,37,1039,6,3,50.0,3,50.0,546,1680,775,4,10,0,10,10,663,26,possession
+ENG-Premier League,2024,Manchester Utd,Chidozie Obi-Martin,DEN,FW,17-133,2007.0,0.3,16,1,4,7,5,1,16,1,0,0.0,1,100.0,7,47,26,1,0,0,2,1,9,2,possession
+ENG-Premier League,2024,Manchester Utd,Christian Eriksen,DEN,MF,33-056,1992.0,9.0,618,20,124,314,184,11,618,3,0,0.0,3,100.0,348,1258,545,8,8,0,6,4,408,23,possession
+ENG-Premier League,2024,Manchester Utd,Diogo Dalot,POR,DF,26-024,1999.0,29.6,1889,113,638,739,526,64,1889,47,24,51.1,19,40.4,1077,4742,2578,60,36,15,35,17,1141,157,possession
+ENG-Premier League,2024,Manchester Utd,Harry Amass,ENG,DF,18-026,2007.0,0.2,27,3,12,9,6,0,27,0,0,,0,,11,44,10,0,0,0,1,3,10,1,possession
+ENG-Premier League,2024,Manchester Utd,Harry Maguire,ENG,DF,32-037,1993.0,15.8,1085,133,541,497,60,35,1085,5,2,40.0,3,60.0,640,3970,1629,6,6,3,6,2,702,5,possession
+ENG-Premier League,2024,Manchester Utd,Jonny Evans,NIR,DF,37-098,1988.0,3.2,223,30,125,91,11,2,223,1,1,100.0,0,0.0,128,498,183,1,0,0,1,0,137,2,possession
+ENG-Premier League,2024,Manchester Utd,Joshua Zirkzee,NED,"FW,MF",23-324,2001.0,15.0,565,16,69,291,211,53,565,33,9,27.3,24,72.7,316,1393,471,13,20,4,40,29,402,69,possession
+ENG-Premier League,2024,Manchester Utd,Kobbie Mainoo,ENG,MF,19-357,2005.0,14.3,845,17,165,477,210,30,845,41,20,48.8,19,46.3,526,2343,1032,19,12,9,23,29,598,35,possession
+ENG-Premier League,2024,Manchester Utd,Leny Yoro,FRA,DF,19-149,2005.0,9.7,663,56,296,318,51,10,663,2,1,50.0,1,50.0,465,2304,1250,15,10,1,2,2,496,4,possession
+ENG-Premier League,2024,Manchester Utd,Lisandro Martínez,ARG,DF,27-083,1998.0,19.5,1524,156,713,697,125,18,1524,7,6,85.7,1,14.3,1017,5141,3129,23,23,2,1,3,1069,7,possession
+ENG-Premier League,2024,Manchester Utd,Luke Shaw,ENG,DF,29-273,1995.0,0.8,107,3,46,56,5,0,107,0,0,,0,,86,335,143,1,2,0,1,0,93,0,possession
+ENG-Premier League,2024,Manchester Utd,Manuel Ugarte Ribeiro,URU,MF,24-000,2001.0,16.0,909,36,261,507,155,14,909,24,11,45.8,9,37.5,517,2066,869,9,9,1,26,19,555,18,possession
+ENG-Premier League,2024,Manchester Utd,Marcus Rashford,ENG,"FW,MF",27-162,1997.0,10.9,440,3,35,189,222,34,440,39,9,23.1,26,66.7,293,1694,728,20,19,12,14,6,341,79,possession
+ENG-Premier League,2024,Manchester Utd,Mason Mount,ENG,"MF,FW",26-091,1999.0,3.1,141,1,21,75,46,8,141,4,0,0.0,3,75.0,89,426,166,4,5,1,5,6,98,8,possession
+ENG-Premier League,2024,Manchester Utd,Matthijs de Ligt,NED,DF,25-242,1999.0,23.2,1584,181,813,722,56,29,1584,4,2,50.0,2,50.0,1063,4696,2219,7,3,0,5,3,1142,6,possession
+ENG-Premier League,2024,Manchester Utd,Noussair Mazraoui,MAR,DF,27-148,1997.0,26.6,1818,138,711,842,289,26,1818,43,24,55.8,16,37.2,1010,4695,2450,34,26,3,22,16,1093,44,possession
+ENG-Premier League,2024,Manchester Utd,Patrick Dorgu,DEN,DF,20-167,2004.0,4.5,296,11,77,102,119,20,296,5,2,40.0,2,40.0,178,1017,678,20,10,3,8,5,196,43,possession
+ENG-Premier League,2024,Manchester Utd,Rasmus Højlund,DEN,FW,22-066,2003.0,17.2,396,5,23,201,178,50,396,25,7,28.0,16,64.0,247,1198,513,23,11,14,56,26,311,79,possession
+ENG-Premier League,2024,Manchester Utd,Scott McTominay,SCO,MF,28-124,1996.0,0.2,14,1,3,8,3,1,14,1,0,0.0,1,100.0,10,68,44,0,0,0,1,1,9,2,possession
+ENG-Premier League,2024,Manchester Utd,Toby Collyer,ENG,MF,21-098,2004.0,2.0,129,9,46,59,25,3,129,2,1,50.0,1,50.0,68,239,56,0,0,0,11,1,71,2,possession
+ENG-Premier League,2024,Manchester Utd,Tyrell Malacia,NED,DF,25-237,1999.0,1.1,62,2,20,27,15,0,62,1,1,100.0,0,0.0,37,190,118,3,2,0,1,2,43,6,possession
+ENG-Premier League,2024,Manchester Utd,Victor Lindelöf,SWE,DF,30-268,1994.0,3.1,141,26,84,50,7,3,141,0,0,,0,,71,374,173,1,0,0,1,0,83,1,possession
+ENG-Premier League,2024,Newcastle Utd,Alexander Isak,SWE,FW,25-202,1999.0,24.3,838,19,52,310,489,150,836,80,39,48.8,40,50.0,510,3167,1623,72,38,40,54,48,592,174,possession
+ENG-Premier League,2024,Newcastle Utd,Anthony Gordon,ENG,FW,24-046,2001.0,23.4,1100,16,110,413,595,122,1098,93,35,37.6,42,45.2,710,5230,2813,104,52,54,28,34,787,187,possession
+ENG-Premier League,2024,Newcastle Utd,Bruno Guimarães,BRA,MF,27-146,1997.0,28.6,1737,66,376,910,469,49,1737,63,27,42.9,20,31.7,1141,6274,2748,44,35,7,47,69,1298,69,possession
+ENG-Premier League,2024,Newcastle Utd,Callum Wilson,ENG,FW,33-043,1992.0,2.3,58,1,5,33,23,12,58,5,1,20.0,2,40.0,30,182,86,4,4,4,6,7,33,7,possession
+ENG-Premier League,2024,Newcastle Utd,Dan Burn,ENG,DF,32-337,1992.0,29.0,1819,312,1060,682,80,37,1819,3,3,100.0,0,0.0,1042,4715,2039,6,3,1,19,3,1216,6,possession
+ENG-Premier League,2024,Newcastle Utd,Emil Krafth,SWE,DF,30-252,1994.0,2.8,118,24,67,36,15,4,118,1,0,0.0,1,100.0,54,206,64,1,2,0,2,1,58,1,possession
+ENG-Premier League,2024,Newcastle Utd,Fabian Schär,SUI,DF,33-112,1991.0,24.8,1740,212,925,719,106,25,1740,11,7,63.6,2,18.2,1097,4912,2791,12,21,1,9,5,1200,16,possession
+ENG-Premier League,2024,Newcastle Utd,Harvey Barnes,ENG,FW,27-123,1997.0,12.0,515,10,72,166,280,78,515,41,16,39.0,20,48.8,369,2681,1515,57,30,30,21,12,409,118,possession
+ENG-Premier League,2024,Newcastle Utd,Jacob Murphy,ENG,FW,30-046,1995.0,20.2,949,13,143,368,447,68,949,50,24,48.0,24,48.0,564,3314,1734,59,26,21,24,31,681,163,possession
+ENG-Premier League,2024,Newcastle Utd,Joe Willock,ENG,"MF,FW",25-234,1999.0,9.4,408,10,61,169,185,36,408,31,11,35.5,14,45.2,255,1730,801,30,22,11,31,22,286,68,possession
+ENG-Premier League,2024,Newcastle Utd,Joelinton,BRA,"MF,FW",28-240,1996.0,24.0,1242,65,248,600,407,76,1242,44,14,31.8,27,61.4,674,3369,1661,37,23,8,35,51,845,100,possession
+ENG-Premier League,2024,Newcastle Utd,Kieran Trippier,ENG,DF,34-204,1990.0,9.7,901,37,290,389,228,8,901,5,4,80.0,1,20.0,416,1558,853,16,6,3,7,4,553,30,possession
+ENG-Premier League,2024,Newcastle Utd,Lewis Hall,ENG,DF,20-215,2004.0,24.3,1820,95,623,804,414,47,1820,21,11,52.4,7,33.3,950,4398,2358,41,22,13,33,20,1094,80,possession
+ENG-Premier League,2024,Newcastle Utd,Lewis Miley,ENG,MF,18-345,2006.0,2.4,170,5,36,96,39,5,170,2,0,0.0,1,50.0,84,433,174,1,1,0,5,0,121,6,possession
+ENG-Premier League,2024,Newcastle Utd,Lloyd Kelly,ENG,DF,26-187,1998.0,3.4,215,26,105,94,19,4,215,3,2,66.7,1,33.3,120,474,202,0,2,0,3,2,129,5,possession
+ENG-Premier League,2024,Newcastle Utd,Martin Dúbravka,SVK,GK,36-086,1989.0,10.0,350,262,337,14,0,0,350,0,0,,0,,202,1043,643,0,0,0,0,0,175,0,possession
+ENG-Premier League,2024,Newcastle Utd,Matt Targett,ENG,DF,29-205,1995.0,0.1,8,0,1,4,3,0,8,0,0,,0,,2,5,1,0,0,0,0,0,5,0,possession
+ENG-Premier League,2024,Newcastle Utd,Miguel Almirón,PAR,FW,31-060,1994.0,1.7,81,1,10,35,36,9,81,2,1,50.0,1,50.0,54,284,93,3,3,2,0,2,59,18,possession
+ENG-Premier League,2024,Newcastle Utd,Nick Pope,ENG,GK,32-357,1992.0,20.0,635,511,627,8,0,0,635,0,0,,0,,332,1813,1200,0,0,0,0,1,221,0,possession
+ENG-Premier League,2024,Newcastle Utd,Sandro Tonali,ITA,MF,24-338,2000.0,21.2,1259,49,301,701,279,31,1259,29,17,58.6,9,31.0,698,3725,1573,29,30,4,21,23,868,38,possession
+ENG-Premier League,2024,Newcastle Utd,Sean Longstaff,ENG,MF,27-163,1997.0,8.6,406,20,111,182,116,21,406,6,2,33.3,3,50.0,235,1132,415,4,10,2,8,7,291,20,possession
+ENG-Premier League,2024,Newcastle Utd,Sven Botman,NED,DF,25-089,2000.0,2.5,156,24,63,89,5,5,156,3,1,33.3,1,33.3,82,350,171,0,0,0,1,0,101,0,possession
+ENG-Premier League,2024,Newcastle Utd,Valentino Livramento,ENG,DF,22-150,2002.0,23.6,1492,98,510,674,333,20,1492,39,17,43.6,15,38.5,780,4590,2394,57,30,6,21,30,834,77,possession
+ENG-Premier League,2024,Newcastle Utd,William Osula,DEN,FW,21-250,2003.0,1.0,31,1,2,17,12,3,31,5,2,40.0,3,60.0,17,91,17,1,1,0,5,4,16,7,possession
+ENG-Premier League,2024,Nott'ham Forest,Anthony Elanga,SWE,FW,22-349,2002.0,21.9,875,29,124,247,520,86,875,71,22,31.0,32,45.1,460,3593,2062,79,40,36,64,33,575,161,possession
+ENG-Premier League,2024,Nott'ham Forest,Callum Hudson-Odoi,ENG,FW,24-155,2000.0,22.0,938,14,101,293,566,69,938,57,32,56.1,17,29.8,586,4832,3072,116,55,43,43,22,717,180,possession
+ENG-Premier League,2024,Nott'ham Forest,Chris Wood,NZL,FW,33-125,1991.0,26.0,605,30,70,289,248,78,602,10,4,40.0,5,50.0,303,1083,424,13,9,5,62,21,452,72,possession
+ENG-Premier League,2024,Nott'ham Forest,Danilo,BRA,"MF,FW",23-347,2001.0,2.3,111,6,33,67,12,0,111,5,2,40.0,3,60.0,41,202,55,2,0,0,6,0,69,1,possession
+ENG-Premier League,2024,Nott'ham Forest,Elliot Anderson,ENG,MF,22-156,2002.0,23.7,1378,76,316,648,441,55,1378,67,33,49.3,26,38.8,688,3800,1752,36,27,15,51,34,814,76,possession
+ENG-Premier League,2024,Nott'ham Forest,Eric da Silva Moreira,GER,"MF,DF",18-343,2006.0,0.3,13,3,7,4,2,0,13,1,0,0.0,1,100.0,4,26,11,1,0,0,1,0,3,1,possession
+ENG-Premier League,2024,Nott'ham Forest,Harry Toffolo,ENG,DF,29-235,1995.0,0.5,44,3,13,10,21,2,44,0,0,,0,,10,21,11,0,0,0,0,0,18,4,possession
+ENG-Premier League,2024,Nott'ham Forest,Ibrahim Sangaré,CIV,MF,27-130,1997.0,3.1,193,8,44,123,28,7,193,1,0,0.0,1,100.0,75,297,83,0,2,0,4,1,101,2,possession
+ENG-Premier League,2024,Nott'ham Forest,James Ward-Prowse,ENG,MF,30-161,1994.0,4.4,205,13,49,115,45,1,205,0,0,,0,,92,407,170,1,3,0,3,3,115,3,possession
+ENG-Premier League,2024,Nott'ham Forest,Jota Silva,POR,"FW,MF",25-253,1999.0,8.6,322,18,79,88,166,42,322,32,10,31.3,14,43.8,158,1035,551,18,10,8,23,11,181,50,possession
+ENG-Premier League,2024,Nott'ham Forest,Matz Sels,BEL,GK,33-044,1992.0,31.0,905,686,891,14,0,0,905,0,0,,0,,444,2575,1348,0,0,0,0,0,351,0,possession
+ENG-Premier League,2024,Nott'ham Forest,Morato,BRA,DF,23-285,2001.0,8.4,369,78,230,122,19,2,369,1,1,100.0,0,0.0,122,608,272,0,2,0,6,3,153,1,possession
+ENG-Premier League,2024,Nott'ham Forest,Morgan Gibbs-White,ENG,MF,25-074,2000.0,24.4,1313,28,155,650,529,82,1313,69,28,40.6,31,44.9,742,4299,2200,61,45,12,62,36,991,109,possession
+ENG-Premier League,2024,Nott'ham Forest,Murillo,BRA,DF,22-281,2002.0,29.5,1541,347,791,676,88,17,1541,31,26,83.9,5,16.1,659,3416,2034,17,24,1,17,9,777,4,possession
+ENG-Premier League,2024,Nott'ham Forest,Neco Williams,WAL,DF,23-363,2001.0,21.8,1141,119,409,404,342,35,1141,39,15,38.5,17,43.6,472,2923,1617,53,25,14,17,14,541,75,possession
+ENG-Premier League,2024,Nott'ham Forest,Nicolás Domínguez,ARG,"MF,FW",26-287,1998.0,16.6,937,60,233,490,222,23,937,8,3,37.5,3,37.5,357,1406,654,12,9,2,16,9,516,22,possession
+ENG-Premier League,2024,Nott'ham Forest,Nikola Milenković,SRB,DF,27-181,1997.0,30.0,1107,210,601,435,75,57,1107,1,1,100.0,0,0.0,422,1839,879,3,3,2,1,2,561,5,possession
+ENG-Premier League,2024,Nott'ham Forest,Ola Aina,NGA,DF,28-185,1996.0,28.5,1462,138,539,610,338,21,1462,64,29,45.3,24,37.5,629,4026,2328,54,35,10,39,21,691,52,possession
+ENG-Premier League,2024,Nott'ham Forest,Ramón Sosa,PAR,"FW,MF",25-223,1999.0,2.9,135,5,32,40,68,12,135,11,8,72.7,3,27.3,65,546,303,11,6,4,5,5,71,15,possession
+ENG-Premier League,2024,Nott'ham Forest,Ryan Yates,ENG,MF,27-141,1997.0,19.2,929,70,244,456,239,37,929,18,9,50.0,5,27.8,378,1848,849,17,18,1,22,18,486,12,possession
+ENG-Premier League,2024,Nott'ham Forest,Taiwo Awoniyi,NGA,FW,27-242,1997.0,4.0,151,4,13,68,71,21,151,8,3,37.5,5,62.5,83,373,183,6,5,2,17,16,104,19,possession
+ENG-Premier League,2024,Nott'ham Forest,Willy Boly,CIV,DF,34-067,1991.0,1.7,97,22,63,32,2,1,97,0,0,,0,,35,128,45,0,0,0,1,0,46,0,possession
+ENG-Premier League,2024,Nott'ham Forest,Álex Moreno,ESP,"DF,MF",31-307,1993.0,9.6,502,55,183,186,144,8,502,20,8,40.0,7,35.0,211,1380,821,25,16,4,13,5,232,32,possession
+ENG-Premier League,2024,Southampton,Aaron Ramsdale,ENG,GK,26-332,1998.0,23.0,1029,745,1018,13,0,0,1029,0,0,,0,,645,3258,1886,0,0,0,1,0,588,0,possession
+ENG-Premier League,2024,Southampton,Adam Armstrong,ENG,"FW,MF",28-060,1997.0,13.9,377,11,44,143,192,49,376,14,6,42.9,8,57.1,235,1324,599,25,13,6,11,18,286,79,possession
+ENG-Premier League,2024,Southampton,Adam Lallana,ENG,MF,36-336,1988.0,4.0,318,19,91,155,73,6,318,12,5,41.7,5,41.7,178,831,366,6,8,0,10,6,245,10,possession
+ENG-Premier League,2024,Southampton,Albert Grønbaek,DEN,"FW,MF",23-323,2001.0,1.6,38,2,9,14,15,2,38,4,0,0.0,4,100.0,18,79,15,1,0,1,5,4,21,3,possession
+ENG-Premier League,2024,Southampton,Alex McCarthy,ENG,GK,35-129,1989.0,5.0,173,141,173,0,0,0,173,0,0,,0,,100,452,276,0,0,0,0,0,88,0,possession
+ENG-Premier League,2024,Southampton,Armel Bella Kotchap,GER,DF,23-121,2001.0,3.7,263,33,147,115,3,1,263,1,0,0.0,1,100.0,186,936,326,0,0,0,1,0,192,0,possession
+ENG-Premier League,2024,Southampton,Ben Brereton,CHI,FW,25-358,1999.0,5.0,206,4,19,76,112,20,206,4,1,25.0,2,50.0,136,791,394,12,13,4,9,4,171,42,possession
+ENG-Premier League,2024,Southampton,Cameron Archer,ENG,FW,23-264,2001.0,13.9,329,14,53,148,131,46,328,29,13,44.8,15,51.7,189,947,443,16,7,13,29,23,227,58,possession
+ENG-Premier League,2024,Southampton,Carlos Alcaraz,ARG,MF,22-132,2002.0,0.1,17,0,1,8,9,2,17,2,0,0.0,2,100.0,12,112,98,4,1,0,0,0,12,1,possession
+ENG-Premier League,2024,Southampton,Charlie Taylor,ENG,DF,31-205,1993.0,3.0,219,21,93,91,36,1,219,2,2,100.0,0,0.0,91,386,155,3,3,0,1,1,133,6,possession
+ENG-Premier League,2024,Southampton,Flynn Downes,ENG,MF,26-081,1999.0,17.9,1048,71,315,560,179,19,1048,13,4,30.8,7,53.8,494,2677,1405,21,17,4,12,16,745,26,possession
+ENG-Premier League,2024,Southampton,Jack Stephens,ENG,DF,31-074,1994.0,9.9,748,75,307,369,76,6,748,3,0,0.0,3,100.0,415,1932,932,11,10,1,1,1,543,1,possession
+ENG-Premier League,2024,Southampton,James Bree,ENG,DF,27-182,1997.0,9.9,598,42,194,261,148,10,598,8,4,50.0,2,25.0,316,1372,688,9,11,0,6,4,385,34,possession
+ENG-Premier League,2024,Southampton,Jan Bednarek,POL,DF,28-364,1996.0,23.1,1809,317,940,839,37,14,1809,3,3,100.0,0,0.0,914,3304,1564,4,5,1,9,3,1159,1,possession
+ENG-Premier League,2024,Southampton,Joe Aribo,NGA,"MF,DF",28-264,1996.0,21.2,1203,46,288,632,294,44,1203,46,18,39.1,22,47.8,708,3880,1923,35,28,12,25,16,879,64,possession
+ENG-Premier League,2024,Southampton,Joe Lumley,ENG,GK,30-055,1995.0,3.0,164,116,161,3,0,0,164,0,0,,0,,103,476,296,0,0,0,0,0,108,0,possession
+ENG-Premier League,2024,Southampton,Kamaldeen Sulemana,GHA,"FW,MF",23-055,2002.0,10.1,401,10,48,149,216,40,401,73,30,41.1,37,50.7,266,2319,1176,47,30,18,31,19,289,64,possession
+ENG-Premier League,2024,Southampton,Kyle Walker-Peters,ENG,DF,27-363,1997.0,28.4,1810,133,550,791,483,53,1810,79,31,39.2,35,44.3,1117,7152,3964,108,65,22,26,34,1277,124,possession
+ENG-Premier League,2024,Southampton,Lesley Ugochukwu,FRA,MF,21-016,2004.0,13.1,659,30,141,387,137,18,659,23,17,73.9,5,21.7,361,1946,893,22,11,5,8,8,456,18,possession
+ENG-Premier League,2024,Southampton,Mateus Fernandes,POR,MF,20-275,2004.0,25.8,1427,50,300,706,452,43,1427,90,43,47.8,40,44.4,737,4715,2546,65,55,8,42,29,881,91,possession
+ENG-Premier League,2024,Southampton,Maxwel Cornet,CIV,FW,28-196,1996.0,0.8,34,1,8,14,13,2,34,1,0,0.0,1,100.0,16,73,26,1,0,1,3,0,23,5,possession
+ENG-Premier League,2024,Southampton,Nathan Wood-Gordon,ENG,DF,22-315,2002.0,6.9,457,54,219,212,27,2,457,5,3,60.0,1,20.0,253,1150,454,2,6,0,4,1,339,0,possession
+ENG-Premier League,2024,Southampton,Paul Onuachu,NGA,FW,30-318,1994.0,9.7,379,12,36,207,139,56,379,24,7,29.2,13,54.2,187,761,227,7,4,2,44,31,314,35,possession
+ENG-Premier League,2024,Southampton,Ronnie Edwards,ENG,DF,22-014,2003.0,0.1,6,3,4,2,0,0,6,0,0,,0,,3,10,0,0,0,0,0,0,5,0,possession
+ENG-Premier League,2024,Southampton,Ross Stewart,SCO,"FW,MF",28-274,1996.0,1.6,64,5,13,32,19,2,64,2,1,50.0,1,50.0,36,152,59,1,0,0,1,5,49,5,possession
+ENG-Premier League,2024,Southampton,Ryan Fraser,SCO,"FW,DF",31-046,1994.0,3.4,131,12,45,50,37,3,131,3,2,66.7,1,33.3,74,492,252,10,5,2,4,2,94,18,possession
+ENG-Premier League,2024,Southampton,Ryan Manning,IRL,DF,28-301,1996.0,12.4,746,54,205,301,249,21,746,31,11,35.5,13,41.9,372,1596,779,12,10,4,16,5,440,61,possession
+ENG-Premier League,2024,Southampton,Samuel Amo-Ameyaw,ENG,"FW,DF",18-267,2006.0,0.3,16,0,5,5,7,1,16,4,0,0.0,3,75.0,11,98,68,1,0,1,0,2,11,3,possession
+ENG-Premier League,2024,Southampton,Samuel Edozie,ENG,"DF,FW",22-073,2003.0,0.7,43,0,0,7,36,10,43,4,2,50.0,2,50.0,34,336,197,6,2,4,4,0,39,23,possession
+ENG-Premier League,2024,Southampton,Taylor Harwood-Bellis,ENG,DF,23-071,2002.0,25.6,2098,276,969,986,152,34,2098,3,3,100.0,0,0.0,1208,5569,3240,27,27,0,13,5,1525,8,possession
+ENG-Premier League,2024,Southampton,Tyler Dibling,ENG,"FW,MF",19-030,2006.0,18.0,761,19,98,353,329,39,761,99,42,42.4,36,36.4,488,3942,1970,63,45,26,39,49,568,85,possession
+ENG-Premier League,2024,Southampton,Welington,BRA,"DF,MF",24-051,2001.0,2.3,122,11,45,44,36,2,122,4,3,75.0,0,0.0,42,190,113,3,3,1,6,0,50,10,possession
+ENG-Premier League,2024,Southampton,William Smallbone,IRL,MF,25-049,2000.0,6.5,359,15,72,175,116,14,359,4,4,100.0,0,0.0,160,652,329,5,7,1,9,5,216,21,possession
+ENG-Premier League,2024,Southampton,Yukinari Sugawara,JPN,"DF,MF",24-287,2000.0,16.2,1016,61,306,395,320,29,1016,20,9,45.0,10,50.0,548,2511,1352,32,15,7,18,4,688,76,possession
+ENG-Premier League,2024,Tottenham,Alfie Dorrington,ENG,DF,19-356,2005.0,0.2,16,0,11,5,0,0,16,0,0,,0,,12,61,26,0,0,0,0,0,13,0,possession
+ENG-Premier League,2024,Tottenham,Antonín Kinský,CZE,GK,22-029,2003.0,4.0,156,134,154,2,0,0,156,0,0,,0,,97,444,267,1,0,0,0,0,98,0,possession
+ENG-Premier League,2024,Tottenham,Archie Gray,ENG,"DF,MF",19-030,2006.0,14.0,1046,133,526,472,57,1,1046,8,4,50.0,3,37.5,741,3362,1393,4,5,0,6,8,796,7,possession
+ENG-Premier League,2024,Tottenham,Ben Davies,WAL,DF,31-352,1993.0,9.0,748,134,391,324,33,9,748,1,1,100.0,0,0.0,437,2122,1167,6,5,0,2,0,505,5,possession
+ENG-Premier League,2024,Tottenham,Brandon Austin,ENG,GK,26-093,1999.0,1.0,36,30,36,0,0,0,36,0,0,,0,,22,104,46,0,0,0,0,0,16,0,possession
+ENG-Premier League,2024,Tottenham,Brennan Johnson,WAL,FW,23-323,2001.0,20.9,758,16,85,256,429,117,758,39,18,46.2,18,46.2,476,2567,1305,54,18,32,23,15,550,179,possession
+ENG-Premier League,2024,Tottenham,Cristian Romero,ARG,DF,26-349,1998.0,14.2,1236,152,543,640,62,20,1236,4,1,25.0,2,50.0,810,4266,2590,12,17,0,6,4,844,3,possession
+ENG-Premier League,2024,Tottenham,Dane Scarlett,ENG,"FW,MF",21-018,2004.0,0.4,9,1,3,5,1,1,9,0,0,,0,,5,66,33,1,0,0,0,1,4,1,possession
+ENG-Premier League,2024,Tottenham,Dejan Kulusevski,SWE,"MF,FW",24-351,2000.0,23.9,1172,20,133,390,673,145,1172,107,35,32.7,64,59.8,766,5793,3065,115,66,37,71,69,834,199,possession
+ENG-Premier League,2024,Tottenham,Destiny Udogie,ITA,DF,22-134,2002.0,19.4,1287,57,353,572,376,48,1287,30,12,40.0,15,50.0,714,4005,2187,51,38,11,31,19,778,92,possession
+ENG-Premier League,2024,Tottenham,Djed Spence,ENG,DF,24-245,2000.0,13.8,1040,58,356,471,228,20,1040,57,29,50.9,23,40.4,607,3608,1899,38,33,6,21,21,652,56,possession
+ENG-Premier League,2024,Tottenham,Dominic Solanke,ENG,FW,27-209,1997.0,21.7,602,31,66,274,268,105,602,48,16,33.3,29,60.4,355,1926,777,29,20,14,62,44,421,84,possession
+ENG-Premier League,2024,Tottenham,Fraser Forster,ENG,GK,37-025,1988.0,7.0,228,212,228,0,0,0,228,1,1,100.0,0,0.0,113,501,264,0,0,0,1,0,94,0,possession
+ENG-Premier League,2024,Tottenham,Guglielmo Vicario,ITA,GK,28-186,1996.0,19.0,742,492,727,15,0,0,742,1,1,100.0,0,0.0,536,2507,1420,0,0,0,0,0,481,0,possession
+ENG-Premier League,2024,Tottenham,James Maddison,ENG,MF,28-139,1996.0,18.8,1370,25,200,635,548,73,1370,70,30,42.9,31,44.3,959,4700,2096,40,37,18,21,24,1057,84,possession
+ENG-Premier League,2024,Tottenham,Kevin Danso,AUT,DF,26-204,1998.0,3.9,334,42,179,141,15,7,334,2,1,50.0,1,50.0,242,1075,466,2,0,0,6,0,254,0,possession
+ENG-Premier League,2024,Tottenham,Lucas Bergvall,SWE,MF,19-068,2006.0,12.0,815,34,173,442,213,20,815,44,21,47.7,19,43.2,494,3114,1475,27,20,4,19,16,542,27,possession
+ENG-Premier League,2024,Tottenham,Mathys Tel,FRA,FW,19-349,2005.0,3.5,117,0,13,45,62,17,116,16,3,18.8,11,68.8,85,539,235,8,7,3,8,6,80,17,possession
+ENG-Premier League,2024,Tottenham,Micky van de Ven,NED,DF,23-357,2001.0,10.1,808,100,425,359,33,9,808,8,4,50.0,4,50.0,564,2661,1301,8,10,1,5,4,587,1,possession
+ENG-Premier League,2024,Tottenham,Mikey Moore,ENG,"FW,MF",17-243,2007.0,2.1,96,1,10,22,65,12,96,11,1,9.1,9,81.8,68,521,239,9,3,4,6,4,73,30,possession
+ENG-Premier League,2024,Tottenham,Pape Matar Sarr,SEN,MF,22-209,2002.0,16.2,1041,31,224,584,251,21,1041,25,11,44.0,12,48.0,662,3910,1679,28,28,4,24,18,743,41,possession
+ENG-Premier League,2024,Tottenham,Pedro Porro,ESP,DF,25-210,1999.0,26.4,2024,122,610,732,694,29,2024,33,11,33.3,20,60.6,1071,4844,2489,58,37,5,23,16,1164,95,possession
+ENG-Premier League,2024,Tottenham,Radu Drăgușin,ROU,DF,23-067,2002.0,13.9,961,148,510,430,30,12,961,2,0,0.0,0,0.0,623,3349,1666,7,3,0,8,2,669,2,possession
+ENG-Premier League,2024,Tottenham,Richarlison,BRA,FW,27-336,1997.0,3.1,116,8,19,62,36,12,116,9,1,11.1,7,77.8,56,310,138,8,7,3,4,5,79,17,possession
+ENG-Premier League,2024,Tottenham,Rodrigo Bentancur,URU,MF,27-290,1997.0,15.5,1132,67,278,673,190,21,1132,17,8,47.1,7,41.2,678,3054,1203,21,22,5,15,17,749,30,possession
+ENG-Premier League,2024,Tottenham,Sergio Reguilón,ESP,DF,28-116,1996.0,1.4,121,2,28,61,33,3,121,4,2,50.0,0,0.0,64,293,180,4,2,1,1,1,74,10,possession
+ENG-Premier League,2024,Tottenham,Son Heung-min,KOR,FW,32-277,1992.0,22.3,1093,15,110,347,646,117,1091,82,29,35.4,40,48.8,732,4522,2334,87,45,40,25,29,837,259,possession
+ENG-Premier League,2024,Tottenham,Timo Werner,GER,"FW,MF",29-036,1996.0,5.7,298,8,24,78,203,33,298,19,10,52.6,8,42.1,215,1768,1062,42,24,18,14,6,227,89,possession
+ENG-Premier League,2024,Tottenham,Will Lankshear,ENG,"FW,MF",19-356,2005.0,0.1,3,0,0,2,1,0,3,0,0,,0,,3,3,0,0,0,0,2,0,3,1,possession
+ENG-Premier League,2024,Tottenham,Wilson Odobert,FRA,FW,20-134,2004.0,5.0,244,4,26,90,130,27,244,24,9,37.5,13,54.2,176,1379,796,30,17,16,13,12,182,40,possession
+ENG-Premier League,2024,Tottenham,Yves Bissouma,MLI,MF,28-224,1996.0,12.8,890,56,252,503,141,5,890,21,7,33.3,14,66.7,537,3183,1461,15,17,0,22,12,619,3,possession
+ENG-Premier League,2024,West Ham,Aaron Cresswell,ENG,DF,35-117,1989.0,6.5,495,33,196,236,68,1,495,1,1,100.0,0,0.0,200,773,388,4,7,0,3,0,312,2,possession
+ENG-Premier League,2024,West Ham,Aaron Wan-Bissaka,ENG,DF,27-136,1997.0,29.0,1848,127,588,791,496,37,1848,92,48,52.2,33,35.9,862,5511,3102,91,52,11,27,18,1061,126,possession
+ENG-Premier League,2024,West Ham,Alphonse Areola,FRA,GK,32-043,1993.0,19.1,814,657,808,6,0,0,814,0,0,,0,,460,1901,1008,0,0,0,0,0,423,0,possession
+ENG-Premier League,2024,West Ham,Andy Irving,SCO,MF,24-333,2000.0,1.8,150,7,37,89,24,0,150,1,1,100.0,0,0.0,73,305,137,0,1,0,1,3,104,4,possession
+ENG-Premier League,2024,West Ham,Carlos Soler,ESP,"MF,FW",28-099,1997.0,13.1,646,21,154,331,166,19,646,17,8,47.1,8,47.1,302,1488,642,13,15,4,9,12,433,24,possession
+ENG-Premier League,2024,West Ham,Crysencio Summerville,NED,"FW,MF",23-163,2001.0,8.7,372,9,47,147,181,38,372,39,13,33.3,18,46.2,207,1463,762,29,15,13,20,16,259,71,possession
+ENG-Premier League,2024,West Ham,Danny Ings,ENG,"FW,MF",32-262,1992.0,3.2,139,2,15,51,73,27,139,7,4,57.1,2,28.6,63,324,118,6,0,2,6,6,96,29,possession
+ENG-Premier League,2024,West Ham,Edson Álvarez,MEX,MF,27-169,1997.0,18.1,1101,61,323,612,174,12,1101,31,14,45.2,12,38.7,603,3371,1528,21,20,2,25,13,734,18,possession
+ENG-Premier League,2024,West Ham,Emerson Palmieri,ITA,DF,30-251,1994.0,20.6,1167,74,378,491,313,24,1167,30,10,33.3,17,56.7,483,2644,1465,38,22,8,22,7,636,72,possession
+ENG-Premier League,2024,West Ham,Evan Ferguson,IRL,FW,20-174,2004.0,1.6,61,1,6,26,29,10,61,5,3,60.0,2,40.0,31,123,41,1,1,1,8,5,40,6,possession
+ENG-Premier League,2024,West Ham,Guido Rodríguez,ARG,MF,30-364,1994.0,11.3,617,42,196,366,56,2,617,3,2,66.7,0,0.0,284,988,392,2,5,0,2,6,354,5,possession
+ENG-Premier League,2024,West Ham,James Ward-Prowse,ENG,MF,30-161,1994.0,6.5,470,19,106,278,86,2,470,1,1,100.0,0,0.0,225,1026,409,6,10,0,1,3,321,2,possession
+ENG-Premier League,2024,West Ham,Jarrod Bowen,ENG,"FW,MF",28-112,1996.0,26.3,1015,23,117,368,553,137,1014,107,40,37.4,58,54.2,599,4368,2104,88,39,47,62,63,652,164,possession
+ENG-Premier League,2024,West Ham,Jean-Clair Todibo,FRA,DF,25-102,1999.0,13.6,865,123,485,354,33,9,865,13,7,53.8,6,46.2,511,2287,1154,7,5,0,6,7,585,4,possession
+ENG-Premier League,2024,West Ham,Kaelan Casey,ENG,DF,20-165,2004.0,0.0,1,1,1,0,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+ENG-Premier League,2024,West Ham,Konstantinos Mavropanos,GRE,DF,27-121,1997.0,19.5,1295,192,670,573,59,21,1295,17,9,52.9,5,29.4,711,3567,1967,15,10,1,12,0,841,2,possession
+ENG-Premier League,2024,West Ham,Lewis Orford,ENG,MF,19-052,2006.0,0.5,42,1,8,28,7,2,42,0,0,,0,,22,98,27,0,0,0,1,0,31,1,possession
+ENG-Premier League,2024,West Ham,Lucas Paquetá,BRA,"MF,FW",27-227,1997.0,22.1,1439,41,272,802,376,53,1437,33,13,39.4,17,51.5,738,2502,1018,16,26,2,47,46,1008,77,possession
+ENG-Premier League,2024,West Ham,Luis Guilherme,BRA,"MF,FW",19-061,2006.0,1.2,66,3,14,25,27,3,66,6,2,33.3,2,33.3,31,237,111,3,2,1,1,2,41,11,possession
+ENG-Premier League,2024,West Ham,Max Kilman,ENG,DF,27-323,1997.0,30.2,1897,368,1046,774,92,28,1897,18,13,72.2,1,5.6,1010,4559,2627,26,10,2,13,2,1257,5,possession
+ENG-Premier League,2024,West Ham,Michail Antonio,JAM,FW,35-014,1990.0,9.3,296,3,26,124,151,36,296,27,9,33.3,13,48.1,173,1177,695,29,13,9,35,19,221,59,possession
+ENG-Premier League,2024,West Ham,Mohammed Kudus,GHA,"FW,MF",24-252,2000.0,23.1,1018,10,136,421,495,101,1018,169,73,43.2,79,46.7,673,4392,2055,81,52,35,60,79,791,175,possession
+ENG-Premier League,2024,West Ham,Niclas Füllkrug,GER,FW,32-061,1993.0,5.0,152,10,13,77,62,24,152,4,1,25.0,3,75.0,55,205,110,4,2,2,11,3,106,15,possession
+ENG-Premier League,2024,West Ham,Oliver Scarles,ENG,DF,19-120,2005.0,5.9,380,18,113,155,116,7,380,6,1,16.7,5,83.3,177,692,378,9,9,1,10,3,223,38,possession
+ENG-Premier League,2024,West Ham,Tomáš Souček,CZE,MF,30-043,1995.0,23.9,1070,105,293,526,255,93,1070,11,6,54.5,5,45.5,413,1237,439,6,10,3,16,10,643,58,possession
+ENG-Premier League,2024,West Ham,Vladimír Coufal,CZE,DF,32-232,1992.0,8.2,484,48,188,191,106,8,484,7,2,28.6,2,28.6,190,932,425,11,4,1,8,5,252,21,possession
+ENG-Premier League,2024,West Ham,Łukasz Fabiański,POL,GK,39-358,1985.0,11.9,488,382,483,5,0,0,488,2,2,100.0,0,0.0,258,1371,845,0,0,0,0,0,227,0,possession
+ENG-Premier League,2024,Wolves,Alfie Pond,ENG,DF,21-041,2004.0,0.0,1,0,0,1,0,0,1,0,0,,0,,1,2,2,0,0,0,0,0,1,0,possession
+ENG-Premier League,2024,Wolves,André,BRA,MF,23-269,2001.0,21.2,1213,77,333,780,110,3,1213,23,11,47.8,8,34.8,664,2798,1237,7,13,0,22,13,814,11,possession
+ENG-Premier League,2024,Wolves,Boubacar Traoré,MLI,MF,23-234,2001.0,0.0,2,0,0,2,0,0,2,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+ENG-Premier League,2024,Wolves,Carlos Forbs,POR,"MF,FW",21-023,2004.0,2.6,117,3,20,38,60,13,117,12,7,58.3,5,41.7,72,435,297,9,3,8,7,4,82,28,possession
+ENG-Premier League,2024,Wolves,Chiquinho,POR,MF,25-065,2000.0,0.1,3,0,0,1,2,1,3,0,0,,0,,1,13,5,0,0,0,0,0,2,0,possession
+ENG-Premier League,2024,Wolves,Craig Dawson,ENG,DF,34-340,1990.0,10.8,671,130,396,249,28,14,671,5,1,20.0,2,40.0,390,1819,938,6,1,0,2,0,443,5,possession
+ENG-Premier League,2024,Wolves,Daniel Podence,POR,"MF,FW",29-172,1995.0,0.5,20,0,2,11,7,0,20,2,2,100.0,0,0.0,13,77,43,1,1,0,0,0,17,3,possession
+ENG-Premier League,2024,Wolves,Emmanuel Agbadou,CIV,DF,27-298,1997.0,8.7,611,96,325,274,17,2,611,7,6,85.7,1,14.3,361,1760,762,1,2,0,2,3,385,0,possession
+ENG-Premier League,2024,Wolves,Gonçalo Guedes,POR,"MF,FW",28-133,1996.0,8.6,366,4,42,161,176,28,366,20,5,25.0,11,55.0,223,1693,878,31,19,5,33,14,247,58,possession
+ENG-Premier League,2024,Wolves,Hwang Hee-chan,KOR,"MF,FW",29-075,1996.0,7.1,254,9,39,97,120,22,254,11,1,9.1,10,90.9,146,913,416,14,5,7,12,10,168,40,possession
+ENG-Premier League,2024,Wolves,Jean-Ricner Bellegarde,FRA,"MF,FW",26-288,1998.0,16.0,703,21,119,322,278,41,703,57,13,22.8,30,52.6,435,2719,1329,45,33,10,34,23,490,79,possession
+ENG-Premier League,2024,Wolves,José Sá,POR,GK,32-084,1993.0,24.0,804,639,797,8,0,0,804,6,6,100.0,0,0.0,498,3022,1924,0,0,0,1,0,392,0,possession
+ENG-Premier League,2024,Wolves,João Gomes,BRA,MF,24-058,2001.0,27.0,1617,55,346,887,403,37,1617,49,21,42.9,22,44.9,836,4926,2359,49,45,5,32,43,1073,61,possession
+ENG-Premier League,2024,Wolves,Jørgen Strand Larsen,NOR,FW,25-064,2000.0,24.9,624,32,80,297,248,91,624,14,6,42.9,8,57.1,290,993,400,13,11,7,79,29,452,92,possession
+ENG-Premier League,2024,Wolves,Mario Lemina,GAB,"MF,DF",31-222,1993.0,15.2,809,92,324,378,119,18,809,16,10,62.5,4,25.0,382,2068,1038,8,12,2,21,11,482,21,possession
+ENG-Premier League,2024,Wolves,Marshall Munetsi,ZIM,"MF,FW",28-293,1996.0,5.8,185,10,25,104,56,15,185,1,0,0.0,1,100.0,76,263,86,3,1,2,21,4,98,19,possession
+ENG-Premier League,2024,Wolves,Matheus Cunha,BRA,"MF,FW",25-319,1999.0,23.8,1267,20,156,579,577,106,1266,115,49,42.6,52,45.2,715,5449,2702,92,74,32,67,42,839,137,possession
+ENG-Premier League,2024,Wolves,Matt Doherty,IRL,DF,33-085,1992.0,19.6,1293,106,498,637,175,25,1293,20,11,55.0,6,30.0,684,3194,1943,29,19,4,11,5,811,39,possession
+ENG-Premier League,2024,Wolves,Nasser Djiga,BFA,DF,22-147,2002.0,0.2,16,2,8,8,0,0,16,0,0,,0,,7,25,0,0,0,0,1,2,7,1,possession
+ENG-Premier League,2024,Wolves,Nélson Semedo,POR,DF,31-146,1993.0,25.8,1381,109,400,628,370,22,1381,57,26,45.6,23,40.4,701,4121,2191,60,35,9,30,16,792,99,possession
+ENG-Premier League,2024,Wolves,Pablo Sarabia,ESP,"MF,FW",32-335,1992.0,6.8,390,3,44,193,155,20,390,10,5,50.0,3,30.0,232,1061,515,11,12,0,14,11,274,47,possession
+ENG-Premier League,2024,Wolves,Pedro Lima,BRA,DF,18-284,2006.0,0.8,48,0,9,12,28,3,48,3,1,33.3,2,66.7,22,120,83,4,3,1,1,0,30,11,possession
+ENG-Premier League,2024,Wolves,Rayan Aït-Nouri,ALG,DF,23-309,2001.0,28.3,1728,81,475,745,529,72,1728,98,48,49.0,36,36.7,896,4944,2577,68,50,22,38,36,1038,147,possession
+ENG-Premier League,2024,Wolves,Rodrigo Gomes,POR,"DF,FW",21-278,2003.0,6.6,311,22,73,109,134,23,311,11,3,27.3,6,54.5,155,1056,643,19,13,7,14,6,179,57,possession
+ENG-Premier League,2024,Wolves,Sam Johnstone,ENG,GK,32-017,1993.0,7.0,306,229,304,2,0,0,306,0,0,,0,,196,1221,756,0,0,0,0,0,179,0,possession
+ENG-Premier League,2024,Wolves,Santiago Bueno,URU,DF,26-153,1998.0,17.1,937,151,475,447,18,6,937,2,0,0.0,2,100.0,514,2613,1376,1,2,0,2,2,614,1,possession
+ENG-Premier League,2024,Wolves,Tommy Doyle,ENG,MF,23-176,2001.0,5.4,463,22,128,258,80,4,463,9,5,55.6,1,11.1,260,1417,578,6,3,0,9,4,303,4,possession
+ENG-Premier League,2024,Wolves,Toti Gomes,POR,DF,26-085,1999.0,22.0,1511,185,713,731,85,15,1511,23,16,69.6,5,21.7,871,4326,2369,20,16,0,16,12,1014,12,possession
+ENG-Premier League,2024,Wolves,Yerson Mosquera,COL,DF,23-344,2001.0,4.9,294,43,170,115,12,7,294,0,0,,0,,168,683,322,0,1,0,4,1,182,0,possession

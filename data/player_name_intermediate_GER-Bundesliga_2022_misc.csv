@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-GER-Bundesliga,2022,Augsburg,Aaron Zehnter,GER,DF,17,2004,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 GER-Bundesliga,2022,Augsburg,André Hahn,GER,"FW,MF",31,1990,4.3,1,0,0,8,3,1,6,4,5,0,0,0,19,13,15,46.4,misc
 GER-Bundesliga,2022,Augsburg,Arne Engels,BEL,MF,18,2003,16.0,5,0,0,26,20,0,101,15,9,0,0,0,74,10,15,40.0,misc
 GER-Bundesliga,2022,Augsburg,Arne Maier,GER,MF,23,1999,21.8,3,0,0,12,18,2,64,15,22,0,1,0,118,12,17,41.4,misc

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ENG-Premier League,2021,Arsenal,Ainsley Maitland-Niles,ENG,"MF,DF",22,1997,5.4,11,7,6,5,0,8,12,66.7,4,12,2,10,14,25,7,1,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ENG-Premier League,2021,Arsenal,Alexandre Lacazette,FRA,FW,29,1991,21.4,18,10,4,11,3,4,22,18.2,18,20,1,19,12,30,13,0,defense
 ENG-Premier League,2021,Arsenal,Bernd Leno,GER,GK,28,1992,34.8,1,0,1,0,0,1,1,100.0,0,1,0,1,0,1,11,2,defense
 ENG-Premier League,2021,Arsenal,Bukayo Saka,ENG,"FW,MF",18,2001,28.4,25,16,10,13,2,11,40,27.5,29,21,2,19,25,50,24,0,defense

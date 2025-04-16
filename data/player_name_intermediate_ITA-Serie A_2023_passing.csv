@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,stat_type
-,,,,,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
-ITA-Serie A,2023,Atalanta,Ademola Lookman,NGA,"FW,MF",25,1997,21.0,635,838,75.8,9115,2499,376,441,85.3,201,247,81.4,29,74,39.2,7,5.2,4.8,1.8,50,46,32,2,97,passing
+league,season,team,player,nation,pos,age,born,90s,Total Cmp,Total Att,Total Cmp%,Total TotDist,Total PrgDist,Short Cmp,Short Att,Short Cmp%,Medium Cmp,Medium Att,Medium Cmp%,Long Cmp,Long Att,Long Cmp%,Ast,xAG,Expected xA,Expected A-xAG,KP,1/3,PPA,CrsPA,PrgP,stat_type
 ITA-Serie A,2023,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",27,1995,13.1,454,622,73.0,7677,2316,212,250,84.8,179,216,82.9,44,106,41.5,5,4.1,4.5,0.9,45,41,29,9,75,passing
 ITA-Serie A,2023,Atalanta,Berat Djimsiti,ALB,DF,30,1993,31.5,1454,1661,87.5,27563,8404,488,555,87.9,808,870,92.9,136,187,72.7,1,0.7,0.5,0.3,7,40,5,1,79,passing
 ITA-Serie A,2023,Atalanta,Charles De Ketelaere,BEL,"FW,MF",22,2001,22.5,565,782,72.3,8690,2346,302,384,78.6,211,273,77.3,31,58,53.4,8,6.1,4.1,1.9,49,44,42,7,126,passing

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ESP-La Liga,2022,Almería,Adri Embarba,ESP,"FW,MF",30,1992,16.4,50,27,21,26,3,22,46,47.8,24,23,0,23,9,59,9,0,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ESP-La Liga,2022,Almería,Alejandro Pozo Pozo,ESP,DF,23,1999,20.9,37,19,17,17,3,27,53,50.9,26,30,5,25,26,63,45,1,defense
 ESP-La Liga,2022,Almería,Arnau Puigmal,ESP,"MF,FW",21,2001,8.5,22,14,10,7,5,12,17,70.6,5,7,0,7,11,33,6,0,defense
 ESP-La Liga,2022,Almería,Chumi,ESP,DF,23,1999,16.5,29,16,18,9,2,14,23,60.9,9,20,7,13,15,44,53,0,defense

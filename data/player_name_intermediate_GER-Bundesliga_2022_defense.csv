@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-GER-Bundesliga,2022,Augsburg,Aaron Zehnter,GER,DF,17,2004,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,0,0,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 GER-Bundesliga,2022,Augsburg,André Hahn,GER,"FW,MF",31,1990,4.3,9,5,4,4,1,8,12,66.7,4,9,2,7,4,13,14,0,defense
 GER-Bundesliga,2022,Augsburg,Arne Engels,BEL,MF,18,2003,16.0,20,9,9,10,1,8,19,42.1,11,17,5,12,15,35,12,1,defense
 GER-Bundesliga,2022,Augsburg,Arne Maier,GER,MF,23,1999,21.8,31,22,17,11,3,10,18,55.6,8,21,0,21,15,46,22,0,defense

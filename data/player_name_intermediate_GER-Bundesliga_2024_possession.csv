@@ -1,485 +1,483 @@
-league,season,team,player,nation,pos,age,born,90s,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving,stat_type
-,,,,,,,,,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,
-GER-Bundesliga,2024,Augsburg,Alexis Claude-Maurice,FRA,"MF,FW",26-309,1998,18.2,742,9,83,355,324,47,742,75,36,48.0,32,42.7,459,3122,1456,47,39,6,64,34,526,78,possession
-GER-Bundesliga,2024,Augsburg,Arne Engels,BEL,"MF,FW",21-215,2003,0.9,32,1,1,14,17,2,32,1,0,0.0,1,100.0,17,75,38,1,3,0,0,0,24,5,possession
-GER-Bundesliga,2024,Augsburg,Arne Maier,GER,MF,26-093,1999,9.2,608,15,95,292,226,17,608,13,5,38.5,8,61.5,334,1424,650,14,14,5,19,8,388,43,possession
-GER-Bundesliga,2024,Augsburg,Cedric Zesiger,SUI,DF,26-291,1998,9.1,495,72,237,216,43,5,495,4,1,25.0,3,75.0,252,1093,478,4,6,0,7,3,254,4,possession
-GER-Bundesliga,2024,Augsburg,Chrislain Matsima,FRA,DF,22-331,2002,22.3,1270,178,547,634,103,16,1270,10,6,60.0,3,30.0,676,2899,1439,11,14,2,18,9,714,9,possession
-GER-Bundesliga,2024,Augsburg,Dimitris Giannoulis,GRE,DF,29-176,1995,23.8,1410,67,383,566,479,42,1410,57,22,38.6,31,54.4,643,3072,1670,42,33,8,44,9,743,114,possession
-GER-Bundesliga,2024,Augsburg,Elvis Rexhbeçaj,KVX,MF,27-161,1997,18.5,809,30,134,372,312,25,809,30,10,33.3,16,53.3,418,1847,863,27,21,7,26,24,488,72,possession
-GER-Bundesliga,2024,Augsburg,Finn Dahmen,GER,GK,27-015,1998,13.0,550,374,534,16,0,0,550,0,0,,0,,335,1748,995,0,0,0,0,0,292,0,possession
-GER-Bundesliga,2024,Augsburg,Frank Onyeka,NGA,MF,27-100,1998,23.1,1051,49,202,587,285,33,1051,41,15,36.6,17,41.5,582,3238,1402,35,28,8,40,27,624,58,possession
-GER-Bundesliga,2024,Augsburg,Fredrik Jensen,FIN,MF,27-214,1997,7.2,267,14,39,103,129,22,267,13,7,53.8,6,46.2,159,767,329,15,6,3,12,8,191,47,possession
-GER-Bundesliga,2024,Augsburg,Henri Koudossou,GER,DF,25-220,1999,6.9,379,28,126,149,106,8,379,14,7,50.0,6,42.9,162,823,371,12,9,2,12,1,181,35,possession
-GER-Bundesliga,2024,Augsburg,Jeffrey Gouweleeuw,NED,DF,33-275,1991,26.7,1620,217,755,762,118,29,1619,11,6,54.5,5,45.5,897,4722,2592,17,19,1,14,6,944,14,possession
-GER-Bundesliga,2024,Augsburg,Keven Schlotterbeck,GER,DF,27-348,1997,13.4,785,91,365,372,51,19,785,3,3,100.0,0,0.0,393,1354,680,2,5,0,8,0,475,2,possession
-GER-Bundesliga,2024,Augsburg,Kristijan Jakić,CRO,MF,27-332,1997,20.0,1008,58,253,564,201,23,1008,24,11,45.8,12,50.0,491,2164,977,23,11,3,33,17,577,37,possession
-GER-Bundesliga,2024,Augsburg,Mads Pedersen,DEN,DF,28-222,1996,2.6,123,7,34,45,47,5,123,8,2,25.0,6,75.0,53,250,111,1,3,1,4,1,58,10,possession
-GER-Bundesliga,2024,Augsburg,Marius Wolf,GER,DF,29-319,1995,20.2,1173,49,259,486,444,41,1173,37,18,48.6,17,45.9,508,2089,1146,31,15,8,21,11,620,76,possession
-GER-Bundesliga,2024,Augsburg,Maximilian Bauer,GER,DF,25-061,2000,7.3,422,45,177,222,24,3,422,0,0,,0,,216,991,539,4,4,0,6,2,260,7,possession
-GER-Bundesliga,2024,Augsburg,Mergim Berisha,GER,FW,26-335,1998,0.1,7,0,0,3,4,1,7,0,0,,0,,6,30,9,1,0,0,1,2,6,4,possession
-GER-Bundesliga,2024,Augsburg,Mert Kömür,GER,MF,19-268,2005,4.0,185,6,33,79,77,11,185,16,8,50.0,7,43.8,113,611,266,10,8,3,13,13,126,29,possession
-GER-Bundesliga,2024,Augsburg,Nediljko Labrović,CRO,GK,25-183,1999,15.0,546,451,537,9,0,0,546,0,0,,0,,306,1571,923,0,0,0,0,0,238,0,possession
-GER-Bundesliga,2024,Augsburg,Niklas Dorsch,GER,MF,27-086,1998,0.4,29,1,3,18,8,0,29,1,0,0.0,1,100.0,15,57,32,1,1,0,0,0,21,0,possession
-GER-Bundesliga,2024,Augsburg,Noahkai Banks,USA,DF,18-131,2006,3.1,229,23,94,124,14,2,229,1,0,0.0,1,100.0,123,580,253,2,5,0,2,1,129,3,possession
-GER-Bundesliga,2024,Augsburg,Phillip Tietz,GER,FW,27-276,1997,16.5,574,22,63,261,256,69,573,25,12,48.0,12,48.0,292,941,265,6,7,3,37,17,426,93,possession
-GER-Bundesliga,2024,Augsburg,Robert Gumny,POL,DF,26-311,1998,1.6,94,8,27,33,34,2,94,4,1,25.0,2,50.0,43,187,83,3,2,0,2,1,45,6,possession
-GER-Bundesliga,2024,Augsburg,Ruben Vargas,SUI,"MF,FW",26-249,1998,3.4,179,2,14,75,91,12,179,12,6,50.0,5,41.7,109,706,285,9,3,1,11,7,137,24,possession
-GER-Bundesliga,2024,Augsburg,Samuel Essende,COD,FW,27-078,1998,15.3,476,7,37,222,228,76,476,43,9,20.9,28,65.1,297,1458,621,31,17,19,73,32,367,105,possession
-GER-Bundesliga,2024,Augsburg,Steve Mounié,BEN,"FW,MF",30-194,1994,3.3,139,4,12,53,74,27,139,4,1,25.0,3,75.0,76,324,146,8,5,3,12,4,110,23,possession
-GER-Bundesliga,2024,Augsburg,Tim Breithaupt,GER,MF,23-063,2002,1.3,75,2,18,49,8,1,75,2,2,100.0,0,0.0,44,174,67,1,0,0,3,2,47,1,possession
-GER-Bundesliga,2024,Augsburg,Yusuf Kabadayı,GER,"FW,MF",21-068,2004,0.8,42,0,2,16,25,2,42,6,2,33.3,3,50.0,29,246,73,2,4,0,6,0,30,8,possession
-GER-Bundesliga,2024,Bayern Munich,Adam Aznou,MAR,DF,18-313,2006,0.2,18,1,1,7,11,0,18,0,0,,0,,12,40,16,0,2,0,0,0,14,2,possession
-GER-Bundesliga,2024,Bayern Munich,Aleksandar Pavlovic,GER,MF,20-343,2004,11.6,1230,11,138,821,276,10,1230,4,4,100.0,0,0.0,730,3149,1356,8,28,3,11,1,1032,30,possession
-GER-Bundesliga,2024,Bayern Munich,Alphonso Davies,CAN,DF,24-160,2000,17.3,1463,33,263,720,498,49,1463,68,31,45.6,31,45.6,895,5191,2807,81,53,21,33,19,1057,140,possession
-GER-Bundesliga,2024,Bayern Munich,Arijon Ibrahimović,GER,FW,19-121,2005,0.0,3,0,2,1,0,0,3,1,1,100.0,0,0.0,3,20,5,0,0,0,0,0,3,0,possession
-GER-Bundesliga,2024,Bayern Munich,Daniel Peretz,ISR,GK,24-275,2000,3.0,106,63,97,9,0,0,106,0,0,,0,,67,338,177,0,0,0,0,0,77,0,possession
-GER-Bundesliga,2024,Bayern Munich,Dayot Upamecano,FRA,DF,26-166,1998,19.5,2101,96,626,1364,116,17,2101,6,3,50.0,3,50.0,1440,7122,4165,17,27,0,6,4,1632,4,possession
-GER-Bundesliga,2024,Bayern Munich,Eric Dier,ENG,DF,31-086,1994,10.3,1060,84,348,667,48,12,1060,3,2,66.7,1,33.3,615,2763,1459,9,9,0,4,1,786,1,possession
-GER-Bundesliga,2024,Bayern Munich,Gabriel Vidovic,CRO,MF,21-131,2003,0.0,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-GER-Bundesliga,2024,Bayern Munich,Harry Kane,ENG,FW,31-257,1993,22.5,774,15,68,279,431,134,765,50,22,44.0,27,54.0,439,2019,835,24,17,18,36,16,605,122,possession
-GER-Bundesliga,2024,Bayern Munich,Hiroki Ito,JPN,DF,25-334,1999,2.8,245,11,65,129,52,5,245,3,1,33.3,2,66.7,126,556,240,3,6,1,3,1,175,6,possession
-GER-Bundesliga,2024,Bayern Munich,Jamal Musiala,GER,MF,22-044,2003,20.0,1278,7,94,565,636,163,1278,141,72,51.1,59,41.8,792,4412,2300,71,48,36,67,33,1031,156,possession
-GER-Bundesliga,2024,Bayern Munich,Jonas Urbig,GER,GK,21-246,2003,4.0,168,112,157,11,1,0,168,0,0,,0,,107,476,270,0,0,0,1,0,104,0,possession
-GER-Bundesliga,2024,Bayern Munich,Joshua Kimmich,GER,MF,30-062,1995,25.6,3185,56,436,1918,846,14,3185,18,9,50.0,8,44.4,1940,10032,4299,43,65,1,18,5,2506,63,possession
-GER-Bundesliga,2024,Bayern Munich,Josip Stanišić,CRO,DF,25-009,2000,4.1,359,20,81,176,106,7,359,5,3,60.0,2,40.0,203,1109,694,12,13,1,7,3,239,24,possession
-GER-Bundesliga,2024,Bayern Munich,João Palhinha,POR,MF,29-276,1995,7.3,606,18,89,403,116,13,606,4,2,50.0,2,50.0,311,1031,361,3,3,1,6,6,479,7,possession
-GER-Bundesliga,2024,Bayern Munich,Kim Min-jae,KOR,DF,28-147,1996,24.3,2664,155,874,1700,99,14,2664,5,3,60.0,2,40.0,1577,6598,3196,16,23,1,13,5,2025,5,possession
-GER-Bundesliga,2024,Bayern Munich,Kingsley Coman,FRA,FW,28-302,1996,11.5,761,13,70,261,439,72,761,66,35,53.0,28,42.4,488,3124,1553,55,28,20,23,14,600,179,possession
-GER-Bundesliga,2024,Bayern Munich,Konrad Laimer,AUT,DF,27-319,1997,13.6,1002,29,172,482,350,46,1002,22,10,45.5,11,50.0,567,2961,1788,56,37,11,23,16,709,82,possession
-GER-Bundesliga,2024,Bayern Munich,Leon Goretzka,GER,MF,30-064,1995,12.4,1156,33,178,732,252,24,1156,8,7,87.5,1,12.5,678,3705,1983,30,34,3,4,4,897,24,possession
-GER-Bundesliga,2024,Bayern Munich,Leroy Sané,GER,FW,29-090,1996,14.6,935,7,49,319,580,96,935,73,27,37.0,40,54.8,618,3815,1726,54,36,28,47,21,756,215,possession
-GER-Bundesliga,2024,Bayern Munich,Manuel Neuer,GER,GK,39-015,1986,20.0,884,497,829,57,0,0,884,1,1,100.0,0,0.0,589,3063,1750,0,0,0,0,0,652,0,possession
-GER-Bundesliga,2024,Bayern Munich,Mathys Tel,FRA,"FW,MF",19-349,2005,2.8,157,0,15,55,89,14,157,12,6,50.0,6,50.0,109,745,198,6,7,3,4,6,135,34,possession
-GER-Bundesliga,2024,Bayern Munich,Michael Olise,FRA,"FW,MF",23-120,2001,20.1,1567,15,83,554,947,111,1567,109,55,50.5,40,36.7,1007,5539,2881,88,49,31,45,24,1234,286,possession
-GER-Bundesliga,2024,Bayern Munich,Raphaël Guerreiro,POR,"DF,MF",31-110,1993,14.5,1235,27,217,560,465,48,1235,18,8,44.4,9,50.0,659,2854,1404,32,28,5,16,13,920,102,possession
-GER-Bundesliga,2024,Bayern Munich,Sacha Boey,FRA,DF,24-210,2000,4.7,439,8,49,210,181,8,439,13,4,30.8,8,61.5,281,1201,605,16,8,3,8,5,328,51,possession
-GER-Bundesliga,2024,Bayern Munich,Serge Gnabry,GER,"FW,MF",29-271,1995,9.7,584,6,53,221,311,70,583,28,12,42.9,14,50.0,355,1984,1002,37,16,16,17,4,448,123,possession
-GER-Bundesliga,2024,Bayern Munich,Sven Ulreich,GER,GK,36-251,1988,1.0,30,18,27,3,0,0,30,0,0,,0,,13,55,30,0,0,0,0,0,24,0,possession
-GER-Bundesliga,2024,Bayern Munich,Thomas Müller,GER,"MF,FW",35-210,1989,10.1,577,8,36,218,323,77,577,12,5,41.7,6,50.0,304,1234,679,17,14,4,12,15,477,106,possession
-GER-Bundesliga,2024,Bochum,Aliou Badara Baldé,GUI,"MF,FW",22-120,2002,1.0,43,0,2,18,25,2,43,9,2,22.2,6,66.7,30,207,129,2,4,0,5,3,29,5,possession
-GER-Bundesliga,2024,Bochum,Anthony Losilla,FRA,MF,39-032,1986,12.0,507,35,141,285,85,2,507,5,1,20.0,4,80.0,206,732,293,3,3,1,10,7,260,11,possession
-GER-Bundesliga,2024,Bochum,Bernardo,BRA,DF,29-332,1995,13.8,839,77,398,389,57,18,839,4,2,50.0,2,50.0,408,2105,1028,13,5,1,7,4,443,9,possession
-GER-Bundesliga,2024,Bochum,Cristian Gamboa,CRC,DF,35-169,1989,1.8,116,5,31,57,30,4,116,1,0,0.0,1,100.0,66,270,105,2,1,1,2,0,64,6,possession
-GER-Bundesliga,2024,Bochum,Dani de Wit,NED,"MF,FW",27-073,1998,11.8,502,25,89,283,130,33,502,8,1,12.5,5,62.5,221,741,265,4,4,0,10,3,279,34,possession
-GER-Bundesliga,2024,Bochum,Erhan Mašović,SRB,DF,26-140,1998,10.0,531,74,272,242,19,10,531,1,0,0.0,1,100.0,287,1119,509,1,1,0,5,3,320,3,possession
-GER-Bundesliga,2024,Bochum,Felix Passlack,GER,"DF,MF",26-317,1998,21.7,1116,67,296,480,348,43,1116,30,12,40.0,16,53.3,499,2502,1142,38,26,10,21,9,558,96,possession
-GER-Bundesliga,2024,Bochum,Gerrit Holtmann,PHI,"DF,FW",30-017,1995,10.9,481,21,105,162,222,23,481,17,5,29.4,12,70.6,272,1955,963,41,25,7,23,10,285,75,possession
-GER-Bundesliga,2024,Bochum,Giorgos Masouras,GRE,"FW,MF",31-100,1994,6.8,233,4,27,91,122,33,233,10,4,40.0,6,60.0,124,546,267,15,3,8,16,5,146,44,possession
-GER-Bundesliga,2024,Bochum,Ibrahima Sissoko,MLI,MF,27-166,1997,24.7,1176,66,314,661,221,39,1176,49,25,51.0,21,42.9,580,3098,1341,31,18,2,32,25,647,54,possession
-GER-Bundesliga,2024,Bochum,Ivan Ordets,UKR,DF,32-277,1992,17.7,994,150,556,389,50,39,994,1,1,100.0,0,0.0,443,1819,589,2,2,0,6,0,506,4,possession
-GER-Bundesliga,2024,Bochum,Jakov Medić,CRO,DF,26-216,1998,14.9,752,145,447,274,33,18,752,0,0,,0,,383,1745,785,2,0,0,5,3,414,3,possession
-GER-Bundesliga,2024,Bochum,Koji Miyoshi,JPN,"FW,MF",28-016,1997,5.0,197,3,31,87,84,21,197,14,5,35.7,9,64.3,117,664,288,11,6,3,14,5,121,23,possession
-GER-Bundesliga,2024,Bochum,Lukas Daschner,GER,"MF,FW",26-192,1998,4.6,213,5,26,100,90,14,212,15,5,33.3,10,66.7,116,606,260,8,7,1,21,2,131,19,possession
-GER-Bundesliga,2024,Bochum,Mats Pannewig,GER,MF,20-165,2004,1.5,100,4,28,49,26,6,100,2,0,0.0,2,100.0,52,253,106,2,2,0,6,6,60,10,possession
-GER-Bundesliga,2024,Bochum,Matúš Bero,SVK,MF,29-217,1995,24.0,1318,54,220,609,508,45,1318,50,15,30.0,35,70.0,587,2516,1012,21,29,5,42,18,659,87,possession
-GER-Bundesliga,2024,Bochum,Maximilian Wittek,GER,DF,29-233,1995,24.1,1515,91,442,711,374,14,1515,28,12,42.9,12,42.9,607,2742,1382,37,33,4,30,10,674,68,possession
-GER-Bundesliga,2024,Bochum,Moritz Broschinski,GER,"FW,MF",24-200,2000,14.2,493,18,48,199,255,60,493,41,9,22.0,31,75.6,280,1612,706,31,18,11,63,29,347,117,possession
-GER-Bundesliga,2024,Bochum,Moritz-Broni Kwarteng,GHA,"MF,FW",26-348,1998,1.9,104,1,12,48,45,3,104,7,6,85.7,1,14.3,63,303,128,4,1,1,6,2,77,16,possession
-GER-Bundesliga,2024,Bochum,Myron Boadu,NED,FW,24-087,2001,7.5,168,5,10,71,90,32,167,9,3,33.3,6,66.7,99,496,200,6,7,4,17,5,119,40,possession
-GER-Bundesliga,2024,Bochum,Patrick Drewes,GER,GK,32-066,1993,21.0,913,709,902,11,0,0,913,0,0,,0,,479,2471,1284,0,0,0,0,0,425,0,possession
-GER-Bundesliga,2024,Bochum,Philipp Hofmann,GER,FW,32-012,1993,22.7,827,33,78,489,264,85,827,19,10,52.6,9,47.4,438,1437,404,8,12,2,52,27,649,99,possession
-GER-Bundesliga,2024,Bochum,Samuel Bamba,GER,"FW,DF",21-057,2004,0.2,21,0,0,10,12,1,21,3,1,33.3,2,66.7,16,103,41,2,1,1,3,0,17,6,possession
-GER-Bundesliga,2024,Bochum,Tim Oermann,GER,DF,21-187,2003,18.9,845,78,345,442,65,2,845,11,4,36.4,6,54.5,419,1990,846,9,7,3,19,8,444,11,possession
-GER-Bundesliga,2024,Bochum,Timo Horn,GER,GK,31-334,1993,7.0,304,210,297,7,0,0,304,0,0,,0,,167,877,529,0,0,0,0,0,147,0,possession
-GER-Bundesliga,2024,Bochum,Tom Krauß,GER,MF,23-293,2001,7.5,468,14,109,267,98,3,468,14,7,50.0,7,50.0,266,1349,626,12,11,1,16,6,288,14,possession
-GER-Bundesliga,2024,Dortmund,Alexander Meyer,GER,GK,33-363,1991,2.0,87,64,86,1,0,0,87,0,0,,0,,51,295,130,0,0,0,0,0,42,0,possession
-GER-Bundesliga,2024,Dortmund,Almugera Kabar,GER,DF,18-309,2006,1.5,114,0,27,68,20,1,114,2,1,50.0,0,0.0,71,285,101,5,3,0,0,3,78,2,possession
-GER-Bundesliga,2024,Dortmund,Ayman Azhil,MAR,MF,24-001,2001,0.3,9,0,2,4,3,0,9,1,0,0.0,1,100.0,4,12,0,0,0,0,1,1,5,1,possession
-GER-Bundesliga,2024,Dortmund,Carney Chukwuemeka,ENG,MF,21-173,2003,1.5,87,1,4,41,43,11,87,8,4,50.0,2,25.0,57,279,163,7,6,3,10,6,61,12,possession
-GER-Bundesliga,2024,Dortmund,Cole Campbell,USA,"MF,FW",19-050,2006,0.2,21,2,4,9,8,0,21,1,0,0.0,1,100.0,10,57,34,1,0,0,3,0,13,1,possession
-GER-Bundesliga,2024,Dortmund,Daniel Svensson,SWE,"DF,FW",23-058,2002,2.7,182,8,48,81,53,8,182,1,0,0.0,0,0.0,90,398,224,5,1,1,2,2,107,12,possession
-GER-Bundesliga,2024,Dortmund,Donyell Malen,NED,"FW,MF",26-092,1999,6.8,278,3,23,84,175,46,278,32,11,34.4,19,59.4,187,911,439,23,9,17,16,9,214,75,possession
-GER-Bundesliga,2024,Dortmund,Emre Can,GER,"DF,MF",31-089,1994,20.7,1979,135,724,1113,152,11,1977,23,14,60.9,7,30.4,1303,6044,3233,15,27,1,16,8,1471,9,possession
-GER-Bundesliga,2024,Dortmund,Felix Nmecha,GER,MF,24-183,2000,12.8,842,48,179,539,135,5,842,17,10,58.8,4,23.5,487,2327,926,10,8,1,12,12,602,13,possession
-GER-Bundesliga,2024,Dortmund,Gio Reyna,USA,MF,22-149,2002,3.6,223,7,24,107,93,5,223,7,4,57.1,3,42.9,122,520,227,5,3,0,9,7,152,18,possession
-GER-Bundesliga,2024,Dortmund,Gregor Kobel,SUI,GK,27-126,1997,26.0,1057,782,1048,9,0,0,1057,2,2,100.0,0,0.0,683,3286,1911,0,0,0,0,0,645,0,possession
-GER-Bundesliga,2024,Dortmund,Jamie Gittens,ENG,"FW,MF",20-246,2004,18.1,793,8,76,263,478,105,793,160,76,47.5,65,40.6,563,4740,2659,106,50,59,46,29,588,161,possession
-GER-Bundesliga,2024,Dortmund,Julian Brandt,GER,MF,28-344,1996,21.0,1212,12,132,571,523,66,1212,42,15,35.7,24,57.1,706,3290,1567,46,36,13,42,27,903,170,possession
-GER-Bundesliga,2024,Dortmund,Julian Ryerson,NOR,DF,27-145,1997,20.0,1401,29,329,704,387,21,1401,45,23,51.1,18,40.0,840,4576,2303,51,31,6,32,15,907,108,possession
-GER-Bundesliga,2024,Dortmund,Julien Duranville,BEL,"FW,MF",18-341,2006,2.9,126,2,8,36,84,13,126,28,12,42.9,10,35.7,94,723,369,14,8,7,6,15,100,32,possession
-GER-Bundesliga,2024,Dortmund,Karim Adeyemi,GER,"FW,MF",23-083,2002,12.9,529,8,42,198,297,69,529,74,35,47.3,36,48.6,348,2654,1297,56,30,32,31,26,388,127,possession
-GER-Bundesliga,2024,Dortmund,Kjell-Arik Wätjen,GER,MF,19-054,2006,0.2,12,2,5,4,3,0,12,0,0,,0,,4,14,4,0,0,0,2,0,5,0,possession
-GER-Bundesliga,2024,Dortmund,Marcel Sabitzer,AUT,"MF,FW",31-025,1994,16.4,894,37,125,516,258,28,894,12,4,33.3,8,66.7,487,2105,1028,20,28,2,21,12,609,64,possession
-GER-Bundesliga,2024,Dortmund,Maximilian Beier,GER,"FW,MF",22-176,2002,16.4,580,16,71,231,286,84,580,48,20,41.7,26,54.2,314,1338,656,21,10,9,36,26,391,116,possession
-GER-Bundesliga,2024,Dortmund,Nico Schlotterbeck,GER,DF,25-131,1999,22.0,2297,193,831,1338,150,21,2297,22,14,63.6,5,22.7,1467,6646,4107,37,30,1,12,10,1674,14,possession
-GER-Bundesliga,2024,Dortmund,Niklas Süle,GER,DF,29-220,1995,6.3,617,70,276,314,28,7,617,3,2,66.7,1,33.3,383,1633,866,6,3,0,1,0,480,6,possession
-GER-Bundesliga,2024,Dortmund,Pascal Groß,GER,"MF,DF",33-300,1991,22.1,1922,48,364,1026,545,43,1922,8,2,25.0,6,75.0,1019,4445,2078,35,37,4,22,8,1344,108,possession
-GER-Bundesliga,2024,Dortmund,Ramy Bensebaini,ALG,DF,29-360,1995,17.4,1284,74,356,654,284,32,1284,16,5,31.3,9,56.3,634,2484,1133,19,22,2,14,5,751,55,possession
-GER-Bundesliga,2024,Dortmund,Salih Özcan,TUR,"MF,DF",27-090,1998,3.0,232,11,56,125,52,7,232,2,2,100.0,0,0.0,100,382,163,3,3,1,2,0,123,2,possession
-GER-Bundesliga,2024,Dortmund,Serhou Guirassy,GUI,FW,29-030,1996,23.0,728,33,57,375,300,128,726,25,7,28.0,13,52.0,398,1633,555,16,14,10,60,25,571,103,possession
-GER-Bundesliga,2024,Dortmund,Waldemar Anton,GER,DF,28-265,1996,15.7,1645,119,569,927,155,26,1645,22,19,86.4,2,9.1,1083,5427,2731,28,23,0,18,8,1224,24,possession
-GER-Bundesliga,2024,Dortmund,Yan Couto,BRA,"DF,FW",22-312,2002,9.1,798,26,216,371,218,14,798,29,11,37.9,16,55.2,459,2670,1356,43,29,5,13,5,517,77,possession
-GER-Bundesliga,2024,Dortmund,Yannik Lührs,GER,DF,21-214,2003,1.4,176,11,89,84,4,0,176,0,0,,0,,131,536,147,2,0,0,0,1,140,1,possession
-GER-Bundesliga,2024,Eint Frankfurt,Ansgar Knauff,GER,"MF,DF",23-091,2002,13.8,629,18,128,252,260,56,629,48,23,47.9,23,47.9,353,2105,1233,42,28,15,35,12,379,118,possession
-GER-Bundesliga,2024,Eint Frankfurt,Arthur Theate,BEL,DF,24-321,2000,24.5,1787,201,747,890,165,25,1787,11,9,81.8,2,18.2,1071,5108,2765,42,30,1,16,6,1156,22,possession
-GER-Bundesliga,2024,Eint Frankfurt,Aurele Amenda,SUI,DF,21-254,2003,0.9,59,11,24,31,4,1,59,1,1,100.0,0,0.0,31,122,49,1,0,0,0,0,35,1,possession
-GER-Bundesliga,2024,Eint Frankfurt,Can Uzun,TUR,"MF,FW",19-151,2005,6.3,338,4,31,155,154,29,338,16,8,50.0,6,37.5,226,1097,413,9,11,4,17,14,272,39,possession
-GER-Bundesliga,2024,Eint Frankfurt,Ellyes Skhiri,TUN,MF,29-336,1995,19.1,1225,70,351,715,162,16,1225,13,10,76.9,2,15.4,676,2948,1330,12,12,1,23,6,834,23,possession
-GER-Bundesliga,2024,Eint Frankfurt,Elye Wahi,FRA,"FW,MF",22-099,2003,1.8,50,1,4,16,31,9,50,7,5,71.4,1,14.3,32,166,51,3,1,2,6,1,37,15,possession
-GER-Bundesliga,2024,Eint Frankfurt,Fares Chaïbi,ALG,"MF,FW",22-134,2002,8.5,432,26,86,165,185,27,432,8,5,62.5,2,25.0,207,992,434,12,11,4,15,4,258,51,possession
-GER-Bundesliga,2024,Eint Frankfurt,Hugo Ekitike,FRA,FW,22-295,2002,22.8,852,25,64,353,459,160,849,99,43,43.4,52,52.5,515,3599,1894,73,49,39,78,24,622,170,possession
-GER-Bundesliga,2024,Eint Frankfurt,Hugo Larsson,SWE,MF,20-288,2004,21.4,1192,65,337,648,214,20,1192,13,6,46.2,7,53.8,651,2574,1106,13,17,2,16,7,822,29,possession
-GER-Bundesliga,2024,Eint Frankfurt,Igor Matanovic,CRO,FW,22-011,2003,3.5,133,8,17,73,44,17,133,5,3,60.0,2,40.0,78,363,118,2,3,2,21,9,103,19,possession
-GER-Bundesliga,2024,Eint Frankfurt,Jean Mattéo Bahoya,FRA,"MF,FW",19-339,2005,6.8,335,5,56,144,141,25,335,26,16,61.5,9,34.6,200,1260,575,16,13,7,12,12,216,73,possession
-GER-Bundesliga,2024,Eint Frankfurt,Junior Dina Ebimbe,FRA,"MF,FW",24-141,2000,3.3,161,5,27,74,62,16,161,11,5,45.5,5,45.5,82,408,197,5,6,3,8,4,105,27,possession
-GER-Bundesliga,2024,Eint Frankfurt,Kauã Santos,BRA,GK,22-000,2003,7.5,288,244,287,1,0,0,288,0,0,,0,,174,798,533,0,0,0,0,0,136,0,possession
-GER-Bundesliga,2024,Eint Frankfurt,Kevin Trapp,GER,GK,34-277,1990,20.5,811,703,809,2,0,0,811,0,0,,0,,539,2424,1354,0,0,0,1,0,450,0,possession
-GER-Bundesliga,2024,Eint Frankfurt,Mahmoud Dahoud,GER,MF,29-100,1996,4.0,263,8,65,150,49,3,263,3,1,33.3,2,66.7,160,521,211,1,6,0,4,2,192,6,possession
-GER-Bundesliga,2024,Eint Frankfurt,Mario Götze,GER,"MF,FW",32-312,1992,16.9,969,12,156,478,347,43,969,23,9,39.1,12,52.2,605,2435,1203,29,23,6,26,27,693,96,possession
-GER-Bundesliga,2024,Eint Frankfurt,Michy Batshuayi,BEL,"FW,DF",31-191,1993,2.3,69,1,7,39,24,11,69,3,2,66.7,1,33.3,38,211,87,3,2,1,7,1,46,10,possession
-GER-Bundesliga,2024,Eint Frankfurt,Nathaniel Brown,GER,"DF,MF",21-299,2003,16.4,960,41,272,391,309,42,960,25,8,32.0,16,64.0,493,2635,1386,34,21,5,22,9,534,95,possession
-GER-Bundesliga,2024,Eint Frankfurt,Niels Nkounkou,FRA,"DF,MF",24-161,2000,4.2,293,16,92,132,77,8,293,16,7,43.8,7,43.8,178,977,539,17,14,1,7,4,174,21,possession
-GER-Bundesliga,2024,Eint Frankfurt,Nnamdi Collins,GER,DF,21-091,2004,13.7,921,71,337,461,127,16,921,27,10,37.0,15,55.6,536,2847,1233,25,19,5,12,10,587,34,possession
-GER-Bundesliga,2024,Eint Frankfurt,Omar Marmoush,EGY,FW,26-063,1999,16.1,671,1,40,230,421,109,669,101,46,45.5,46,45.5,442,3318,1810,73,53,45,66,37,483,125,possession
-GER-Bundesliga,2024,Eint Frankfurt,Oscar Højlund,DEN,MF,20-097,2005,6.8,430,8,104,256,73,7,430,11,8,72.7,3,27.3,257,1248,609,17,8,5,17,10,293,7,possession
-GER-Bundesliga,2024,Eint Frankfurt,Rasmus Kristensen,DEN,DF,27-274,1997,23.3,1658,112,526,743,403,48,1658,34,20,58.8,11,32.4,938,4084,2182,47,32,7,32,13,1031,122,possession
-GER-Bundesliga,2024,Eint Frankfurt,Robin Koch,GER,DF,28-268,1996,22.7,1703,311,876,782,50,22,1703,3,1,33.3,2,66.7,1004,4301,2287,8,6,0,9,3,1118,3,possession
-GER-Bundesliga,2024,Eint Frankfurt,Timothy Chandler,USA,DF,35-013,1990,0.2,25,1,6,11,8,1,25,1,0,0.0,1,100.0,13,59,37,1,2,0,0,0,16,2,possession
-GER-Bundesliga,2024,Eint Frankfurt,Tuta,BRA,"DF,MF",25-281,1999,20.6,1453,185,683,699,76,14,1453,15,11,73.3,4,26.7,839,3819,1586,9,6,2,20,7,925,6,possession
-GER-Bundesliga,2024,Freiburg,Christian Günter,GER,DF,32-042,1993,24.5,1246,58,346,496,408,26,1246,9,3,33.3,6,66.7,527,1985,908,18,17,6,13,4,728,106,possession
-GER-Bundesliga,2024,Freiburg,Eren Dinkçi,GER,"MF,FW",23-119,2001,13.3,552,6,71,259,233,36,552,39,16,41.0,23,59.0,269,1733,941,33,26,9,31,12,347,71,possession
-GER-Bundesliga,2024,Freiburg,Florent Muslija,KVX,"FW,MF",26-279,1998,1.9,121,3,17,42,62,3,121,7,4,57.1,2,28.6,83,435,191,5,7,2,7,1,86,14,possession
-GER-Bundesliga,2024,Freiburg,Florian Müller,GER,GK,27-149,1997,4.4,187,142,182,5,0,0,187,0,0,,0,,108,587,349,0,0,0,0,0,97,0,possession
-GER-Bundesliga,2024,Freiburg,Ifechukwu Ogbus,SUI,DF,19-115,2005,0.2,15,1,7,4,4,0,15,0,0,,0,,4,8,2,0,0,0,1,0,3,0,possession
-GER-Bundesliga,2024,Freiburg,Jan-Niklas Beste,GER,"FW,MF",26-097,1999,1.4,82,1,11,36,37,7,82,7,2,28.6,5,71.4,46,260,138,4,5,3,4,2,52,15,possession
-GER-Bundesliga,2024,Freiburg,Johan Manzambi,SUI,"MF,FW",19-179,2005,0.4,45,1,10,25,11,0,45,0,0,,0,,24,132,82,1,3,0,1,1,27,2,possession
-GER-Bundesliga,2024,Freiburg,Jordy Makengo,FRA,DF,23-251,2001,3.3,203,12,65,86,54,0,203,7,1,14.3,5,71.4,100,577,175,6,4,0,4,2,113,16,possession
-GER-Bundesliga,2024,Freiburg,Junior Adamu,AUT,FW,23-309,2001,13.0,403,13,38,200,170,52,403,23,10,43.5,13,56.5,205,794,279,6,5,3,40,17,269,65,possession
-GER-Bundesliga,2024,Freiburg,Kiliann Sildillia,FRA,DF,22-330,2002,8.4,540,35,183,264,95,9,540,9,6,66.7,2,22.2,236,1130,509,9,8,1,6,4,298,29,possession
-GER-Bundesliga,2024,Freiburg,Lucas Höler,GER,"FW,MF",30-275,1994,16.6,655,28,96,304,263,68,654,27,14,51.9,10,37.0,289,1213,491,13,8,6,36,22,439,99,possession
-GER-Bundesliga,2024,Freiburg,Lukas Kübler,GER,DF,32-224,1992,18.0,1107,62,325,574,217,22,1107,8,0,0.0,6,75.0,452,2125,982,23,15,3,10,7,603,42,possession
-GER-Bundesliga,2024,Freiburg,Matthias Ginter,GER,DF,31-082,1994,23.5,1570,174,733,759,86,43,1570,6,4,66.7,2,33.3,870,4499,2488,10,10,1,5,0,1054,15,possession
-GER-Bundesliga,2024,Freiburg,Max Rosenfelder,GER,DF,22-060,2003,9.7,557,85,291,247,25,5,557,15,10,66.7,4,26.7,281,1794,975,13,9,2,2,1,335,6,possession
-GER-Bundesliga,2024,Freiburg,Maximilian Eggestein,GER,MF,28-124,1996,25.6,1436,50,344,872,232,37,1436,20,10,50.0,10,50.0,647,3381,1656,25,18,3,21,16,902,31,possession
-GER-Bundesliga,2024,Freiburg,Maximilian Philipp,GER,"MF,FW",31-041,1994,0.2,9,0,1,3,5,0,9,0,0,,0,,3,15,14,0,0,0,1,0,6,0,possession
-GER-Bundesliga,2024,Freiburg,Merlin Röhl,GER,"MF,FW",22-280,2002,10.1,376,5,43,185,155,26,376,39,12,30.8,24,61.5,204,1355,585,19,15,8,44,20,246,57,possession
-GER-Bundesliga,2024,Freiburg,Michael Gregoritsch,AUT,FW,30-358,1994,6.3,198,6,21,90,88,30,198,6,3,50.0,3,50.0,88,400,186,6,1,3,13,9,141,34,possession
-GER-Bundesliga,2024,Freiburg,Nicolas Höfler,GER,MF,35-033,1990,8.8,480,37,134,282,68,4,480,4,4,100.0,0,0.0,199,862,191,1,3,1,10,10,267,3,possession
-GER-Bundesliga,2024,Freiburg,Noah Atubolu,GER,GK,22-321,2002,23.6,1124,867,1115,10,0,0,1124,0,0,,0,,645,3422,1729,0,0,0,0,0,651,0,possession
-GER-Bundesliga,2024,Freiburg,Noah Weißhaupt,GER,FW,23-203,2001,0.9,59,1,4,18,37,5,59,4,1,25.0,2,50.0,49,362,210,8,7,4,3,0,52,10,possession
-GER-Bundesliga,2024,Freiburg,Patrick Osterhage,GER,MF,25-069,2000,20.2,1026,35,236,601,194,28,1026,25,11,44.0,11,44.0,498,2552,1097,19,17,3,21,18,656,42,possession
-GER-Bundesliga,2024,Freiburg,Philipp Lienhart,AUT,DF,28-274,1996,24.8,2110,207,1020,1017,81,17,2110,10,4,40.0,5,50.0,1221,7633,4206,39,17,1,6,1,1473,9,possession
-GER-Bundesliga,2024,Freiburg,Ritsu Doan,JPN,"FW,MF",26-299,1998,26.0,1229,30,178,560,512,91,1229,102,47,46.1,45,44.1,663,3693,1724,54,43,24,46,50,837,148,possession
-GER-Bundesliga,2024,Freiburg,Roland Sallai,HUN,"FW,MF",27-324,1997,0.5,25,0,3,7,15,2,25,1,0,0.0,1,100.0,16,173,88,4,1,2,1,1,18,2,possession
-GER-Bundesliga,2024,Freiburg,Vincenzo Grifo,ITA,"FW,MF",32-004,1993,22.0,1491,29,206,792,501,59,1488,41,24,58.5,16,39.0,796,4179,2106,47,28,17,31,13,1029,124,possession
-GER-Bundesliga,2024,Gladbach,Alassane Pléa,FRA,"MF,FW",32-032,1993,17.3,827,3,70,419,346,60,826,38,16,42.1,20,52.6,509,2625,1489,43,29,12,32,19,659,114,possession
-GER-Bundesliga,2024,Gladbach,Fabio Chiarodia,ITA,DF,19-310,2005,1.3,96,19,50,42,4,1,96,0,0,,0,,31,129,31,0,0,0,0,0,42,0,possession
-GER-Bundesliga,2024,Gladbach,Florian Neuhaus,GER,MF,28-026,1997,2.7,187,4,43,110,37,8,187,8,4,50.0,4,50.0,101,527,336,7,7,1,6,1,122,7,possession
-GER-Bundesliga,2024,Gladbach,Franck Honorat,FRA,FW,28-243,1996,12.3,578,25,100,194,296,46,578,25,9,36.0,15,60.0,286,2029,1169,46,26,19,16,8,348,96,possession
-GER-Bundesliga,2024,Gladbach,Grant Ranos,ARM,FW,21-265,2003,0.2,17,0,1,9,7,0,17,0,0,,0,,10,35,18,1,1,0,0,1,11,2,possession
-GER-Bundesliga,2024,Gladbach,Joe Scally,USA,DF,22-101,2002,24.1,1595,86,603,741,263,17,1595,50,26,52.0,22,44.0,847,4626,2255,44,21,3,21,23,1008,52,possession
-GER-Bundesliga,2024,Gladbach,Jonas Omlin,SUI,GK,31-091,1994,5.9,322,274,322,0,0,0,322,1,1,100.0,0,0.0,215,811,391,0,0,0,0,0,208,0,possession
-GER-Bundesliga,2024,Gladbach,Julian Weigl,GER,MF,29-215,1995,26.3,1759,96,591,1028,152,8,1759,6,6,100.0,0,0.0,887,3383,1506,9,12,1,13,7,1207,9,possession
-GER-Bundesliga,2024,Gladbach,Kevin Stöger,AUT,"MF,FW",31-227,1993,14.5,1130,22,146,576,410,28,1129,28,12,42.9,13,46.4,599,3074,1410,33,33,5,24,18,796,87,possession
-GER-Bundesliga,2024,Gladbach,Ko Itakura,JPN,DF,28-074,1997,26.0,1840,279,1035,756,60,26,1840,17,9,52.9,7,41.2,1146,5695,2937,18,15,0,7,7,1299,3,possession
-GER-Bundesliga,2024,Gladbach,Luca Netz,GER,DF,21-331,2003,9.6,607,39,214,235,162,15,607,19,6,31.6,12,63.2,269,1100,616,15,10,3,13,9,363,52,possession
-GER-Bundesliga,2024,Gladbach,Lukas Ullrich,GER,DF,21-026,2004,16.3,841,63,341,347,162,24,841,21,7,33.3,11,52.4,429,2036,1015,22,8,3,14,8,498,55,possession
-GER-Bundesliga,2024,Gladbach,Marvin Friedrich,GER,DF,29-119,1995,10.6,794,89,413,359,23,15,794,2,2,100.0,0,0.0,490,2423,1265,11,3,0,5,3,568,2,possession
-GER-Bundesliga,2024,Gladbach,Moritz Nicolas,GER,GK,27-172,1997,18.2,838,692,835,3,0,0,838,0,0,,0,,575,2773,1548,0,0,0,0,0,508,0,possession
-GER-Bundesliga,2024,Gladbach,Nathan N'Goumou,CMR,FW,25-028,2000,9.2,386,13,68,132,192,55,386,27,9,33.3,12,44.4,215,1456,851,30,18,16,12,11,258,85,possession
-GER-Bundesliga,2024,Gladbach,Nico Elvedi,SUI,DF,28-193,1996,20.5,1593,301,906,644,44,14,1593,0,0,,0,,825,4012,2065,18,11,0,5,1,1003,5,possession
-GER-Bundesliga,2024,Gladbach,Noah Pesch,CRO,FW,19-328,2005,0.1,5,0,0,1,4,0,5,0,0,,0,,2,17,16,0,0,0,0,0,2,1,possession
-GER-Bundesliga,2024,Gladbach,Philipp Sander,GER,MF,27-049,1998,13.9,830,47,229,481,129,15,830,16,9,56.3,6,37.5,415,1945,831,12,11,4,13,7,512,25,possession
-GER-Bundesliga,2024,Gladbach,Robin Hack,GER,FW,26-227,1998,19.7,949,21,172,461,333,62,949,52,20,38.5,29,55.8,544,3161,1505,41,40,17,52,37,647,112,possession
-GER-Bundesliga,2024,Gladbach,Rocco Reitz,GER,MF,22-317,2002,15.9,946,60,290,521,145,27,946,29,12,41.4,15,51.7,494,2339,987,13,12,1,15,18,577,20,possession
-GER-Bundesliga,2024,Gladbach,Shiō Fukuda,JPN,"FW,MF",21-003,2004,0.5,12,0,0,4,8,1,12,3,1,33.3,2,66.7,7,21,7,0,1,0,1,0,9,2,possession
-GER-Bundesliga,2024,Gladbach,Stefan Lainer,AUT,DF,32-227,1992,6.3,436,28,134,195,108,3,436,8,4,50.0,4,50.0,229,1282,659,17,14,1,4,5,253,24,possession
-GER-Bundesliga,2024,Gladbach,Tiago Cardoso,LUX,GK,19-004,2006,3.2,142,131,142,0,0,0,142,0,0,,0,,67,436,299,0,0,0,0,0,64,0,possession
-GER-Bundesliga,2024,Gladbach,Tim Kleindienst,GER,FW,29-223,1995,25.4,971,55,114,516,350,123,969,32,12,37.5,20,62.5,473,2119,871,39,18,22,71,39,683,126,possession
-GER-Bundesliga,2024,Gladbach,Tobias Sippel,GER,GK,37-020,1988,0.7,34,27,34,0,0,0,34,0,0,,0,,16,111,64,0,0,0,0,0,14,0,possession
-GER-Bundesliga,2024,Gladbach,Tomáš Čvančara,CZE,FW,24-241,2000,6.7,264,16,38,122,105,28,264,14,6,42.9,7,50.0,138,656,262,11,4,3,16,6,180,37,possession
-GER-Bundesliga,2024,Heidenheim,Adrian Beck,GER,"MF,FW",27-306,1997,12.4,693,21,137,352,220,38,693,49,28,57.1,20,40.8,376,2025,748,19,11,7,28,19,392,60,possession
-GER-Bundesliga,2024,Heidenheim,Benedikt Gimber,GER,DF,28-051,1997,24.7,1388,167,786,575,44,18,1388,11,5,45.5,3,27.3,733,3287,1514,7,8,0,19,5,803,5,possession
-GER-Bundesliga,2024,Heidenheim,Budu Zivzivadze,GEO,FW,31-032,1994,9.9,300,6,22,145,136,35,300,24,8,33.3,14,58.3,166,703,272,9,8,2,24,14,197,39,possession
-GER-Bundesliga,2024,Heidenheim,Denis Thomalla,GER,MF,32-238,1992,0.0,1,0,0,1,0,0,1,0,0,,0,,1,8,0,0,0,0,0,0,0,0,possession
-GER-Bundesliga,2024,Heidenheim,Frans Krätzig,GER,"DF,MF",22-087,2003,8.8,421,16,107,183,138,21,421,14,6,42.9,8,57.1,226,1041,477,18,12,5,16,2,259,39,possession
-GER-Bundesliga,2024,Heidenheim,Jan Schöppner,GER,MF,25-303,1999,24.9,1211,89,336,598,285,56,1211,30,14,46.7,16,53.3,599,3248,1762,32,23,5,35,19,663,37,possession
-GER-Bundesliga,2024,Heidenheim,Jonas Föhrenbach,GER,DF,29-075,1996,19.9,1069,68,403,466,208,17,1069,17,7,41.2,9,52.9,501,2660,1464,36,11,4,16,3,555,45,possession
-GER-Bundesliga,2024,Heidenheim,Julian Niehues,GER,MF,23-359,2001,0.6,28,5,11,13,4,1,28,0,0,,0,,11,26,20,0,0,0,1,1,14,2,possession
-GER-Bundesliga,2024,Heidenheim,Kevin Müller,GER,GK,34-027,1991,28.0,1162,956,1144,18,0,0,1162,0,0,,0,,658,3000,1655,0,0,0,2,0,568,0,possession
-GER-Bundesliga,2024,Heidenheim,Lennard Maloney,USA,MF,25-185,1999,8.4,378,38,183,174,23,5,378,4,1,25.0,3,75.0,147,492,206,1,1,0,11,1,161,0,possession
-GER-Bundesliga,2024,Heidenheim,Luca Kerber,GER,"MF,DF",23-032,2002,7.6,321,29,117,158,47,8,321,4,0,0.0,3,75.0,155,604,206,1,0,1,11,3,171,11,possession
-GER-Bundesliga,2024,Heidenheim,Léo Scienza,BRA,"FW,MF",26-210,1998,11.5,510,8,59,213,255,41,510,75,34,45.3,32,42.7,318,2948,1920,62,35,16,37,10,315,79,possession
-GER-Bundesliga,2024,Heidenheim,Marnon Busch,GER,"DF,MF",30-124,1994,11.9,852,58,309,390,158,6,852,7,3,42.9,4,57.1,420,1920,1025,19,19,1,12,0,465,38,possession
-GER-Bundesliga,2024,Heidenheim,Marvin Pieringer,GER,"FW,MF",25-189,1999,19.3,672,28,89,320,269,82,669,26,11,42.3,12,46.2,365,1496,556,14,17,4,56,20,476,91,possession
-GER-Bundesliga,2024,Heidenheim,Mathias Honsak,AUT,"FW,DF",28-112,1996,11.9,561,35,138,255,177,28,561,19,8,42.1,10,52.6,301,1801,901,33,27,6,35,11,326,48,possession
-GER-Bundesliga,2024,Heidenheim,Maximilian Breunig,GER,"FW,MF",24-240,2000,3.9,140,5,17,77,51,17,139,7,3,42.9,3,42.9,78,304,138,5,4,2,15,6,96,13,possession
-GER-Bundesliga,2024,Heidenheim,Mikkel Kaufmann,DEN,FW,24-098,2001,4.1,139,6,19,71,51,12,139,7,2,28.6,3,42.9,77,367,171,4,6,4,11,2,99,21,possession
-GER-Bundesliga,2024,Heidenheim,Niklas Dorsch,GER,MF,27-086,1998,11.7,625,29,145,367,125,7,625,13,7,53.8,5,38.5,353,1913,820,11,7,1,11,9,369,20,possession
-GER-Bundesliga,2024,Heidenheim,Norman Theuerkauf,GER,MF,38-077,1987,0.2,21,0,4,14,3,1,21,0,0,,0,,8,18,10,0,0,0,0,0,13,0,possession
-GER-Bundesliga,2024,Heidenheim,Omar Traoré,GER,DF,27-066,1998,23.2,1368,53,393,622,377,16,1368,52,21,40.4,24,46.2,731,4691,2819,84,40,3,32,16,777,95,possession
-GER-Bundesliga,2024,Heidenheim,Patrick Mainka,GER,DF,30-156,1994,28.0,1731,219,928,712,105,36,1731,10,5,50.0,3,30.0,947,5148,2779,17,16,1,15,7,978,10,possession
-GER-Bundesliga,2024,Heidenheim,Paul Wanner,GER,"MF,FW",19-109,2005,16.9,796,15,121,407,289,39,795,53,24,45.3,27,50.9,423,2302,980,24,26,5,39,33,476,52,possession
-GER-Bundesliga,2024,Heidenheim,Sirlord Conteh,GER,"FW,MF",28-276,1996,7.8,250,3,33,97,128,24,250,13,6,46.2,6,46.2,165,1055,603,24,9,8,19,8,179,61,possession
-GER-Bundesliga,2024,Heidenheim,Stefan Schimmer,GER,"FW,MF",30-348,1994,2.5,80,4,6,31,43,15,80,1,0,0.0,1,100.0,37,133,23,0,0,0,5,0,47,15,possession
-GER-Bundesliga,2024,Heidenheim,Thomas Keller,GER,"DF,MF",25-249,1999,1.5,101,11,51,47,3,0,101,0,0,,0,,42,159,86,0,0,0,2,0,59,0,possession
-GER-Bundesliga,2024,Heidenheim,Tim Siersleben,GER,DF,25-033,2000,8.1,502,76,309,164,32,6,502,2,1,50.0,1,50.0,269,1237,578,4,3,1,1,0,313,6,possession
-GER-Bundesliga,2024,Hoffenheim,Adam Hložek,CZE,"FW,MF",22-260,2002,16.6,620,19,64,270,297,86,620,52,27,51.9,23,44.2,340,2006,952,39,23,12,39,31,445,82,possession
-GER-Bundesliga,2024,Hoffenheim,Alexander Prass,AUT,DF,23-320,2001,16.9,1176,66,336,524,324,32,1176,42,20,47.6,17,40.5,595,2751,1323,28,30,5,20,10,681,65,possession
-GER-Bundesliga,2024,Hoffenheim,Andrej Kramarić,CRO,"MF,FW",33-296,1991,24.9,1277,8,136,594,555,105,1274,36,15,41.7,17,47.2,760,4140,2154,63,45,20,40,30,948,172,possession
-GER-Bundesliga,2024,Hoffenheim,Anton Stach,GER,"MF,DF",26-147,1998,22.8,1546,125,476,852,231,26,1546,26,12,46.2,13,50.0,803,4094,2323,27,21,5,16,8,925,31,possession
-GER-Bundesliga,2024,Hoffenheim,Arthur Chaves,BRA,DF,24-072,2001,18.3,1155,138,528,555,78,19,1155,8,2,25.0,5,62.5,551,2215,991,7,9,0,7,7,708,11,possession
-GER-Bundesliga,2024,Hoffenheim,Bazoumana Touré,CIV,"FW,DF",19-040,2006,2.4,145,3,18,55,75,17,145,10,6,60.0,4,40.0,87,569,301,12,8,2,13,3,91,27,possession
-GER-Bundesliga,2024,Hoffenheim,David Jurásek,CZE,DF,24-247,2000,6.5,478,16,128,186,167,8,478,10,2,20.0,7,70.0,224,1218,558,15,21,0,5,5,295,40,possession
-GER-Bundesliga,2024,Hoffenheim,David Mokwa,FRA,"DF,FW",20-343,2004,0.2,11,0,2,4,5,2,11,1,1,100.0,0,0.0,5,29,9,0,0,0,2,2,5,0,possession
-GER-Bundesliga,2024,Hoffenheim,Dennis Geiger,GER,"MF,FW",26-305,1998,5.9,307,10,54,184,70,6,307,4,3,75.0,1,25.0,181,943,472,10,10,2,5,4,218,14,possession
-GER-Bundesliga,2024,Hoffenheim,Diadie Samassékou,MLI,MF,29-090,1996,3.2,190,8,36,114,42,1,190,5,4,80.0,1,20.0,92,317,112,3,3,0,1,3,122,2,possession
-GER-Bundesliga,2024,Hoffenheim,Erencan Yardimci,TUR,"FW,MF",23-066,2002,3.4,92,4,8,48,36,11,92,0,0,,0,,39,113,55,3,3,0,11,3,63,11,possession
-GER-Bundesliga,2024,Hoffenheim,Finn Ole Becker,GER,MF,24-307,2000,7.2,435,18,111,260,70,2,435,14,6,42.9,6,42.9,242,956,431,3,6,0,9,7,282,6,possession
-GER-Bundesliga,2024,Hoffenheim,Florian Grillitsch,AUT,MF,29-247,1995,6.7,488,29,140,263,92,3,488,12,5,41.7,6,50.0,270,1348,585,4,8,0,5,10,330,4,possession
-GER-Bundesliga,2024,Hoffenheim,Florian Micheler,AUT,MF,19-329,2005,0.4,12,0,2,6,4,0,12,1,1,100.0,0,0.0,11,48,28,1,1,0,0,0,10,1,possession
-GER-Bundesliga,2024,Hoffenheim,Gift Orban,NGA,FW,22-268,2002,7.3,196,1,20,87,89,20,196,11,4,36.4,7,63.6,103,398,159,7,6,3,13,5,116,33,possession
-GER-Bundesliga,2024,Hoffenheim,Grischa Prömel,GER,MF,30-092,1995,1.9,106,4,19,71,18,0,106,1,0,0.0,1,100.0,70,300,137,2,1,0,2,2,82,3,possession
+league,season,team,player,nation,pos,age,born,90s,Touches Touches,Touches Def Pen,Touches Def 3rd,Touches Mid 3rd,Touches Att 3rd,Touches Att Pen,Touches Live,Take-Ons Att,Take-Ons Succ,Take-Ons Succ%,Take-Ons Tkld,Take-Ons Tkld%,Carries Carries,Carries TotDist,Carries PrgDist,Carries PrgC,Carries 1/3,Carries CPA,Carries Mis,Carries Dis,Receiving Rec,Receiving PrgR,stat_type
+GER-Bundesliga,2024,Augsburg,Arne Engels,BEL,"MF,FW",21-215,2003.0,0.9,32,1,1,14,17,2,32,1,0,0.0,1,100.0,17,75,38,1,3,0,0,0,24,5,possession
+GER-Bundesliga,2024,Augsburg,Arne Maier,GER,MF,26-093,1999.0,9.2,608,15,95,292,226,17,608,13,5,38.5,8,61.5,334,1424,650,14,14,5,19,8,388,43,possession
+GER-Bundesliga,2024,Augsburg,Cedric Zesiger,SUI,DF,26-291,1998.0,9.1,495,72,237,216,43,5,495,4,1,25.0,3,75.0,252,1093,478,4,6,0,7,3,254,4,possession
+GER-Bundesliga,2024,Augsburg,Chrislain Matsima,FRA,DF,22-331,2002.0,22.3,1270,178,547,634,103,16,1270,10,6,60.0,3,30.0,676,2899,1439,11,14,2,18,9,714,9,possession
+GER-Bundesliga,2024,Augsburg,Dimitris Giannoulis,GRE,DF,29-176,1995.0,23.8,1410,67,383,566,479,42,1410,57,22,38.6,31,54.4,643,3072,1670,42,33,8,44,9,743,114,possession
+GER-Bundesliga,2024,Augsburg,Elvis Rexhbeçaj,KVX,MF,27-161,1997.0,18.5,809,30,134,372,312,25,809,30,10,33.3,16,53.3,418,1847,863,27,21,7,26,24,488,72,possession
+GER-Bundesliga,2024,Augsburg,Finn Dahmen,GER,GK,27-015,1998.0,13.0,550,374,534,16,0,0,550,0,0,,0,,335,1748,995,0,0,0,0,0,292,0,possession
+GER-Bundesliga,2024,Augsburg,Frank Onyeka,NGA,MF,27-100,1998.0,23.1,1051,49,202,587,285,33,1051,41,15,36.6,17,41.5,582,3238,1402,35,28,8,40,27,624,58,possession
+GER-Bundesliga,2024,Augsburg,Fredrik Jensen,FIN,MF,27-214,1997.0,7.2,267,14,39,103,129,22,267,13,7,53.8,6,46.2,159,767,329,15,6,3,12,8,191,47,possession
+GER-Bundesliga,2024,Augsburg,Henri Koudossou,GER,DF,25-220,1999.0,6.9,379,28,126,149,106,8,379,14,7,50.0,6,42.9,162,823,371,12,9,2,12,1,181,35,possession
+GER-Bundesliga,2024,Augsburg,Jeffrey Gouweleeuw,NED,DF,33-275,1991.0,26.7,1620,217,755,762,118,29,1619,11,6,54.5,5,45.5,897,4722,2592,17,19,1,14,6,944,14,possession
+GER-Bundesliga,2024,Augsburg,Keven Schlotterbeck,GER,DF,27-348,1997.0,13.4,785,91,365,372,51,19,785,3,3,100.0,0,0.0,393,1354,680,2,5,0,8,0,475,2,possession
+GER-Bundesliga,2024,Augsburg,Kristijan Jakić,CRO,MF,27-332,1997.0,20.0,1008,58,253,564,201,23,1008,24,11,45.8,12,50.0,491,2164,977,23,11,3,33,17,577,37,possession
+GER-Bundesliga,2024,Augsburg,Mads Pedersen,DEN,DF,28-222,1996.0,2.6,123,7,34,45,47,5,123,8,2,25.0,6,75.0,53,250,111,1,3,1,4,1,58,10,possession
+GER-Bundesliga,2024,Augsburg,Marius Wolf,GER,DF,29-319,1995.0,20.2,1173,49,259,486,444,41,1173,37,18,48.6,17,45.9,508,2089,1146,31,15,8,21,11,620,76,possession
+GER-Bundesliga,2024,Augsburg,Maximilian Bauer,GER,DF,25-061,2000.0,7.3,422,45,177,222,24,3,422,0,0,,0,,216,991,539,4,4,0,6,2,260,7,possession
+GER-Bundesliga,2024,Augsburg,Mergim Berisha,GER,FW,26-335,1998.0,0.1,7,0,0,3,4,1,7,0,0,,0,,6,30,9,1,0,0,1,2,6,4,possession
+GER-Bundesliga,2024,Augsburg,Mert Kömür,GER,MF,19-268,2005.0,4.0,185,6,33,79,77,11,185,16,8,50.0,7,43.8,113,611,266,10,8,3,13,13,126,29,possession
+GER-Bundesliga,2024,Augsburg,Nediljko Labrović,CRO,GK,25-183,1999.0,15.0,546,451,537,9,0,0,546,0,0,,0,,306,1571,923,0,0,0,0,0,238,0,possession
+GER-Bundesliga,2024,Augsburg,Niklas Dorsch,GER,MF,27-086,1998.0,0.4,29,1,3,18,8,0,29,1,0,0.0,1,100.0,15,57,32,1,1,0,0,0,21,0,possession
+GER-Bundesliga,2024,Augsburg,Noahkai Banks,USA,DF,18-131,2006.0,3.1,229,23,94,124,14,2,229,1,0,0.0,1,100.0,123,580,253,2,5,0,2,1,129,3,possession
+GER-Bundesliga,2024,Augsburg,Phillip Tietz,GER,FW,27-276,1997.0,16.5,574,22,63,261,256,69,573,25,12,48.0,12,48.0,292,941,265,6,7,3,37,17,426,93,possession
+GER-Bundesliga,2024,Augsburg,Robert Gumny,POL,DF,26-311,1998.0,1.6,94,8,27,33,34,2,94,4,1,25.0,2,50.0,43,187,83,3,2,0,2,1,45,6,possession
+GER-Bundesliga,2024,Augsburg,Ruben Vargas,SUI,"MF,FW",26-249,1998.0,3.4,179,2,14,75,91,12,179,12,6,50.0,5,41.7,109,706,285,9,3,1,11,7,137,24,possession
+GER-Bundesliga,2024,Augsburg,Samuel Essende,COD,FW,27-078,1998.0,15.3,476,7,37,222,228,76,476,43,9,20.9,28,65.1,297,1458,621,31,17,19,73,32,367,105,possession
+GER-Bundesliga,2024,Augsburg,Steve Mounié,BEN,"FW,MF",30-194,1994.0,3.3,139,4,12,53,74,27,139,4,1,25.0,3,75.0,76,324,146,8,5,3,12,4,110,23,possession
+GER-Bundesliga,2024,Augsburg,Tim Breithaupt,GER,MF,23-063,2002.0,1.3,75,2,18,49,8,1,75,2,2,100.0,0,0.0,44,174,67,1,0,0,3,2,47,1,possession
+GER-Bundesliga,2024,Augsburg,Yusuf Kabadayı,GER,"FW,MF",21-068,2004.0,0.8,42,0,2,16,25,2,42,6,2,33.3,3,50.0,29,246,73,2,4,0,6,0,30,8,possession
+GER-Bundesliga,2024,Bayern Munich,Adam Aznou,MAR,DF,18-313,2006.0,0.2,18,1,1,7,11,0,18,0,0,,0,,12,40,16,0,2,0,0,0,14,2,possession
+GER-Bundesliga,2024,Bayern Munich,Aleksandar Pavlovic,GER,MF,20-343,2004.0,11.6,1230,11,138,821,276,10,1230,4,4,100.0,0,0.0,730,3149,1356,8,28,3,11,1,1032,30,possession
+GER-Bundesliga,2024,Bayern Munich,Alphonso Davies,CAN,DF,24-160,2000.0,17.3,1463,33,263,720,498,49,1463,68,31,45.6,31,45.6,895,5191,2807,81,53,21,33,19,1057,140,possession
+GER-Bundesliga,2024,Bayern Munich,Arijon Ibrahimović,GER,FW,19-121,2005.0,0.0,3,0,2,1,0,0,3,1,1,100.0,0,0.0,3,20,5,0,0,0,0,0,3,0,possession
+GER-Bundesliga,2024,Bayern Munich,Daniel Peretz,ISR,GK,24-275,2000.0,3.0,106,63,97,9,0,0,106,0,0,,0,,67,338,177,0,0,0,0,0,77,0,possession
+GER-Bundesliga,2024,Bayern Munich,Dayot Upamecano,FRA,DF,26-166,1998.0,19.5,2101,96,626,1364,116,17,2101,6,3,50.0,3,50.0,1440,7122,4165,17,27,0,6,4,1632,4,possession
+GER-Bundesliga,2024,Bayern Munich,Eric Dier,ENG,DF,31-086,1994.0,10.3,1060,84,348,667,48,12,1060,3,2,66.7,1,33.3,615,2763,1459,9,9,0,4,1,786,1,possession
+GER-Bundesliga,2024,Bayern Munich,Gabriel Vidovic,CRO,MF,21-131,2003.0,0.0,1,0,0,1,0,0,1,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+GER-Bundesliga,2024,Bayern Munich,Harry Kane,ENG,FW,31-257,1993.0,22.5,774,15,68,279,431,134,765,50,22,44.0,27,54.0,439,2019,835,24,17,18,36,16,605,122,possession
+GER-Bundesliga,2024,Bayern Munich,Hiroki Ito,JPN,DF,25-334,1999.0,2.8,245,11,65,129,52,5,245,3,1,33.3,2,66.7,126,556,240,3,6,1,3,1,175,6,possession
+GER-Bundesliga,2024,Bayern Munich,Jamal Musiala,GER,MF,22-044,2003.0,20.0,1278,7,94,565,636,163,1278,141,72,51.1,59,41.8,792,4412,2300,71,48,36,67,33,1031,156,possession
+GER-Bundesliga,2024,Bayern Munich,Jonas Urbig,GER,GK,21-246,2003.0,4.0,168,112,157,11,1,0,168,0,0,,0,,107,476,270,0,0,0,1,0,104,0,possession
+GER-Bundesliga,2024,Bayern Munich,Joshua Kimmich,GER,MF,30-062,1995.0,25.6,3185,56,436,1918,846,14,3185,18,9,50.0,8,44.4,1940,10032,4299,43,65,1,18,5,2506,63,possession
+GER-Bundesliga,2024,Bayern Munich,Josip Stanišić,CRO,DF,25-009,2000.0,4.1,359,20,81,176,106,7,359,5,3,60.0,2,40.0,203,1109,694,12,13,1,7,3,239,24,possession
+GER-Bundesliga,2024,Bayern Munich,João Palhinha,POR,MF,29-276,1995.0,7.3,606,18,89,403,116,13,606,4,2,50.0,2,50.0,311,1031,361,3,3,1,6,6,479,7,possession
+GER-Bundesliga,2024,Bayern Munich,Kim Min-jae,KOR,DF,28-147,1996.0,24.3,2664,155,874,1700,99,14,2664,5,3,60.0,2,40.0,1577,6598,3196,16,23,1,13,5,2025,5,possession
+GER-Bundesliga,2024,Bayern Munich,Kingsley Coman,FRA,FW,28-302,1996.0,11.5,761,13,70,261,439,72,761,66,35,53.0,28,42.4,488,3124,1553,55,28,20,23,14,600,179,possession
+GER-Bundesliga,2024,Bayern Munich,Konrad Laimer,AUT,DF,27-319,1997.0,13.6,1002,29,172,482,350,46,1002,22,10,45.5,11,50.0,567,2961,1788,56,37,11,23,16,709,82,possession
+GER-Bundesliga,2024,Bayern Munich,Leon Goretzka,GER,MF,30-064,1995.0,12.4,1156,33,178,732,252,24,1156,8,7,87.5,1,12.5,678,3705,1983,30,34,3,4,4,897,24,possession
+GER-Bundesliga,2024,Bayern Munich,Leroy Sané,GER,FW,29-090,1996.0,14.6,935,7,49,319,580,96,935,73,27,37.0,40,54.8,618,3815,1726,54,36,28,47,21,756,215,possession
+GER-Bundesliga,2024,Bayern Munich,Manuel Neuer,GER,GK,39-015,1986.0,20.0,884,497,829,57,0,0,884,1,1,100.0,0,0.0,589,3063,1750,0,0,0,0,0,652,0,possession
+GER-Bundesliga,2024,Bayern Munich,Mathys Tel,FRA,"FW,MF",19-349,2005.0,2.8,157,0,15,55,89,14,157,12,6,50.0,6,50.0,109,745,198,6,7,3,4,6,135,34,possession
+GER-Bundesliga,2024,Bayern Munich,Michael Olise,FRA,"FW,MF",23-120,2001.0,20.1,1567,15,83,554,947,111,1567,109,55,50.5,40,36.7,1007,5539,2881,88,49,31,45,24,1234,286,possession
+GER-Bundesliga,2024,Bayern Munich,Raphaël Guerreiro,POR,"DF,MF",31-110,1993.0,14.5,1235,27,217,560,465,48,1235,18,8,44.4,9,50.0,659,2854,1404,32,28,5,16,13,920,102,possession
+GER-Bundesliga,2024,Bayern Munich,Sacha Boey,FRA,DF,24-210,2000.0,4.7,439,8,49,210,181,8,439,13,4,30.8,8,61.5,281,1201,605,16,8,3,8,5,328,51,possession
+GER-Bundesliga,2024,Bayern Munich,Serge Gnabry,GER,"FW,MF",29-271,1995.0,9.7,584,6,53,221,311,70,583,28,12,42.9,14,50.0,355,1984,1002,37,16,16,17,4,448,123,possession
+GER-Bundesliga,2024,Bayern Munich,Sven Ulreich,GER,GK,36-251,1988.0,1.0,30,18,27,3,0,0,30,0,0,,0,,13,55,30,0,0,0,0,0,24,0,possession
+GER-Bundesliga,2024,Bayern Munich,Thomas Müller,GER,"MF,FW",35-210,1989.0,10.1,577,8,36,218,323,77,577,12,5,41.7,6,50.0,304,1234,679,17,14,4,12,15,477,106,possession
+GER-Bundesliga,2024,Bochum,Aliou Badara Baldé,GUI,"MF,FW",22-120,2002.0,1.0,43,0,2,18,25,2,43,9,2,22.2,6,66.7,30,207,129,2,4,0,5,3,29,5,possession
+GER-Bundesliga,2024,Bochum,Anthony Losilla,FRA,MF,39-032,1986.0,12.0,507,35,141,285,85,2,507,5,1,20.0,4,80.0,206,732,293,3,3,1,10,7,260,11,possession
+GER-Bundesliga,2024,Bochum,Bernardo,BRA,DF,29-332,1995.0,13.8,839,77,398,389,57,18,839,4,2,50.0,2,50.0,408,2105,1028,13,5,1,7,4,443,9,possession
+GER-Bundesliga,2024,Bochum,Cristian Gamboa,CRC,DF,35-169,1989.0,1.8,116,5,31,57,30,4,116,1,0,0.0,1,100.0,66,270,105,2,1,1,2,0,64,6,possession
+GER-Bundesliga,2024,Bochum,Dani de Wit,NED,"MF,FW",27-073,1998.0,11.8,502,25,89,283,130,33,502,8,1,12.5,5,62.5,221,741,265,4,4,0,10,3,279,34,possession
+GER-Bundesliga,2024,Bochum,Erhan Mašović,SRB,DF,26-140,1998.0,10.0,531,74,272,242,19,10,531,1,0,0.0,1,100.0,287,1119,509,1,1,0,5,3,320,3,possession
+GER-Bundesliga,2024,Bochum,Felix Passlack,GER,"DF,MF",26-317,1998.0,21.7,1116,67,296,480,348,43,1116,30,12,40.0,16,53.3,499,2502,1142,38,26,10,21,9,558,96,possession
+GER-Bundesliga,2024,Bochum,Gerrit Holtmann,PHI,"DF,FW",30-017,1995.0,10.9,481,21,105,162,222,23,481,17,5,29.4,12,70.6,272,1955,963,41,25,7,23,10,285,75,possession
+GER-Bundesliga,2024,Bochum,Giorgos Masouras,GRE,"FW,MF",31-100,1994.0,6.8,233,4,27,91,122,33,233,10,4,40.0,6,60.0,124,546,267,15,3,8,16,5,146,44,possession
+GER-Bundesliga,2024,Bochum,Ibrahima Sissoko,MLI,MF,27-166,1997.0,24.7,1176,66,314,661,221,39,1176,49,25,51.0,21,42.9,580,3098,1341,31,18,2,32,25,647,54,possession
+GER-Bundesliga,2024,Bochum,Ivan Ordets,UKR,DF,32-277,1992.0,17.7,994,150,556,389,50,39,994,1,1,100.0,0,0.0,443,1819,589,2,2,0,6,0,506,4,possession
+GER-Bundesliga,2024,Bochum,Jakov Medić,CRO,DF,26-216,1998.0,14.9,752,145,447,274,33,18,752,0,0,,0,,383,1745,785,2,0,0,5,3,414,3,possession
+GER-Bundesliga,2024,Bochum,Koji Miyoshi,JPN,"FW,MF",28-016,1997.0,5.0,197,3,31,87,84,21,197,14,5,35.7,9,64.3,117,664,288,11,6,3,14,5,121,23,possession
+GER-Bundesliga,2024,Bochum,Lukas Daschner,GER,"MF,FW",26-192,1998.0,4.6,213,5,26,100,90,14,212,15,5,33.3,10,66.7,116,606,260,8,7,1,21,2,131,19,possession
+GER-Bundesliga,2024,Bochum,Mats Pannewig,GER,MF,20-165,2004.0,1.5,100,4,28,49,26,6,100,2,0,0.0,2,100.0,52,253,106,2,2,0,6,6,60,10,possession
+GER-Bundesliga,2024,Bochum,Matúš Bero,SVK,MF,29-217,1995.0,24.0,1318,54,220,609,508,45,1318,50,15,30.0,35,70.0,587,2516,1012,21,29,5,42,18,659,87,possession
+GER-Bundesliga,2024,Bochum,Maximilian Wittek,GER,DF,29-233,1995.0,24.1,1515,91,442,711,374,14,1515,28,12,42.9,12,42.9,607,2742,1382,37,33,4,30,10,674,68,possession
+GER-Bundesliga,2024,Bochum,Moritz Broschinski,GER,"FW,MF",24-200,2000.0,14.2,493,18,48,199,255,60,493,41,9,22.0,31,75.6,280,1612,706,31,18,11,63,29,347,117,possession
+GER-Bundesliga,2024,Bochum,Moritz-Broni Kwarteng,GHA,"MF,FW",26-348,1998.0,1.9,104,1,12,48,45,3,104,7,6,85.7,1,14.3,63,303,128,4,1,1,6,2,77,16,possession
+GER-Bundesliga,2024,Bochum,Myron Boadu,NED,FW,24-087,2001.0,7.5,168,5,10,71,90,32,167,9,3,33.3,6,66.7,99,496,200,6,7,4,17,5,119,40,possession
+GER-Bundesliga,2024,Bochum,Patrick Drewes,GER,GK,32-066,1993.0,21.0,913,709,902,11,0,0,913,0,0,,0,,479,2471,1284,0,0,0,0,0,425,0,possession
+GER-Bundesliga,2024,Bochum,Philipp Hofmann,GER,FW,32-012,1993.0,22.7,827,33,78,489,264,85,827,19,10,52.6,9,47.4,438,1437,404,8,12,2,52,27,649,99,possession
+GER-Bundesliga,2024,Bochum,Samuel Bamba,GER,"FW,DF",21-057,2004.0,0.2,21,0,0,10,12,1,21,3,1,33.3,2,66.7,16,103,41,2,1,1,3,0,17,6,possession
+GER-Bundesliga,2024,Bochum,Tim Oermann,GER,DF,21-187,2003.0,18.9,845,78,345,442,65,2,845,11,4,36.4,6,54.5,419,1990,846,9,7,3,19,8,444,11,possession
+GER-Bundesliga,2024,Bochum,Timo Horn,GER,GK,31-334,1993.0,7.0,304,210,297,7,0,0,304,0,0,,0,,167,877,529,0,0,0,0,0,147,0,possession
+GER-Bundesliga,2024,Bochum,Tom Krauß,GER,MF,23-293,2001.0,7.5,468,14,109,267,98,3,468,14,7,50.0,7,50.0,266,1349,626,12,11,1,16,6,288,14,possession
+GER-Bundesliga,2024,Dortmund,Alexander Meyer,GER,GK,33-363,1991.0,2.0,87,64,86,1,0,0,87,0,0,,0,,51,295,130,0,0,0,0,0,42,0,possession
+GER-Bundesliga,2024,Dortmund,Almugera Kabar,GER,DF,18-309,2006.0,1.5,114,0,27,68,20,1,114,2,1,50.0,0,0.0,71,285,101,5,3,0,0,3,78,2,possession
+GER-Bundesliga,2024,Dortmund,Ayman Azhil,MAR,MF,24-001,2001.0,0.3,9,0,2,4,3,0,9,1,0,0.0,1,100.0,4,12,0,0,0,0,1,1,5,1,possession
+GER-Bundesliga,2024,Dortmund,Carney Chukwuemeka,ENG,MF,21-173,2003.0,1.5,87,1,4,41,43,11,87,8,4,50.0,2,25.0,57,279,163,7,6,3,10,6,61,12,possession
+GER-Bundesliga,2024,Dortmund,Cole Campbell,USA,"MF,FW",19-050,2006.0,0.2,21,2,4,9,8,0,21,1,0,0.0,1,100.0,10,57,34,1,0,0,3,0,13,1,possession
+GER-Bundesliga,2024,Dortmund,Daniel Svensson,SWE,"DF,FW",23-058,2002.0,2.7,182,8,48,81,53,8,182,1,0,0.0,0,0.0,90,398,224,5,1,1,2,2,107,12,possession
+GER-Bundesliga,2024,Dortmund,Donyell Malen,NED,"FW,MF",26-092,1999.0,6.8,278,3,23,84,175,46,278,32,11,34.4,19,59.4,187,911,439,23,9,17,16,9,214,75,possession
+GER-Bundesliga,2024,Dortmund,Emre Can,GER,"DF,MF",31-089,1994.0,20.7,1979,135,724,1113,152,11,1977,23,14,60.9,7,30.4,1303,6044,3233,15,27,1,16,8,1471,9,possession
+GER-Bundesliga,2024,Dortmund,Felix Nmecha,GER,MF,24-183,2000.0,12.8,842,48,179,539,135,5,842,17,10,58.8,4,23.5,487,2327,926,10,8,1,12,12,602,13,possession
+GER-Bundesliga,2024,Dortmund,Gio Reyna,USA,MF,22-149,2002.0,3.6,223,7,24,107,93,5,223,7,4,57.1,3,42.9,122,520,227,5,3,0,9,7,152,18,possession
+GER-Bundesliga,2024,Dortmund,Gregor Kobel,SUI,GK,27-126,1997.0,26.0,1057,782,1048,9,0,0,1057,2,2,100.0,0,0.0,683,3286,1911,0,0,0,0,0,645,0,possession
+GER-Bundesliga,2024,Dortmund,Jamie Gittens,ENG,"FW,MF",20-246,2004.0,18.1,793,8,76,263,478,105,793,160,76,47.5,65,40.6,563,4740,2659,106,50,59,46,29,588,161,possession
+GER-Bundesliga,2024,Dortmund,Julian Brandt,GER,MF,28-344,1996.0,21.0,1212,12,132,571,523,66,1212,42,15,35.7,24,57.1,706,3290,1567,46,36,13,42,27,903,170,possession
+GER-Bundesliga,2024,Dortmund,Julian Ryerson,NOR,DF,27-145,1997.0,20.0,1401,29,329,704,387,21,1401,45,23,51.1,18,40.0,840,4576,2303,51,31,6,32,15,907,108,possession
+GER-Bundesliga,2024,Dortmund,Julien Duranville,BEL,"FW,MF",18-341,2006.0,2.9,126,2,8,36,84,13,126,28,12,42.9,10,35.7,94,723,369,14,8,7,6,15,100,32,possession
+GER-Bundesliga,2024,Dortmund,Karim Adeyemi,GER,"FW,MF",23-083,2002.0,12.9,529,8,42,198,297,69,529,74,35,47.3,36,48.6,348,2654,1297,56,30,32,31,26,388,127,possession
+GER-Bundesliga,2024,Dortmund,Kjell-Arik Wätjen,GER,MF,19-054,2006.0,0.2,12,2,5,4,3,0,12,0,0,,0,,4,14,4,0,0,0,2,0,5,0,possession
+GER-Bundesliga,2024,Dortmund,Marcel Sabitzer,AUT,"MF,FW",31-025,1994.0,16.4,894,37,125,516,258,28,894,12,4,33.3,8,66.7,487,2105,1028,20,28,2,21,12,609,64,possession
+GER-Bundesliga,2024,Dortmund,Maximilian Beier,GER,"FW,MF",22-176,2002.0,16.4,580,16,71,231,286,84,580,48,20,41.7,26,54.2,314,1338,656,21,10,9,36,26,391,116,possession
+GER-Bundesliga,2024,Dortmund,Nico Schlotterbeck,GER,DF,25-131,1999.0,22.0,2297,193,831,1338,150,21,2297,22,14,63.6,5,22.7,1467,6646,4107,37,30,1,12,10,1674,14,possession
+GER-Bundesliga,2024,Dortmund,Niklas Süle,GER,DF,29-220,1995.0,6.3,617,70,276,314,28,7,617,3,2,66.7,1,33.3,383,1633,866,6,3,0,1,0,480,6,possession
+GER-Bundesliga,2024,Dortmund,Pascal Groß,GER,"MF,DF",33-300,1991.0,22.1,1922,48,364,1026,545,43,1922,8,2,25.0,6,75.0,1019,4445,2078,35,37,4,22,8,1344,108,possession
+GER-Bundesliga,2024,Dortmund,Ramy Bensebaini,ALG,DF,29-360,1995.0,17.4,1284,74,356,654,284,32,1284,16,5,31.3,9,56.3,634,2484,1133,19,22,2,14,5,751,55,possession
+GER-Bundesliga,2024,Dortmund,Salih Özcan,TUR,"MF,DF",27-090,1998.0,3.0,232,11,56,125,52,7,232,2,2,100.0,0,0.0,100,382,163,3,3,1,2,0,123,2,possession
+GER-Bundesliga,2024,Dortmund,Serhou Guirassy,GUI,FW,29-030,1996.0,23.0,728,33,57,375,300,128,726,25,7,28.0,13,52.0,398,1633,555,16,14,10,60,25,571,103,possession
+GER-Bundesliga,2024,Dortmund,Waldemar Anton,GER,DF,28-265,1996.0,15.7,1645,119,569,927,155,26,1645,22,19,86.4,2,9.1,1083,5427,2731,28,23,0,18,8,1224,24,possession
+GER-Bundesliga,2024,Dortmund,Yan Couto,BRA,"DF,FW",22-312,2002.0,9.1,798,26,216,371,218,14,798,29,11,37.9,16,55.2,459,2670,1356,43,29,5,13,5,517,77,possession
+GER-Bundesliga,2024,Dortmund,Yannik Lührs,GER,DF,21-214,2003.0,1.4,176,11,89,84,4,0,176,0,0,,0,,131,536,147,2,0,0,0,1,140,1,possession
+GER-Bundesliga,2024,Eint Frankfurt,Ansgar Knauff,GER,"MF,DF",23-091,2002.0,13.8,629,18,128,252,260,56,629,48,23,47.9,23,47.9,353,2105,1233,42,28,15,35,12,379,118,possession
+GER-Bundesliga,2024,Eint Frankfurt,Arthur Theate,BEL,DF,24-321,2000.0,24.5,1787,201,747,890,165,25,1787,11,9,81.8,2,18.2,1071,5108,2765,42,30,1,16,6,1156,22,possession
+GER-Bundesliga,2024,Eint Frankfurt,Aurele Amenda,SUI,DF,21-254,2003.0,0.9,59,11,24,31,4,1,59,1,1,100.0,0,0.0,31,122,49,1,0,0,0,0,35,1,possession
+GER-Bundesliga,2024,Eint Frankfurt,Can Uzun,TUR,"MF,FW",19-151,2005.0,6.3,338,4,31,155,154,29,338,16,8,50.0,6,37.5,226,1097,413,9,11,4,17,14,272,39,possession
+GER-Bundesliga,2024,Eint Frankfurt,Ellyes Skhiri,TUN,MF,29-336,1995.0,19.1,1225,70,351,715,162,16,1225,13,10,76.9,2,15.4,676,2948,1330,12,12,1,23,6,834,23,possession
+GER-Bundesliga,2024,Eint Frankfurt,Elye Wahi,FRA,"FW,MF",22-099,2003.0,1.8,50,1,4,16,31,9,50,7,5,71.4,1,14.3,32,166,51,3,1,2,6,1,37,15,possession
+GER-Bundesliga,2024,Eint Frankfurt,Fares Chaïbi,ALG,"MF,FW",22-134,2002.0,8.5,432,26,86,165,185,27,432,8,5,62.5,2,25.0,207,992,434,12,11,4,15,4,258,51,possession
+GER-Bundesliga,2024,Eint Frankfurt,Hugo Ekitike,FRA,FW,22-295,2002.0,22.8,852,25,64,353,459,160,849,99,43,43.4,52,52.5,515,3599,1894,73,49,39,78,24,622,170,possession
+GER-Bundesliga,2024,Eint Frankfurt,Hugo Larsson,SWE,MF,20-288,2004.0,21.4,1192,65,337,648,214,20,1192,13,6,46.2,7,53.8,651,2574,1106,13,17,2,16,7,822,29,possession
+GER-Bundesliga,2024,Eint Frankfurt,Igor Matanovic,CRO,FW,22-011,2003.0,3.5,133,8,17,73,44,17,133,5,3,60.0,2,40.0,78,363,118,2,3,2,21,9,103,19,possession
+GER-Bundesliga,2024,Eint Frankfurt,Jean Mattéo Bahoya,FRA,"MF,FW",19-339,2005.0,6.8,335,5,56,144,141,25,335,26,16,61.5,9,34.6,200,1260,575,16,13,7,12,12,216,73,possession
+GER-Bundesliga,2024,Eint Frankfurt,Junior Dina Ebimbe,FRA,"MF,FW",24-141,2000.0,3.3,161,5,27,74,62,16,161,11,5,45.5,5,45.5,82,408,197,5,6,3,8,4,105,27,possession
+GER-Bundesliga,2024,Eint Frankfurt,Kauã Santos,BRA,GK,22-000,2003.0,7.5,288,244,287,1,0,0,288,0,0,,0,,174,798,533,0,0,0,0,0,136,0,possession
+GER-Bundesliga,2024,Eint Frankfurt,Kevin Trapp,GER,GK,34-277,1990.0,20.5,811,703,809,2,0,0,811,0,0,,0,,539,2424,1354,0,0,0,1,0,450,0,possession
+GER-Bundesliga,2024,Eint Frankfurt,Mahmoud Dahoud,GER,MF,29-100,1996.0,4.0,263,8,65,150,49,3,263,3,1,33.3,2,66.7,160,521,211,1,6,0,4,2,192,6,possession
+GER-Bundesliga,2024,Eint Frankfurt,Mario Götze,GER,"MF,FW",32-312,1992.0,16.9,969,12,156,478,347,43,969,23,9,39.1,12,52.2,605,2435,1203,29,23,6,26,27,693,96,possession
+GER-Bundesliga,2024,Eint Frankfurt,Michy Batshuayi,BEL,"FW,DF",31-191,1993.0,2.3,69,1,7,39,24,11,69,3,2,66.7,1,33.3,38,211,87,3,2,1,7,1,46,10,possession
+GER-Bundesliga,2024,Eint Frankfurt,Nathaniel Brown,GER,"DF,MF",21-299,2003.0,16.4,960,41,272,391,309,42,960,25,8,32.0,16,64.0,493,2635,1386,34,21,5,22,9,534,95,possession
+GER-Bundesliga,2024,Eint Frankfurt,Niels Nkounkou,FRA,"DF,MF",24-161,2000.0,4.2,293,16,92,132,77,8,293,16,7,43.8,7,43.8,178,977,539,17,14,1,7,4,174,21,possession
+GER-Bundesliga,2024,Eint Frankfurt,Nnamdi Collins,GER,DF,21-091,2004.0,13.7,921,71,337,461,127,16,921,27,10,37.0,15,55.6,536,2847,1233,25,19,5,12,10,587,34,possession
+GER-Bundesliga,2024,Eint Frankfurt,Omar Marmoush,EGY,FW,26-063,1999.0,16.1,671,1,40,230,421,109,669,101,46,45.5,46,45.5,442,3318,1810,73,53,45,66,37,483,125,possession
+GER-Bundesliga,2024,Eint Frankfurt,Oscar Højlund,DEN,MF,20-097,2005.0,6.8,430,8,104,256,73,7,430,11,8,72.7,3,27.3,257,1248,609,17,8,5,17,10,293,7,possession
+GER-Bundesliga,2024,Eint Frankfurt,Rasmus Kristensen,DEN,DF,27-274,1997.0,23.3,1658,112,526,743,403,48,1658,34,20,58.8,11,32.4,938,4084,2182,47,32,7,32,13,1031,122,possession
+GER-Bundesliga,2024,Eint Frankfurt,Robin Koch,GER,DF,28-268,1996.0,22.7,1703,311,876,782,50,22,1703,3,1,33.3,2,66.7,1004,4301,2287,8,6,0,9,3,1118,3,possession
+GER-Bundesliga,2024,Eint Frankfurt,Timothy Chandler,USA,DF,35-013,1990.0,0.2,25,1,6,11,8,1,25,1,0,0.0,1,100.0,13,59,37,1,2,0,0,0,16,2,possession
+GER-Bundesliga,2024,Eint Frankfurt,Tuta,BRA,"DF,MF",25-281,1999.0,20.6,1453,185,683,699,76,14,1453,15,11,73.3,4,26.7,839,3819,1586,9,6,2,20,7,925,6,possession
+GER-Bundesliga,2024,Freiburg,Christian Günter,GER,DF,32-042,1993.0,24.5,1246,58,346,496,408,26,1246,9,3,33.3,6,66.7,527,1985,908,18,17,6,13,4,728,106,possession
+GER-Bundesliga,2024,Freiburg,Eren Dinkçi,GER,"MF,FW",23-119,2001.0,13.3,552,6,71,259,233,36,552,39,16,41.0,23,59.0,269,1733,941,33,26,9,31,12,347,71,possession
+GER-Bundesliga,2024,Freiburg,Florent Muslija,KVX,"FW,MF",26-279,1998.0,1.9,121,3,17,42,62,3,121,7,4,57.1,2,28.6,83,435,191,5,7,2,7,1,86,14,possession
+GER-Bundesliga,2024,Freiburg,Florian Müller,GER,GK,27-149,1997.0,4.4,187,142,182,5,0,0,187,0,0,,0,,108,587,349,0,0,0,0,0,97,0,possession
+GER-Bundesliga,2024,Freiburg,Ifechukwu Ogbus,SUI,DF,19-115,2005.0,0.2,15,1,7,4,4,0,15,0,0,,0,,4,8,2,0,0,0,1,0,3,0,possession
+GER-Bundesliga,2024,Freiburg,Jan-Niklas Beste,GER,"FW,MF",26-097,1999.0,1.4,82,1,11,36,37,7,82,7,2,28.6,5,71.4,46,260,138,4,5,3,4,2,52,15,possession
+GER-Bundesliga,2024,Freiburg,Johan Manzambi,SUI,"MF,FW",19-179,2005.0,0.4,45,1,10,25,11,0,45,0,0,,0,,24,132,82,1,3,0,1,1,27,2,possession
+GER-Bundesliga,2024,Freiburg,Jordy Makengo,FRA,DF,23-251,2001.0,3.3,203,12,65,86,54,0,203,7,1,14.3,5,71.4,100,577,175,6,4,0,4,2,113,16,possession
+GER-Bundesliga,2024,Freiburg,Junior Adamu,AUT,FW,23-309,2001.0,13.0,403,13,38,200,170,52,403,23,10,43.5,13,56.5,205,794,279,6,5,3,40,17,269,65,possession
+GER-Bundesliga,2024,Freiburg,Kiliann Sildillia,FRA,DF,22-330,2002.0,8.4,540,35,183,264,95,9,540,9,6,66.7,2,22.2,236,1130,509,9,8,1,6,4,298,29,possession
+GER-Bundesliga,2024,Freiburg,Lucas Höler,GER,"FW,MF",30-275,1994.0,16.6,655,28,96,304,263,68,654,27,14,51.9,10,37.0,289,1213,491,13,8,6,36,22,439,99,possession
+GER-Bundesliga,2024,Freiburg,Lukas Kübler,GER,DF,32-224,1992.0,18.0,1107,62,325,574,217,22,1107,8,0,0.0,6,75.0,452,2125,982,23,15,3,10,7,603,42,possession
+GER-Bundesliga,2024,Freiburg,Matthias Ginter,GER,DF,31-082,1994.0,23.5,1570,174,733,759,86,43,1570,6,4,66.7,2,33.3,870,4499,2488,10,10,1,5,0,1054,15,possession
+GER-Bundesliga,2024,Freiburg,Max Rosenfelder,GER,DF,22-060,2003.0,9.7,557,85,291,247,25,5,557,15,10,66.7,4,26.7,281,1794,975,13,9,2,2,1,335,6,possession
+GER-Bundesliga,2024,Freiburg,Maximilian Eggestein,GER,MF,28-124,1996.0,25.6,1436,50,344,872,232,37,1436,20,10,50.0,10,50.0,647,3381,1656,25,18,3,21,16,902,31,possession
+GER-Bundesliga,2024,Freiburg,Maximilian Philipp,GER,"MF,FW",31-041,1994.0,0.2,9,0,1,3,5,0,9,0,0,,0,,3,15,14,0,0,0,1,0,6,0,possession
+GER-Bundesliga,2024,Freiburg,Merlin Röhl,GER,"MF,FW",22-280,2002.0,10.1,376,5,43,185,155,26,376,39,12,30.8,24,61.5,204,1355,585,19,15,8,44,20,246,57,possession
+GER-Bundesliga,2024,Freiburg,Michael Gregoritsch,AUT,FW,30-358,1994.0,6.3,198,6,21,90,88,30,198,6,3,50.0,3,50.0,88,400,186,6,1,3,13,9,141,34,possession
+GER-Bundesliga,2024,Freiburg,Nicolas Höfler,GER,MF,35-033,1990.0,8.8,480,37,134,282,68,4,480,4,4,100.0,0,0.0,199,862,191,1,3,1,10,10,267,3,possession
+GER-Bundesliga,2024,Freiburg,Noah Atubolu,GER,GK,22-321,2002.0,23.6,1124,867,1115,10,0,0,1124,0,0,,0,,645,3422,1729,0,0,0,0,0,651,0,possession
+GER-Bundesliga,2024,Freiburg,Noah Weißhaupt,GER,FW,23-203,2001.0,0.9,59,1,4,18,37,5,59,4,1,25.0,2,50.0,49,362,210,8,7,4,3,0,52,10,possession
+GER-Bundesliga,2024,Freiburg,Patrick Osterhage,GER,MF,25-069,2000.0,20.2,1026,35,236,601,194,28,1026,25,11,44.0,11,44.0,498,2552,1097,19,17,3,21,18,656,42,possession
+GER-Bundesliga,2024,Freiburg,Philipp Lienhart,AUT,DF,28-274,1996.0,24.8,2110,207,1020,1017,81,17,2110,10,4,40.0,5,50.0,1221,7633,4206,39,17,1,6,1,1473,9,possession
+GER-Bundesliga,2024,Freiburg,Ritsu Doan,JPN,"FW,MF",26-299,1998.0,26.0,1229,30,178,560,512,91,1229,102,47,46.1,45,44.1,663,3693,1724,54,43,24,46,50,837,148,possession
+GER-Bundesliga,2024,Freiburg,Roland Sallai,HUN,"FW,MF",27-324,1997.0,0.5,25,0,3,7,15,2,25,1,0,0.0,1,100.0,16,173,88,4,1,2,1,1,18,2,possession
+GER-Bundesliga,2024,Freiburg,Vincenzo Grifo,ITA,"FW,MF",32-004,1993.0,22.0,1491,29,206,792,501,59,1488,41,24,58.5,16,39.0,796,4179,2106,47,28,17,31,13,1029,124,possession
+GER-Bundesliga,2024,Gladbach,Alassane Pléa,FRA,"MF,FW",32-032,1993.0,17.3,827,3,70,419,346,60,826,38,16,42.1,20,52.6,509,2625,1489,43,29,12,32,19,659,114,possession
+GER-Bundesliga,2024,Gladbach,Fabio Chiarodia,ITA,DF,19-310,2005.0,1.3,96,19,50,42,4,1,96,0,0,,0,,31,129,31,0,0,0,0,0,42,0,possession
+GER-Bundesliga,2024,Gladbach,Florian Neuhaus,GER,MF,28-026,1997.0,2.7,187,4,43,110,37,8,187,8,4,50.0,4,50.0,101,527,336,7,7,1,6,1,122,7,possession
+GER-Bundesliga,2024,Gladbach,Franck Honorat,FRA,FW,28-243,1996.0,12.3,578,25,100,194,296,46,578,25,9,36.0,15,60.0,286,2029,1169,46,26,19,16,8,348,96,possession
+GER-Bundesliga,2024,Gladbach,Grant Ranos,ARM,FW,21-265,2003.0,0.2,17,0,1,9,7,0,17,0,0,,0,,10,35,18,1,1,0,0,1,11,2,possession
+GER-Bundesliga,2024,Gladbach,Joe Scally,USA,DF,22-101,2002.0,24.1,1595,86,603,741,263,17,1595,50,26,52.0,22,44.0,847,4626,2255,44,21,3,21,23,1008,52,possession
+GER-Bundesliga,2024,Gladbach,Jonas Omlin,SUI,GK,31-091,1994.0,5.9,322,274,322,0,0,0,322,1,1,100.0,0,0.0,215,811,391,0,0,0,0,0,208,0,possession
+GER-Bundesliga,2024,Gladbach,Julian Weigl,GER,MF,29-215,1995.0,26.3,1759,96,591,1028,152,8,1759,6,6,100.0,0,0.0,887,3383,1506,9,12,1,13,7,1207,9,possession
+GER-Bundesliga,2024,Gladbach,Kevin Stöger,AUT,"MF,FW",31-227,1993.0,14.5,1130,22,146,576,410,28,1129,28,12,42.9,13,46.4,599,3074,1410,33,33,5,24,18,796,87,possession
+GER-Bundesliga,2024,Gladbach,Ko Itakura,JPN,DF,28-074,1997.0,26.0,1840,279,1035,756,60,26,1840,17,9,52.9,7,41.2,1146,5695,2937,18,15,0,7,7,1299,3,possession
+GER-Bundesliga,2024,Gladbach,Luca Netz,GER,DF,21-331,2003.0,9.6,607,39,214,235,162,15,607,19,6,31.6,12,63.2,269,1100,616,15,10,3,13,9,363,52,possession
+GER-Bundesliga,2024,Gladbach,Lukas Ullrich,GER,DF,21-026,2004.0,16.3,841,63,341,347,162,24,841,21,7,33.3,11,52.4,429,2036,1015,22,8,3,14,8,498,55,possession
+GER-Bundesliga,2024,Gladbach,Marvin Friedrich,GER,DF,29-119,1995.0,10.6,794,89,413,359,23,15,794,2,2,100.0,0,0.0,490,2423,1265,11,3,0,5,3,568,2,possession
+GER-Bundesliga,2024,Gladbach,Moritz Nicolas,GER,GK,27-172,1997.0,18.2,838,692,835,3,0,0,838,0,0,,0,,575,2773,1548,0,0,0,0,0,508,0,possession
+GER-Bundesliga,2024,Gladbach,Nathan N'Goumou,CMR,FW,25-028,2000.0,9.2,386,13,68,132,192,55,386,27,9,33.3,12,44.4,215,1456,851,30,18,16,12,11,258,85,possession
+GER-Bundesliga,2024,Gladbach,Nico Elvedi,SUI,DF,28-193,1996.0,20.5,1593,301,906,644,44,14,1593,0,0,,0,,825,4012,2065,18,11,0,5,1,1003,5,possession
+GER-Bundesliga,2024,Gladbach,Noah Pesch,CRO,FW,19-328,2005.0,0.1,5,0,0,1,4,0,5,0,0,,0,,2,17,16,0,0,0,0,0,2,1,possession
+GER-Bundesliga,2024,Gladbach,Philipp Sander,GER,MF,27-049,1998.0,13.9,830,47,229,481,129,15,830,16,9,56.3,6,37.5,415,1945,831,12,11,4,13,7,512,25,possession
+GER-Bundesliga,2024,Gladbach,Robin Hack,GER,FW,26-227,1998.0,19.7,949,21,172,461,333,62,949,52,20,38.5,29,55.8,544,3161,1505,41,40,17,52,37,647,112,possession
+GER-Bundesliga,2024,Gladbach,Rocco Reitz,GER,MF,22-317,2002.0,15.9,946,60,290,521,145,27,946,29,12,41.4,15,51.7,494,2339,987,13,12,1,15,18,577,20,possession
+GER-Bundesliga,2024,Gladbach,Shiō Fukuda,JPN,"FW,MF",21-003,2004.0,0.5,12,0,0,4,8,1,12,3,1,33.3,2,66.7,7,21,7,0,1,0,1,0,9,2,possession
+GER-Bundesliga,2024,Gladbach,Stefan Lainer,AUT,DF,32-227,1992.0,6.3,436,28,134,195,108,3,436,8,4,50.0,4,50.0,229,1282,659,17,14,1,4,5,253,24,possession
+GER-Bundesliga,2024,Gladbach,Tiago Cardoso,LUX,GK,19-004,2006.0,3.2,142,131,142,0,0,0,142,0,0,,0,,67,436,299,0,0,0,0,0,64,0,possession
+GER-Bundesliga,2024,Gladbach,Tim Kleindienst,GER,FW,29-223,1995.0,25.4,971,55,114,516,350,123,969,32,12,37.5,20,62.5,473,2119,871,39,18,22,71,39,683,126,possession
+GER-Bundesliga,2024,Gladbach,Tobias Sippel,GER,GK,37-020,1988.0,0.7,34,27,34,0,0,0,34,0,0,,0,,16,111,64,0,0,0,0,0,14,0,possession
+GER-Bundesliga,2024,Gladbach,Tomáš Čvančara,CZE,FW,24-241,2000.0,6.7,264,16,38,122,105,28,264,14,6,42.9,7,50.0,138,656,262,11,4,3,16,6,180,37,possession
+GER-Bundesliga,2024,Heidenheim,Adrian Beck,GER,"MF,FW",27-306,1997.0,12.4,693,21,137,352,220,38,693,49,28,57.1,20,40.8,376,2025,748,19,11,7,28,19,392,60,possession
+GER-Bundesliga,2024,Heidenheim,Benedikt Gimber,GER,DF,28-051,1997.0,24.7,1388,167,786,575,44,18,1388,11,5,45.5,3,27.3,733,3287,1514,7,8,0,19,5,803,5,possession
+GER-Bundesliga,2024,Heidenheim,Budu Zivzivadze,GEO,FW,31-032,1994.0,9.9,300,6,22,145,136,35,300,24,8,33.3,14,58.3,166,703,272,9,8,2,24,14,197,39,possession
+GER-Bundesliga,2024,Heidenheim,Denis Thomalla,GER,MF,32-238,1992.0,0.0,1,0,0,1,0,0,1,0,0,,0,,1,8,0,0,0,0,0,0,0,0,possession
+GER-Bundesliga,2024,Heidenheim,Frans Krätzig,GER,"DF,MF",22-087,2003.0,8.8,421,16,107,183,138,21,421,14,6,42.9,8,57.1,226,1041,477,18,12,5,16,2,259,39,possession
+GER-Bundesliga,2024,Heidenheim,Jan Schöppner,GER,MF,25-303,1999.0,24.9,1211,89,336,598,285,56,1211,30,14,46.7,16,53.3,599,3248,1762,32,23,5,35,19,663,37,possession
+GER-Bundesliga,2024,Heidenheim,Jonas Föhrenbach,GER,DF,29-075,1996.0,19.9,1069,68,403,466,208,17,1069,17,7,41.2,9,52.9,501,2660,1464,36,11,4,16,3,555,45,possession
+GER-Bundesliga,2024,Heidenheim,Julian Niehues,GER,MF,23-359,2001.0,0.6,28,5,11,13,4,1,28,0,0,,0,,11,26,20,0,0,0,1,1,14,2,possession
+GER-Bundesliga,2024,Heidenheim,Kevin Müller,GER,GK,34-027,1991.0,28.0,1162,956,1144,18,0,0,1162,0,0,,0,,658,3000,1655,0,0,0,2,0,568,0,possession
+GER-Bundesliga,2024,Heidenheim,Lennard Maloney,USA,MF,25-185,1999.0,8.4,378,38,183,174,23,5,378,4,1,25.0,3,75.0,147,492,206,1,1,0,11,1,161,0,possession
+GER-Bundesliga,2024,Heidenheim,Luca Kerber,GER,"MF,DF",23-032,2002.0,7.6,321,29,117,158,47,8,321,4,0,0.0,3,75.0,155,604,206,1,0,1,11,3,171,11,possession
+GER-Bundesliga,2024,Heidenheim,Léo Scienza,BRA,"FW,MF",26-210,1998.0,11.5,510,8,59,213,255,41,510,75,34,45.3,32,42.7,318,2948,1920,62,35,16,37,10,315,79,possession
+GER-Bundesliga,2024,Heidenheim,Marnon Busch,GER,"DF,MF",30-124,1994.0,11.9,852,58,309,390,158,6,852,7,3,42.9,4,57.1,420,1920,1025,19,19,1,12,0,465,38,possession
+GER-Bundesliga,2024,Heidenheim,Marvin Pieringer,GER,"FW,MF",25-189,1999.0,19.3,672,28,89,320,269,82,669,26,11,42.3,12,46.2,365,1496,556,14,17,4,56,20,476,91,possession
+GER-Bundesliga,2024,Heidenheim,Mathias Honsak,AUT,"FW,DF",28-112,1996.0,11.9,561,35,138,255,177,28,561,19,8,42.1,10,52.6,301,1801,901,33,27,6,35,11,326,48,possession
+GER-Bundesliga,2024,Heidenheim,Maximilian Breunig,GER,"FW,MF",24-240,2000.0,3.9,140,5,17,77,51,17,139,7,3,42.9,3,42.9,78,304,138,5,4,2,15,6,96,13,possession
+GER-Bundesliga,2024,Heidenheim,Mikkel Kaufmann,DEN,FW,24-098,2001.0,4.1,139,6,19,71,51,12,139,7,2,28.6,3,42.9,77,367,171,4,6,4,11,2,99,21,possession
+GER-Bundesliga,2024,Heidenheim,Niklas Dorsch,GER,MF,27-086,1998.0,11.7,625,29,145,367,125,7,625,13,7,53.8,5,38.5,353,1913,820,11,7,1,11,9,369,20,possession
+GER-Bundesliga,2024,Heidenheim,Norman Theuerkauf,GER,MF,38-077,1987.0,0.2,21,0,4,14,3,1,21,0,0,,0,,8,18,10,0,0,0,0,0,13,0,possession
+GER-Bundesliga,2024,Heidenheim,Omar Traoré,GER,DF,27-066,1998.0,23.2,1368,53,393,622,377,16,1368,52,21,40.4,24,46.2,731,4691,2819,84,40,3,32,16,777,95,possession
+GER-Bundesliga,2024,Heidenheim,Patrick Mainka,GER,DF,30-156,1994.0,28.0,1731,219,928,712,105,36,1731,10,5,50.0,3,30.0,947,5148,2779,17,16,1,15,7,978,10,possession
+GER-Bundesliga,2024,Heidenheim,Paul Wanner,GER,"MF,FW",19-109,2005.0,16.9,796,15,121,407,289,39,795,53,24,45.3,27,50.9,423,2302,980,24,26,5,39,33,476,52,possession
+GER-Bundesliga,2024,Heidenheim,Sirlord Conteh,GER,"FW,MF",28-276,1996.0,7.8,250,3,33,97,128,24,250,13,6,46.2,6,46.2,165,1055,603,24,9,8,19,8,179,61,possession
+GER-Bundesliga,2024,Heidenheim,Stefan Schimmer,GER,"FW,MF",30-348,1994.0,2.5,80,4,6,31,43,15,80,1,0,0.0,1,100.0,37,133,23,0,0,0,5,0,47,15,possession
+GER-Bundesliga,2024,Heidenheim,Thomas Keller,GER,"DF,MF",25-249,1999.0,1.5,101,11,51,47,3,0,101,0,0,,0,,42,159,86,0,0,0,2,0,59,0,possession
+GER-Bundesliga,2024,Heidenheim,Tim Siersleben,GER,DF,25-033,2000.0,8.1,502,76,309,164,32,6,502,2,1,50.0,1,50.0,269,1237,578,4,3,1,1,0,313,6,possession
+GER-Bundesliga,2024,Hoffenheim,Adam Hložek,CZE,"FW,MF",22-260,2002.0,16.6,620,19,64,270,297,86,620,52,27,51.9,23,44.2,340,2006,952,39,23,12,39,31,445,82,possession
+GER-Bundesliga,2024,Hoffenheim,Alexander Prass,AUT,DF,23-320,2001.0,16.9,1176,66,336,524,324,32,1176,42,20,47.6,17,40.5,595,2751,1323,28,30,5,20,10,681,65,possession
+GER-Bundesliga,2024,Hoffenheim,Andrej Kramarić,CRO,"MF,FW",33-296,1991.0,24.9,1277,8,136,594,555,105,1274,36,15,41.7,17,47.2,760,4140,2154,63,45,20,40,30,948,172,possession
+GER-Bundesliga,2024,Hoffenheim,Anton Stach,GER,"MF,DF",26-147,1998.0,22.8,1546,125,476,852,231,26,1546,26,12,46.2,13,50.0,803,4094,2323,27,21,5,16,8,925,31,possession
+GER-Bundesliga,2024,Hoffenheim,Arthur Chaves,BRA,DF,24-072,2001.0,18.3,1155,138,528,555,78,19,1155,8,2,25.0,5,62.5,551,2215,991,7,9,0,7,7,708,11,possession
+GER-Bundesliga,2024,Hoffenheim,Bazoumana Touré,CIV,"FW,DF",19-040,2006.0,2.4,145,3,18,55,75,17,145,10,6,60.0,4,40.0,87,569,301,12,8,2,13,3,91,27,possession
+GER-Bundesliga,2024,Hoffenheim,David Jurásek,CZE,DF,24-247,2000.0,6.5,478,16,128,186,167,8,478,10,2,20.0,7,70.0,224,1218,558,15,21,0,5,5,295,40,possession
+GER-Bundesliga,2024,Hoffenheim,David Mokwa,FRA,"DF,FW",20-343,2004.0,0.2,11,0,2,4,5,2,11,1,1,100.0,0,0.0,5,29,9,0,0,0,2,2,5,0,possession
+GER-Bundesliga,2024,Hoffenheim,Dennis Geiger,GER,"MF,FW",26-305,1998.0,5.9,307,10,54,184,70,6,307,4,3,75.0,1,25.0,181,943,472,10,10,2,5,4,218,14,possession
+GER-Bundesliga,2024,Hoffenheim,Diadie Samassékou,MLI,MF,29-090,1996.0,3.2,190,8,36,114,42,1,190,5,4,80.0,1,20.0,92,317,112,3,3,0,1,3,122,2,possession
+GER-Bundesliga,2024,Hoffenheim,Erencan Yardimci,TUR,"FW,MF",23-066,2002.0,3.4,92,4,8,48,36,11,92,0,0,,0,,39,113,55,3,3,0,11,3,63,11,possession
+GER-Bundesliga,2024,Hoffenheim,Finn Ole Becker,GER,MF,24-307,2000.0,7.2,435,18,111,260,70,2,435,14,6,42.9,6,42.9,242,956,431,3,6,0,9,7,282,6,possession
+GER-Bundesliga,2024,Hoffenheim,Florian Grillitsch,AUT,MF,29-247,1995.0,6.7,488,29,140,263,92,3,488,12,5,41.7,6,50.0,270,1348,585,4,8,0,5,10,330,4,possession
+GER-Bundesliga,2024,Hoffenheim,Florian Micheler,AUT,MF,19-329,2005.0,0.4,12,0,2,6,4,0,12,1,1,100.0,0,0.0,11,48,28,1,1,0,0,0,10,1,possession
+GER-Bundesliga,2024,Hoffenheim,Gift Orban,NGA,FW,22-268,2002.0,7.3,196,1,20,87,89,20,196,11,4,36.4,7,63.6,103,398,159,7,6,3,13,5,116,33,possession
+GER-Bundesliga,2024,Hoffenheim,Grischa Prömel,GER,MF,30-092,1995.0,1.9,106,4,19,71,18,0,106,1,0,0.0,1,100.0,70,300,137,2,1,0,2,2,82,3,possession
 GER-Bundesliga,2024,Hoffenheim,Hannes Behrens,GER,DF,,,0.3,27,0,2,11,14,2,27,1,1,100.0,0,0.0,13,59,25,0,1,0,2,0,13,7,possession
-GER-Bundesliga,2024,Hoffenheim,Haris Tabakovic,BIH,FW,30-295,1994,6.8,250,17,29,110,112,40,250,11,4,36.4,7,63.6,132,410,125,3,7,2,15,10,184,35,possession
-GER-Bundesliga,2024,Hoffenheim,Jacob Bruun Larsen,DEN,"FW,MF",26-204,1998,4.4,226,3,17,82,133,30,226,21,7,33.3,13,61.9,147,896,471,16,13,8,9,9,167,41,possession
-GER-Bundesliga,2024,Hoffenheim,Kevin Akpoguma,NGA,DF,29-357,1995,20.3,1449,192,649,711,98,4,1449,13,7,53.8,5,38.5,771,3367,1567,12,13,0,8,8,900,15,possession
-GER-Bundesliga,2024,Hoffenheim,Leo Skiri Østigård,NOR,DF,25-134,1999,6.3,504,73,237,253,16,10,504,2,2,100.0,0,0.0,223,1112,462,0,0,0,1,1,258,0,possession
-GER-Bundesliga,2024,Hoffenheim,Luca Philipp,GER,GK,24-134,2000,5.0,188,155,186,2,0,0,188,0,0,,0,,86,477,214,0,0,0,0,0,74,0,possession
-GER-Bundesliga,2024,Hoffenheim,Marius Bülter,GER,FW,32-013,1993,14.1,523,12,51,202,278,63,523,35,19,54.3,16,45.7,365,2170,1078,43,17,19,35,17,416,124,possession
+GER-Bundesliga,2024,Hoffenheim,Haris Tabakovic,BIH,FW,30-295,1994.0,6.8,250,17,29,110,112,40,250,11,4,36.4,7,63.6,132,410,125,3,7,2,15,10,184,35,possession
+GER-Bundesliga,2024,Hoffenheim,Jacob Bruun Larsen,DEN,"FW,MF",26-204,1998.0,4.4,226,3,17,82,133,30,226,21,7,33.3,13,61.9,147,896,471,16,13,8,9,9,167,41,possession
+GER-Bundesliga,2024,Hoffenheim,Kevin Akpoguma,NGA,DF,29-357,1995.0,20.3,1449,192,649,711,98,4,1449,13,7,53.8,5,38.5,771,3367,1567,12,13,0,8,8,900,15,possession
+GER-Bundesliga,2024,Hoffenheim,Leo Skiri Østigård,NOR,DF,25-134,1999.0,6.3,504,73,237,253,16,10,504,2,2,100.0,0,0.0,223,1112,462,0,0,0,1,1,258,0,possession
+GER-Bundesliga,2024,Hoffenheim,Luca Philipp,GER,GK,24-134,2000.0,5.0,188,155,186,2,0,0,188,0,0,,0,,86,477,214,0,0,0,0,0,74,0,possession
+GER-Bundesliga,2024,Hoffenheim,Marius Bülter,GER,FW,32-013,1993.0,14.1,523,12,51,202,278,63,523,35,19,54.3,16,45.7,365,2170,1078,43,17,19,35,17,416,124,possession
 GER-Bundesliga,2024,Hoffenheim,Max Moerstedt,GER,FW,,,5.0,159,6,15,62,85,31,159,4,1,25.0,3,75.0,84,310,128,6,2,3,13,11,125,36,possession
-GER-Bundesliga,2024,Hoffenheim,Mergim Berisha,GER,"FW,MF",26-335,1998,3.7,93,5,11,35,47,12,93,8,3,37.5,5,62.5,60,195,78,2,3,1,6,3,69,18,possession
-GER-Bundesliga,2024,Hoffenheim,Oliver Baumann,GER,GK,34-313,1990,23.0,937,754,920,18,0,0,937,0,0,,0,,545,2447,1390,0,0,0,0,0,472,0,possession
-GER-Bundesliga,2024,Hoffenheim,Paul Hennrich,GER,MF,20-036,2005,0.1,6,0,2,0,4,0,6,2,0,0.0,1,50.0,3,27,10,1,0,0,1,0,2,0,possession
-GER-Bundesliga,2024,Hoffenheim,Pavel Kadeřábek,CZE,DF,32-351,1992,13.2,765,39,203,320,244,19,765,7,5,71.4,2,28.6,343,1360,684,12,13,1,4,3,460,60,possession
-GER-Bundesliga,2024,Hoffenheim,Robin Hranáč,CZE,DF,25-072,2000,2.4,170,14,64,104,3,1,170,0,0,,0,,107,466,248,2,2,0,1,0,118,0,possession
-GER-Bundesliga,2024,Hoffenheim,Stanley N'Soki,FRA,DF,26-002,1999,11.4,828,98,416,388,33,4,828,11,7,63.6,2,18.2,431,1878,868,9,4,0,12,5,508,3,possession
-GER-Bundesliga,2024,Hoffenheim,Tim Drexler,GER,DF,20-036,2005,4.0,223,18,91,125,11,0,223,0,0,,0,,128,483,208,2,2,0,3,5,143,2,possession
-GER-Bundesliga,2024,Hoffenheim,Tom Bischof,GER,"MF,FW",19-287,2005,23.8,1661,60,305,820,549,40,1661,54,24,44.4,27,50.0,819,4038,1867,43,28,9,33,35,984,95,possession
-GER-Bundesliga,2024,Hoffenheim,Umut Tohumcu,GER,"MF,FW",20-243,2004,3.8,151,7,40,82,30,0,151,6,3,50.0,3,50.0,82,300,152,2,1,0,2,6,93,5,possession
-GER-Bundesliga,2024,Hoffenheim,Valentin Gendrey,FRA,DF,24-294,2000,14.0,798,53,212,316,276,27,798,10,3,30.0,7,70.0,336,1461,802,23,14,6,21,9,395,81,possession
-GER-Bundesliga,2024,Holstein Kiel,Alexander Bernhardsson,SWE,"MF,DF",26-215,1998,8.6,352,11,67,164,131,25,352,30,14,46.7,16,53.3,170,1019,461,14,13,9,21,14,202,52,possession
-GER-Bundesliga,2024,Holstein Kiel,Andu Kelati,GER,"MF,DF",22-241,2002,3.2,159,4,30,90,43,9,159,4,3,75.0,1,25.0,88,310,129,3,0,0,8,4,106,11,possession
-GER-Bundesliga,2024,Holstein Kiel,Armin Gigovic,BIH,MF,23-005,2002,16.5,745,47,178,404,175,34,745,47,17,36.2,22,46.8,385,2435,1061,31,22,7,37,15,442,40,possession
-GER-Bundesliga,2024,Holstein Kiel,Benedikt Pichler,AUT,FW,27-265,1997,8.6,301,13,29,147,126,39,301,18,8,44.4,9,50.0,147,841,374,17,7,7,23,12,222,56,possession
-GER-Bundesliga,2024,Holstein Kiel,Carl Johansson,SWE,DF,30-323,1994,4.1,273,60,183,82,12,10,273,0,0,,0,,107,323,117,0,0,0,2,0,155,0,possession
-GER-Bundesliga,2024,Holstein Kiel,David Zec,SVN,DF,25-096,2000,12.4,782,153,467,289,30,21,782,5,3,60.0,2,40.0,409,1825,952,2,3,1,7,3,478,1,possession
-GER-Bundesliga,2024,Holstein Kiel,Dominik Javorček,SVK,"DF,MF",22-160,2002,4.3,217,30,100,60,57,2,217,5,4,80.0,1,20.0,90,458,249,7,2,0,5,1,111,23,possession
-GER-Bundesliga,2024,Holstein Kiel,Finn Porath,GER,"DF,MF",28-047,1997,20.2,917,64,293,378,255,31,917,32,14,43.8,11,34.4,390,2218,1152,40,31,11,13,14,471,64,possession
-GER-Bundesliga,2024,Holstein Kiel,Ivan Nekić,CRO,DF,24-108,2000,0.8,50,3,29,21,0,0,50,1,0,0.0,1,100.0,19,44,10,0,0,0,1,1,35,0,possession
-GER-Bundesliga,2024,Holstein Kiel,Jann-Fiete Arp,GER,"FW,MF",25-095,2000,7.7,288,9,41,112,141,27,286,29,12,41.4,15,51.7,146,856,328,12,10,3,32,14,171,62,possession
-GER-Bundesliga,2024,Holstein Kiel,John Tolkin,USA,"DF,FW",22-254,2002,3.0,184,11,63,81,41,3,184,1,0,0.0,1,100.0,57,261,136,5,2,0,3,2,79,6,possession
-GER-Bundesliga,2024,Holstein Kiel,Lasse Rosenboom,GER,DF,23-082,2002,13.9,580,56,237,227,120,30,580,13,4,30.8,8,61.5,206,1082,450,15,10,1,27,10,242,31,possession
-GER-Bundesliga,2024,Holstein Kiel,Lewis Holtby,GER,MF,34-205,1990,13.1,809,42,240,408,166,13,809,15,7,46.7,7,46.7,358,1496,651,13,10,1,13,6,464,32,possession
-GER-Bundesliga,2024,Holstein Kiel,Magnus Knudsen,NOR,MF,23-300,2001,17.5,835,52,276,466,98,8,835,11,7,63.6,4,36.4,400,1985,906,14,10,2,21,9,523,22,possession
-GER-Bundesliga,2024,Holstein Kiel,Marco Komenda,CRO,DF,28-136,1996,13.8,844,105,429,364,52,9,844,1,1,100.0,0,0.0,411,1774,1080,13,8,1,3,0,552,12,possession
-GER-Bundesliga,2024,Holstein Kiel,Marko Ivezić,SRB,DF,23-130,2001,15.4,981,144,545,414,30,13,981,7,4,57.1,2,28.6,492,2209,1032,3,6,0,15,7,614,8,possession
-GER-Bundesliga,2024,Holstein Kiel,Marvin Schulz,GER,"DF,MF",30-086,1995,3.0,202,19,82,92,30,1,202,3,1,33.3,1,33.3,88,493,272,4,4,1,7,2,106,1,possession
-GER-Bundesliga,2024,Holstein Kiel,Max Geschwill,GER,DF,23-278,2001,13.5,797,71,390,340,72,13,797,5,2,40.0,3,60.0,369,1535,746,5,4,0,5,2,465,16,possession
-GER-Bundesliga,2024,Holstein Kiel,Nicolai Remberg,GER,MF,24-296,2000,21.9,1111,99,343,652,130,19,1111,16,4,25.0,9,56.3,457,2231,1042,21,17,0,20,15,621,31,possession
-GER-Bundesliga,2024,Holstein Kiel,Patrick Erras,GER,DF,30-080,1995,9.2,622,124,357,242,23,14,622,0,0,,0,,282,1063,596,3,1,0,3,0,413,1,possession
-GER-Bundesliga,2024,Holstein Kiel,Phil Harres,GER,FW,23-017,2002,15.5,430,18,50,239,145,51,430,22,5,22.7,15,68.2,219,850,302,8,12,7,58,24,289,63,possession
-GER-Bundesliga,2024,Holstein Kiel,Shuto Machino,JPN,"FW,MF",25-193,1999,16.9,710,21,107,311,296,48,709,15,9,60.0,4,26.7,349,1518,712,22,13,10,36,18,459,85,possession
-GER-Bundesliga,2024,Holstein Kiel,Steven Skrzybski,GER,"FW,MF",32-144,1992,10.6,449,8,62,225,171,36,448,20,12,60.0,8,40.0,230,975,441,14,12,4,27,17,294,52,possession
-GER-Bundesliga,2024,Holstein Kiel,Thomas Dähne,GER,GK,31-097,1994,3.0,149,123,146,3,0,0,149,0,0,,0,,83,329,147,0,0,0,0,0,79,0,possession
-GER-Bundesliga,2024,Holstein Kiel,Timo Becker,GER,DF,28-017,1997,21.7,1074,104,539,428,122,19,1074,20,8,40.0,12,60.0,484,2859,1486,26,25,1,22,9,562,35,possession
-GER-Bundesliga,2024,Holstein Kiel,Timon Weiner,GER,GK,26-083,1999,25.0,1068,936,1064,4,0,0,1068,0,0,,0,,540,2561,1144,0,0,0,0,0,531,0,possession
-GER-Bundesliga,2024,Holstein Kiel,Tymoteusz Puchacz,POL,DF,26-078,1999,4.4,247,15,74,94,87,2,247,19,9,47.4,8,42.1,109,703,353,13,11,0,8,5,125,30,possession
-GER-Bundesliga,2024,Leverkusen,Aleix García,ESP,MF,27-287,1997,13.7,1319,39,195,735,394,11,1319,5,4,80.0,1,20.0,676,2916,1329,19,30,1,7,2,1027,42,possession
-GER-Bundesliga,2024,Leverkusen,Amine Adli,MAR,"MF,FW",24-336,2000,5.9,354,4,32,113,216,42,354,25,12,48.0,12,48.0,190,1109,624,28,17,9,17,5,271,83,possession
-GER-Bundesliga,2024,Leverkusen,Arthur,BRA,"DF,FW",22-025,2003,6.0,362,13,74,154,137,10,362,16,3,18.8,13,81.3,160,788,388,9,8,2,11,4,214,44,possession
-GER-Bundesliga,2024,Leverkusen,Edmond Tapsoba,BFA,DF,26-068,1999,22.4,1796,114,548,1043,217,21,1796,17,11,64.7,6,35.3,1100,5700,3244,42,35,1,10,5,1275,16,possession
-GER-Bundesliga,2024,Leverkusen,Emi Buendía,ARG,"MF,FW",28-107,1996,1.5,130,0,12,73,46,7,130,8,4,50.0,2,25.0,76,242,102,2,2,1,8,6,102,17,possession
-GER-Bundesliga,2024,Leverkusen,Exequiel Palacios,ARG,MF,26-188,1998,9.2,857,13,98,483,278,10,857,10,6,60.0,4,40.0,508,1648,625,6,14,1,13,15,678,32,possession
-GER-Bundesliga,2024,Leverkusen,Florian Wirtz,GER,"MF,FW",21-343,2003,20.8,1665,7,96,622,969,118,1661,139,73,52.5,62,44.6,966,5700,2930,103,59,46,43,39,1315,246,possession
-GER-Bundesliga,2024,Leverkusen,Granit Xhaka,SUI,MF,32-196,1992,27.2,2565,64,375,1585,614,13,2565,14,6,42.9,8,57.1,1386,5030,2502,33,44,0,14,12,1998,60,possession
-GER-Bundesliga,2024,Leverkusen,Jeanuël Belocian,FRA,"DF,MF",20-053,2005,0.8,44,2,9,20,15,1,44,1,1,100.0,0,0.0,16,89,39,0,2,0,2,0,32,1,possession
-GER-Bundesliga,2024,Leverkusen,Jeremie Frimpong,NED,"DF,MF",24-122,2000,21.8,1007,18,113,338,565,99,1007,69,20,29.0,45,65.2,573,3582,2034,85,36,30,36,23,687,230,possession
-GER-Bundesliga,2024,Leverkusen,Jonas Hofmann,GER,"MF,DF",32-271,1992,2.7,153,2,14,63,77,13,153,3,2,66.7,1,33.3,84,418,172,3,3,1,5,1,126,21,possession
-GER-Bundesliga,2024,Leverkusen,Jonathan Tah,GER,DF,29-059,1996,27.0,2194,178,729,1351,120,37,2194,3,2,66.7,1,33.3,1305,6890,3895,13,17,0,12,6,1599,8,possession
-GER-Bundesliga,2024,Leverkusen,Lukáš Hrádecký,FIN,GK,35-138,1989,25.0,821,667,814,8,0,0,821,0,0,,0,,471,2544,1422,0,0,0,0,0,439,0,possession
-GER-Bundesliga,2024,Leverkusen,Mario Hermoso,ESP,DF,29-297,1995,3.3,288,28,84,165,39,6,288,5,3,60.0,2,40.0,147,495,265,2,8,0,3,1,183,3,possession
-GER-Bundesliga,2024,Leverkusen,Martin Terrier,FRA,"MF,FW",28-038,1997,6.5,250,3,13,107,131,35,250,4,2,50.0,2,50.0,129,578,276,11,4,4,11,6,205,35,possession
-GER-Bundesliga,2024,Leverkusen,Matej Kovar,CZE,GK,24-329,2000,3.0,91,76,91,0,0,0,91,0,0,,0,,59,289,114,0,0,0,0,0,48,0,possession
-GER-Bundesliga,2024,Leverkusen,Nathan Tella,NGA,"MF,FW",25-280,1999,11.6,425,4,29,165,235,54,425,47,19,40.4,22,46.8,256,1409,656,29,12,10,36,14,316,100,possession
-GER-Bundesliga,2024,Leverkusen,Nordi Mukiele,FRA,DF,27-161,1997,10.0,725,27,184,407,141,22,725,17,9,52.9,7,41.2,363,1750,992,20,14,6,10,3,441,28,possession
-GER-Bundesliga,2024,Leverkusen,Patrik Schick,CZE,FW,29-077,1996,13.9,468,12,39,197,235,91,468,20,8,40.0,11,55.0,258,852,208,5,2,5,31,23,362,85,possession
-GER-Bundesliga,2024,Leverkusen,Piero Hincapié,ECU,DF,23-092,2002,24.5,1946,159,636,1021,295,43,1946,12,2,16.7,8,66.7,1100,5789,3332,43,42,6,15,4,1353,65,possession
-GER-Bundesliga,2024,Leverkusen,Robert Andrich,GER,"MF,DF",30-201,1994,15.5,959,40,209,569,185,16,959,5,2,40.0,1,20.0,456,1871,792,7,13,1,6,1,683,14,possession
-GER-Bundesliga,2024,Leverkusen,Victor Boniface,NGA,FW,24-109,2000,11.0,390,5,24,162,206,75,389,34,14,41.2,19,55.9,200,1092,460,24,11,14,43,29,311,57,possession
-GER-Bundesliga,2024,Leverkusen,Álex Grimaldo,ESP,"DF,MF",29-203,1995,24.2,1953,43,286,739,942,76,1953,42,17,40.5,21,50.0,1089,4830,2598,70,45,19,46,12,1380,218,possession
-GER-Bundesliga,2024,Mainz 05,Andreas Hanche-Olsen,NOR,DF,28-084,1997,10.1,551,78,299,228,27,12,551,1,1,100.0,0,0.0,249,999,424,2,3,0,6,2,310,5,possession
-GER-Bundesliga,2024,Mainz 05,Anthony Caci,FRA,DF,27-284,1997,24.9,1644,63,340,743,577,50,1644,57,26,45.6,27,47.4,780,3067,1300,35,20,12,37,22,949,122,possession
-GER-Bundesliga,2024,Mainz 05,Armindo Sieb,GER,"FW,MF",22-053,2003,8.2,315,4,31,142,144,42,315,31,11,35.5,19,61.3,171,1083,479,25,7,7,32,21,222,57,possession
-GER-Bundesliga,2024,Mainz 05,Arnaud Nordin,FRA,DF,26-298,1998,0.3,23,0,2,8,13,1,23,1,0,0.0,1,100.0,11,41,13,0,0,0,1,2,15,7,possession
-GER-Bundesliga,2024,Mainz 05,Aymen Barkok,MAR,MF,26-325,1998,0.8,47,2,9,22,17,1,47,3,0,0.0,2,66.7,22,139,75,2,0,0,0,0,29,6,possession
-GER-Bundesliga,2024,Mainz 05,Danny da Costa,GER,DF,31-272,1993,17.0,1132,86,455,602,85,2,1132,14,6,42.9,8,57.1,626,2614,1163,14,11,2,18,5,693,17,possession
-GER-Bundesliga,2024,Mainz 05,Dominik Kohr,GER,"DF,MF",31-070,1994,22.7,1522,193,725,678,126,20,1522,9,5,55.6,4,44.4,733,3282,1473,23,16,4,19,7,897,28,possession
-GER-Bundesliga,2024,Mainz 05,Gabriel Vidovic,CRO,MF,21-131,2003,0.0,8,0,0,4,4,1,8,0,0,,0,,3,13,5,0,0,0,1,0,5,2,possession
-GER-Bundesliga,2024,Mainz 05,Hong Hyunseok,KOR,MF,25-299,1999,5.2,239,4,32,129,83,15,239,8,3,37.5,3,37.5,115,555,285,7,6,1,9,12,153,26,possession
-GER-Bundesliga,2024,Mainz 05,Jonathan Burkardt,GER,FW,24-274,2000,18.5,642,16,43,311,291,91,641,32,13,40.6,19,59.4,353,1516,600,25,22,9,60,25,455,127,possession
-GER-Bundesliga,2024,Mainz 05,Kaishu Sano,JPN,MF,24-102,2000,27.8,1488,52,341,885,278,27,1488,41,27,65.9,13,31.7,705,3662,1713,36,30,5,37,26,841,40,possession
-GER-Bundesliga,2024,Mainz 05,Karim Onisiwo,AUT,"MF,FW",33-025,1992,1.2,45,1,5,16,24,5,45,2,1,50.0,1,50.0,23,104,18,1,0,0,5,2,28,8,possession
-GER-Bundesliga,2024,Mainz 05,Lee Jae-sung,KOR,MF,32-244,1992,24.0,1140,36,191,528,434,98,1140,29,11,37.9,15,51.7,546,1949,778,23,19,7,64,22,756,132,possession
-GER-Bundesliga,2024,Mainz 05,Lennard Maloney,USA,MF,25-185,1999,0.3,22,3,9,11,2,0,22,0,0,,0,,4,24,13,1,0,0,1,0,5,0,possession
-GER-Bundesliga,2024,Mainz 05,Maxim Leitsch,GER,DF,26-328,1998,7.5,473,63,214,224,35,13,473,1,0,0.0,0,0.0,173,759,329,4,5,0,8,3,240,5,possession
-GER-Bundesliga,2024,Mainz 05,Moritz Jenz,GER,DF,25-346,1999,15.8,1002,150,532,442,31,17,1002,5,2,40.0,2,40.0,467,2019,852,1,1,0,7,0,545,3,possession
-GER-Bundesliga,2024,Mainz 05,Nadiem Amiri,GER,MF,28-166,1996,22.5,1718,40,291,970,478,41,1716,52,25,48.1,24,46.2,915,4322,1984,40,32,10,38,22,1077,55,possession
-GER-Bundesliga,2024,Mainz 05,Nelson Weiper,GER,"FW,MF",20-025,2005,5.7,213,3,14,95,106,35,213,17,8,47.1,9,52.9,99,486,169,7,5,4,39,8,147,46,possession
-GER-Bundesliga,2024,Mainz 05,Nikolas Veratschnig,AUT,"DF,FW",22-077,2003,1.3,78,2,11,26,41,9,78,7,2,28.6,5,71.4,36,162,83,4,2,2,1,1,39,15,possession
-GER-Bundesliga,2024,Mainz 05,Paul Nebel,GER,MF,22-183,2002,21.1,1215,27,156,508,565,56,1215,52,19,36.5,30,57.7,703,3752,1521,58,37,16,56,34,852,181,possession
-GER-Bundesliga,2024,Mainz 05,Phillipp Mwene,AUT,DF,31-072,1994,25.2,1365,65,329,555,492,45,1365,47,21,44.7,23,48.9,674,3859,1803,56,39,11,41,23,785,123,possession
-GER-Bundesliga,2024,Mainz 05,Robin Zentner,GER,GK,30-165,1994,28.0,1143,846,1114,28,1,1,1143,0,0,,0,,661,3196,1755,0,0,0,2,0,584,0,possession
-GER-Bundesliga,2024,Mainz 05,Silvan Widmer,SUI,DF,32-037,1993,4.4,287,21,74,118,96,9,287,4,0,0.0,4,100.0,113,408,99,2,3,1,6,3,149,32,possession
-GER-Bundesliga,2024,Mainz 05,Stefan Bell,GER,DF,33-230,1991,13.1,781,119,433,322,30,24,781,5,1,20.0,3,60.0,339,1534,759,7,1,1,12,3,395,4,possession
-GER-Bundesliga,2024,RB Leipzig,Amadou Haidara,MLI,MF,27-070,1998,13.3,1008,55,237,636,140,11,1008,10,7,70.0,3,30.0,471,1660,666,6,5,0,6,7,643,20,possession
-GER-Bundesliga,2024,RB Leipzig,André Silva,POR,"FW,MF",29-156,1995,1.5,65,3,11,22,34,10,64,0,0,,0,,35,291,152,6,1,3,6,1,39,11,possession
-GER-Bundesliga,2024,RB Leipzig,Antonio Nusa,NOR,"MF,DF",19-359,2005,16.0,744,19,134,295,327,48,744,82,37,45.1,37,45.1,438,2861,1487,51,34,24,35,28,509,111,possession
-GER-Bundesliga,2024,RB Leipzig,Arthur Vermeeren,BEL,MF,20-063,2005,13.7,866,32,206,523,147,4,866,12,6,50.0,6,50.0,414,1565,663,8,11,1,17,12,580,15,possession
-GER-Bundesliga,2024,RB Leipzig,Assan Ouedraogo,GER,MF,18-337,2006,0.6,30,0,5,15,12,4,30,3,0,0.0,3,100.0,23,193,70,2,0,3,2,6,26,2,possession
-GER-Bundesliga,2024,RB Leipzig,Benjamin Henrichs,GER,DF,28-047,1997,10.4,606,42,189,269,154,8,606,13,9,69.2,4,30.8,290,1285,438,9,7,0,9,6,345,55,possession
-GER-Bundesliga,2024,RB Leipzig,Benjamin Šeško,SVN,"FW,MF",21-315,2003,22.1,765,23,81,403,296,76,764,64,34,53.1,28,43.8,375,2143,976,35,24,12,52,48,587,119,possession
-GER-Bundesliga,2024,RB Leipzig,Castello Lukeba,FRA,DF,22-115,2002,12.5,1081,96,429,594,67,9,1081,13,8,61.5,3,23.1,638,2621,1449,10,9,0,17,5,779,7,possession
-GER-Bundesliga,2024,RB Leipzig,Christoph Baumgartner,AUT,"MF,FW",25-253,1999,15.1,755,39,142,376,251,56,755,35,15,42.9,15,42.9,364,2117,1184,28,27,5,32,25,469,73,possession
-GER-Bundesliga,2024,RB Leipzig,David Raum,GER,DF,26-354,1998,17.8,1253,51,340,464,461,54,1253,25,9,36.0,12,48.0,513,2273,1250,33,18,4,14,9,707,118,possession
-GER-Bundesliga,2024,RB Leipzig,El Chadaille Bitshiabu,FRA,DF,19-330,2005,8.0,637,84,265,337,38,10,637,1,1,100.0,0,0.0,315,1226,612,3,2,1,9,1,403,2,possession
-GER-Bundesliga,2024,RB Leipzig,Elif Elmas,MKD,MF,25-199,1999,0.5,28,1,10,13,5,2,28,1,1,100.0,0,0.0,13,33,11,0,0,0,0,2,17,2,possession
-GER-Bundesliga,2024,RB Leipzig,Faik Sakar,GER,MF,17-087,2008,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
-GER-Bundesliga,2024,RB Leipzig,Kevin Kampl,SVN,MF,34-184,1990,15.6,1211,31,221,750,250,12,1211,19,13,68.4,6,31.6,723,3676,1899,17,32,2,12,12,883,30,possession
-GER-Bundesliga,2024,RB Leipzig,Kosta Nedeljković,SRB,DF,19-116,2005,1.5,128,5,20,46,62,4,128,0,0,,0,,68,327,188,7,6,0,1,0,83,20,possession
-GER-Bundesliga,2024,RB Leipzig,Loïs Openda,BEL,"FW,MF",25-054,2000,23.1,764,12,46,313,410,138,763,58,16,27.6,29,50.0,430,2366,1202,50,19,32,71,25,603,192,possession
-GER-Bundesliga,2024,RB Leipzig,Lukas Klostermann,GER,DF,28-312,1996,15.4,1148,125,474,568,110,12,1148,4,3,75.0,1,25.0,604,2367,1154,15,13,1,8,0,768,26,possession
-GER-Bundesliga,2024,RB Leipzig,Lutsharel Geertruida,NED,DF,24-267,2000,14.6,1063,48,320,643,109,15,1063,11,5,45.5,6,54.5,540,2027,1062,17,10,1,12,4,707,29,possession
-GER-Bundesliga,2024,RB Leipzig,Maarten Vandevoordt,BEL,GK,23-044,2002,2.5,83,64,82,1,0,0,83,0,0,,0,,42,171,95,0,0,0,0,0,33,0,possession
-GER-Bundesliga,2024,RB Leipzig,Mohamed Simakan,FRA,DF,24-343,2000,0.6,52,0,9,35,9,2,52,1,0,0.0,0,0.0,27,130,70,3,1,0,0,0,39,4,possession
-GER-Bundesliga,2024,RB Leipzig,Nicolas Seiwald,AUT,"MF,DF",23-342,2001,17.2,1226,81,343,726,165,5,1226,7,4,57.1,3,42.9,584,2190,1075,15,15,1,5,7,779,21,possession
-GER-Bundesliga,2024,RB Leipzig,Péter Gulácsi,HUN,GK,34-340,1990,25.5,852,699,834,19,0,0,852,0,0,,0,,455,2076,1065,0,0,0,1,0,368,0,possession
-GER-Bundesliga,2024,RB Leipzig,Ridle Baku,GER,"DF,MF",27-003,1998,10.1,572,28,128,242,206,26,572,18,13,72.2,3,16.7,267,1244,648,18,15,3,20,11,332,68,possession
-GER-Bundesliga,2024,RB Leipzig,Tidiam Gomis,FRA,"MF,DF",18-246,2006,0.7,40,0,5,10,26,6,40,2,1,50.0,0,0.0,16,140,85,2,1,1,1,1,28,8,possession
-GER-Bundesliga,2024,RB Leipzig,Viggo Gebel,GER,MF,17-140,2007,0.2,6,0,0,3,3,1,6,1,0,0.0,1,100.0,5,18,4,0,0,0,1,0,5,3,possession
-GER-Bundesliga,2024,RB Leipzig,Willi Orban,HUN,DF,32-159,1992,24.7,2101,268,954,1061,97,45,2101,4,3,75.0,0,0.0,1083,5180,2827,15,6,2,15,4,1320,8,possession
-GER-Bundesliga,2024,RB Leipzig,Xaver Schlager,AUT,MF,27-195,1997,2.0,123,5,30,80,14,1,123,1,1,100.0,0,0.0,56,310,225,5,0,0,3,2,89,2,possession
-GER-Bundesliga,2024,RB Leipzig,Xavi Simons,NED,MF,21-355,2003,19.1,1255,9,113,634,532,63,1255,75,25,33.3,43,57.3,700,3972,2061,63,50,15,63,47,900,143,possession
-GER-Bundesliga,2024,RB Leipzig,Yussuf Poulsen,DEN,"FW,MF",30-300,1994,3.3,171,10,31,75,66,25,171,6,1,16.7,4,66.7,67,289,87,2,4,0,10,9,116,22,possession
-GER-Bundesliga,2024,St. Pauli,Abdoulie Ceesay,GAM,FW,21-096,2004,0.7,26,0,2,13,11,2,26,0,0,,0,,12,32,3,0,0,0,4,3,18,8,possession
-GER-Bundesliga,2024,St. Pauli,Adam Dźwigała,POL,"DF,MF",29-198,1995,2.8,187,24,73,84,30,6,187,2,1,50.0,1,50.0,65,229,108,1,0,0,2,2,95,4,possession
-GER-Bundesliga,2024,St. Pauli,Andreas Albers,DEN,FW,35-019,1990,0.7,44,0,2,17,26,8,44,3,2,66.7,0,0.0,24,129,18,1,0,0,4,6,40,6,possession
-GER-Bundesliga,2024,St. Pauli,Carlo Boukhalfa,MAR,MF,25-343,1999,13.7,499,21,91,244,167,23,499,24,11,45.8,13,54.2,220,994,371,10,6,3,26,17,297,32,possession
-GER-Bundesliga,2024,St. Pauli,Connor Metcalfe,AUS,MF,25-157,1999,3.0,130,7,28,66,39,2,130,4,2,50.0,1,25.0,51,275,152,6,5,2,4,0,68,9,possession
-GER-Bundesliga,2024,St. Pauli,Danel Sinani,LUX,"MF,FW",28-006,1997,8.4,435,6,40,195,203,21,435,14,7,50.0,5,35.7,196,884,333,8,6,4,22,10,271,39,possession
-GER-Bundesliga,2024,St. Pauli,David Nemeth,AUT,DF,24-024,2001,17.7,1048,131,526,489,40,5,1048,7,3,42.9,4,57.1,566,2918,1442,11,6,0,8,3,650,1,possession
-GER-Bundesliga,2024,St. Pauli,Elias Saad,TUN,"FW,MF",25-105,1999,9.2,382,3,36,152,201,40,382,51,15,29.4,24,47.1,275,1735,766,27,20,13,48,34,293,71,possession
-GER-Bundesliga,2024,St. Pauli,Eric Smith,SWE,"DF,MF",28-093,1997,25.4,1608,143,573,785,265,6,1608,3,2,66.7,1,33.3,702,3197,1507,14,14,0,11,4,907,11,possession
-GER-Bundesliga,2024,St. Pauli,Erik Ahlstrand,SWE,"FW,MF",23-179,2001,0.5,22,0,2,10,10,2,22,0,0,,0,,12,68,26,1,2,0,3,0,14,3,possession
-GER-Bundesliga,2024,St. Pauli,Finley Stevens,WAL,DF,22-001,2003,0.0,2,0,0,1,1,0,2,0,0,,0,,1,3,2,0,0,0,0,0,1,0,possession
-GER-Bundesliga,2024,St. Pauli,Hauke Wahl,GER,DF,30-361,1994,27.0,1702,184,758,865,91,24,1702,8,6,75.0,2,25.0,854,5120,3089,26,14,1,10,7,1061,9,possession
-GER-Bundesliga,2024,St. Pauli,Jackson Irvine,AUS,MF,32-035,1993,28.0,1257,77,321,678,274,71,1257,22,8,36.4,13,59.1,452,1735,876,19,18,5,40,13,693,56,possession
-GER-Bundesliga,2024,St. Pauli,James Sands,USA,"MF,DF",24-279,2000,5.0,259,12,63,148,49,6,259,1,1,100.0,0,0.0,119,413,146,0,0,0,3,3,152,6,possession
-GER-Bundesliga,2024,St. Pauli,Johannes Eggestein,GER,FW,26-338,1998,20.3,703,6,44,366,298,76,701,17,7,41.2,10,58.8,376,1658,615,25,17,8,50,28,533,135,possession
-GER-Bundesliga,2024,St. Pauli,Karol Mets,EST,DF,31-330,1993,10.0,736,99,360,346,32,8,736,1,0,0.0,1,100.0,343,1424,736,5,6,0,4,0,466,2,possession
-GER-Bundesliga,2024,St. Pauli,Lars Ritzka,GER,"DF,MF",26-339,1998,8.6,492,33,174,221,98,5,492,1,0,0.0,1,100.0,138,569,345,7,5,0,5,4,226,29,possession
-GER-Bundesliga,2024,St. Pauli,Manolis Saliakas,GRE,"MF,DF",28-211,1996,20.0,1281,60,359,563,364,26,1281,8,3,37.5,5,62.5,552,2103,1168,27,32,2,4,5,725,71,possession
-GER-Bundesliga,2024,St. Pauli,Maurides,BRA,FW,31-032,1994,0.0,2,0,0,0,2,0,2,0,0,,0,,1,1,0,0,0,0,0,0,2,0,possession
-GER-Bundesliga,2024,St. Pauli,Morgan Guilavogui,GUI,"FW,MF",27-032,1998,14.9,666,24,89,294,291,78,666,37,16,43.2,17,45.9,296,1593,747,29,21,16,43,19,443,101,possession
-GER-Bundesliga,2024,St. Pauli,Nikola Vasilj,BIH,GK,29-130,1995,28.0,1268,888,1250,19,0,0,1268,1,1,100.0,0,0.0,783,3912,2251,0,0,0,0,0,783,0,possession
-GER-Bundesliga,2024,St. Pauli,Noah Weißhaupt,GER,"FW,MF",23-203,2001,10.2,409,5,52,149,215,33,409,31,12,38.7,13,41.9,243,1576,819,33,23,11,29,9,277,76,possession
-GER-Bundesliga,2024,St. Pauli,Oladapo Afolayan,ENG,"FW,MF",27-058,1998,15.9,653,12,75,274,316,55,653,85,43,50.6,36,42.4,433,3067,1278,50,40,25,48,38,484,95,possession
-GER-Bundesliga,2024,St. Pauli,Philipp Treu,GER,"MF,DF",24-129,2000,26.4,1563,76,470,666,447,35,1563,28,9,32.1,14,50.0,682,3683,1812,51,34,8,28,10,813,103,possession
-GER-Bundesliga,2024,St. Pauli,Robert Wagner,GER,MF,21-271,2003,4.0,162,6,32,97,34,3,162,2,1,50.0,1,50.0,52,198,70,1,2,0,3,6,85,9,possession
-GER-Bundesliga,2024,St. Pauli,Scott Banks,SCO,"FW,MF",23-197,2001,1.1,45,2,11,11,24,6,45,7,2,28.6,3,42.9,22,141,59,3,1,3,0,2,25,8,possession
-GER-Bundesliga,2024,St. Pauli,Siebe Van Der Heyden,BEL,"DF,MF",26-316,1998,6.4,369,34,157,166,47,5,369,3,0,0.0,3,100.0,170,704,305,4,4,0,3,3,210,14,possession
-GER-Bundesliga,2024,Stuttgart,Alexander Nübel,GER,GK,28-193,1996,28.0,1158,957,1151,9,0,0,1158,1,1,100.0,0,0.0,690,3124,1898,0,0,0,1,0,672,0,possession
-GER-Bundesliga,2024,Stuttgart,Ameen Al-Dakhil,BEL,DF,23-036,2002,4.8,407,67,217,185,6,0,407,0,0,,0,,239,1305,616,1,0,0,3,0,264,0,possession
-GER-Bundesliga,2024,Stuttgart,Angelo Stiller,GER,MF,24-007,2001,26.3,2300,72,446,1409,456,27,2300,26,19,73.1,7,26.9,1270,5615,2980,30,28,3,16,22,1727,51,possession
-GER-Bundesliga,2024,Stuttgart,Anrie Chase,JPN,DF,21-018,2004,8.2,622,65,253,334,40,4,622,5,2,40.0,3,60.0,334,1209,546,6,7,0,4,1,453,2,possession
-GER-Bundesliga,2024,Stuttgart,Anthony Rouault,FRA,DF,23-317,2001,13.5,1014,125,512,476,33,11,1014,5,2,40.0,3,60.0,573,2545,1121,6,6,0,4,4,697,4,possession
-GER-Bundesliga,2024,Stuttgart,Atakan Karazor,,MF,28-180,1996,23.2,1669,67,353,1049,278,16,1669,18,11,61.1,3,16.7,830,3274,1356,13,23,1,27,13,1100,23,possession
-GER-Bundesliga,2024,Stuttgart,Chris Führich,GER,"MF,FW",27-092,1998,17.2,958,17,95,350,525,89,958,71,33,46.5,35,49.3,589,4425,2243,83,46,43,28,21,697,161,possession
-GER-Bundesliga,2024,Stuttgart,Dan-Axel Zagadou,FRA,"DF,MF",25-312,1999,0.3,12,1,10,2,0,0,12,0,0,,0,,6,11,1,0,1,0,0,0,9,0,possession
-GER-Bundesliga,2024,Stuttgart,Deniz Undav,GER,"FW,MF",28-266,1996,14.1,554,8,46,267,249,85,554,18,6,33.3,11,61.1,321,1490,701,28,12,11,42,24,433,99,possession
-GER-Bundesliga,2024,Stuttgart,El Bilal Touré,MLI,"FW,MF",23-190,2001,4.0,137,1,6,49,85,23,137,6,3,50.0,3,50.0,72,379,168,6,5,4,10,2,110,25,possession
-GER-Bundesliga,2024,Stuttgart,Enzo Millot,FRA,"MF,FW",22-268,2002,18.1,1220,7,159,657,415,59,1219,61,28,45.9,32,52.5,712,3752,1550,37,29,10,45,32,927,113,possession
-GER-Bundesliga,2024,Stuttgart,Ermedin Demirović,BIH,FW,27-017,1998,17.1,495,7,39,210,248,99,493,20,3,15.0,17,85.0,256,1179,511,18,11,6,30,22,371,96,possession
-GER-Bundesliga,2024,Stuttgart,Fabian Rieder,SUI,"MF,FW",23-054,2002,8.4,435,2,49,191,205,16,435,18,9,50.0,9,50.0,219,1232,524,17,13,3,21,11,278,49,possession
-GER-Bundesliga,2024,Stuttgart,Finn Jeltsch,GER,DF,18-268,2006,4.2,280,23,117,143,22,2,280,0,0,,0,,143,975,493,4,4,0,7,1,164,4,possession
-GER-Bundesliga,2024,Stuttgart,Frans Krätzig,GER,DF,22-087,2003,0.6,48,4,12,22,14,0,48,0,0,,0,,30,85,39,0,0,0,1,0,33,2,possession
-GER-Bundesliga,2024,Stuttgart,Jacob Bruun Larsen,DEN,MF,26-204,1998,4.0,179,2,19,69,91,22,179,18,7,38.9,10,55.6,105,733,354,17,5,9,11,1,125,34,possession
-GER-Bundesliga,2024,Stuttgart,Jamie Leweling,GER,"MF,FW",24-044,2001,15.5,703,16,87,271,364,61,703,76,38,50.0,31,40.8,466,3748,1712,51,32,17,38,32,515,140,possession
-GER-Bundesliga,2024,Stuttgart,Jarzinho Malanga,GER,DF,18-275,2006,0.0,3,0,0,0,3,0,3,0,0,,0,,1,0,0,0,0,0,1,0,3,2,possession
-GER-Bundesliga,2024,Stuttgart,Josha Vagnoman,GER,"DF,MF",24-121,2000,18.9,1008,59,296,450,267,32,1008,27,8,29.6,16,59.3,481,2313,892,23,17,10,25,19,610,83,possession
-GER-Bundesliga,2024,Stuttgart,Julian Chabot,GER,DF,27-058,1998,20.3,1654,225,840,763,58,24,1654,3,2,66.7,1,33.3,934,4276,2115,6,6,1,8,1,1079,2,possession
-GER-Bundesliga,2024,Stuttgart,Justin Diehl,GER,"FW,DF",20-135,2004,1.2,84,1,5,27,53,9,84,13,3,23.1,10,76.9,55,402,200,5,3,3,2,3,60,20,possession
-GER-Bundesliga,2024,Stuttgart,Leonidas Stergiou,SUI,DF,23-039,2002,6.9,469,22,132,244,96,3,469,5,3,60.0,2,40.0,242,1093,496,8,8,2,5,2,272,13,possession
-GER-Bundesliga,2024,Stuttgart,Luca Jaquez,SUI,DF,21-313,2003,1.0,50,3,32,17,1,0,50,0,0,,0,,30,102,64,0,0,0,0,0,33,0,possession
-GER-Bundesliga,2024,Stuttgart,Maximilian Mittelstädt,GER,DF,28-024,1997,21.7,1810,95,453,878,486,23,1810,30,15,50.0,12,40.0,882,4022,1982,45,30,2,21,7,1118,114,possession
-GER-Bundesliga,2024,Stuttgart,Nick Woltemade,GER,"FW,MF",23-056,2002,14.0,630,14,50,274,314,122,628,60,28,46.7,30,50.0,365,1832,794,23,26,17,68,41,500,103,possession
-GER-Bundesliga,2024,Stuttgart,Pascal Stenzel,GER,DF,29-022,1996,1.5,125,5,41,52,33,3,125,0,0,,0,,63,192,84,1,1,0,1,0,68,6,possession
-GER-Bundesliga,2024,Stuttgart,Ramon Hendriks,NED,DF,23-267,2001,11.1,682,53,276,324,83,11,682,7,4,57.1,3,42.9,319,1512,647,8,5,2,6,4,393,22,possession
-GER-Bundesliga,2024,Stuttgart,Yannik Keitel,GER,MF,25-055,2000,2.7,199,6,43,127,32,3,199,1,1,100.0,0,0.0,93,367,165,2,0,1,2,1,145,2,possession
-GER-Bundesliga,2024,Union Berlin,Alexander Schwolow,GER,GK,32-313,1992,5.0,168,135,168,0,0,0,168,0,0,,0,,113,511,269,0,0,0,0,0,98,0,possession
-GER-Bundesliga,2024,Union Berlin,Aljoscha Kemlein,GER,MF,20-252,2004,10.2,549,16,117,331,105,18,549,9,6,66.7,3,33.3,260,952,437,5,5,1,11,1,329,19,possession
-GER-Bundesliga,2024,Union Berlin,Andrej Ilic,SRB,FW,25-008,2000,6.2,176,7,18,77,81,28,175,3,0,0.0,3,100.0,83,249,49,2,2,2,20,7,120,40,possession
-GER-Bundesliga,2024,Union Berlin,András Schäfer,HUN,MF,25-363,1999,12.3,616,29,133,318,170,18,616,23,10,43.5,11,47.8,275,1270,498,14,13,2,17,6,311,29,possession
-GER-Bundesliga,2024,Union Berlin,Benedict Hollerbach,GER,"FW,MF",23-329,2001,23.1,915,14,109,356,471,121,915,98,36,36.7,53,54.1,587,4506,2164,84,55,46,87,79,650,168,possession
-GER-Bundesliga,2024,Union Berlin,Christopher Trimmel,AUT,"DF,MF",38-046,1987,14.7,771,71,223,348,201,10,771,6,2,33.3,4,66.7,279,1190,498,14,4,2,7,5,340,35,possession
-GER-Bundesliga,2024,Union Berlin,Danilho Doekhi,NED,DF,26-285,1998,28.0,1393,145,658,612,131,62,1393,5,3,60.0,1,20.0,728,3290,1672,10,7,0,11,5,841,13,possession
-GER-Bundesliga,2024,Union Berlin,Diogo Leite,POR,DF,26-078,1999,25.6,1683,176,725,795,175,35,1683,15,10,66.7,4,26.7,792,3351,1769,20,18,0,15,6,901,16,possession
-GER-Bundesliga,2024,Union Berlin,Frederik Rønnow,DEN,GK,32-250,1992,23.0,812,624,800,13,1,1,812,1,1,100.0,0,0.0,477,2685,1635,0,0,0,1,0,367,0,possession
-GER-Bundesliga,2024,Union Berlin,Ivan Prtajin,CRO,FW,28-332,1996,1.8,78,3,6,29,43,12,78,1,1,100.0,0,0.0,38,98,23,1,0,1,6,3,55,17,possession
-GER-Bundesliga,2024,Union Berlin,Janik Haberer,GER,"MF,DF",31-009,1994,13.5,678,31,186,371,128,14,678,5,2,40.0,3,60.0,319,1099,443,8,3,0,9,7,378,17,possession
-GER-Bundesliga,2024,Union Berlin,Jeong Woo-yeong,KOR,"MF,FW",25-203,1999,14.0,621,12,79,261,296,34,621,21,12,57.1,8,38.1,386,2038,1003,32,24,6,23,16,423,93,possession
-GER-Bundesliga,2024,Union Berlin,Jordan Pefok,USA,FW,28-350,1996,10.1,326,23,55,157,122,43,326,13,7,53.8,6,46.2,158,535,204,3,6,0,24,17,212,40,possession
-GER-Bundesliga,2024,Union Berlin,Josip Juranović,CRO,"DF,MF",29-238,1995,11.0,613,32,173,244,206,7,613,22,9,40.9,8,36.4,263,1291,675,19,11,2,12,2,273,39,possession
-GER-Bundesliga,2024,Union Berlin,Jérôme Roussillon,FRA,"DF,MF",32-095,1993,1.4,92,9,18,41,33,5,92,3,1,33.3,2,66.7,39,176,72,2,2,1,2,1,42,7,possession
-GER-Bundesliga,2024,Union Berlin,Kevin Vogt,GER,DF,33-200,1991,13.3,895,129,474,423,8,1,894,2,2,100.0,0,0.0,470,2126,1111,8,2,1,5,1,527,0,possession
-GER-Bundesliga,2024,Union Berlin,Kevin Volland,GER,"FW,MF",32-255,1992,0.6,15,0,1,8,6,3,15,0,0,,0,,11,8,1,0,0,0,1,2,12,4,possession
-GER-Bundesliga,2024,Union Berlin,Leopold Querfeld,AUT,DF,21-112,2003,13.4,713,105,382,296,37,22,713,8,3,37.5,4,50.0,337,1391,564,0,1,0,3,2,375,4,possession
-GER-Bundesliga,2024,Union Berlin,Lucas Tousart,FRA,MF,27-347,1997,5.5,222,21,61,116,48,17,222,9,5,55.6,4,44.4,83,383,159,4,0,1,7,5,92,13,possession
-GER-Bundesliga,2024,Union Berlin,László Bénes,SVK,"MF,FW",27-214,1997,5.4,343,1,39,166,140,8,343,4,1,25.0,3,75.0,178,665,301,4,5,1,6,3,211,30,possession
-GER-Bundesliga,2024,Union Berlin,Marin Ljubicic,CRO,"FW,MF",23-042,2002,2.2,67,5,13,26,28,9,67,2,1,50.0,0,0.0,36,111,27,1,0,0,5,1,43,12,possession
-GER-Bundesliga,2024,Union Berlin,Rani Khedira,GER,MF,31-074,1994,24.3,1038,64,278,583,182,28,1038,9,4,44.4,5,55.6,390,1563,579,10,6,1,18,8,495,26,possession
-GER-Bundesliga,2024,Union Berlin,Robert Skov,DEN,"DF,MF",28-326,1996,9.5,564,19,111,261,200,23,563,17,5,29.4,11,64.7,263,1450,760,25,11,8,21,3,291,45,possession
-GER-Bundesliga,2024,Union Berlin,Robin Gosens,GER,DF,30-280,1994,1.0,51,1,12,20,19,1,51,0,0,,0,,17,61,37,1,2,0,2,0,26,5,possession
-GER-Bundesliga,2024,Union Berlin,Tim Skarke,GER,"FW,MF",28-216,1996,10.7,415,9,56,172,190,31,415,21,9,42.9,12,57.1,253,1266,521,24,11,10,31,19,295,84,possession
-GER-Bundesliga,2024,Union Berlin,Tom Rothe,GER,"DF,MF",20-164,2004,13.8,827,42,235,319,276,31,827,18,5,27.8,13,72.2,351,1663,718,21,11,3,21,21,407,82,possession
-GER-Bundesliga,2024,Union Berlin,Yorbe Vertessen,BEL,"MF,FW",24-093,2001,8.0,342,5,41,130,174,26,342,51,19,37.3,27,52.9,194,1227,503,18,14,4,28,17,227,42,possession
-GER-Bundesliga,2024,Werder Bremen,Amos Pieper,GER,DF,27-084,1998,10.7,682,88,361,279,43,4,682,1,1,100.0,0,0.0,342,1374,591,5,3,0,3,3,409,1,possession
-GER-Bundesliga,2024,Werder Bremen,André Silva,POR,FW,29-156,1995,4.1,169,4,11,73,87,26,167,13,1,7.7,9,69.2,101,527,199,6,6,4,13,9,120,28,possession
-GER-Bundesliga,2024,Werder Bremen,Anthony Jung,GER,DF,33-159,1991,21.0,1688,230,895,732,72,1,1688,9,7,77.8,1,11.1,1039,4721,2319,20,20,0,13,2,1161,6,possession
-GER-Bundesliga,2024,Werder Bremen,Derrick Köhn,GER,"DF,FW",26-066,1999,14.4,872,32,224,347,310,29,872,40,15,37.5,20,50.0,519,2384,1262,34,22,7,22,12,556,117,possession
-GER-Bundesliga,2024,Werder Bremen,Felix Agu,GER,DF,25-196,1999,14.0,745,40,240,313,196,28,745,23,6,26.1,15,65.2,382,1885,946,26,10,8,24,5,435,84,possession
-GER-Bundesliga,2024,Werder Bremen,Issa Kaboré,BFA,"DF,FW",23-334,2001,3.4,253,12,57,95,109,16,253,21,7,33.3,13,61.9,128,898,440,15,12,5,9,2,137,35,possession
-GER-Bundesliga,2024,Werder Bremen,Jens Stage,DEN,MF,28-154,1996,19.1,989,33,241,506,250,65,989,14,6,42.9,7,50.0,518,2062,946,21,16,5,19,7,642,71,possession
-GER-Bundesliga,2024,Werder Bremen,Julián Malatini,ARG,DF,23-315,2001,5.0,363,25,156,160,48,4,363,3,2,66.7,1,33.3,224,1103,521,8,8,0,3,1,245,4,possession
-GER-Bundesliga,2024,Werder Bremen,Justin Njinmah,GER,"FW,MF",24-147,2000,9.3,300,1,15,108,181,48,300,19,6,31.6,11,57.9,202,1154,552,25,13,10,22,6,231,90,possession
-GER-Bundesliga,2024,Werder Bremen,Keke Maximilian Topp,GER,"FW,MF",21-017,2004,2.7,122,2,7,38,78,27,122,9,3,33.3,5,55.6,73,343,182,9,4,3,10,13,96,25,possession
-GER-Bundesliga,2024,Werder Bremen,Leonardo Bittencourt,GER,MF,31-113,1993,9.9,711,7,132,404,182,17,711,4,1,25.0,2,50.0,467,2166,878,15,11,1,9,1,518,32,possession
-GER-Bundesliga,2024,Werder Bremen,Marco Friedl,AUT,DF,27-026,1998,18.0,1320,188,775,522,28,2,1320,6,5,83.3,1,16.7,785,3626,1513,2,4,0,8,5,804,0,possession
-GER-Bundesliga,2024,Werder Bremen,Marco Grüll,AUT,"FW,MF",26-279,1998,11.7,429,3,35,186,215,49,429,33,11,33.3,19,57.6,274,1396,515,20,16,8,36,38,314,82,possession
-GER-Bundesliga,2024,Werder Bremen,Marvin Ducksch,GER,FW,31-035,1994,21.5,864,25,69,349,455,90,862,16,5,31.3,10,62.5,414,1422,658,20,18,10,24,9,514,130,possession
-GER-Bundesliga,2024,Werder Bremen,Michael Zetterer,GER,GK,29-273,1995,28.0,1148,956,1137,12,0,0,1148,1,1,100.0,0,0.0,810,5382,2691,0,0,0,0,0,680,0,possession
-GER-Bundesliga,2024,Werder Bremen,Miloš Veljković,SRB,DF,29-197,1995,11.4,738,67,327,368,45,5,738,0,0,,0,,460,2047,1146,9,6,0,2,2,507,2,possession
-GER-Bundesliga,2024,Werder Bremen,Mitchell Weiser,GER,"DF,MF",30-355,1994,25.9,1505,45,302,705,516,90,1505,70,28,40.0,36,51.4,764,3336,1688,51,33,11,60,31,922,154,possession
-GER-Bundesliga,2024,Werder Bremen,Niklas Stark,GER,DF,29-362,1995,17.4,1142,119,610,493,40,11,1142,1,1,100.0,0,0.0,661,2751,1215,6,2,0,4,0,737,2,possession
-GER-Bundesliga,2024,Werder Bremen,Oliver Burke,SCO,FW,28-004,1997,6.2,289,5,28,110,157,51,289,9,4,44.4,5,55.6,156,970,309,10,8,7,19,8,213,48,possession
-GER-Bundesliga,2024,Werder Bremen,Olivier Deman,BEL,DF,25-005,2000,0.7,75,3,30,26,19,2,75,1,0,0.0,1,100.0,31,225,72,2,0,0,0,0,31,1,possession
-GER-Bundesliga,2024,Werder Bremen,Romano Schmid,AUT,MF,25-074,2000,25.7,1629,19,206,757,688,86,1629,75,35,46.7,37,49.3,1066,5733,3157,89,62,24,58,50,1223,165,possession
-GER-Bundesliga,2024,Werder Bremen,Senne Lynen,BEL,MF,26-051,1999,24.6,1401,99,433,778,198,9,1401,25,9,36.0,13,52.0,673,2432,850,6,10,3,32,12,771,27,possession
-GER-Bundesliga,2024,Werder Bremen,Skelly Alvero,FRA,MF,22-342,2002,2.6,136,15,49,68,19,2,136,3,2,66.7,1,33.3,70,306,132,1,1,0,6,4,74,0,possession
-GER-Bundesliga,2024,Wolfsburg,Andreas Skov Olsen,DEN,"FW,MF",25-103,1999,3.9,221,3,42,83,97,13,221,7,2,28.6,4,57.1,121,736,383,13,6,2,4,4,144,29,possession
-GER-Bundesliga,2024,Wolfsburg,Aster Vranckx,BEL,MF,22-189,2002,4.7,199,25,65,105,32,4,199,5,4,80.0,1,20.0,79,375,180,5,2,0,12,3,97,6,possession
-GER-Bundesliga,2024,Wolfsburg,Bence Dárdai,HUN,MF,19-077,2006,10.5,431,17,92,232,107,14,431,7,0,0.0,4,57.1,211,698,250,3,6,0,12,6,251,16,possession
-GER-Bundesliga,2024,Wolfsburg,Cedric Zesiger,SUI,DF,26-291,1998,5.8,303,48,153,131,19,0,303,3,3,100.0,0,0.0,135,653,299,3,0,0,1,1,154,2,possession
-GER-Bundesliga,2024,Wolfsburg,David Odogu,GER,DF,18-312,2006,1.0,71,9,28,42,1,1,71,0,0,,0,,41,237,124,0,0,0,0,0,42,0,possession
-GER-Bundesliga,2024,Wolfsburg,Denis Vavro,SVK,DF,29-001,1996,21.7,1608,230,809,747,57,17,1608,6,3,50.0,3,50.0,906,3689,1538,8,11,2,7,1,992,2,possession
-GER-Bundesliga,2024,Wolfsburg,Jakub Kamiński,POL,"DF,MF",22-310,2002,9.8,470,25,90,189,200,25,470,17,6,35.3,10,58.8,232,1387,782,29,18,12,15,9,241,47,possession
-GER-Bundesliga,2024,Wolfsburg,Joakim Mæhle,DEN,DF,27-326,1997,19.1,1146,47,336,520,299,36,1146,45,15,33.3,29,64.4,632,3284,1737,46,31,5,30,5,667,94,possession
-GER-Bundesliga,2024,Wolfsburg,Jonas Wind,DEN,"FW,MF",26-063,1999,17.9,620,13,45,326,252,66,618,17,6,35.3,9,52.9,353,1185,404,13,8,9,42,22,490,73,possession
-GER-Bundesliga,2024,Wolfsburg,Kamil Grabara,POL,GK,26-093,1999,22.7,961,664,936,25,0,0,961,1,1,100.0,0,0.0,564,2417,1462,0,0,0,0,0,546,0,possession
-GER-Bundesliga,2024,Wolfsburg,Kevin Behrens,GER,FW,34-067,1991,1.7,95,2,7,40,48,15,95,1,0,0.0,1,100.0,35,154,80,2,1,1,8,1,72,17,possession
-GER-Bundesliga,2024,Wolfsburg,Kilian Fischer,GER,DF,24-181,2000,21.0,1257,72,426,563,278,16,1257,21,9,42.9,12,57.1,580,3350,1691,42,26,5,25,8,648,65,possession
-GER-Bundesliga,2024,Wolfsburg,Konstantinos Koulierakis,GRE,DF,21-134,2003,22.4,1581,240,772,739,75,24,1581,9,5,55.6,4,44.4,899,4377,2333,17,14,0,16,2,1017,8,possession
-GER-Bundesliga,2024,Wolfsburg,Lovro Majer,CRO,MF,27-084,1998,1.6,58,0,9,21,29,5,57,4,3,75.0,0,0.0,42,230,72,2,2,1,2,4,44,6,possession
-GER-Bundesliga,2024,Wolfsburg,Lukas Nmecha,GER,"FW,MF",26-118,1998,2.9,106,4,7,42,58,18,106,3,2,66.7,1,33.3,67,255,97,4,2,2,6,1,87,23,possession
-GER-Bundesliga,2024,Wolfsburg,Mads Roerslev,DEN,DF,25-291,1999,2.8,185,16,66,76,45,2,185,6,2,33.3,4,66.7,88,415,194,6,4,1,2,6,111,17,possession
-GER-Bundesliga,2024,Wolfsburg,Marius Müller,GER,GK,31-273,1993,5.3,231,171,228,3,0,0,231,0,0,,0,,147,695,400,0,0,0,0,0,122,0,possession
-GER-Bundesliga,2024,Wolfsburg,Mattias Svanberg,SWE,MF,26-096,1999,13.3,516,27,114,246,163,25,516,25,10,40.0,13,52.0,234,1079,489,11,17,1,17,10,276,39,possession
-GER-Bundesliga,2024,Wolfsburg,Maximilian Arnold,GER,MF,30-319,1994,22.9,1391,79,311,829,265,6,1391,5,1,20.0,2,40.0,693,2720,1071,9,11,0,15,10,785,15,possession
-GER-Bundesliga,2024,Wolfsburg,Mohamed Amoura,ALG,FW,24-337,2000,22.9,919,14,97,334,512,104,917,79,30,38.0,43,54.4,526,3469,1765,68,41,26,70,15,605,205,possession
-GER-Bundesliga,2024,Wolfsburg,Patrick Wimmer,AUT,"MF,FW",23-316,2001,14.9,667,13,118,280,286,52,667,53,28,52.8,22,41.5,357,2143,1092,33,35,10,35,19,380,63,possession
-GER-Bundesliga,2024,Wolfsburg,Ridle Baku,GER,"FW,MF",27-003,1998,13.0,646,15,112,307,234,34,646,20,9,45.0,10,50.0,352,1626,643,16,9,8,15,10,391,78,possession
-GER-Bundesliga,2024,Wolfsburg,Salih Özcan,TUR,MF,27-090,1998,3.9,252,8,37,164,52,3,252,6,4,66.7,2,33.3,128,611,268,6,5,0,5,1,142,5,possession
-GER-Bundesliga,2024,Wolfsburg,Sebastiaan Bornauw,BEL,DF,26-020,1999,8.7,427,50,169,239,21,10,427,1,0,0.0,1,100.0,206,920,379,3,2,0,2,1,230,1,possession
-GER-Bundesliga,2024,Wolfsburg,Tiago Tomás,POR,"FW,MF",22-299,2002,19.6,729,16,104,317,320,74,729,75,27,36.0,40,53.3,470,2355,975,31,18,14,51,32,524,118,possession
-GER-Bundesliga,2024,Wolfsburg,Yannick Gerhardt,GER,"MF,DF",31-029,1994,13.5,669,42,172,325,175,24,669,7,1,14.3,6,85.7,338,1522,775,21,12,5,17,2,396,54,possession
+GER-Bundesliga,2024,Hoffenheim,Mergim Berisha,GER,"FW,MF",26-335,1998.0,3.7,93,5,11,35,47,12,93,8,3,37.5,5,62.5,60,195,78,2,3,1,6,3,69,18,possession
+GER-Bundesliga,2024,Hoffenheim,Oliver Baumann,GER,GK,34-313,1990.0,23.0,937,754,920,18,0,0,937,0,0,,0,,545,2447,1390,0,0,0,0,0,472,0,possession
+GER-Bundesliga,2024,Hoffenheim,Paul Hennrich,GER,MF,20-036,2005.0,0.1,6,0,2,0,4,0,6,2,0,0.0,1,50.0,3,27,10,1,0,0,1,0,2,0,possession
+GER-Bundesliga,2024,Hoffenheim,Pavel Kadeřábek,CZE,DF,32-351,1992.0,13.2,765,39,203,320,244,19,765,7,5,71.4,2,28.6,343,1360,684,12,13,1,4,3,460,60,possession
+GER-Bundesliga,2024,Hoffenheim,Robin Hranáč,CZE,DF,25-072,2000.0,2.4,170,14,64,104,3,1,170,0,0,,0,,107,466,248,2,2,0,1,0,118,0,possession
+GER-Bundesliga,2024,Hoffenheim,Stanley N'Soki,FRA,DF,26-002,1999.0,11.4,828,98,416,388,33,4,828,11,7,63.6,2,18.2,431,1878,868,9,4,0,12,5,508,3,possession
+GER-Bundesliga,2024,Hoffenheim,Tim Drexler,GER,DF,20-036,2005.0,4.0,223,18,91,125,11,0,223,0,0,,0,,128,483,208,2,2,0,3,5,143,2,possession
+GER-Bundesliga,2024,Hoffenheim,Tom Bischof,GER,"MF,FW",19-287,2005.0,23.8,1661,60,305,820,549,40,1661,54,24,44.4,27,50.0,819,4038,1867,43,28,9,33,35,984,95,possession
+GER-Bundesliga,2024,Hoffenheim,Umut Tohumcu,GER,"MF,FW",20-243,2004.0,3.8,151,7,40,82,30,0,151,6,3,50.0,3,50.0,82,300,152,2,1,0,2,6,93,5,possession
+GER-Bundesliga,2024,Hoffenheim,Valentin Gendrey,FRA,DF,24-294,2000.0,14.0,798,53,212,316,276,27,798,10,3,30.0,7,70.0,336,1461,802,23,14,6,21,9,395,81,possession
+GER-Bundesliga,2024,Holstein Kiel,Alexander Bernhardsson,SWE,"MF,DF",26-215,1998.0,8.6,352,11,67,164,131,25,352,30,14,46.7,16,53.3,170,1019,461,14,13,9,21,14,202,52,possession
+GER-Bundesliga,2024,Holstein Kiel,Andu Kelati,GER,"MF,DF",22-241,2002.0,3.2,159,4,30,90,43,9,159,4,3,75.0,1,25.0,88,310,129,3,0,0,8,4,106,11,possession
+GER-Bundesliga,2024,Holstein Kiel,Armin Gigovic,BIH,MF,23-005,2002.0,16.5,745,47,178,404,175,34,745,47,17,36.2,22,46.8,385,2435,1061,31,22,7,37,15,442,40,possession
+GER-Bundesliga,2024,Holstein Kiel,Benedikt Pichler,AUT,FW,27-265,1997.0,8.6,301,13,29,147,126,39,301,18,8,44.4,9,50.0,147,841,374,17,7,7,23,12,222,56,possession
+GER-Bundesliga,2024,Holstein Kiel,Carl Johansson,SWE,DF,30-323,1994.0,4.1,273,60,183,82,12,10,273,0,0,,0,,107,323,117,0,0,0,2,0,155,0,possession
+GER-Bundesliga,2024,Holstein Kiel,David Zec,SVN,DF,25-096,2000.0,12.4,782,153,467,289,30,21,782,5,3,60.0,2,40.0,409,1825,952,2,3,1,7,3,478,1,possession
+GER-Bundesliga,2024,Holstein Kiel,Dominik Javorček,SVK,"DF,MF",22-160,2002.0,4.3,217,30,100,60,57,2,217,5,4,80.0,1,20.0,90,458,249,7,2,0,5,1,111,23,possession
+GER-Bundesliga,2024,Holstein Kiel,Finn Porath,GER,"DF,MF",28-047,1997.0,20.2,917,64,293,378,255,31,917,32,14,43.8,11,34.4,390,2218,1152,40,31,11,13,14,471,64,possession
+GER-Bundesliga,2024,Holstein Kiel,Ivan Nekić,CRO,DF,24-108,2000.0,0.8,50,3,29,21,0,0,50,1,0,0.0,1,100.0,19,44,10,0,0,0,1,1,35,0,possession
+GER-Bundesliga,2024,Holstein Kiel,Jann-Fiete Arp,GER,"FW,MF",25-095,2000.0,7.7,288,9,41,112,141,27,286,29,12,41.4,15,51.7,146,856,328,12,10,3,32,14,171,62,possession
+GER-Bundesliga,2024,Holstein Kiel,John Tolkin,USA,"DF,FW",22-254,2002.0,3.0,184,11,63,81,41,3,184,1,0,0.0,1,100.0,57,261,136,5,2,0,3,2,79,6,possession
+GER-Bundesliga,2024,Holstein Kiel,Lasse Rosenboom,GER,DF,23-082,2002.0,13.9,580,56,237,227,120,30,580,13,4,30.8,8,61.5,206,1082,450,15,10,1,27,10,242,31,possession
+GER-Bundesliga,2024,Holstein Kiel,Lewis Holtby,GER,MF,34-205,1990.0,13.1,809,42,240,408,166,13,809,15,7,46.7,7,46.7,358,1496,651,13,10,1,13,6,464,32,possession
+GER-Bundesliga,2024,Holstein Kiel,Magnus Knudsen,NOR,MF,23-300,2001.0,17.5,835,52,276,466,98,8,835,11,7,63.6,4,36.4,400,1985,906,14,10,2,21,9,523,22,possession
+GER-Bundesliga,2024,Holstein Kiel,Marco Komenda,CRO,DF,28-136,1996.0,13.8,844,105,429,364,52,9,844,1,1,100.0,0,0.0,411,1774,1080,13,8,1,3,0,552,12,possession
+GER-Bundesliga,2024,Holstein Kiel,Marko Ivezić,SRB,DF,23-130,2001.0,15.4,981,144,545,414,30,13,981,7,4,57.1,2,28.6,492,2209,1032,3,6,0,15,7,614,8,possession
+GER-Bundesliga,2024,Holstein Kiel,Marvin Schulz,GER,"DF,MF",30-086,1995.0,3.0,202,19,82,92,30,1,202,3,1,33.3,1,33.3,88,493,272,4,4,1,7,2,106,1,possession
+GER-Bundesliga,2024,Holstein Kiel,Max Geschwill,GER,DF,23-278,2001.0,13.5,797,71,390,340,72,13,797,5,2,40.0,3,60.0,369,1535,746,5,4,0,5,2,465,16,possession
+GER-Bundesliga,2024,Holstein Kiel,Nicolai Remberg,GER,MF,24-296,2000.0,21.9,1111,99,343,652,130,19,1111,16,4,25.0,9,56.3,457,2231,1042,21,17,0,20,15,621,31,possession
+GER-Bundesliga,2024,Holstein Kiel,Patrick Erras,GER,DF,30-080,1995.0,9.2,622,124,357,242,23,14,622,0,0,,0,,282,1063,596,3,1,0,3,0,413,1,possession
+GER-Bundesliga,2024,Holstein Kiel,Phil Harres,GER,FW,23-017,2002.0,15.5,430,18,50,239,145,51,430,22,5,22.7,15,68.2,219,850,302,8,12,7,58,24,289,63,possession
+GER-Bundesliga,2024,Holstein Kiel,Shuto Machino,JPN,"FW,MF",25-193,1999.0,16.9,710,21,107,311,296,48,709,15,9,60.0,4,26.7,349,1518,712,22,13,10,36,18,459,85,possession
+GER-Bundesliga,2024,Holstein Kiel,Steven Skrzybski,GER,"FW,MF",32-144,1992.0,10.6,449,8,62,225,171,36,448,20,12,60.0,8,40.0,230,975,441,14,12,4,27,17,294,52,possession
+GER-Bundesliga,2024,Holstein Kiel,Thomas Dähne,GER,GK,31-097,1994.0,3.0,149,123,146,3,0,0,149,0,0,,0,,83,329,147,0,0,0,0,0,79,0,possession
+GER-Bundesliga,2024,Holstein Kiel,Timo Becker,GER,DF,28-017,1997.0,21.7,1074,104,539,428,122,19,1074,20,8,40.0,12,60.0,484,2859,1486,26,25,1,22,9,562,35,possession
+GER-Bundesliga,2024,Holstein Kiel,Timon Weiner,GER,GK,26-083,1999.0,25.0,1068,936,1064,4,0,0,1068,0,0,,0,,540,2561,1144,0,0,0,0,0,531,0,possession
+GER-Bundesliga,2024,Holstein Kiel,Tymoteusz Puchacz,POL,DF,26-078,1999.0,4.4,247,15,74,94,87,2,247,19,9,47.4,8,42.1,109,703,353,13,11,0,8,5,125,30,possession
+GER-Bundesliga,2024,Leverkusen,Aleix García,ESP,MF,27-287,1997.0,13.7,1319,39,195,735,394,11,1319,5,4,80.0,1,20.0,676,2916,1329,19,30,1,7,2,1027,42,possession
+GER-Bundesliga,2024,Leverkusen,Amine Adli,MAR,"MF,FW",24-336,2000.0,5.9,354,4,32,113,216,42,354,25,12,48.0,12,48.0,190,1109,624,28,17,9,17,5,271,83,possession
+GER-Bundesliga,2024,Leverkusen,Arthur,BRA,"DF,FW",22-025,2003.0,6.0,362,13,74,154,137,10,362,16,3,18.8,13,81.3,160,788,388,9,8,2,11,4,214,44,possession
+GER-Bundesliga,2024,Leverkusen,Edmond Tapsoba,BFA,DF,26-068,1999.0,22.4,1796,114,548,1043,217,21,1796,17,11,64.7,6,35.3,1100,5700,3244,42,35,1,10,5,1275,16,possession
+GER-Bundesliga,2024,Leverkusen,Emi Buendía,ARG,"MF,FW",28-107,1996.0,1.5,130,0,12,73,46,7,130,8,4,50.0,2,25.0,76,242,102,2,2,1,8,6,102,17,possession
+GER-Bundesliga,2024,Leverkusen,Exequiel Palacios,ARG,MF,26-188,1998.0,9.2,857,13,98,483,278,10,857,10,6,60.0,4,40.0,508,1648,625,6,14,1,13,15,678,32,possession
+GER-Bundesliga,2024,Leverkusen,Florian Wirtz,GER,"MF,FW",21-343,2003.0,20.8,1665,7,96,622,969,118,1661,139,73,52.5,62,44.6,966,5700,2930,103,59,46,43,39,1315,246,possession
+GER-Bundesliga,2024,Leverkusen,Granit Xhaka,SUI,MF,32-196,1992.0,27.2,2565,64,375,1585,614,13,2565,14,6,42.9,8,57.1,1386,5030,2502,33,44,0,14,12,1998,60,possession
+GER-Bundesliga,2024,Leverkusen,Jeanuël Belocian,FRA,"DF,MF",20-053,2005.0,0.8,44,2,9,20,15,1,44,1,1,100.0,0,0.0,16,89,39,0,2,0,2,0,32,1,possession
+GER-Bundesliga,2024,Leverkusen,Jeremie Frimpong,NED,"DF,MF",24-122,2000.0,21.8,1007,18,113,338,565,99,1007,69,20,29.0,45,65.2,573,3582,2034,85,36,30,36,23,687,230,possession
+GER-Bundesliga,2024,Leverkusen,Jonas Hofmann,GER,"MF,DF",32-271,1992.0,2.7,153,2,14,63,77,13,153,3,2,66.7,1,33.3,84,418,172,3,3,1,5,1,126,21,possession
+GER-Bundesliga,2024,Leverkusen,Jonathan Tah,GER,DF,29-059,1996.0,27.0,2194,178,729,1351,120,37,2194,3,2,66.7,1,33.3,1305,6890,3895,13,17,0,12,6,1599,8,possession
+GER-Bundesliga,2024,Leverkusen,Lukáš Hrádecký,FIN,GK,35-138,1989.0,25.0,821,667,814,8,0,0,821,0,0,,0,,471,2544,1422,0,0,0,0,0,439,0,possession
+GER-Bundesliga,2024,Leverkusen,Mario Hermoso,ESP,DF,29-297,1995.0,3.3,288,28,84,165,39,6,288,5,3,60.0,2,40.0,147,495,265,2,8,0,3,1,183,3,possession
+GER-Bundesliga,2024,Leverkusen,Martin Terrier,FRA,"MF,FW",28-038,1997.0,6.5,250,3,13,107,131,35,250,4,2,50.0,2,50.0,129,578,276,11,4,4,11,6,205,35,possession
+GER-Bundesliga,2024,Leverkusen,Matej Kovar,CZE,GK,24-329,2000.0,3.0,91,76,91,0,0,0,91,0,0,,0,,59,289,114,0,0,0,0,0,48,0,possession
+GER-Bundesliga,2024,Leverkusen,Nathan Tella,NGA,"MF,FW",25-280,1999.0,11.6,425,4,29,165,235,54,425,47,19,40.4,22,46.8,256,1409,656,29,12,10,36,14,316,100,possession
+GER-Bundesliga,2024,Leverkusen,Nordi Mukiele,FRA,DF,27-161,1997.0,10.0,725,27,184,407,141,22,725,17,9,52.9,7,41.2,363,1750,992,20,14,6,10,3,441,28,possession
+GER-Bundesliga,2024,Leverkusen,Patrik Schick,CZE,FW,29-077,1996.0,13.9,468,12,39,197,235,91,468,20,8,40.0,11,55.0,258,852,208,5,2,5,31,23,362,85,possession
+GER-Bundesliga,2024,Leverkusen,Piero Hincapié,ECU,DF,23-092,2002.0,24.5,1946,159,636,1021,295,43,1946,12,2,16.7,8,66.7,1100,5789,3332,43,42,6,15,4,1353,65,possession
+GER-Bundesliga,2024,Leverkusen,Robert Andrich,GER,"MF,DF",30-201,1994.0,15.5,959,40,209,569,185,16,959,5,2,40.0,1,20.0,456,1871,792,7,13,1,6,1,683,14,possession
+GER-Bundesliga,2024,Leverkusen,Victor Boniface,NGA,FW,24-109,2000.0,11.0,390,5,24,162,206,75,389,34,14,41.2,19,55.9,200,1092,460,24,11,14,43,29,311,57,possession
+GER-Bundesliga,2024,Leverkusen,Álex Grimaldo,ESP,"DF,MF",29-203,1995.0,24.2,1953,43,286,739,942,76,1953,42,17,40.5,21,50.0,1089,4830,2598,70,45,19,46,12,1380,218,possession
+GER-Bundesliga,2024,Mainz 05,Andreas Hanche-Olsen,NOR,DF,28-084,1997.0,10.1,551,78,299,228,27,12,551,1,1,100.0,0,0.0,249,999,424,2,3,0,6,2,310,5,possession
+GER-Bundesliga,2024,Mainz 05,Anthony Caci,FRA,DF,27-284,1997.0,24.9,1644,63,340,743,577,50,1644,57,26,45.6,27,47.4,780,3067,1300,35,20,12,37,22,949,122,possession
+GER-Bundesliga,2024,Mainz 05,Armindo Sieb,GER,"FW,MF",22-053,2003.0,8.2,315,4,31,142,144,42,315,31,11,35.5,19,61.3,171,1083,479,25,7,7,32,21,222,57,possession
+GER-Bundesliga,2024,Mainz 05,Arnaud Nordin,FRA,DF,26-298,1998.0,0.3,23,0,2,8,13,1,23,1,0,0.0,1,100.0,11,41,13,0,0,0,1,2,15,7,possession
+GER-Bundesliga,2024,Mainz 05,Aymen Barkok,MAR,MF,26-325,1998.0,0.8,47,2,9,22,17,1,47,3,0,0.0,2,66.7,22,139,75,2,0,0,0,0,29,6,possession
+GER-Bundesliga,2024,Mainz 05,Danny da Costa,GER,DF,31-272,1993.0,17.0,1132,86,455,602,85,2,1132,14,6,42.9,8,57.1,626,2614,1163,14,11,2,18,5,693,17,possession
+GER-Bundesliga,2024,Mainz 05,Dominik Kohr,GER,"DF,MF",31-070,1994.0,22.7,1522,193,725,678,126,20,1522,9,5,55.6,4,44.4,733,3282,1473,23,16,4,19,7,897,28,possession
+GER-Bundesliga,2024,Mainz 05,Gabriel Vidovic,CRO,MF,21-131,2003.0,0.0,8,0,0,4,4,1,8,0,0,,0,,3,13,5,0,0,0,1,0,5,2,possession
+GER-Bundesliga,2024,Mainz 05,Hong Hyunseok,KOR,MF,25-299,1999.0,5.2,239,4,32,129,83,15,239,8,3,37.5,3,37.5,115,555,285,7,6,1,9,12,153,26,possession
+GER-Bundesliga,2024,Mainz 05,Jonathan Burkardt,GER,FW,24-274,2000.0,18.5,642,16,43,311,291,91,641,32,13,40.6,19,59.4,353,1516,600,25,22,9,60,25,455,127,possession
+GER-Bundesliga,2024,Mainz 05,Kaishu Sano,JPN,MF,24-102,2000.0,27.8,1488,52,341,885,278,27,1488,41,27,65.9,13,31.7,705,3662,1713,36,30,5,37,26,841,40,possession
+GER-Bundesliga,2024,Mainz 05,Karim Onisiwo,AUT,"MF,FW",33-025,1992.0,1.2,45,1,5,16,24,5,45,2,1,50.0,1,50.0,23,104,18,1,0,0,5,2,28,8,possession
+GER-Bundesliga,2024,Mainz 05,Lee Jae-sung,KOR,MF,32-244,1992.0,24.0,1140,36,191,528,434,98,1140,29,11,37.9,15,51.7,546,1949,778,23,19,7,64,22,756,132,possession
+GER-Bundesliga,2024,Mainz 05,Lennard Maloney,USA,MF,25-185,1999.0,0.3,22,3,9,11,2,0,22,0,0,,0,,4,24,13,1,0,0,1,0,5,0,possession
+GER-Bundesliga,2024,Mainz 05,Maxim Leitsch,GER,DF,26-328,1998.0,7.5,473,63,214,224,35,13,473,1,0,0.0,0,0.0,173,759,329,4,5,0,8,3,240,5,possession
+GER-Bundesliga,2024,Mainz 05,Moritz Jenz,GER,DF,25-346,1999.0,15.8,1002,150,532,442,31,17,1002,5,2,40.0,2,40.0,467,2019,852,1,1,0,7,0,545,3,possession
+GER-Bundesliga,2024,Mainz 05,Nadiem Amiri,GER,MF,28-166,1996.0,22.5,1718,40,291,970,478,41,1716,52,25,48.1,24,46.2,915,4322,1984,40,32,10,38,22,1077,55,possession
+GER-Bundesliga,2024,Mainz 05,Nelson Weiper,GER,"FW,MF",20-025,2005.0,5.7,213,3,14,95,106,35,213,17,8,47.1,9,52.9,99,486,169,7,5,4,39,8,147,46,possession
+GER-Bundesliga,2024,Mainz 05,Nikolas Veratschnig,AUT,"DF,FW",22-077,2003.0,1.3,78,2,11,26,41,9,78,7,2,28.6,5,71.4,36,162,83,4,2,2,1,1,39,15,possession
+GER-Bundesliga,2024,Mainz 05,Paul Nebel,GER,MF,22-183,2002.0,21.1,1215,27,156,508,565,56,1215,52,19,36.5,30,57.7,703,3752,1521,58,37,16,56,34,852,181,possession
+GER-Bundesliga,2024,Mainz 05,Phillipp Mwene,AUT,DF,31-072,1994.0,25.2,1365,65,329,555,492,45,1365,47,21,44.7,23,48.9,674,3859,1803,56,39,11,41,23,785,123,possession
+GER-Bundesliga,2024,Mainz 05,Robin Zentner,GER,GK,30-165,1994.0,28.0,1143,846,1114,28,1,1,1143,0,0,,0,,661,3196,1755,0,0,0,2,0,584,0,possession
+GER-Bundesliga,2024,Mainz 05,Silvan Widmer,SUI,DF,32-037,1993.0,4.4,287,21,74,118,96,9,287,4,0,0.0,4,100.0,113,408,99,2,3,1,6,3,149,32,possession
+GER-Bundesliga,2024,Mainz 05,Stefan Bell,GER,DF,33-230,1991.0,13.1,781,119,433,322,30,24,781,5,1,20.0,3,60.0,339,1534,759,7,1,1,12,3,395,4,possession
+GER-Bundesliga,2024,RB Leipzig,Amadou Haidara,MLI,MF,27-070,1998.0,13.3,1008,55,237,636,140,11,1008,10,7,70.0,3,30.0,471,1660,666,6,5,0,6,7,643,20,possession
+GER-Bundesliga,2024,RB Leipzig,André Silva,POR,"FW,MF",29-156,1995.0,1.5,65,3,11,22,34,10,64,0,0,,0,,35,291,152,6,1,3,6,1,39,11,possession
+GER-Bundesliga,2024,RB Leipzig,Antonio Nusa,NOR,"MF,DF",19-359,2005.0,16.0,744,19,134,295,327,48,744,82,37,45.1,37,45.1,438,2861,1487,51,34,24,35,28,509,111,possession
+GER-Bundesliga,2024,RB Leipzig,Arthur Vermeeren,BEL,MF,20-063,2005.0,13.7,866,32,206,523,147,4,866,12,6,50.0,6,50.0,414,1565,663,8,11,1,17,12,580,15,possession
+GER-Bundesliga,2024,RB Leipzig,Assan Ouedraogo,GER,MF,18-337,2006.0,0.6,30,0,5,15,12,4,30,3,0,0.0,3,100.0,23,193,70,2,0,3,2,6,26,2,possession
+GER-Bundesliga,2024,RB Leipzig,Benjamin Henrichs,GER,DF,28-047,1997.0,10.4,606,42,189,269,154,8,606,13,9,69.2,4,30.8,290,1285,438,9,7,0,9,6,345,55,possession
+GER-Bundesliga,2024,RB Leipzig,Benjamin Šeško,SVN,"FW,MF",21-315,2003.0,22.1,765,23,81,403,296,76,764,64,34,53.1,28,43.8,375,2143,976,35,24,12,52,48,587,119,possession
+GER-Bundesliga,2024,RB Leipzig,Castello Lukeba,FRA,DF,22-115,2002.0,12.5,1081,96,429,594,67,9,1081,13,8,61.5,3,23.1,638,2621,1449,10,9,0,17,5,779,7,possession
+GER-Bundesliga,2024,RB Leipzig,Christoph Baumgartner,AUT,"MF,FW",25-253,1999.0,15.1,755,39,142,376,251,56,755,35,15,42.9,15,42.9,364,2117,1184,28,27,5,32,25,469,73,possession
+GER-Bundesliga,2024,RB Leipzig,David Raum,GER,DF,26-354,1998.0,17.8,1253,51,340,464,461,54,1253,25,9,36.0,12,48.0,513,2273,1250,33,18,4,14,9,707,118,possession
+GER-Bundesliga,2024,RB Leipzig,El Chadaille Bitshiabu,FRA,DF,19-330,2005.0,8.0,637,84,265,337,38,10,637,1,1,100.0,0,0.0,315,1226,612,3,2,1,9,1,403,2,possession
+GER-Bundesliga,2024,RB Leipzig,Elif Elmas,MKD,MF,25-199,1999.0,0.5,28,1,10,13,5,2,28,1,1,100.0,0,0.0,13,33,11,0,0,0,0,2,17,2,possession
+GER-Bundesliga,2024,RB Leipzig,Faik Sakar,GER,MF,17-087,2008.0,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,possession
+GER-Bundesliga,2024,RB Leipzig,Kevin Kampl,SVN,MF,34-184,1990.0,15.6,1211,31,221,750,250,12,1211,19,13,68.4,6,31.6,723,3676,1899,17,32,2,12,12,883,30,possession
+GER-Bundesliga,2024,RB Leipzig,Kosta Nedeljković,SRB,DF,19-116,2005.0,1.5,128,5,20,46,62,4,128,0,0,,0,,68,327,188,7,6,0,1,0,83,20,possession
+GER-Bundesliga,2024,RB Leipzig,Loïs Openda,BEL,"FW,MF",25-054,2000.0,23.1,764,12,46,313,410,138,763,58,16,27.6,29,50.0,430,2366,1202,50,19,32,71,25,603,192,possession
+GER-Bundesliga,2024,RB Leipzig,Lukas Klostermann,GER,DF,28-312,1996.0,15.4,1148,125,474,568,110,12,1148,4,3,75.0,1,25.0,604,2367,1154,15,13,1,8,0,768,26,possession
+GER-Bundesliga,2024,RB Leipzig,Lutsharel Geertruida,NED,DF,24-267,2000.0,14.6,1063,48,320,643,109,15,1063,11,5,45.5,6,54.5,540,2027,1062,17,10,1,12,4,707,29,possession
+GER-Bundesliga,2024,RB Leipzig,Maarten Vandevoordt,BEL,GK,23-044,2002.0,2.5,83,64,82,1,0,0,83,0,0,,0,,42,171,95,0,0,0,0,0,33,0,possession
+GER-Bundesliga,2024,RB Leipzig,Mohamed Simakan,FRA,DF,24-343,2000.0,0.6,52,0,9,35,9,2,52,1,0,0.0,0,0.0,27,130,70,3,1,0,0,0,39,4,possession
+GER-Bundesliga,2024,RB Leipzig,Nicolas Seiwald,AUT,"MF,DF",23-342,2001.0,17.2,1226,81,343,726,165,5,1226,7,4,57.1,3,42.9,584,2190,1075,15,15,1,5,7,779,21,possession
+GER-Bundesliga,2024,RB Leipzig,Péter Gulácsi,HUN,GK,34-340,1990.0,25.5,852,699,834,19,0,0,852,0,0,,0,,455,2076,1065,0,0,0,1,0,368,0,possession
+GER-Bundesliga,2024,RB Leipzig,Ridle Baku,GER,"DF,MF",27-003,1998.0,10.1,572,28,128,242,206,26,572,18,13,72.2,3,16.7,267,1244,648,18,15,3,20,11,332,68,possession
+GER-Bundesliga,2024,RB Leipzig,Tidiam Gomis,FRA,"MF,DF",18-246,2006.0,0.7,40,0,5,10,26,6,40,2,1,50.0,0,0.0,16,140,85,2,1,1,1,1,28,8,possession
+GER-Bundesliga,2024,RB Leipzig,Viggo Gebel,GER,MF,17-140,2007.0,0.2,6,0,0,3,3,1,6,1,0,0.0,1,100.0,5,18,4,0,0,0,1,0,5,3,possession
+GER-Bundesliga,2024,RB Leipzig,Willi Orban,HUN,DF,32-159,1992.0,24.7,2101,268,954,1061,97,45,2101,4,3,75.0,0,0.0,1083,5180,2827,15,6,2,15,4,1320,8,possession
+GER-Bundesliga,2024,RB Leipzig,Xaver Schlager,AUT,MF,27-195,1997.0,2.0,123,5,30,80,14,1,123,1,1,100.0,0,0.0,56,310,225,5,0,0,3,2,89,2,possession
+GER-Bundesliga,2024,RB Leipzig,Xavi Simons,NED,MF,21-355,2003.0,19.1,1255,9,113,634,532,63,1255,75,25,33.3,43,57.3,700,3972,2061,63,50,15,63,47,900,143,possession
+GER-Bundesliga,2024,RB Leipzig,Yussuf Poulsen,DEN,"FW,MF",30-300,1994.0,3.3,171,10,31,75,66,25,171,6,1,16.7,4,66.7,67,289,87,2,4,0,10,9,116,22,possession
+GER-Bundesliga,2024,St. Pauli,Abdoulie Ceesay,GAM,FW,21-096,2004.0,0.7,26,0,2,13,11,2,26,0,0,,0,,12,32,3,0,0,0,4,3,18,8,possession
+GER-Bundesliga,2024,St. Pauli,Adam Dźwigała,POL,"DF,MF",29-198,1995.0,2.8,187,24,73,84,30,6,187,2,1,50.0,1,50.0,65,229,108,1,0,0,2,2,95,4,possession
+GER-Bundesliga,2024,St. Pauli,Andreas Albers,DEN,FW,35-019,1990.0,0.7,44,0,2,17,26,8,44,3,2,66.7,0,0.0,24,129,18,1,0,0,4,6,40,6,possession
+GER-Bundesliga,2024,St. Pauli,Carlo Boukhalfa,MAR,MF,25-343,1999.0,13.7,499,21,91,244,167,23,499,24,11,45.8,13,54.2,220,994,371,10,6,3,26,17,297,32,possession
+GER-Bundesliga,2024,St. Pauli,Connor Metcalfe,AUS,MF,25-157,1999.0,3.0,130,7,28,66,39,2,130,4,2,50.0,1,25.0,51,275,152,6,5,2,4,0,68,9,possession
+GER-Bundesliga,2024,St. Pauli,Danel Sinani,LUX,"MF,FW",28-006,1997.0,8.4,435,6,40,195,203,21,435,14,7,50.0,5,35.7,196,884,333,8,6,4,22,10,271,39,possession
+GER-Bundesliga,2024,St. Pauli,David Nemeth,AUT,DF,24-024,2001.0,17.7,1048,131,526,489,40,5,1048,7,3,42.9,4,57.1,566,2918,1442,11,6,0,8,3,650,1,possession
+GER-Bundesliga,2024,St. Pauli,Elias Saad,TUN,"FW,MF",25-105,1999.0,9.2,382,3,36,152,201,40,382,51,15,29.4,24,47.1,275,1735,766,27,20,13,48,34,293,71,possession
+GER-Bundesliga,2024,St. Pauli,Eric Smith,SWE,"DF,MF",28-093,1997.0,25.4,1608,143,573,785,265,6,1608,3,2,66.7,1,33.3,702,3197,1507,14,14,0,11,4,907,11,possession
+GER-Bundesliga,2024,St. Pauli,Erik Ahlstrand,SWE,"FW,MF",23-179,2001.0,0.5,22,0,2,10,10,2,22,0,0,,0,,12,68,26,1,2,0,3,0,14,3,possession
+GER-Bundesliga,2024,St. Pauli,Finley Stevens,WAL,DF,22-001,2003.0,0.0,2,0,0,1,1,0,2,0,0,,0,,1,3,2,0,0,0,0,0,1,0,possession
+GER-Bundesliga,2024,St. Pauli,Hauke Wahl,GER,DF,30-361,1994.0,27.0,1702,184,758,865,91,24,1702,8,6,75.0,2,25.0,854,5120,3089,26,14,1,10,7,1061,9,possession
+GER-Bundesliga,2024,St. Pauli,Jackson Irvine,AUS,MF,32-035,1993.0,28.0,1257,77,321,678,274,71,1257,22,8,36.4,13,59.1,452,1735,876,19,18,5,40,13,693,56,possession
+GER-Bundesliga,2024,St. Pauli,James Sands,USA,"MF,DF",24-279,2000.0,5.0,259,12,63,148,49,6,259,1,1,100.0,0,0.0,119,413,146,0,0,0,3,3,152,6,possession
+GER-Bundesliga,2024,St. Pauli,Johannes Eggestein,GER,FW,26-338,1998.0,20.3,703,6,44,366,298,76,701,17,7,41.2,10,58.8,376,1658,615,25,17,8,50,28,533,135,possession
+GER-Bundesliga,2024,St. Pauli,Karol Mets,EST,DF,31-330,1993.0,10.0,736,99,360,346,32,8,736,1,0,0.0,1,100.0,343,1424,736,5,6,0,4,0,466,2,possession
+GER-Bundesliga,2024,St. Pauli,Lars Ritzka,GER,"DF,MF",26-339,1998.0,8.6,492,33,174,221,98,5,492,1,0,0.0,1,100.0,138,569,345,7,5,0,5,4,226,29,possession
+GER-Bundesliga,2024,St. Pauli,Manolis Saliakas,GRE,"MF,DF",28-211,1996.0,20.0,1281,60,359,563,364,26,1281,8,3,37.5,5,62.5,552,2103,1168,27,32,2,4,5,725,71,possession
+GER-Bundesliga,2024,St. Pauli,Maurides,BRA,FW,31-032,1994.0,0.0,2,0,0,0,2,0,2,0,0,,0,,1,1,0,0,0,0,0,0,2,0,possession
+GER-Bundesliga,2024,St. Pauli,Morgan Guilavogui,GUI,"FW,MF",27-032,1998.0,14.9,666,24,89,294,291,78,666,37,16,43.2,17,45.9,296,1593,747,29,21,16,43,19,443,101,possession
+GER-Bundesliga,2024,St. Pauli,Nikola Vasilj,BIH,GK,29-130,1995.0,28.0,1268,888,1250,19,0,0,1268,1,1,100.0,0,0.0,783,3912,2251,0,0,0,0,0,783,0,possession
+GER-Bundesliga,2024,St. Pauli,Noah Weißhaupt,GER,"FW,MF",23-203,2001.0,10.2,409,5,52,149,215,33,409,31,12,38.7,13,41.9,243,1576,819,33,23,11,29,9,277,76,possession
+GER-Bundesliga,2024,St. Pauli,Oladapo Afolayan,ENG,"FW,MF",27-058,1998.0,15.9,653,12,75,274,316,55,653,85,43,50.6,36,42.4,433,3067,1278,50,40,25,48,38,484,95,possession
+GER-Bundesliga,2024,St. Pauli,Philipp Treu,GER,"MF,DF",24-129,2000.0,26.4,1563,76,470,666,447,35,1563,28,9,32.1,14,50.0,682,3683,1812,51,34,8,28,10,813,103,possession
+GER-Bundesliga,2024,St. Pauli,Robert Wagner,GER,MF,21-271,2003.0,4.0,162,6,32,97,34,3,162,2,1,50.0,1,50.0,52,198,70,1,2,0,3,6,85,9,possession
+GER-Bundesliga,2024,St. Pauli,Scott Banks,SCO,"FW,MF",23-197,2001.0,1.1,45,2,11,11,24,6,45,7,2,28.6,3,42.9,22,141,59,3,1,3,0,2,25,8,possession
+GER-Bundesliga,2024,St. Pauli,Siebe Van Der Heyden,BEL,"DF,MF",26-316,1998.0,6.4,369,34,157,166,47,5,369,3,0,0.0,3,100.0,170,704,305,4,4,0,3,3,210,14,possession
+GER-Bundesliga,2024,Stuttgart,Alexander Nübel,GER,GK,28-193,1996.0,28.0,1158,957,1151,9,0,0,1158,1,1,100.0,0,0.0,690,3124,1898,0,0,0,1,0,672,0,possession
+GER-Bundesliga,2024,Stuttgart,Ameen Al-Dakhil,BEL,DF,23-036,2002.0,4.8,407,67,217,185,6,0,407,0,0,,0,,239,1305,616,1,0,0,3,0,264,0,possession
+GER-Bundesliga,2024,Stuttgart,Angelo Stiller,GER,MF,24-007,2001.0,26.3,2300,72,446,1409,456,27,2300,26,19,73.1,7,26.9,1270,5615,2980,30,28,3,16,22,1727,51,possession
+GER-Bundesliga,2024,Stuttgart,Anrie Chase,JPN,DF,21-018,2004.0,8.2,622,65,253,334,40,4,622,5,2,40.0,3,60.0,334,1209,546,6,7,0,4,1,453,2,possession
+GER-Bundesliga,2024,Stuttgart,Anthony Rouault,FRA,DF,23-317,2001.0,13.5,1014,125,512,476,33,11,1014,5,2,40.0,3,60.0,573,2545,1121,6,6,0,4,4,697,4,possession
+GER-Bundesliga,2024,Stuttgart,Atakan Karazor,,MF,28-180,1996.0,23.2,1669,67,353,1049,278,16,1669,18,11,61.1,3,16.7,830,3274,1356,13,23,1,27,13,1100,23,possession
+GER-Bundesliga,2024,Stuttgart,Chris Führich,GER,"MF,FW",27-092,1998.0,17.2,958,17,95,350,525,89,958,71,33,46.5,35,49.3,589,4425,2243,83,46,43,28,21,697,161,possession
+GER-Bundesliga,2024,Stuttgart,Dan-Axel Zagadou,FRA,"DF,MF",25-312,1999.0,0.3,12,1,10,2,0,0,12,0,0,,0,,6,11,1,0,1,0,0,0,9,0,possession
+GER-Bundesliga,2024,Stuttgart,Deniz Undav,GER,"FW,MF",28-266,1996.0,14.1,554,8,46,267,249,85,554,18,6,33.3,11,61.1,321,1490,701,28,12,11,42,24,433,99,possession
+GER-Bundesliga,2024,Stuttgart,El Bilal Touré,MLI,"FW,MF",23-190,2001.0,4.0,137,1,6,49,85,23,137,6,3,50.0,3,50.0,72,379,168,6,5,4,10,2,110,25,possession
+GER-Bundesliga,2024,Stuttgart,Enzo Millot,FRA,"MF,FW",22-268,2002.0,18.1,1220,7,159,657,415,59,1219,61,28,45.9,32,52.5,712,3752,1550,37,29,10,45,32,927,113,possession
+GER-Bundesliga,2024,Stuttgart,Ermedin Demirović,BIH,FW,27-017,1998.0,17.1,495,7,39,210,248,99,493,20,3,15.0,17,85.0,256,1179,511,18,11,6,30,22,371,96,possession
+GER-Bundesliga,2024,Stuttgart,Fabian Rieder,SUI,"MF,FW",23-054,2002.0,8.4,435,2,49,191,205,16,435,18,9,50.0,9,50.0,219,1232,524,17,13,3,21,11,278,49,possession
+GER-Bundesliga,2024,Stuttgart,Finn Jeltsch,GER,DF,18-268,2006.0,4.2,280,23,117,143,22,2,280,0,0,,0,,143,975,493,4,4,0,7,1,164,4,possession
+GER-Bundesliga,2024,Stuttgart,Frans Krätzig,GER,DF,22-087,2003.0,0.6,48,4,12,22,14,0,48,0,0,,0,,30,85,39,0,0,0,1,0,33,2,possession
+GER-Bundesliga,2024,Stuttgart,Jacob Bruun Larsen,DEN,MF,26-204,1998.0,4.0,179,2,19,69,91,22,179,18,7,38.9,10,55.6,105,733,354,17,5,9,11,1,125,34,possession
+GER-Bundesliga,2024,Stuttgart,Jamie Leweling,GER,"MF,FW",24-044,2001.0,15.5,703,16,87,271,364,61,703,76,38,50.0,31,40.8,466,3748,1712,51,32,17,38,32,515,140,possession
+GER-Bundesliga,2024,Stuttgart,Jarzinho Malanga,GER,DF,18-275,2006.0,0.0,3,0,0,0,3,0,3,0,0,,0,,1,0,0,0,0,0,1,0,3,2,possession
+GER-Bundesliga,2024,Stuttgart,Josha Vagnoman,GER,"DF,MF",24-121,2000.0,18.9,1008,59,296,450,267,32,1008,27,8,29.6,16,59.3,481,2313,892,23,17,10,25,19,610,83,possession
+GER-Bundesliga,2024,Stuttgart,Julian Chabot,GER,DF,27-058,1998.0,20.3,1654,225,840,763,58,24,1654,3,2,66.7,1,33.3,934,4276,2115,6,6,1,8,1,1079,2,possession
+GER-Bundesliga,2024,Stuttgart,Justin Diehl,GER,"FW,DF",20-135,2004.0,1.2,84,1,5,27,53,9,84,13,3,23.1,10,76.9,55,402,200,5,3,3,2,3,60,20,possession
+GER-Bundesliga,2024,Stuttgart,Leonidas Stergiou,SUI,DF,23-039,2002.0,6.9,469,22,132,244,96,3,469,5,3,60.0,2,40.0,242,1093,496,8,8,2,5,2,272,13,possession
+GER-Bundesliga,2024,Stuttgart,Luca Jaquez,SUI,DF,21-313,2003.0,1.0,50,3,32,17,1,0,50,0,0,,0,,30,102,64,0,0,0,0,0,33,0,possession
+GER-Bundesliga,2024,Stuttgart,Maximilian Mittelstädt,GER,DF,28-024,1997.0,21.7,1810,95,453,878,486,23,1810,30,15,50.0,12,40.0,882,4022,1982,45,30,2,21,7,1118,114,possession
+GER-Bundesliga,2024,Stuttgart,Nick Woltemade,GER,"FW,MF",23-056,2002.0,14.0,630,14,50,274,314,122,628,60,28,46.7,30,50.0,365,1832,794,23,26,17,68,41,500,103,possession
+GER-Bundesliga,2024,Stuttgart,Pascal Stenzel,GER,DF,29-022,1996.0,1.5,125,5,41,52,33,3,125,0,0,,0,,63,192,84,1,1,0,1,0,68,6,possession
+GER-Bundesliga,2024,Stuttgart,Ramon Hendriks,NED,DF,23-267,2001.0,11.1,682,53,276,324,83,11,682,7,4,57.1,3,42.9,319,1512,647,8,5,2,6,4,393,22,possession
+GER-Bundesliga,2024,Stuttgart,Yannik Keitel,GER,MF,25-055,2000.0,2.7,199,6,43,127,32,3,199,1,1,100.0,0,0.0,93,367,165,2,0,1,2,1,145,2,possession
+GER-Bundesliga,2024,Union Berlin,Alexander Schwolow,GER,GK,32-313,1992.0,5.0,168,135,168,0,0,0,168,0,0,,0,,113,511,269,0,0,0,0,0,98,0,possession
+GER-Bundesliga,2024,Union Berlin,Aljoscha Kemlein,GER,MF,20-252,2004.0,10.2,549,16,117,331,105,18,549,9,6,66.7,3,33.3,260,952,437,5,5,1,11,1,329,19,possession
+GER-Bundesliga,2024,Union Berlin,Andrej Ilic,SRB,FW,25-008,2000.0,6.2,176,7,18,77,81,28,175,3,0,0.0,3,100.0,83,249,49,2,2,2,20,7,120,40,possession
+GER-Bundesliga,2024,Union Berlin,András Schäfer,HUN,MF,25-363,1999.0,12.3,616,29,133,318,170,18,616,23,10,43.5,11,47.8,275,1270,498,14,13,2,17,6,311,29,possession
+GER-Bundesliga,2024,Union Berlin,Benedict Hollerbach,GER,"FW,MF",23-329,2001.0,23.1,915,14,109,356,471,121,915,98,36,36.7,53,54.1,587,4506,2164,84,55,46,87,79,650,168,possession
+GER-Bundesliga,2024,Union Berlin,Christopher Trimmel,AUT,"DF,MF",38-046,1987.0,14.7,771,71,223,348,201,10,771,6,2,33.3,4,66.7,279,1190,498,14,4,2,7,5,340,35,possession
+GER-Bundesliga,2024,Union Berlin,Danilho Doekhi,NED,DF,26-285,1998.0,28.0,1393,145,658,612,131,62,1393,5,3,60.0,1,20.0,728,3290,1672,10,7,0,11,5,841,13,possession
+GER-Bundesliga,2024,Union Berlin,Diogo Leite,POR,DF,26-078,1999.0,25.6,1683,176,725,795,175,35,1683,15,10,66.7,4,26.7,792,3351,1769,20,18,0,15,6,901,16,possession
+GER-Bundesliga,2024,Union Berlin,Frederik Rønnow,DEN,GK,32-250,1992.0,23.0,812,624,800,13,1,1,812,1,1,100.0,0,0.0,477,2685,1635,0,0,0,1,0,367,0,possession
+GER-Bundesliga,2024,Union Berlin,Ivan Prtajin,CRO,FW,28-332,1996.0,1.8,78,3,6,29,43,12,78,1,1,100.0,0,0.0,38,98,23,1,0,1,6,3,55,17,possession
+GER-Bundesliga,2024,Union Berlin,Janik Haberer,GER,"MF,DF",31-009,1994.0,13.5,678,31,186,371,128,14,678,5,2,40.0,3,60.0,319,1099,443,8,3,0,9,7,378,17,possession
+GER-Bundesliga,2024,Union Berlin,Jeong Woo-yeong,KOR,"MF,FW",25-203,1999.0,14.0,621,12,79,261,296,34,621,21,12,57.1,8,38.1,386,2038,1003,32,24,6,23,16,423,93,possession
+GER-Bundesliga,2024,Union Berlin,Jordan Pefok,USA,FW,28-350,1996.0,10.1,326,23,55,157,122,43,326,13,7,53.8,6,46.2,158,535,204,3,6,0,24,17,212,40,possession
+GER-Bundesliga,2024,Union Berlin,Josip Juranović,CRO,"DF,MF",29-238,1995.0,11.0,613,32,173,244,206,7,613,22,9,40.9,8,36.4,263,1291,675,19,11,2,12,2,273,39,possession
+GER-Bundesliga,2024,Union Berlin,Jérôme Roussillon,FRA,"DF,MF",32-095,1993.0,1.4,92,9,18,41,33,5,92,3,1,33.3,2,66.7,39,176,72,2,2,1,2,1,42,7,possession
+GER-Bundesliga,2024,Union Berlin,Kevin Vogt,GER,DF,33-200,1991.0,13.3,895,129,474,423,8,1,894,2,2,100.0,0,0.0,470,2126,1111,8,2,1,5,1,527,0,possession
+GER-Bundesliga,2024,Union Berlin,Kevin Volland,GER,"FW,MF",32-255,1992.0,0.6,15,0,1,8,6,3,15,0,0,,0,,11,8,1,0,0,0,1,2,12,4,possession
+GER-Bundesliga,2024,Union Berlin,Leopold Querfeld,AUT,DF,21-112,2003.0,13.4,713,105,382,296,37,22,713,8,3,37.5,4,50.0,337,1391,564,0,1,0,3,2,375,4,possession
+GER-Bundesliga,2024,Union Berlin,Lucas Tousart,FRA,MF,27-347,1997.0,5.5,222,21,61,116,48,17,222,9,5,55.6,4,44.4,83,383,159,4,0,1,7,5,92,13,possession
+GER-Bundesliga,2024,Union Berlin,László Bénes,SVK,"MF,FW",27-214,1997.0,5.4,343,1,39,166,140,8,343,4,1,25.0,3,75.0,178,665,301,4,5,1,6,3,211,30,possession
+GER-Bundesliga,2024,Union Berlin,Marin Ljubicic,CRO,"FW,MF",23-042,2002.0,2.2,67,5,13,26,28,9,67,2,1,50.0,0,0.0,36,111,27,1,0,0,5,1,43,12,possession
+GER-Bundesliga,2024,Union Berlin,Rani Khedira,GER,MF,31-074,1994.0,24.3,1038,64,278,583,182,28,1038,9,4,44.4,5,55.6,390,1563,579,10,6,1,18,8,495,26,possession
+GER-Bundesliga,2024,Union Berlin,Robert Skov,DEN,"DF,MF",28-326,1996.0,9.5,564,19,111,261,200,23,563,17,5,29.4,11,64.7,263,1450,760,25,11,8,21,3,291,45,possession
+GER-Bundesliga,2024,Union Berlin,Robin Gosens,GER,DF,30-280,1994.0,1.0,51,1,12,20,19,1,51,0,0,,0,,17,61,37,1,2,0,2,0,26,5,possession
+GER-Bundesliga,2024,Union Berlin,Tim Skarke,GER,"FW,MF",28-216,1996.0,10.7,415,9,56,172,190,31,415,21,9,42.9,12,57.1,253,1266,521,24,11,10,31,19,295,84,possession
+GER-Bundesliga,2024,Union Berlin,Tom Rothe,GER,"DF,MF",20-164,2004.0,13.8,827,42,235,319,276,31,827,18,5,27.8,13,72.2,351,1663,718,21,11,3,21,21,407,82,possession
+GER-Bundesliga,2024,Union Berlin,Yorbe Vertessen,BEL,"MF,FW",24-093,2001.0,8.0,342,5,41,130,174,26,342,51,19,37.3,27,52.9,194,1227,503,18,14,4,28,17,227,42,possession
+GER-Bundesliga,2024,Werder Bremen,Amos Pieper,GER,DF,27-084,1998.0,10.7,682,88,361,279,43,4,682,1,1,100.0,0,0.0,342,1374,591,5,3,0,3,3,409,1,possession
+GER-Bundesliga,2024,Werder Bremen,André Silva,POR,FW,29-156,1995.0,4.1,169,4,11,73,87,26,167,13,1,7.7,9,69.2,101,527,199,6,6,4,13,9,120,28,possession
+GER-Bundesliga,2024,Werder Bremen,Anthony Jung,GER,DF,33-159,1991.0,21.0,1688,230,895,732,72,1,1688,9,7,77.8,1,11.1,1039,4721,2319,20,20,0,13,2,1161,6,possession
+GER-Bundesliga,2024,Werder Bremen,Derrick Köhn,GER,"DF,FW",26-066,1999.0,14.4,872,32,224,347,310,29,872,40,15,37.5,20,50.0,519,2384,1262,34,22,7,22,12,556,117,possession
+GER-Bundesliga,2024,Werder Bremen,Felix Agu,GER,DF,25-196,1999.0,14.0,745,40,240,313,196,28,745,23,6,26.1,15,65.2,382,1885,946,26,10,8,24,5,435,84,possession
+GER-Bundesliga,2024,Werder Bremen,Issa Kaboré,BFA,"DF,FW",23-334,2001.0,3.4,253,12,57,95,109,16,253,21,7,33.3,13,61.9,128,898,440,15,12,5,9,2,137,35,possession
+GER-Bundesliga,2024,Werder Bremen,Jens Stage,DEN,MF,28-154,1996.0,19.1,989,33,241,506,250,65,989,14,6,42.9,7,50.0,518,2062,946,21,16,5,19,7,642,71,possession
+GER-Bundesliga,2024,Werder Bremen,Julián Malatini,ARG,DF,23-315,2001.0,5.0,363,25,156,160,48,4,363,3,2,66.7,1,33.3,224,1103,521,8,8,0,3,1,245,4,possession
+GER-Bundesliga,2024,Werder Bremen,Justin Njinmah,GER,"FW,MF",24-147,2000.0,9.3,300,1,15,108,181,48,300,19,6,31.6,11,57.9,202,1154,552,25,13,10,22,6,231,90,possession
+GER-Bundesliga,2024,Werder Bremen,Keke Maximilian Topp,GER,"FW,MF",21-017,2004.0,2.7,122,2,7,38,78,27,122,9,3,33.3,5,55.6,73,343,182,9,4,3,10,13,96,25,possession
+GER-Bundesliga,2024,Werder Bremen,Leonardo Bittencourt,GER,MF,31-113,1993.0,9.9,711,7,132,404,182,17,711,4,1,25.0,2,50.0,467,2166,878,15,11,1,9,1,518,32,possession
+GER-Bundesliga,2024,Werder Bremen,Marco Friedl,AUT,DF,27-026,1998.0,18.0,1320,188,775,522,28,2,1320,6,5,83.3,1,16.7,785,3626,1513,2,4,0,8,5,804,0,possession
+GER-Bundesliga,2024,Werder Bremen,Marco Grüll,AUT,"FW,MF",26-279,1998.0,11.7,429,3,35,186,215,49,429,33,11,33.3,19,57.6,274,1396,515,20,16,8,36,38,314,82,possession
+GER-Bundesliga,2024,Werder Bremen,Marvin Ducksch,GER,FW,31-035,1994.0,21.5,864,25,69,349,455,90,862,16,5,31.3,10,62.5,414,1422,658,20,18,10,24,9,514,130,possession
+GER-Bundesliga,2024,Werder Bremen,Michael Zetterer,GER,GK,29-273,1995.0,28.0,1148,956,1137,12,0,0,1148,1,1,100.0,0,0.0,810,5382,2691,0,0,0,0,0,680,0,possession
+GER-Bundesliga,2024,Werder Bremen,Miloš Veljković,SRB,DF,29-197,1995.0,11.4,738,67,327,368,45,5,738,0,0,,0,,460,2047,1146,9,6,0,2,2,507,2,possession
+GER-Bundesliga,2024,Werder Bremen,Mitchell Weiser,GER,"DF,MF",30-355,1994.0,25.9,1505,45,302,705,516,90,1505,70,28,40.0,36,51.4,764,3336,1688,51,33,11,60,31,922,154,possession
+GER-Bundesliga,2024,Werder Bremen,Niklas Stark,GER,DF,29-362,1995.0,17.4,1142,119,610,493,40,11,1142,1,1,100.0,0,0.0,661,2751,1215,6,2,0,4,0,737,2,possession
+GER-Bundesliga,2024,Werder Bremen,Oliver Burke,SCO,FW,28-004,1997.0,6.2,289,5,28,110,157,51,289,9,4,44.4,5,55.6,156,970,309,10,8,7,19,8,213,48,possession
+GER-Bundesliga,2024,Werder Bremen,Olivier Deman,BEL,DF,25-005,2000.0,0.7,75,3,30,26,19,2,75,1,0,0.0,1,100.0,31,225,72,2,0,0,0,0,31,1,possession
+GER-Bundesliga,2024,Werder Bremen,Romano Schmid,AUT,MF,25-074,2000.0,25.7,1629,19,206,757,688,86,1629,75,35,46.7,37,49.3,1066,5733,3157,89,62,24,58,50,1223,165,possession
+GER-Bundesliga,2024,Werder Bremen,Senne Lynen,BEL,MF,26-051,1999.0,24.6,1401,99,433,778,198,9,1401,25,9,36.0,13,52.0,673,2432,850,6,10,3,32,12,771,27,possession
+GER-Bundesliga,2024,Werder Bremen,Skelly Alvero,FRA,MF,22-342,2002.0,2.6,136,15,49,68,19,2,136,3,2,66.7,1,33.3,70,306,132,1,1,0,6,4,74,0,possession
+GER-Bundesliga,2024,Wolfsburg,Andreas Skov Olsen,DEN,"FW,MF",25-103,1999.0,3.9,221,3,42,83,97,13,221,7,2,28.6,4,57.1,121,736,383,13,6,2,4,4,144,29,possession
+GER-Bundesliga,2024,Wolfsburg,Aster Vranckx,BEL,MF,22-189,2002.0,4.7,199,25,65,105,32,4,199,5,4,80.0,1,20.0,79,375,180,5,2,0,12,3,97,6,possession
+GER-Bundesliga,2024,Wolfsburg,Bence Dárdai,HUN,MF,19-077,2006.0,10.5,431,17,92,232,107,14,431,7,0,0.0,4,57.1,211,698,250,3,6,0,12,6,251,16,possession
+GER-Bundesliga,2024,Wolfsburg,Cedric Zesiger,SUI,DF,26-291,1998.0,5.8,303,48,153,131,19,0,303,3,3,100.0,0,0.0,135,653,299,3,0,0,1,1,154,2,possession
+GER-Bundesliga,2024,Wolfsburg,David Odogu,GER,DF,18-312,2006.0,1.0,71,9,28,42,1,1,71,0,0,,0,,41,237,124,0,0,0,0,0,42,0,possession
+GER-Bundesliga,2024,Wolfsburg,Denis Vavro,SVK,DF,29-001,1996.0,21.7,1608,230,809,747,57,17,1608,6,3,50.0,3,50.0,906,3689,1538,8,11,2,7,1,992,2,possession
+GER-Bundesliga,2024,Wolfsburg,Jakub Kamiński,POL,"DF,MF",22-310,2002.0,9.8,470,25,90,189,200,25,470,17,6,35.3,10,58.8,232,1387,782,29,18,12,15,9,241,47,possession
+GER-Bundesliga,2024,Wolfsburg,Joakim Mæhle,DEN,DF,27-326,1997.0,19.1,1146,47,336,520,299,36,1146,45,15,33.3,29,64.4,632,3284,1737,46,31,5,30,5,667,94,possession
+GER-Bundesliga,2024,Wolfsburg,Jonas Wind,DEN,"FW,MF",26-063,1999.0,17.9,620,13,45,326,252,66,618,17,6,35.3,9,52.9,353,1185,404,13,8,9,42,22,490,73,possession
+GER-Bundesliga,2024,Wolfsburg,Kamil Grabara,POL,GK,26-093,1999.0,22.7,961,664,936,25,0,0,961,1,1,100.0,0,0.0,564,2417,1462,0,0,0,0,0,546,0,possession
+GER-Bundesliga,2024,Wolfsburg,Kevin Behrens,GER,FW,34-067,1991.0,1.7,95,2,7,40,48,15,95,1,0,0.0,1,100.0,35,154,80,2,1,1,8,1,72,17,possession
+GER-Bundesliga,2024,Wolfsburg,Kilian Fischer,GER,DF,24-181,2000.0,21.0,1257,72,426,563,278,16,1257,21,9,42.9,12,57.1,580,3350,1691,42,26,5,25,8,648,65,possession
+GER-Bundesliga,2024,Wolfsburg,Konstantinos Koulierakis,GRE,DF,21-134,2003.0,22.4,1581,240,772,739,75,24,1581,9,5,55.6,4,44.4,899,4377,2333,17,14,0,16,2,1017,8,possession
+GER-Bundesliga,2024,Wolfsburg,Lovro Majer,CRO,MF,27-084,1998.0,1.6,58,0,9,21,29,5,57,4,3,75.0,0,0.0,42,230,72,2,2,1,2,4,44,6,possession
+GER-Bundesliga,2024,Wolfsburg,Lukas Nmecha,GER,"FW,MF",26-118,1998.0,2.9,106,4,7,42,58,18,106,3,2,66.7,1,33.3,67,255,97,4,2,2,6,1,87,23,possession
+GER-Bundesliga,2024,Wolfsburg,Mads Roerslev,DEN,DF,25-291,1999.0,2.8,185,16,66,76,45,2,185,6,2,33.3,4,66.7,88,415,194,6,4,1,2,6,111,17,possession
+GER-Bundesliga,2024,Wolfsburg,Marius Müller,GER,GK,31-273,1993.0,5.3,231,171,228,3,0,0,231,0,0,,0,,147,695,400,0,0,0,0,0,122,0,possession
+GER-Bundesliga,2024,Wolfsburg,Mattias Svanberg,SWE,MF,26-096,1999.0,13.3,516,27,114,246,163,25,516,25,10,40.0,13,52.0,234,1079,489,11,17,1,17,10,276,39,possession
+GER-Bundesliga,2024,Wolfsburg,Maximilian Arnold,GER,MF,30-319,1994.0,22.9,1391,79,311,829,265,6,1391,5,1,20.0,2,40.0,693,2720,1071,9,11,0,15,10,785,15,possession
+GER-Bundesliga,2024,Wolfsburg,Mohamed Amoura,ALG,FW,24-337,2000.0,22.9,919,14,97,334,512,104,917,79,30,38.0,43,54.4,526,3469,1765,68,41,26,70,15,605,205,possession
+GER-Bundesliga,2024,Wolfsburg,Patrick Wimmer,AUT,"MF,FW",23-316,2001.0,14.9,667,13,118,280,286,52,667,53,28,52.8,22,41.5,357,2143,1092,33,35,10,35,19,380,63,possession
+GER-Bundesliga,2024,Wolfsburg,Ridle Baku,GER,"FW,MF",27-003,1998.0,13.0,646,15,112,307,234,34,646,20,9,45.0,10,50.0,352,1626,643,16,9,8,15,10,391,78,possession
+GER-Bundesliga,2024,Wolfsburg,Salih Özcan,TUR,MF,27-090,1998.0,3.9,252,8,37,164,52,3,252,6,4,66.7,2,33.3,128,611,268,6,5,0,5,1,142,5,possession
+GER-Bundesliga,2024,Wolfsburg,Sebastiaan Bornauw,BEL,DF,26-020,1999.0,8.7,427,50,169,239,21,10,427,1,0,0.0,1,100.0,206,920,379,3,2,0,2,1,230,1,possession
+GER-Bundesliga,2024,Wolfsburg,Tiago Tomás,POR,"FW,MF",22-299,2002.0,19.6,729,16,104,317,320,74,729,75,27,36.0,40,53.3,470,2355,975,31,18,14,51,32,524,118,possession
+GER-Bundesliga,2024,Wolfsburg,Yannick Gerhardt,GER,"MF,DF",31-029,1994.0,13.5,669,42,172,325,175,24,669,7,1,14.3,6,85.7,338,1522,775,21,12,5,17,2,396,54,possession

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ENG-Premier League,2021,Arsenal,Ainsley Maitland-Niles,ENG,"MF,DF",22,1997,5.4,0,0,0,6,3,2,8,14,7,1,0,0,39,3,3,50.0,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ENG-Premier League,2021,Arsenal,Alexandre Lacazette,FRA,FW,29,1991,21.4,3,0,0,37,54,8,3,12,10,1,0,0,59,27,61,30.7,misc
 ENG-Premier League,2021,Arsenal,Bernd Leno,GER,GK,28,1992,34.8,0,1,0,2,4,0,0,0,0,0,0,1,39,10,0,100.0,misc
 ENG-Premier League,2021,Arsenal,Bukayo Saka,ENG,"FW,MF",18,2001,28.4,1,0,0,28,64,15,148,25,16,1,0,1,115,13,42,23.6,misc

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-GER-Bundesliga,2020,Arminia,Amos Pieper,GER,DF,22,1998,29.8,6,0,0,21,24,0,6,66,32,0,3,0,138,69,68,50.4,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 GER-Bundesliga,2020,Arminia,Anderson Lucoqui,ANG,DF,23,1997,17.8,5,0,0,27,39,0,16,27,25,0,0,0,104,25,24,51.0,misc
 GER-Bundesliga,2020,Arminia,Andreas Voglsammer,GER,"FW,MF",28,1992,11.1,1,0,0,14,14,4,18,3,8,0,0,0,45,43,41,51.2,misc
 GER-Bundesliga,2020,Arminia,Arne Maier,GER,MF,21,1999,11.5,0,0,0,1,5,2,27,8,9,0,0,0,74,6,6,50.0,misc

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ITA-Serie A,2023,Atalanta,Ademola Lookman,NGA,"FW,MF",25,1997,21.0,4,0,0,28,34,12,69,9,15,1,0,0,89,18,21,46.2,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ITA-Serie A,2023,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",27,1995,13.1,1,0,0,12,31,3,83,2,6,0,0,0,69,7,11,38.9,misc
 ITA-Serie A,2023,Atalanta,Berat Djimsiti,ALB,DF,30,1993,31.5,5,0,0,17,11,0,6,57,24,0,1,0,171,92,55,62.6,misc
 ITA-Serie A,2023,Atalanta,Charles De Ketelaere,BEL,"FW,MF",22,2001,22.5,1,0,0,17,47,6,47,7,21,0,0,1,93,38,35,52.1,misc

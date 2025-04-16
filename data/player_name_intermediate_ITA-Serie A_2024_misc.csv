@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ITA-Serie A,2024,Atalanta,Ademola Lookman,NGA,"FW,MF",27-173,1997,19.7,4,0,0,26,16,25,92,2,13,0,0,0,53,11,11,50.0,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ITA-Serie A,2024,Atalanta,Alberto Manzoni,ITA,MF,19-290,2005,0.1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,100.0,misc
 ITA-Serie A,2024,Atalanta,Ben Godfrey,ENG,DF,27-086,1998,0.3,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,,misc
 ITA-Serie A,2024,Atalanta,Berat Djimsiti,ALB,DF,32-051,1993,23.9,4,0,0,16,17,0,8,35,28,0,1,1,82,68,41,62.4,misc

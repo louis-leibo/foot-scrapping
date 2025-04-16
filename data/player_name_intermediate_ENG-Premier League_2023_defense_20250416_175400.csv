@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ENG-Premier League,2023,Arsenal,Aaron Ramsdale,ENG,GK,25,1998,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,2,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ENG-Premier League,2023,Arsenal,Ben White,ENG,DF,25,1997,33.2,48,28,20,22,6,26,58,44.8,32,48,22,26,32,80,77,1,defense
 ENG-Premier League,2023,Arsenal,Bukayo Saka,ENG,FW,21,2001,32.4,66,35,22,24,20,26,59,44.1,33,43,2,41,15,81,24,1,defense
 ENG-Premier League,2023,Arsenal,Cédric Soares,POR,DF,31,1991,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense

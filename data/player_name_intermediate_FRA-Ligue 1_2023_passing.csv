@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,stat_type
-,,,,,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
-FRA-Ligue 1,2023,Brest,Achraf Dari,MAR,"DF,FW",24,1999,1.3,73,85,85.9,1773,564,11,14,78.6,45,47,95.7,17,23,73.9,0,0.0,0.0,0.0,0,4,0,0,8,passing
+league,season,team,player,nation,pos,age,born,90s,Total Cmp,Total Att,Total Cmp%,Total TotDist,Total PrgDist,Short Cmp,Short Att,Short Cmp%,Medium Cmp,Medium Att,Medium Cmp%,Long Cmp,Long Att,Long Cmp%,Ast,xAG,Expected xA,Expected A-xAG,KP,1/3,PPA,CrsPA,PrgP,stat_type
 FRA-Ligue 1,2023,Brest,Adrien Lebeau,FRA,"MF,FW",24,1999,0.6,19,29,65.5,284,93,10,13,76.9,7,8,87.5,1,4,25.0,1,0.5,0.3,0.5,4,2,0,0,0,passing
 FRA-Ligue 1,2023,Brest,Axel Camblan,FRA,FW,19,2003,1.0,18,22,81.8,294,39,4,4,100.0,10,13,76.9,1,1,100.0,0,0.0,0.0,0.0,1,0,0,0,1,passing
 FRA-Ligue 1,2023,Brest,Bilal Brahimi,ALG,"FW,MF",23,2000,2.5,72,122,59.0,1213,394,39,55,70.9,23,43,53.5,7,16,43.8,0,0.3,0.8,-0.3,6,4,4,3,9,passing

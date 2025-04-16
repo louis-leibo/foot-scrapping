@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ESP-La Liga,2021,Alavés,Abdallahi Mahmoud,MTN,MF,20,2000,0.7,0,0,0,1,1,0,0,1,2,0,0,0,2,1,1,50.0,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ESP-La Liga,2021,Alavés,Adrián Marín,ESP,"DF,MF",23,1997,1.0,0,0,0,3,0,0,1,2,1,0,0,0,8,3,1,75.0,misc
 ESP-La Liga,2021,Alavés,Antonio Sivera,ESP,GK,23,1996,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
 ESP-La Liga,2021,Alavés,Borja Sainz,ESP,"MF,FW",19,2001,5.0,1,0,0,13,7,3,11,6,3,0,0,0,33,2,8,20.0,misc

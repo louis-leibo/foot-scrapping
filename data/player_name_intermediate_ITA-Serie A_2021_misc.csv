@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ITA-Serie A,2021,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",24,1995,7.5,0,0,0,17,20,2,15,3,13,0,0,0,44,8,12,40.0,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ITA-Serie A,2021,Atalanta,Amad Diallo,CIV,MF,18,2002,0.2,1,0,0,1,2,0,0,0,0,0,0,0,2,1,0,100.0,misc
 ITA-Serie A,2021,Atalanta,Berat Djimsiti,ALB,DF,27,1993,29.2,8,0,0,31,26,1,9,62,29,0,0,0,192,76,31,71.0,misc
 ITA-Serie A,2021,Atalanta,Bosko Sutalo,CRO,DF,20,2000,2.6,0,0,0,2,4,0,3,2,5,0,0,0,21,12,8,60.0,misc

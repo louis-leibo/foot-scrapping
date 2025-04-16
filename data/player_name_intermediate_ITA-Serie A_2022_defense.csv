@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ITA-Serie A,2022,Atalanta,Ademola Lookman,NGA,"FW,MF",24,1997,19.2,13,5,2,6,5,3,15,20.0,12,18,0,18,4,17,1,0,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ITA-Serie A,2022,Atalanta,Berat Djimsiti,ALB,DF,29,1993,20.0,34,19,21,13,0,17,25,68.0,8,17,7,10,36,70,74,1,defense
 ITA-Serie A,2022,Atalanta,Brandon Soppy,FRA,DF,20,2002,7.1,8,5,4,4,0,3,9,33.3,6,10,0,10,3,11,7,0,defense
 ITA-Serie A,2022,Atalanta,Caleb Okoli,ITA,DF,21,2001,10.7,21,17,14,6,1,10,25,40.0,15,10,5,5,30,51,44,3,defense

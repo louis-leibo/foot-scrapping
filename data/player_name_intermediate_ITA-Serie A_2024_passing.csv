@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,stat_type
-,,,,,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
-ITA-Serie A,2024,Atalanta,Ademola Lookman,NGA,"FW,MF",27-173,1997,19.7,538,739,72.8,7587,2152,338,392,86.2,139,195,71.3,35,77,45.5,5,5.3,6.3,-0.3,50,25,27,8,53,passing
+league,season,team,player,nation,pos,age,born,90s,Total Cmp,Total Att,Total Cmp%,Total TotDist,Total PrgDist,Short Cmp,Short Att,Short Cmp%,Medium Cmp,Medium Att,Medium Cmp%,Long Cmp,Long Att,Long Cmp%,Ast,xAG,Expected xA,Expected A-xAG,KP,1/3,PPA,CrsPA,PrgP,stat_type
 ITA-Serie A,2024,Atalanta,Alberto Manzoni,ITA,MF,19-290,2005,0.1,11,12,91.7,196,29,5,6,83.3,6,6,100.0,0,0,,0,0.0,0.0,0.0,0,4,0,0,0,passing
 ITA-Serie A,2024,Atalanta,Ben Godfrey,ENG,DF,27-086,1998,0.3,8,10,80.0,122,16,5,5,100.0,2,3,66.7,1,1,100.0,0,0.0,0.0,0.0,0,2,0,0,1,passing
 ITA-Serie A,2024,Atalanta,Berat Djimsiti,ALB,DF,32-051,1993,23.9,1213,1375,88.2,21462,5919,470,510,92.2,623,678,91.9,93,131,71.0,2,1.3,0.6,0.7,10,62,9,3,91,passing

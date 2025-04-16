@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-FRA-Ligue 1,2021,Angers,Abdoulaye Bamba,CIV,DF,30,1990,15.0,2,0,0,14,6,0,48,19,17,0,1,0,82,10,9,52.6,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 FRA-Ligue 1,2021,Angers,Angelo Fulgini,FRA,MF,23,1996,30.3,4,0,0,29,133,3,100,15,13,0,0,0,164,20,44,31.3,misc
 FRA-Ligue 1,2021,Angers,Antonin Bobichon,FRA,"MF,FW",24,1995,10.1,0,0,0,14,16,0,43,2,14,1,0,0,58,8,12,40.0,misc
 FRA-Ligue 1,2021,Angers,Baptiste Santamaria,FRA,MF,25,1995,3.0,1,0,0,7,5,1,1,7,6,0,0,0,25,6,5,54.5,misc

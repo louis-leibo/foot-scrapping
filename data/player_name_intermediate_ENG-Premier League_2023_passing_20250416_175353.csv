@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,stat_type
-,,,,,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
-ENG-Premier League,2023,Arsenal,Aaron Ramsdale,ENG,GK,25,1998,6.0,131,188,69.7,3303,2420,38,38,100.0,61,62,98.4,32,86,37.2,0,0.0,0.0,0.0,0,4,0,0,2,passing
+league,season,team,player,nation,pos,age,born,90s,Total Cmp,Total Att,Total Cmp%,Total TotDist,Total PrgDist,Short Cmp,Short Att,Short Cmp%,Medium Cmp,Medium Att,Medium Cmp%,Long Cmp,Long Att,Long Cmp%,Ast,xAG,Expected xA,Expected A-xAG,KP,1/3,PPA,CrsPA,PrgP,stat_type
 ENG-Premier League,2023,Arsenal,Ben White,ENG,DF,25,1997,33.2,1828,2177,84.0,28002,9801,999,1099,90.9,713,832,85.7,85,171,49.7,4,3.8,3.7,0.2,38,172,45,10,192,passing
 ENG-Premier League,2023,Arsenal,Bukayo Saka,ENG,FW,21,2001,32.4,1143,1512,75.6,16891,4402,705,793,88.9,331,427,77.5,80,183,43.7,9,10.5,11.0,-1.5,91,39,73,12,126,passing
 ENG-Premier League,2023,Arsenal,Cédric Soares,POR,DF,31,1991,0.7,60,69,87.0,905,157,39,41,95.1,15,17,88.2,5,8,62.5,0,0.0,0.0,0.0,0,4,0,0,3,passing

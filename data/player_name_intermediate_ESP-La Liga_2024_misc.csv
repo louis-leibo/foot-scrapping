@@ -1,583 +1,581 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ESP-La Liga,2024,Alavés,Abdel Abqar,MAR,DF,26-032,1999,26.5,13,0,0,47,31,2,5,39,23,1,2,0,87,39,35,52.7,misc
-ESP-La Liga,2024,Alavés,Abderrahman Rebbach,ALG,"FW,MF",26-243,1998,4.3,1,0,0,5,6,2,17,0,2,0,0,0,16,1,11,8.3,misc
-ESP-La Liga,2024,Alavés,Adrian Rodriguez,ESP,GK,24-120,2000,1.4,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Alavés,Aleksandar Sedlar,SRB,DF,33-119,1991,4.7,1,1,0,7,4,0,0,7,9,0,0,0,12,8,3,72.7,misc
-ESP-La Liga,2024,Alavés,Ander Guevara,ESP,MF,27-278,1997,17.0,1,0,0,27,15,0,3,10,23,0,0,0,89,23,31,42.6,misc
-ESP-La Liga,2024,Alavés,Antonio Blanco,ESP,MF,24-262,2000,22.7,9,1,1,50,22,0,25,35,32,0,0,0,117,24,26,48.0,misc
-ESP-La Liga,2024,Alavés,Antonio Sivera,ESP,GK,28-243,1996,24.2,5,1,0,4,4,0,0,0,0,0,3,1,19,4,1,80.0,misc
-ESP-La Liga,2024,Alavés,Asier Villalibre,ESP,FW,27-193,1997,3.5,2,0,0,11,7,1,2,1,1,0,0,0,7,19,10,65.5,misc
-ESP-La Liga,2024,Alavés,Carles Aleñá,ESP,"MF,FW",27-096,1998,5.8,1,0,0,6,14,0,21,0,8,0,0,0,19,6,4,60.0,misc
-ESP-La Liga,2024,Alavés,Carlos Benavídez,URU,MF,27-012,1998,3.8,2,0,0,13,3,0,1,8,5,0,0,0,22,6,4,60.0,misc
-ESP-La Liga,2024,Alavés,Carlos Martín,ESP,"FW,MF",22-354,2002,13.1,2,0,0,25,26,4,22,5,17,0,0,0,47,11,17,39.3,misc
-ESP-La Liga,2024,Alavés,Carlos Vicente,ESP,"FW,MF",25-353,1999,26.4,1,0,0,24,46,8,197,11,23,0,0,0,102,26,45,36.6,misc
-ESP-La Liga,2024,Alavés,Facundo Garcés,ARG,DF,25-218,1999,0.5,0,0,0,1,0,0,0,0,0,0,1,0,0,3,2,60.0,misc
-ESP-La Liga,2024,Alavés,Hugo Novoa,ESP,"DF,MF",22-100,2003,2.6,0,0,0,1,1,2,7,0,5,0,0,0,9,1,8,11.1,misc
-ESP-La Liga,2024,Alavés,Jesús Owono,EQG,GK,24-041,2001,4.4,0,0,0,1,1,0,0,0,1,0,1,0,2,0,0,,misc
-ESP-La Liga,2024,Alavés,Joan Jordán,ESP,MF,30-279,1994,12.7,2,0,0,23,10,1,84,8,14,0,0,0,43,14,10,58.3,misc
-ESP-La Liga,2024,Alavés,Jon Guridi,ESP,"MF,FW",30-042,1995,17.7,5,0,0,26,11,5,13,10,15,0,1,0,72,30,41,42.3,misc
-ESP-La Liga,2024,Alavés,Kiké,ESP,FW,35-137,1989,21.7,5,1,1,41,46,18,10,1,10,1,0,0,69,94,76,55.3,misc
-ESP-La Liga,2024,Alavés,Luis Rioja,ESP,FW,31-177,1993,0.3,0,0,0,1,1,0,6,0,1,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Alavés,Luka Romero,ARG,"FW,MF",20-144,2004,2.2,0,0,0,3,3,1,10,1,4,1,0,0,9,2,4,33.3,misc
-ESP-La Liga,2024,Alavés,Manu Sánchez,ESP,DF,24-230,2000,22.7,6,0,0,41,16,1,66,25,43,0,1,0,83,7,25,21.9,misc
-ESP-La Liga,2024,Alavés,Moussa Diarra,MLI,DF,24-152,2000,18.6,5,0,0,22,21,1,18,21,18,1,1,0,68,28,26,51.9,misc
-ESP-La Liga,2024,Alavés,Nahuel Tenaglia,ARG,DF,29-049,1996,25.3,10,0,0,29,35,2,68,35,45,1,0,0,89,34,40,45.9,misc
-ESP-La Liga,2024,Alavés,Pau Cabanes,ESP,"MF,FW",20-053,2005,2.0,1,0,0,4,5,0,12,0,2,0,0,0,11,1,3,25.0,misc
-ESP-La Liga,2024,Alavés,Pica,ESP,DF,23-100,2002,5.4,1,0,0,6,3,0,2,8,7,0,0,0,12,17,10,63.0,misc
-ESP-La Liga,2024,Alavés,Santiago Mouriño,URU,DF,23-057,2002,14.5,4,0,0,25,15,1,3,21,20,0,0,0,68,26,23,53.1,misc
-ESP-La Liga,2024,Alavés,Stoichkov,ESP,"MF,FW",31-157,1993,7.8,1,0,0,9,16,5,13,1,9,0,0,0,44,5,15,25.0,misc
-ESP-La Liga,2024,Alavés,Tomás Conechny,ARG,"FW,MF",27-012,1998,8.0,5,0,0,24,10,4,30,5,7,0,0,0,37,19,15,55.9,misc
-ESP-La Liga,2024,Alavés,Toni Martínez,ESP,FW,27-285,1997,9.6,1,0,0,13,9,7,6,0,5,0,1,0,25,67,53,55.8,misc
-ESP-La Liga,2024,Athletic Club,Adama Boiro,ESP,DF,22-293,2002,9.1,1,0,0,8,7,0,25,9,7,0,0,0,38,14,5,73.7,misc
-ESP-La Liga,2024,Athletic Club,Adu Ares,ESP,FW,23-181,2001,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Athletic Club,Aitor Paredes,ESP,DF,24-347,2000,15.1,4,1,1,18,4,0,1,19,8,0,1,0,50,24,23,51.1,misc
-ESP-La Liga,2024,Athletic Club,Alex Padilla,ESP,GK,21-222,2003,3.6,0,0,0,0,1,0,0,0,0,0,0,1,4,1,0,100.0,misc
-ESP-La Liga,2024,Athletic Club,Ander Herrera,ESP,MF,35-240,1989,3.0,2,0,0,6,3,0,1,2,4,0,0,0,14,3,2,60.0,misc
-ESP-La Liga,2024,Athletic Club,Andoni Gorosabel,ESP,DF,28-250,1996,12.6,4,0,0,19,3,1,36,13,16,0,0,0,47,12,17,41.4,misc
-ESP-La Liga,2024,Athletic Club,Beñat Prados,ESP,MF,24-062,2001,15.4,6,0,0,27,13,0,8,23,23,0,0,0,73,27,19,58.7,misc
-ESP-La Liga,2024,Athletic Club,Daniel Vivian,ESP,DF,25-270,1999,22.6,2,0,0,25,14,1,7,32,22,0,0,0,138,31,25,55.4,misc
-ESP-La Liga,2024,Athletic Club,Endika Buján,ESP,FW,22-085,2003,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Athletic Club,Gorka Guruzeta,ESP,FW,28-211,1996,16.2,2,0,0,34,20,5,2,6,6,0,0,0,47,31,59,34.4,misc
-ESP-La Liga,2024,Athletic Club,Iñaki Williams,GHA,"FW,MF",30-300,1994,26.7,0,0,0,20,36,14,110,12,10,1,0,0,77,27,20,57.4,misc
-ESP-La Liga,2024,Athletic Club,Iñigo Lekue,ESP,DF,31-342,1993,6.3,1,0,0,4,2,0,12,5,8,0,0,0,26,5,2,71.4,misc
-ESP-La Liga,2024,Athletic Club,Iñigo Ruiz de Galarreta,ESP,MF,31-248,1993,11.9,5,0,0,27,13,0,23,10,20,0,0,0,92,3,8,27.3,misc
-ESP-La Liga,2024,Athletic Club,Javi Martón,ESP,"FW,MF",25-340,1999,0.6,1,0,0,1,0,1,0,0,0,0,0,0,2,2,1,66.7,misc
-ESP-La Liga,2024,Athletic Club,Julen Agirrezabala,ESP,GK,24-106,2000,13.4,1,1,0,3,1,0,0,0,0,0,2,0,21,5,0,100.0,misc
-ESP-La Liga,2024,Athletic Club,Maroan Sannadi,ESP,FW,24-069,2001,3.6,0,0,0,9,15,2,1,0,0,0,0,0,7,5,7,41.7,misc
-ESP-La Liga,2024,Athletic Club,Mikel Jauregizar,ESP,MF,21-150,2003,19.5,4,1,0,38,34,0,24,23,39,1,0,0,113,22,31,41.5,misc
-ESP-La Liga,2024,Athletic Club,Mikel Vesga,ESP,MF,31-325,1993,8.6,1,0,0,10,2,0,6,11,12,0,0,0,52,16,10,61.5,misc
-ESP-La Liga,2024,Athletic Club,Nico Williams,ESP,FW,22-273,2002,20.8,1,0,0,15,34,8,106,6,17,0,0,0,83,11,16,40.7,misc
-ESP-La Liga,2024,Athletic Club,Nicolás Serrano,ESP,FW,22-037,2003,1.2,0,0,0,2,2,0,13,1,1,0,0,0,3,0,2,0.0,misc
-ESP-La Liga,2024,Athletic Club,Oihan Sancet,ESP,MF,24-351,2000,15.3,2,0,0,12,18,3,17,5,6,0,0,0,59,9,11,45.0,misc
-ESP-La Liga,2024,Athletic Club,Peio Canales,ESP,"MF,FW",20-084,2005,1.4,0,0,0,0,1,1,6,2,2,0,0,0,10,0,2,0.0,misc
-ESP-La Liga,2024,Athletic Club,Unai Gómez,ESP,"MF,FW",21-321,2003,10.1,1,0,0,10,13,0,17,2,3,0,0,0,27,24,22,52.2,misc
-ESP-La Liga,2024,Athletic Club,Unai Núñez,ESP,DF,28-071,1997,5.5,3,0,0,7,4,0,0,17,3,0,0,0,25,13,11,54.2,misc
-ESP-La Liga,2024,Athletic Club,Unai Simón,ESP,GK,27-304,1997,13.0,0,0,0,0,2,0,0,1,0,0,0,0,20,5,0,100.0,misc
-ESP-La Liga,2024,Athletic Club,Yeray Álvarez,ESP,DF,30-077,1995,16.8,4,0,0,12,14,0,3,32,13,0,0,0,70,36,28,56.3,misc
-ESP-La Liga,2024,Athletic Club,Yuri Berchiche,ESP,DF,35-060,1990,17.7,3,0,0,13,15,3,37,17,18,0,0,0,92,18,16,52.9,misc
-ESP-La Liga,2024,Athletic Club,Álex Berenguer,ESP,"FW,MF",29-281,1995,19.8,4,0,0,25,23,4,138,8,11,2,0,0,83,22,40,35.5,misc
-ESP-La Liga,2024,Athletic Club,Álvaro djaló,ESP,FW,25-238,1999,5.1,0,0,0,13,9,4,6,1,4,0,0,0,16,6,12,33.3,misc
-ESP-La Liga,2024,Athletic Club,Óscar de Marcos,ESP,DF,35-362,1989,14.3,0,0,0,11,5,0,46,14,13,0,0,0,77,6,12,33.3,misc
-ESP-La Liga,2024,Atlético Madrid,Adrian Niño,ESP,FW,20-296,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,misc
-ESP-La Liga,2024,Atlético Madrid,Alexander Sørloth,NOR,FW,29-127,1995,12.6,4,0,0,20,12,4,3,1,2,0,0,0,35,76,39,66.1,misc
-ESP-La Liga,2024,Atlético Madrid,Antoine Griezmann,FRA,"FW,MF",34-021,1991,24.0,2,0,0,11,24,14,131,6,16,0,0,0,78,18,19,48.6,misc
-ESP-La Liga,2024,Atlético Madrid,Axel Witsel,BEL,DF,36-089,1989,8.5,1,0,0,4,3,1,0,9,12,0,0,0,30,23,14,62.2,misc
-ESP-La Liga,2024,Atlético Madrid,Clément Lenglet,FRA,DF,29-298,1995,17.3,8,0,0,22,17,2,2,18,11,0,1,0,62,27,35,43.5,misc
-ESP-La Liga,2024,Atlético Madrid,Conor Gallagher,ENG,MF,25-064,2000,14.2,2,0,0,20,35,1,9,15,28,1,0,0,83,8,17,32.0,misc
-ESP-La Liga,2024,Atlético Madrid,César Azpilicueta,ESP,DF,35-226,1989,7.8,0,0,0,7,5,2,3,2,12,0,0,0,21,10,10,50.0,misc
-ESP-La Liga,2024,Atlético Madrid,Giuliano Simeone,ARG,"MF,DF",22-114,2002,15.8,4,0,0,16,30,7,35,10,9,0,0,0,66,10,22,31.3,misc
-ESP-La Liga,2024,Atlético Madrid,Jan Oblak,SVN,GK,32-094,1993,29.0,0,0,0,0,2,0,0,0,0,0,0,0,22,2,0,100.0,misc
-ESP-La Liga,2024,Atlético Madrid,Javi Galán,ESP,DF,30-143,1994,13.7,7,0,0,29,24,1,37,7,23,0,1,0,50,19,16,54.3,misc
-ESP-La Liga,2024,Atlético Madrid,José María Giménez,URU,DF,30-081,1995,18.2,5,0,0,10,10,0,0,22,13,0,0,1,64,31,30,50.8,misc
-ESP-La Liga,2024,Atlético Madrid,Juan Musso,ARG,GK,30-340,1994,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Atlético Madrid,Julián Álvarez,ARG,"FW,MF",25-070,2000,21.5,4,0,0,24,6,7,43,0,14,0,0,0,59,13,28,31.7,misc
-ESP-La Liga,2024,Atlético Madrid,Koke,ESP,MF,33-093,1992,16.3,4,0,0,19,10,0,11,17,21,0,0,1,100,8,9,47.1,misc
-ESP-La Liga,2024,Atlético Madrid,Marcos Llorente,ESP,"DF,MF",30-071,1995,19.9,0,1,0,13,16,2,43,20,40,0,0,0,91,12,13,48.0,misc
-ESP-La Liga,2024,Atlético Madrid,Nahuel Molina,ARG,DF,27-005,1998,15.3,0,0,0,10,5,1,48,11,16,0,0,0,52,9,12,42.9,misc
-ESP-La Liga,2024,Atlético Madrid,Pablo Barrios,ESP,MF,21-300,2003,20.8,4,1,0,23,21,0,20,30,20,0,0,0,109,27,16,62.8,misc
-ESP-La Liga,2024,Atlético Madrid,Reinildo Mandava,MOZ,DF,31-080,1994,10.5,4,0,0,19,18,1,8,16,11,0,1,0,52,10,14,41.7,misc
-ESP-La Liga,2024,Atlético Madrid,Robin Le Normand,ESP,DF,28-151,1996,17.6,8,0,0,31,16,3,1,8,13,0,1,0,54,40,28,58.8,misc
-ESP-La Liga,2024,Atlético Madrid,Rodrigo De Paul,ARG,MF,30-322,1994,18.0,6,0,0,14,29,0,49,5,17,0,0,0,98,4,6,40.0,misc
-ESP-La Liga,2024,Atlético Madrid,Rodrigo Riquelme,ESP,"DF,MF",25-009,2000,5.0,0,0,0,7,8,4,28,1,4,0,0,0,17,3,3,50.0,misc
-ESP-La Liga,2024,Atlético Madrid,Samuel Lino,BRA,"MF,DF",25-109,1999,13.9,3,0,0,12,26,2,30,7,12,1,0,0,72,11,11,50.0,misc
-ESP-La Liga,2024,Atlético Madrid,Thomas Lemar,FRA,MF,29-150,1995,0.5,0,0,0,1,2,0,2,0,1,0,0,0,2,0,1,0.0,misc
-ESP-La Liga,2024,Atlético Madrid,Ángel Correa,ARG,"FW,MF",30-033,1995,7.7,3,1,0,14,10,4,18,4,1,0,0,0,34,1,7,12.5,misc
-ESP-La Liga,2024,Barcelona,Alejandro Balde,ESP,DF,21-175,2003,22.7,2,0,0,14,35,0,65,5,10,0,0,0,107,14,8,63.6,misc
-ESP-La Liga,2024,Barcelona,Andreas Christensen,DEN,DF,29-001,1996,0.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
-ESP-La Liga,2024,Barcelona,Ansu Fati,ESP,FW,22-162,2002,1.4,1,0,0,1,2,1,0,0,1,0,0,0,4,1,4,20.0,misc
-ESP-La Liga,2024,Barcelona,Dani Olmo,ESP,"MF,FW",26-339,1998,10.1,0,0,0,13,17,1,12,2,9,1,0,0,37,7,7,50.0,misc
-ESP-La Liga,2024,Barcelona,Eric García,ESP,"MF,DF",24-092,2001,11.7,3,0,0,16,5,0,1,10,12,0,0,0,40,25,20,55.6,misc
-ESP-La Liga,2024,Barcelona,Fermin López,ESP,"MF,FW",21-335,2003,8.8,3,1,0,17,15,3,21,4,13,0,0,0,42,7,17,29.2,misc
-ESP-La Liga,2024,Barcelona,Ferrán Torres,ESP,"FW,MF",25-041,2000,9.6,1,1,0,5,10,6,16,2,3,0,0,0,21,3,7,30.0,misc
-ESP-La Liga,2024,Barcelona,Frenkie de Jong,NED,MF,27-334,1997,8.0,2,0,0,9,12,0,4,3,6,0,1,0,29,7,5,58.3,misc
-ESP-La Liga,2024,Barcelona,Gavi,ESP,"MF,FW",20-249,2004,7.7,4,0,0,27,15,1,8,8,10,0,0,0,36,15,17,46.9,misc
-ESP-La Liga,2024,Barcelona,Gerard Martín,ESP,DF,23-100,2002,7.1,2,0,0,9,4,0,18,8,7,0,0,0,26,10,3,76.9,misc
-ESP-La Liga,2024,Barcelona,Héctor Fort,ESP,DF,18-252,2006,4.2,2,0,0,3,1,0,7,6,6,0,0,0,18,3,5,37.5,misc
-ESP-La Liga,2024,Barcelona,Iñaki Peña,ESP,GK,26-040,1999,14.5,1,0,0,0,0,0,0,0,0,0,0,0,63,1,0,100.0,misc
-ESP-La Liga,2024,Barcelona,Iñigo Martínez,ESP,DF,33-329,1991,22.7,3,0,0,12,24,0,3,18,12,1,0,0,97,50,28,64.1,misc
-ESP-La Liga,2024,Barcelona,Jules Koundé,FRA,DF,26-150,1998,26.9,4,0,0,21,18,7,59,20,39,0,0,0,98,24,22,52.2,misc
-ESP-La Liga,2024,Barcelona,Lamine Yamal,ESP,FW,17-272,2007,24.8,3,0,0,25,50,11,73,13,23,2,0,0,96,1,1,50.0,misc
-ESP-La Liga,2024,Barcelona,Marc Bernal,ESP,MF,17-320,2007,2.7,2,0,0,4,3,0,0,1,6,0,0,0,9,1,6,14.3,misc
-ESP-La Liga,2024,Barcelona,Marc Casado,ESP,MF,21-209,2003,17.9,4,1,1,26,36,0,9,22,25,0,0,0,90,8,23,25.8,misc
-ESP-La Liga,2024,Barcelona,Marc-André ter Stegen,GER,GK,32-346,1992,5.5,0,0,0,0,2,0,0,0,0,0,0,0,5,1,0,100.0,misc
-ESP-La Liga,2024,Barcelona,Pablo Torre,ESP,"MF,FW",22-008,2003,3.4,0,0,0,4,8,1,13,3,4,0,0,0,15,1,6,14.3,misc
-ESP-La Liga,2024,Barcelona,Pau Cubarsí,ESP,DF,18-079,2007,24.9,3,0,0,16,8,0,2,12,17,0,1,0,85,57,34,62.6,misc
-ESP-La Liga,2024,Barcelona,Pau Victor Delgado,ESP,FW,23-136,2001,2.5,2,0,0,5,3,0,2,2,1,0,0,0,14,2,1,66.7,misc
-ESP-La Liga,2024,Barcelona,Pedri,ESP,MF,22-137,2002,25.1,2,0,0,9,39,2,50,23,26,0,0,0,186,5,5,50.0,misc
-ESP-La Liga,2024,Barcelona,Raphinha,BRA,"FW,MF",28-118,1996,25.0,3,0,0,7,29,7,174,7,20,2,0,0,78,6,5,54.5,misc
-ESP-La Liga,2024,Barcelona,Robert Lewandowski,POL,FW,36-233,1988,25.5,1,0,0,26,32,16,5,3,3,0,0,0,43,31,39,44.3,misc
-ESP-La Liga,2024,Barcelona,Ronald Araújo,URU,DF,26-035,1999,4.6,1,0,0,6,2,0,0,3,6,0,0,0,16,18,12,60.0,misc
-ESP-La Liga,2024,Barcelona,Sergi Dominguez,ESP,DF,20-010,2005,1.9,1,0,0,2,0,0,0,3,1,0,1,0,8,1,3,25.0,misc
-ESP-La Liga,2024,Barcelona,Wojciech Szczęsny,POL,GK,34-358,1990,10.0,0,0,0,0,1,0,0,0,1,0,0,0,29,0,0,,misc
-ESP-La Liga,2024,Betis,Abde Ezzalzouli,MAR,"FW,MF",23-115,2001,17.9,2,0,0,18,32,3,42,5,22,1,0,0,84,19,31,38.0,misc
-ESP-La Liga,2024,Betis,Adrián,ESP,GK,38-098,1987,11.0,3,0,0,0,3,0,0,0,0,0,0,0,8,1,1,50.0,misc
-ESP-La Liga,2024,Betis,Aitor Ruibal,ESP,"DF,FW",29-020,1996,9.1,3,0,0,6,14,2,18,9,13,0,0,0,46,4,12,25.0,misc
-ESP-La Liga,2024,Betis,Antony,BRA,FW,25-046,2000,8.4,1,1,0,5,14,0,16,6,6,1,0,0,41,3,10,23.1,misc
-ESP-La Liga,2024,Betis,Assane Diao,SEN,FW,19-216,2005,3.1,0,0,0,4,4,2,4,0,3,0,0,0,12,8,6,57.1,misc
-ESP-La Liga,2024,Betis,Carlos Guirao,ESP,MF,21-349,2003,1.2,0,0,0,4,0,0,0,3,3,0,0,0,6,2,1,66.7,misc
-ESP-La Liga,2024,Betis,Cucho,COL,FW,25-356,1999,6.1,0,0,0,6,6,3,5,5,4,1,0,0,16,14,22,38.9,misc
-ESP-La Liga,2024,Betis,Cédric Bakambu,COD,FW,34-000,1991,6.4,4,0,0,20,6,10,2,0,3,1,0,0,18,11,25,30.6,misc
-ESP-La Liga,2024,Betis,Diego Llorente,ESP,DF,31-238,1993,27.5,4,0,0,20,23,0,1,43,20,0,1,1,93,76,44,63.3,misc
-ESP-La Liga,2024,Betis,Ezequiel Ávila,ARG,FW,31-064,1994,7.5,5,1,0,13,18,5,29,2,3,0,0,0,28,6,8,42.9,misc
-ESP-La Liga,2024,Betis,Fran Vieites,ESP,GK,25-339,1999,4.0,0,0,0,0,2,0,0,0,0,0,0,0,7,1,0,100.0,misc
-ESP-La Liga,2024,Betis,Giovani Lo Celso,ARG,"MF,FW",29-002,1996,12.4,4,0,0,13,50,0,79,5,19,0,0,0,58,4,9,30.8,misc
-ESP-La Liga,2024,Betis,Héctor Bellerín,ESP,DF,30-023,1995,5.8,1,0,0,6,0,0,10,6,7,0,0,0,11,6,7,46.2,misc
-ESP-La Liga,2024,Betis,Iker Losada,ESP,"MF,FW",23-253,2001,3.7,0,0,0,1,2,0,4,3,7,0,0,0,19,3,4,42.9,misc
-ESP-La Liga,2024,Betis,Isco,ESP,MF,32-355,1992,11.7,5,0,0,17,32,3,59,7,8,0,0,0,56,10,14,41.7,misc
-ESP-La Liga,2024,Betis,Jesus Rodríguez,ESP,FW,19-141,2005,8.7,0,0,0,10,32,2,13,6,13,1,0,0,43,3,6,33.3,misc
-ESP-La Liga,2024,Betis,Johnny Cardoso,USA,MF,23-203,2001,18.9,4,0,0,31,26,0,2,43,24,0,0,0,106,23,15,60.5,misc
-ESP-La Liga,2024,Betis,Juanmi,ESP,"FW,MF",31-326,1993,2.7,2,0,0,6,7,1,1,1,4,0,0,0,14,6,1,85.7,misc
-ESP-La Liga,2024,Betis,Marc Bartra,ESP,DF,34-086,1991,16.5,1,0,0,10,11,1,0,27,14,0,1,0,68,34,34,50.0,misc
-ESP-La Liga,2024,Betis,Marc Roca,ESP,MF,28-136,1996,10.1,4,0,0,16,5,0,10,14,14,0,0,0,51,5,13,27.8,misc
-ESP-La Liga,2024,Betis,Mateo Flores,ESP,MF,21-004,2004,1.7,1,0,0,4,1,0,1,2,1,0,0,0,12,0,2,0.0,misc
-ESP-La Liga,2024,Betis,Nabil Fekir,FRA,MF,31-267,1993,2.0,0,0,0,3,7,0,10,0,2,0,0,0,3,0,2,0.0,misc
-ESP-La Liga,2024,Betis,Natan,BRA,DF,24-064,2001,16.7,3,1,0,13,8,0,2,18,18,0,0,0,46,48,22,68.6,misc
-ESP-La Liga,2024,Betis,Pablo Fornals,ESP,"MF,FW",29-048,1996,14.9,2,0,0,10,11,2,46,17,10,0,0,0,76,17,16,51.5,misc
-ESP-La Liga,2024,Betis,Pablo Garcia,ESP,FW,18-239,2006,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Betis,Ricardo Rodríguez,SUI,DF,32-229,1992,10.7,0,0,0,10,5,0,14,6,12,0,0,0,41,18,14,56.3,misc
-ESP-La Liga,2024,Betis,Rodri,ESP,FW,24-330,2000,1.3,0,0,0,2,2,1,6,1,1,0,0,0,10,0,2,0.0,misc
-ESP-La Liga,2024,Betis,Romain Perraud,FRA,DF,27-201,1997,17.7,6,1,0,23,34,5,56,19,19,0,1,0,76,8,13,38.1,misc
-ESP-La Liga,2024,Betis,Rui Silva,POR,GK,31-063,1994,15.0,1,0,0,1,2,0,0,0,0,0,1,0,25,2,0,100.0,misc
-ESP-La Liga,2024,Betis,Sergi Altimira,ESP,MF,23-229,2001,18.3,3,0,0,30,31,0,4,17,32,1,0,0,96,9,17,34.6,misc
-ESP-La Liga,2024,Betis,Sergio Arribas,ESP,DF,22-060,2003,1.0,0,0,0,0,0,0,0,3,4,0,0,0,3,1,0,100.0,misc
-ESP-La Liga,2024,Betis,Vitor Roque,BRA,FW,20-042,2005,13.7,4,0,0,30,30,5,6,7,6,2,0,0,35,15,29,34.1,misc
-ESP-La Liga,2024,Betis,William Carvalho,POR,MF,33-004,1992,3.2,0,0,0,5,0,0,1,3,3,0,0,0,18,5,2,71.4,misc
-ESP-La Liga,2024,Betis,Youssouf Sabaly,SEN,DF,32-037,1993,15.8,1,0,0,15,11,1,27,13,24,0,0,0,72,9,12,42.9,misc
-ESP-La Liga,2024,Betis,Ángel Ortíz,ESP,DF,20-260,2004,3.8,0,0,0,6,6,0,18,5,7,0,0,0,14,5,7,41.7,misc
-ESP-La Liga,2024,Celta Vigo,Alfon,ESP,"FW,MF",25-342,1999,10.4,1,1,0,14,21,6,27,4,2,1,0,0,30,3,9,25.0,misc
-ESP-La Liga,2024,Celta Vigo,Anastasios Douvikas,GRE,FW,25-252,1999,7.8,2,0,0,10,27,9,1,3,4,0,0,0,15,14,23,37.8,misc
-ESP-La Liga,2024,Celta Vigo,Borja Iglesias,ESP,FW,32-084,1993,17.6,2,0,0,35,28,11,3,4,7,2,0,0,40,10,23,30.3,misc
-ESP-La Liga,2024,Celta Vigo,Carl Starfelt,SWE,DF,29-314,1995,25.1,5,0,0,21,11,0,0,31,17,0,0,0,77,60,51,54.1,misc
-ESP-La Liga,2024,Celta Vigo,Carlos Dominguez,ESP,DF,24-059,2001,8.2,1,0,0,7,6,0,0,7,10,0,0,1,30,22,6,78.6,misc
-ESP-La Liga,2024,Celta Vigo,Damián Rodríguez,ESP,MF,22-025,2003,8.8,3,0,0,13,8,0,25,6,8,0,0,0,43,0,4,0.0,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
+ESP-La Liga,2024,Alavés,Abderrahman Rebbach,ALG,"FW,MF",26-243,1998.0,4.3,1,0,0,5,6,2,17,0,2,0,0,0,16,1,11,8.3,misc
+ESP-La Liga,2024,Alavés,Adrian Rodriguez,ESP,GK,24-120,2000.0,1.4,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Alavés,Aleksandar Sedlar,SRB,DF,33-119,1991.0,4.7,1,1,0,7,4,0,0,7,9,0,0,0,12,8,3,72.7,misc
+ESP-La Liga,2024,Alavés,Ander Guevara,ESP,MF,27-278,1997.0,17.0,1,0,0,27,15,0,3,10,23,0,0,0,89,23,31,42.6,misc
+ESP-La Liga,2024,Alavés,Antonio Blanco,ESP,MF,24-262,2000.0,22.7,9,1,1,50,22,0,25,35,32,0,0,0,117,24,26,48.0,misc
+ESP-La Liga,2024,Alavés,Antonio Sivera,ESP,GK,28-243,1996.0,24.2,5,1,0,4,4,0,0,0,0,0,3,1,19,4,1,80.0,misc
+ESP-La Liga,2024,Alavés,Asier Villalibre,ESP,FW,27-193,1997.0,3.5,2,0,0,11,7,1,2,1,1,0,0,0,7,19,10,65.5,misc
+ESP-La Liga,2024,Alavés,Carles Aleñá,ESP,"MF,FW",27-096,1998.0,5.8,1,0,0,6,14,0,21,0,8,0,0,0,19,6,4,60.0,misc
+ESP-La Liga,2024,Alavés,Carlos Benavídez,URU,MF,27-012,1998.0,3.8,2,0,0,13,3,0,1,8,5,0,0,0,22,6,4,60.0,misc
+ESP-La Liga,2024,Alavés,Carlos Martín,ESP,"FW,MF",22-354,2002.0,13.1,2,0,0,25,26,4,22,5,17,0,0,0,47,11,17,39.3,misc
+ESP-La Liga,2024,Alavés,Carlos Vicente,ESP,"FW,MF",25-353,1999.0,26.4,1,0,0,24,46,8,197,11,23,0,0,0,102,26,45,36.6,misc
+ESP-La Liga,2024,Alavés,Facundo Garcés,ARG,DF,25-218,1999.0,0.5,0,0,0,1,0,0,0,0,0,0,1,0,0,3,2,60.0,misc
+ESP-La Liga,2024,Alavés,Hugo Novoa,ESP,"DF,MF",22-100,2003.0,2.6,0,0,0,1,1,2,7,0,5,0,0,0,9,1,8,11.1,misc
+ESP-La Liga,2024,Alavés,Jesús Owono,EQG,GK,24-041,2001.0,4.4,0,0,0,1,1,0,0,0,1,0,1,0,2,0,0,,misc
+ESP-La Liga,2024,Alavés,Joan Jordán,ESP,MF,30-279,1994.0,12.7,2,0,0,23,10,1,84,8,14,0,0,0,43,14,10,58.3,misc
+ESP-La Liga,2024,Alavés,Jon Guridi,ESP,"MF,FW",30-042,1995.0,17.7,5,0,0,26,11,5,13,10,15,0,1,0,72,30,41,42.3,misc
+ESP-La Liga,2024,Alavés,Kiké,ESP,FW,35-137,1989.0,21.7,5,1,1,41,46,18,10,1,10,1,0,0,69,94,76,55.3,misc
+ESP-La Liga,2024,Alavés,Luis Rioja,ESP,FW,31-177,1993.0,0.3,0,0,0,1,1,0,6,0,1,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Alavés,Luka Romero,ARG,"FW,MF",20-144,2004.0,2.2,0,0,0,3,3,1,10,1,4,1,0,0,9,2,4,33.3,misc
+ESP-La Liga,2024,Alavés,Manu Sánchez,ESP,DF,24-230,2000.0,22.7,6,0,0,41,16,1,66,25,43,0,1,0,83,7,25,21.9,misc
+ESP-La Liga,2024,Alavés,Moussa Diarra,MLI,DF,24-152,2000.0,18.6,5,0,0,22,21,1,18,21,18,1,1,0,68,28,26,51.9,misc
+ESP-La Liga,2024,Alavés,Nahuel Tenaglia,ARG,DF,29-049,1996.0,25.3,10,0,0,29,35,2,68,35,45,1,0,0,89,34,40,45.9,misc
+ESP-La Liga,2024,Alavés,Pau Cabanes,ESP,"MF,FW",20-053,2005.0,2.0,1,0,0,4,5,0,12,0,2,0,0,0,11,1,3,25.0,misc
+ESP-La Liga,2024,Alavés,Pica,ESP,DF,23-100,2002.0,5.4,1,0,0,6,3,0,2,8,7,0,0,0,12,17,10,63.0,misc
+ESP-La Liga,2024,Alavés,Santiago Mouriño,URU,DF,23-057,2002.0,14.5,4,0,0,25,15,1,3,21,20,0,0,0,68,26,23,53.1,misc
+ESP-La Liga,2024,Alavés,Stoichkov,ESP,"MF,FW",31-157,1993.0,7.8,1,0,0,9,16,5,13,1,9,0,0,0,44,5,15,25.0,misc
+ESP-La Liga,2024,Alavés,Tomás Conechny,ARG,"FW,MF",27-012,1998.0,8.0,5,0,0,24,10,4,30,5,7,0,0,0,37,19,15,55.9,misc
+ESP-La Liga,2024,Alavés,Toni Martínez,ESP,FW,27-285,1997.0,9.6,1,0,0,13,9,7,6,0,5,0,1,0,25,67,53,55.8,misc
+ESP-La Liga,2024,Athletic Club,Adama Boiro,ESP,DF,22-293,2002.0,9.1,1,0,0,8,7,0,25,9,7,0,0,0,38,14,5,73.7,misc
+ESP-La Liga,2024,Athletic Club,Adu Ares,ESP,FW,23-181,2001.0,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Athletic Club,Aitor Paredes,ESP,DF,24-347,2000.0,15.1,4,1,1,18,4,0,1,19,8,0,1,0,50,24,23,51.1,misc
+ESP-La Liga,2024,Athletic Club,Alex Padilla,ESP,GK,21-222,2003.0,3.6,0,0,0,0,1,0,0,0,0,0,0,1,4,1,0,100.0,misc
+ESP-La Liga,2024,Athletic Club,Ander Herrera,ESP,MF,35-240,1989.0,3.0,2,0,0,6,3,0,1,2,4,0,0,0,14,3,2,60.0,misc
+ESP-La Liga,2024,Athletic Club,Andoni Gorosabel,ESP,DF,28-250,1996.0,12.6,4,0,0,19,3,1,36,13,16,0,0,0,47,12,17,41.4,misc
+ESP-La Liga,2024,Athletic Club,Beñat Prados,ESP,MF,24-062,2001.0,15.4,6,0,0,27,13,0,8,23,23,0,0,0,73,27,19,58.7,misc
+ESP-La Liga,2024,Athletic Club,Daniel Vivian,ESP,DF,25-270,1999.0,22.6,2,0,0,25,14,1,7,32,22,0,0,0,138,31,25,55.4,misc
+ESP-La Liga,2024,Athletic Club,Endika Buján,ESP,FW,22-085,2003.0,0.1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Athletic Club,Gorka Guruzeta,ESP,FW,28-211,1996.0,16.2,2,0,0,34,20,5,2,6,6,0,0,0,47,31,59,34.4,misc
+ESP-La Liga,2024,Athletic Club,Iñaki Williams,GHA,"FW,MF",30-300,1994.0,26.7,0,0,0,20,36,14,110,12,10,1,0,0,77,27,20,57.4,misc
+ESP-La Liga,2024,Athletic Club,Iñigo Lekue,ESP,DF,31-342,1993.0,6.3,1,0,0,4,2,0,12,5,8,0,0,0,26,5,2,71.4,misc
+ESP-La Liga,2024,Athletic Club,Iñigo Ruiz de Galarreta,ESP,MF,31-248,1993.0,11.9,5,0,0,27,13,0,23,10,20,0,0,0,92,3,8,27.3,misc
+ESP-La Liga,2024,Athletic Club,Javi Martón,ESP,"FW,MF",25-340,1999.0,0.6,1,0,0,1,0,1,0,0,0,0,0,0,2,2,1,66.7,misc
+ESP-La Liga,2024,Athletic Club,Julen Agirrezabala,ESP,GK,24-106,2000.0,13.4,1,1,0,3,1,0,0,0,0,0,2,0,21,5,0,100.0,misc
+ESP-La Liga,2024,Athletic Club,Maroan Sannadi,ESP,FW,24-069,2001.0,3.6,0,0,0,9,15,2,1,0,0,0,0,0,7,5,7,41.7,misc
+ESP-La Liga,2024,Athletic Club,Mikel Jauregizar,ESP,MF,21-150,2003.0,19.5,4,1,0,38,34,0,24,23,39,1,0,0,113,22,31,41.5,misc
+ESP-La Liga,2024,Athletic Club,Mikel Vesga,ESP,MF,31-325,1993.0,8.6,1,0,0,10,2,0,6,11,12,0,0,0,52,16,10,61.5,misc
+ESP-La Liga,2024,Athletic Club,Nico Williams,ESP,FW,22-273,2002.0,20.8,1,0,0,15,34,8,106,6,17,0,0,0,83,11,16,40.7,misc
+ESP-La Liga,2024,Athletic Club,Nicolás Serrano,ESP,FW,22-037,2003.0,1.2,0,0,0,2,2,0,13,1,1,0,0,0,3,0,2,0.0,misc
+ESP-La Liga,2024,Athletic Club,Oihan Sancet,ESP,MF,24-351,2000.0,15.3,2,0,0,12,18,3,17,5,6,0,0,0,59,9,11,45.0,misc
+ESP-La Liga,2024,Athletic Club,Peio Canales,ESP,"MF,FW",20-084,2005.0,1.4,0,0,0,0,1,1,6,2,2,0,0,0,10,0,2,0.0,misc
+ESP-La Liga,2024,Athletic Club,Unai Gómez,ESP,"MF,FW",21-321,2003.0,10.1,1,0,0,10,13,0,17,2,3,0,0,0,27,24,22,52.2,misc
+ESP-La Liga,2024,Athletic Club,Unai Núñez,ESP,DF,28-071,1997.0,5.5,3,0,0,7,4,0,0,17,3,0,0,0,25,13,11,54.2,misc
+ESP-La Liga,2024,Athletic Club,Unai Simón,ESP,GK,27-304,1997.0,13.0,0,0,0,0,2,0,0,1,0,0,0,0,20,5,0,100.0,misc
+ESP-La Liga,2024,Athletic Club,Yeray Álvarez,ESP,DF,30-077,1995.0,16.8,4,0,0,12,14,0,3,32,13,0,0,0,70,36,28,56.3,misc
+ESP-La Liga,2024,Athletic Club,Yuri Berchiche,ESP,DF,35-060,1990.0,17.7,3,0,0,13,15,3,37,17,18,0,0,0,92,18,16,52.9,misc
+ESP-La Liga,2024,Athletic Club,Álex Berenguer,ESP,"FW,MF",29-281,1995.0,19.8,4,0,0,25,23,4,138,8,11,2,0,0,83,22,40,35.5,misc
+ESP-La Liga,2024,Athletic Club,Álvaro djaló,ESP,FW,25-238,1999.0,5.1,0,0,0,13,9,4,6,1,4,0,0,0,16,6,12,33.3,misc
+ESP-La Liga,2024,Athletic Club,Óscar de Marcos,ESP,DF,35-362,1989.0,14.3,0,0,0,11,5,0,46,14,13,0,0,0,77,6,12,33.3,misc
+ESP-La Liga,2024,Atlético Madrid,Adrian Niño,ESP,FW,20-296,2004.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2024,Atlético Madrid,Alexander Sørloth,NOR,FW,29-127,1995.0,12.6,4,0,0,20,12,4,3,1,2,0,0,0,35,76,39,66.1,misc
+ESP-La Liga,2024,Atlético Madrid,Antoine Griezmann,FRA,"FW,MF",34-021,1991.0,24.0,2,0,0,11,24,14,131,6,16,0,0,0,78,18,19,48.6,misc
+ESP-La Liga,2024,Atlético Madrid,Axel Witsel,BEL,DF,36-089,1989.0,8.5,1,0,0,4,3,1,0,9,12,0,0,0,30,23,14,62.2,misc
+ESP-La Liga,2024,Atlético Madrid,Clément Lenglet,FRA,DF,29-298,1995.0,17.3,8,0,0,22,17,2,2,18,11,0,1,0,62,27,35,43.5,misc
+ESP-La Liga,2024,Atlético Madrid,Conor Gallagher,ENG,MF,25-064,2000.0,14.2,2,0,0,20,35,1,9,15,28,1,0,0,83,8,17,32.0,misc
+ESP-La Liga,2024,Atlético Madrid,César Azpilicueta,ESP,DF,35-226,1989.0,7.8,0,0,0,7,5,2,3,2,12,0,0,0,21,10,10,50.0,misc
+ESP-La Liga,2024,Atlético Madrid,Giuliano Simeone,ARG,"MF,DF",22-114,2002.0,15.8,4,0,0,16,30,7,35,10,9,0,0,0,66,10,22,31.3,misc
+ESP-La Liga,2024,Atlético Madrid,Jan Oblak,SVN,GK,32-094,1993.0,29.0,0,0,0,0,2,0,0,0,0,0,0,0,22,2,0,100.0,misc
+ESP-La Liga,2024,Atlético Madrid,Javi Galán,ESP,DF,30-143,1994.0,13.7,7,0,0,29,24,1,37,7,23,0,1,0,50,19,16,54.3,misc
+ESP-La Liga,2024,Atlético Madrid,José María Giménez,URU,DF,30-081,1995.0,18.2,5,0,0,10,10,0,0,22,13,0,0,1,64,31,30,50.8,misc
+ESP-La Liga,2024,Atlético Madrid,Juan Musso,ARG,GK,30-340,1994.0,1.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Atlético Madrid,Julián Álvarez,ARG,"FW,MF",25-070,2000.0,21.5,4,0,0,24,6,7,43,0,14,0,0,0,59,13,28,31.7,misc
+ESP-La Liga,2024,Atlético Madrid,Koke,ESP,MF,33-093,1992.0,16.3,4,0,0,19,10,0,11,17,21,0,0,1,100,8,9,47.1,misc
+ESP-La Liga,2024,Atlético Madrid,Marcos Llorente,ESP,"DF,MF",30-071,1995.0,19.9,0,1,0,13,16,2,43,20,40,0,0,0,91,12,13,48.0,misc
+ESP-La Liga,2024,Atlético Madrid,Nahuel Molina,ARG,DF,27-005,1998.0,15.3,0,0,0,10,5,1,48,11,16,0,0,0,52,9,12,42.9,misc
+ESP-La Liga,2024,Atlético Madrid,Pablo Barrios,ESP,MF,21-300,2003.0,20.8,4,1,0,23,21,0,20,30,20,0,0,0,109,27,16,62.8,misc
+ESP-La Liga,2024,Atlético Madrid,Reinildo Mandava,MOZ,DF,31-080,1994.0,10.5,4,0,0,19,18,1,8,16,11,0,1,0,52,10,14,41.7,misc
+ESP-La Liga,2024,Atlético Madrid,Robin Le Normand,ESP,DF,28-151,1996.0,17.6,8,0,0,31,16,3,1,8,13,0,1,0,54,40,28,58.8,misc
+ESP-La Liga,2024,Atlético Madrid,Rodrigo De Paul,ARG,MF,30-322,1994.0,18.0,6,0,0,14,29,0,49,5,17,0,0,0,98,4,6,40.0,misc
+ESP-La Liga,2024,Atlético Madrid,Rodrigo Riquelme,ESP,"DF,MF",25-009,2000.0,5.0,0,0,0,7,8,4,28,1,4,0,0,0,17,3,3,50.0,misc
+ESP-La Liga,2024,Atlético Madrid,Samuel Lino,BRA,"MF,DF",25-109,1999.0,13.9,3,0,0,12,26,2,30,7,12,1,0,0,72,11,11,50.0,misc
+ESP-La Liga,2024,Atlético Madrid,Thomas Lemar,FRA,MF,29-150,1995.0,0.5,0,0,0,1,2,0,2,0,1,0,0,0,2,0,1,0.0,misc
+ESP-La Liga,2024,Atlético Madrid,Ángel Correa,ARG,"FW,MF",30-033,1995.0,7.7,3,1,0,14,10,4,18,4,1,0,0,0,34,1,7,12.5,misc
+ESP-La Liga,2024,Barcelona,Alejandro Balde,ESP,DF,21-175,2003.0,22.7,2,0,0,14,35,0,65,5,10,0,0,0,107,14,8,63.6,misc
+ESP-La Liga,2024,Barcelona,Andreas Christensen,DEN,DF,29-001,1996.0,0.3,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2024,Barcelona,Ansu Fati,ESP,FW,22-162,2002.0,1.4,1,0,0,1,2,1,0,0,1,0,0,0,4,1,4,20.0,misc
+ESP-La Liga,2024,Barcelona,Dani Olmo,ESP,"MF,FW",26-339,1998.0,10.1,0,0,0,13,17,1,12,2,9,1,0,0,37,7,7,50.0,misc
+ESP-La Liga,2024,Barcelona,Eric García,ESP,"MF,DF",24-092,2001.0,11.7,3,0,0,16,5,0,1,10,12,0,0,0,40,25,20,55.6,misc
+ESP-La Liga,2024,Barcelona,Fermin López,ESP,"MF,FW",21-335,2003.0,8.8,3,1,0,17,15,3,21,4,13,0,0,0,42,7,17,29.2,misc
+ESP-La Liga,2024,Barcelona,Ferrán Torres,ESP,"FW,MF",25-041,2000.0,9.6,1,1,0,5,10,6,16,2,3,0,0,0,21,3,7,30.0,misc
+ESP-La Liga,2024,Barcelona,Frenkie de Jong,NED,MF,27-334,1997.0,8.0,2,0,0,9,12,0,4,3,6,0,1,0,29,7,5,58.3,misc
+ESP-La Liga,2024,Barcelona,Gavi,ESP,"MF,FW",20-249,2004.0,7.7,4,0,0,27,15,1,8,8,10,0,0,0,36,15,17,46.9,misc
+ESP-La Liga,2024,Barcelona,Gerard Martín,ESP,DF,23-100,2002.0,7.1,2,0,0,9,4,0,18,8,7,0,0,0,26,10,3,76.9,misc
+ESP-La Liga,2024,Barcelona,Héctor Fort,ESP,DF,18-252,2006.0,4.2,2,0,0,3,1,0,7,6,6,0,0,0,18,3,5,37.5,misc
+ESP-La Liga,2024,Barcelona,Iñaki Peña,ESP,GK,26-040,1999.0,14.5,1,0,0,0,0,0,0,0,0,0,0,0,63,1,0,100.0,misc
+ESP-La Liga,2024,Barcelona,Iñigo Martínez,ESP,DF,33-329,1991.0,22.7,3,0,0,12,24,0,3,18,12,1,0,0,97,50,28,64.1,misc
+ESP-La Liga,2024,Barcelona,Jules Koundé,FRA,DF,26-150,1998.0,26.9,4,0,0,21,18,7,59,20,39,0,0,0,98,24,22,52.2,misc
+ESP-La Liga,2024,Barcelona,Lamine Yamal,ESP,FW,17-272,2007.0,24.8,3,0,0,25,50,11,73,13,23,2,0,0,96,1,1,50.0,misc
+ESP-La Liga,2024,Barcelona,Marc Bernal,ESP,MF,17-320,2007.0,2.7,2,0,0,4,3,0,0,1,6,0,0,0,9,1,6,14.3,misc
+ESP-La Liga,2024,Barcelona,Marc Casado,ESP,MF,21-209,2003.0,17.9,4,1,1,26,36,0,9,22,25,0,0,0,90,8,23,25.8,misc
+ESP-La Liga,2024,Barcelona,Marc-André ter Stegen,GER,GK,32-346,1992.0,5.5,0,0,0,0,2,0,0,0,0,0,0,0,5,1,0,100.0,misc
+ESP-La Liga,2024,Barcelona,Pablo Torre,ESP,"MF,FW",22-008,2003.0,3.4,0,0,0,4,8,1,13,3,4,0,0,0,15,1,6,14.3,misc
+ESP-La Liga,2024,Barcelona,Pau Cubarsí,ESP,DF,18-079,2007.0,24.9,3,0,0,16,8,0,2,12,17,0,1,0,85,57,34,62.6,misc
+ESP-La Liga,2024,Barcelona,Pau Victor Delgado,ESP,FW,23-136,2001.0,2.5,2,0,0,5,3,0,2,2,1,0,0,0,14,2,1,66.7,misc
+ESP-La Liga,2024,Barcelona,Pedri,ESP,MF,22-137,2002.0,25.1,2,0,0,9,39,2,50,23,26,0,0,0,186,5,5,50.0,misc
+ESP-La Liga,2024,Barcelona,Raphinha,BRA,"FW,MF",28-118,1996.0,25.0,3,0,0,7,29,7,174,7,20,2,0,0,78,6,5,54.5,misc
+ESP-La Liga,2024,Barcelona,Robert Lewandowski,POL,FW,36-233,1988.0,25.5,1,0,0,26,32,16,5,3,3,0,0,0,43,31,39,44.3,misc
+ESP-La Liga,2024,Barcelona,Ronald Araújo,URU,DF,26-035,1999.0,4.6,1,0,0,6,2,0,0,3,6,0,0,0,16,18,12,60.0,misc
+ESP-La Liga,2024,Barcelona,Sergi Dominguez,ESP,DF,20-010,2005.0,1.9,1,0,0,2,0,0,0,3,1,0,1,0,8,1,3,25.0,misc
+ESP-La Liga,2024,Barcelona,Wojciech Szczęsny,POL,GK,34-358,1990.0,10.0,0,0,0,0,1,0,0,0,1,0,0,0,29,0,0,,misc
+ESP-La Liga,2024,Betis,Abde Ezzalzouli,MAR,"FW,MF",23-115,2001.0,17.9,2,0,0,18,32,3,42,5,22,1,0,0,84,19,31,38.0,misc
+ESP-La Liga,2024,Betis,Adrián,ESP,GK,38-098,1987.0,11.0,3,0,0,0,3,0,0,0,0,0,0,0,8,1,1,50.0,misc
+ESP-La Liga,2024,Betis,Aitor Ruibal,ESP,"DF,FW",29-020,1996.0,9.1,3,0,0,6,14,2,18,9,13,0,0,0,46,4,12,25.0,misc
+ESP-La Liga,2024,Betis,Antony,BRA,FW,25-046,2000.0,8.4,1,1,0,5,14,0,16,6,6,1,0,0,41,3,10,23.1,misc
+ESP-La Liga,2024,Betis,Assane Diao,SEN,FW,19-216,2005.0,3.1,0,0,0,4,4,2,4,0,3,0,0,0,12,8,6,57.1,misc
+ESP-La Liga,2024,Betis,Carlos Guirao,ESP,MF,21-349,2003.0,1.2,0,0,0,4,0,0,0,3,3,0,0,0,6,2,1,66.7,misc
+ESP-La Liga,2024,Betis,Cucho,COL,FW,25-356,1999.0,6.1,0,0,0,6,6,3,5,5,4,1,0,0,16,14,22,38.9,misc
+ESP-La Liga,2024,Betis,Cédric Bakambu,COD,FW,34-000,1991.0,6.4,4,0,0,20,6,10,2,0,3,1,0,0,18,11,25,30.6,misc
+ESP-La Liga,2024,Betis,Diego Llorente,ESP,DF,31-238,1993.0,27.5,4,0,0,20,23,0,1,43,20,0,1,1,93,76,44,63.3,misc
+ESP-La Liga,2024,Betis,Ezequiel Ávila,ARG,FW,31-064,1994.0,7.5,5,1,0,13,18,5,29,2,3,0,0,0,28,6,8,42.9,misc
+ESP-La Liga,2024,Betis,Fran Vieites,ESP,GK,25-339,1999.0,4.0,0,0,0,0,2,0,0,0,0,0,0,0,7,1,0,100.0,misc
+ESP-La Liga,2024,Betis,Giovani Lo Celso,ARG,"MF,FW",29-002,1996.0,12.4,4,0,0,13,50,0,79,5,19,0,0,0,58,4,9,30.8,misc
+ESP-La Liga,2024,Betis,Héctor Bellerín,ESP,DF,30-023,1995.0,5.8,1,0,0,6,0,0,10,6,7,0,0,0,11,6,7,46.2,misc
+ESP-La Liga,2024,Betis,Iker Losada,ESP,"MF,FW",23-253,2001.0,3.7,0,0,0,1,2,0,4,3,7,0,0,0,19,3,4,42.9,misc
+ESP-La Liga,2024,Betis,Isco,ESP,MF,32-355,1992.0,11.7,5,0,0,17,32,3,59,7,8,0,0,0,56,10,14,41.7,misc
+ESP-La Liga,2024,Betis,Jesus Rodríguez,ESP,FW,19-141,2005.0,8.7,0,0,0,10,32,2,13,6,13,1,0,0,43,3,6,33.3,misc
+ESP-La Liga,2024,Betis,Johnny Cardoso,USA,MF,23-203,2001.0,18.9,4,0,0,31,26,0,2,43,24,0,0,0,106,23,15,60.5,misc
+ESP-La Liga,2024,Betis,Juanmi,ESP,"FW,MF",31-326,1993.0,2.7,2,0,0,6,7,1,1,1,4,0,0,0,14,6,1,85.7,misc
+ESP-La Liga,2024,Betis,Marc Bartra,ESP,DF,34-086,1991.0,16.5,1,0,0,10,11,1,0,27,14,0,1,0,68,34,34,50.0,misc
+ESP-La Liga,2024,Betis,Marc Roca,ESP,MF,28-136,1996.0,10.1,4,0,0,16,5,0,10,14,14,0,0,0,51,5,13,27.8,misc
+ESP-La Liga,2024,Betis,Mateo Flores,ESP,MF,21-004,2004.0,1.7,1,0,0,4,1,0,1,2,1,0,0,0,12,0,2,0.0,misc
+ESP-La Liga,2024,Betis,Nabil Fekir,FRA,MF,31-267,1993.0,2.0,0,0,0,3,7,0,10,0,2,0,0,0,3,0,2,0.0,misc
+ESP-La Liga,2024,Betis,Natan,BRA,DF,24-064,2001.0,16.7,3,1,0,13,8,0,2,18,18,0,0,0,46,48,22,68.6,misc
+ESP-La Liga,2024,Betis,Pablo Fornals,ESP,"MF,FW",29-048,1996.0,14.9,2,0,0,10,11,2,46,17,10,0,0,0,76,17,16,51.5,misc
+ESP-La Liga,2024,Betis,Pablo Garcia,ESP,FW,18-239,2006.0,0.3,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Betis,Ricardo Rodríguez,SUI,DF,32-229,1992.0,10.7,0,0,0,10,5,0,14,6,12,0,0,0,41,18,14,56.3,misc
+ESP-La Liga,2024,Betis,Rodri,ESP,FW,24-330,2000.0,1.3,0,0,0,2,2,1,6,1,1,0,0,0,10,0,2,0.0,misc
+ESP-La Liga,2024,Betis,Romain Perraud,FRA,DF,27-201,1997.0,17.7,6,1,0,23,34,5,56,19,19,0,1,0,76,8,13,38.1,misc
+ESP-La Liga,2024,Betis,Rui Silva,POR,GK,31-063,1994.0,15.0,1,0,0,1,2,0,0,0,0,0,1,0,25,2,0,100.0,misc
+ESP-La Liga,2024,Betis,Sergi Altimira,ESP,MF,23-229,2001.0,18.3,3,0,0,30,31,0,4,17,32,1,0,0,96,9,17,34.6,misc
+ESP-La Liga,2024,Betis,Sergio Arribas,ESP,DF,22-060,2003.0,1.0,0,0,0,0,0,0,0,3,4,0,0,0,3,1,0,100.0,misc
+ESP-La Liga,2024,Betis,Vitor Roque,BRA,FW,20-042,2005.0,13.7,4,0,0,30,30,5,6,7,6,2,0,0,35,15,29,34.1,misc
+ESP-La Liga,2024,Betis,William Carvalho,POR,MF,33-004,1992.0,3.2,0,0,0,5,0,0,1,3,3,0,0,0,18,5,2,71.4,misc
+ESP-La Liga,2024,Betis,Youssouf Sabaly,SEN,DF,32-037,1993.0,15.8,1,0,0,15,11,1,27,13,24,0,0,0,72,9,12,42.9,misc
+ESP-La Liga,2024,Betis,Ángel Ortíz,ESP,DF,20-260,2004.0,3.8,0,0,0,6,6,0,18,5,7,0,0,0,14,5,7,41.7,misc
+ESP-La Liga,2024,Celta Vigo,Alfon,ESP,"FW,MF",25-342,1999.0,10.4,1,1,0,14,21,6,27,4,2,1,0,0,30,3,9,25.0,misc
+ESP-La Liga,2024,Celta Vigo,Anastasios Douvikas,GRE,FW,25-252,1999.0,7.8,2,0,0,10,27,9,1,3,4,0,0,0,15,14,23,37.8,misc
+ESP-La Liga,2024,Celta Vigo,Borja Iglesias,ESP,FW,32-084,1993.0,17.6,2,0,0,35,28,11,3,4,7,2,0,0,40,10,23,30.3,misc
+ESP-La Liga,2024,Celta Vigo,Carl Starfelt,SWE,DF,29-314,1995.0,25.1,5,0,0,21,11,0,0,31,17,0,0,0,77,60,51,54.1,misc
+ESP-La Liga,2024,Celta Vigo,Carlos Dominguez,ESP,DF,24-059,2001.0,8.2,1,0,0,7,6,0,0,7,10,0,0,1,30,22,6,78.6,misc
+ESP-La Liga,2024,Celta Vigo,Damián Rodríguez,ESP,MF,22-025,2003.0,8.8,3,0,0,13,8,0,25,6,8,0,0,0,43,0,4,0.0,misc
 ESP-La Liga,2024,Celta Vigo,Fer López,,"FW,MF",,,3.6,2,0,0,11,3,0,2,1,3,0,0,0,12,1,3,25.0,misc
-ESP-La Liga,2024,Celta Vigo,Fran Beltrán,ESP,MF,26-067,1999,20.3,2,0,0,24,9,0,3,19,26,0,1,0,89,19,20,48.7,misc
-ESP-La Liga,2024,Celta Vigo,Franco Cervi,ARG,"FW,MF",30-320,1994,2.9,1,0,0,4,1,0,6,8,3,0,0,0,12,4,4,50.0,misc
-ESP-La Liga,2024,Celta Vigo,Hugo Sotelo,ESP,MF,21-113,2003,12.6,4,0,0,17,9,1,43,4,15,0,0,0,67,2,10,16.7,misc
-ESP-La Liga,2024,Celta Vigo,Hugo Álvarez,ESP,"MF,DF",21-283,2003,15.4,5,0,0,22,14,2,28,7,9,0,1,0,70,5,5,50.0,misc
-ESP-La Liga,2024,Celta Vigo,Iago Aspas,ESP,"FW,MF",37-253,1987,16.4,4,1,1,15,31,5,10,6,8,1,0,0,49,7,7,50.0,misc
-ESP-La Liga,2024,Celta Vigo,Iker Losada,ESP,"FW,MF",23-253,2001,3.1,2,0,0,3,0,0,5,1,3,0,0,0,8,1,4,20.0,misc
-ESP-La Liga,2024,Celta Vigo,Ilaix Moriba,GUI,MF,22-082,2003,17.3,7,1,1,22,46,2,5,10,29,0,0,0,81,17,22,43.6,misc
-ESP-La Liga,2024,Celta Vigo,Iván Villar,ESP,GK,27-276,1997,4.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,1,50.0,misc
-ESP-La Liga,2024,Celta Vigo,Jailson Siqueira,BRA,"DF,MF",29-216,1995,6.5,1,0,0,3,4,0,1,9,11,0,0,1,31,15,15,50.0,misc
-ESP-La Liga,2024,Celta Vigo,Javi Rodríguez,ESP,DF,21-289,2003,21.6,6,0,0,27,16,0,2,29,33,0,0,0,68,34,25,57.6,misc
-ESP-La Liga,2024,Celta Vigo,Javier Manquillo,ESP,DF,30-341,1994,5.7,1,0,0,9,1,0,3,7,5,0,0,0,18,5,8,38.5,misc
-ESP-La Liga,2024,Celta Vigo,Jonathan Bamba,CIV,"FW,MF",29-016,1996,9.0,1,0,0,7,17,4,25,5,7,0,0,0,52,5,10,33.3,misc
-ESP-La Liga,2024,Celta Vigo,Joseph Aidoo,GHA,DF,29-194,1995,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Celta Vigo,Luca de la Torre,USA,MF,26-323,1998,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,misc
-ESP-La Liga,2024,Celta Vigo,Marcos Alonso,ESP,DF,34-104,1990,23.0,9,1,1,23,21,2,32,27,18,0,0,0,132,59,38,60.8,misc
-ESP-La Liga,2024,Celta Vigo,Mihailo Ristić,SRB,"MF,DF",29-162,1995,2.7,1,0,0,6,2,0,5,1,3,0,0,0,13,0,8,0.0,misc
-ESP-La Liga,2024,Celta Vigo,Pablo Durán,ESP,"FW,MF",23-321,2001,11.0,3,0,0,23,13,4,16,7,6,0,0,0,33,6,23,20.7,misc
-ESP-La Liga,2024,Celta Vigo,Sergio Carreira,ESP,"MF,DF",24-180,2000,13.6,0,0,0,13,4,2,39,11,16,0,0,0,51,3,12,20.0,misc
-ESP-La Liga,2024,Celta Vigo,Tadeo Allende,ARG,FW,26-050,1999,0.0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Celta Vigo,Vicente Guaita,ESP,GK,38-091,1987,26.0,0,0,0,0,4,0,0,0,0,0,0,0,59,9,0,100.0,misc
-ESP-La Liga,2024,Celta Vigo,Williot Swedberg,SWE,"FW,MF",21-069,2004,11.8,1,0,0,16,25,7,18,3,12,0,0,0,38,7,13,35.0,misc
-ESP-La Liga,2024,Celta Vigo,Yoel Lago,ESP,DF,21-017,2004,1.5,0,0,0,1,1,0,0,2,1,0,0,0,6,1,1,50.0,misc
-ESP-La Liga,2024,Celta Vigo,Óscar Mingueza,ESP,"MF,DF",25-333,1999,23.1,5,1,0,19,19,2,92,16,18,1,0,0,108,10,9,52.6,misc
-ESP-La Liga,2024,Espanyol,Alejo Véliz,ARG,FW,21-204,2003,11.0,3,0,0,17,26,5,0,4,1,0,0,0,20,44,50,46.8,misc
-ESP-La Liga,2024,Espanyol,Alex Král,CZE,MF,26-327,1998,27.3,1,0,0,27,22,0,35,23,33,0,0,0,112,33,27,55.0,misc
-ESP-La Liga,2024,Espanyol,Antoniu,ESP,"MF,FW",22-218,2002,6.4,3,0,0,12,12,4,13,7,6,0,0,0,20,5,11,31.3,misc
-ESP-La Liga,2024,Espanyol,Brian Oliván,ESP,DF,31-010,1994,11.3,2,0,0,13,6,3,55,10,10,0,0,0,28,3,10,23.1,misc
-ESP-La Liga,2024,Espanyol,Carlos Romero,ESP,"DF,MF",23-164,2001,19.5,5,0,0,22,9,1,56,19,28,0,2,0,86,11,18,37.9,misc
-ESP-La Liga,2024,Espanyol,Edu Expósito,ESP,"MF,FW",28-253,1996,3.7,2,0,0,7,7,0,24,5,4,0,0,0,21,3,7,30.0,misc
-ESP-La Liga,2024,Espanyol,Fernando Calero,ESP,"DF,MF",29-209,1995,4.8,0,0,0,4,5,0,0,12,4,0,0,0,14,6,8,42.9,misc
-ESP-La Liga,2024,Espanyol,Irvin Cardona,FRA,"FW,MF",27-246,1997,6.7,1,0,0,8,8,5,14,4,5,0,0,0,19,8,11,42.1,misc
-ESP-La Liga,2024,Espanyol,Javi Puado,ESP,"FW,MF",26-321,1998,25.7,5,0,0,15,21,4,19,4,12,1,0,0,72,7,25,21.9,misc
-ESP-La Liga,2024,Espanyol,Joan García,ESP,GK,23-342,2001,29.0,2,0,0,0,4,0,0,0,0,0,0,0,27,15,1,93.8,misc
-ESP-La Liga,2024,Espanyol,Jofre,ESP,"MF,FW",23-298,2001,19.7,5,0,0,24,46,3,37,13,13,0,0,0,91,3,11,21.4,misc
-ESP-La Liga,2024,Espanyol,José Gragera,ESP,MF,24-132,2000,6.3,0,0,0,18,8,0,0,5,16,0,0,0,18,11,5,68.8,misc
-ESP-La Liga,2024,Espanyol,Justin Smith,CAN,MF,22-066,2003,2.3,0,0,0,5,2,0,1,4,3,0,0,0,8,3,0,100.0,misc
-ESP-La Liga,2024,Espanyol,Leandro Cabrera,URU,DF,33-298,1991,24.0,3,0,0,17,7,0,14,26,18,1,1,0,64,59,37,61.5,misc
-ESP-La Liga,2024,Espanyol,Marash Kumbulla,ALB,DF,25-062,2000,25.2,7,0,0,30,24,0,4,25,18,0,0,0,60,53,32,62.4,misc
-ESP-La Liga,2024,Espanyol,Naci Ünüvar,NED,"MF,DF",21-302,2003,0.3,0,0,0,0,1,1,2,0,2,0,0,0,3,0,0,,misc
-ESP-La Liga,2024,Espanyol,Omar El Hilali,MAR,DF,21-211,2003,27.4,10,0,0,43,23,3,41,38,68,0,2,0,110,25,20,55.6,misc
-ESP-La Liga,2024,Espanyol,Pere Milla,ESP,"MF,FW",32-200,1992,3.0,3,0,0,4,10,2,9,2,1,0,0,0,17,4,6,40.0,misc
-ESP-La Liga,2024,Espanyol,Pol Lozano,ESP,MF,25-187,1999,16.9,10,0,0,45,12,0,16,20,27,0,0,0,74,7,13,35.0,misc
-ESP-La Liga,2024,Espanyol,Rafael Bauza,ESP,MF,20-071,2005,2.0,1,0,0,8,0,0,0,0,3,0,0,0,4,3,2,60.0,misc
-ESP-La Liga,2024,Espanyol,Roberto Férnandez,ESP,FW,22-282,2002,8.2,1,0,0,21,15,2,1,3,4,1,0,0,20,17,29,37.0,misc
-ESP-La Liga,2024,Espanyol,Sergi Gómez,ESP,DF,33-014,1992,7.2,1,0,0,6,1,0,1,7,5,0,0,0,15,11,20,35.5,misc
-ESP-La Liga,2024,Espanyol,Urko González,ESP,MF,24-022,2001,6.6,1,0,0,10,6,0,1,5,12,0,1,0,32,8,8,50.0,misc
-ESP-La Liga,2024,Espanyol,Walid Cheddira,MAR,FW,27-079,1998,6.7,2,0,0,25,24,7,0,1,0,1,0,0,18,13,24,35.1,misc
-ESP-La Liga,2024,Espanyol,Álvaro Aguado,ESP,MF,28-345,1996,4.6,3,0,0,5,7,0,12,3,2,0,0,0,33,3,2,60.0,misc
-ESP-La Liga,2024,Espanyol,Álvaro Tejero,ESP,"MF,DF",28-265,1996,12.8,2,0,0,13,19,1,98,11,4,0,0,0,62,9,10,47.4,misc
-ESP-La Liga,2024,Getafe,Abdoulaye Keita,ESP,"FW,MF",22-222,2002,1.1,0,0,0,6,0,0,1,0,2,0,0,0,6,3,3,50.0,misc
-ESP-La Liga,2024,Getafe,Alberto Risco,ESP,"MF,FW",19-224,2005,0.8,0,0,0,1,2,0,4,0,4,0,0,0,5,1,3,25.0,misc
-ESP-La Liga,2024,Getafe,Alex Sola,ESP,"MF,FW",25-306,1999,11.4,4,0,0,24,26,7,18,7,14,0,0,0,47,18,28,39.1,misc
-ESP-La Liga,2024,Getafe,Allan Nyom,CMR,"DF,MF",36-336,1988,7.3,4,0,0,18,6,0,15,2,7,0,1,0,23,7,13,35.0,misc
-ESP-La Liga,2024,Getafe,Bertuğ Yıldırım,TUR,FW,22-273,2002,10.3,7,0,0,27,15,13,4,1,3,1,0,0,21,63,47,57.3,misc
-ESP-La Liga,2024,Getafe,Borja Mayoral,ESP,FW,28-006,1997,7.0,0,0,0,6,10,7,6,0,2,0,0,0,17,14,25,35.9,misc
-ESP-La Liga,2024,Getafe,Carles Aleñá,ESP,"MF,FW",27-096,1998,5.0,1,0,0,8,11,2,6,0,3,0,0,0,12,10,9,52.6,misc
-ESP-La Liga,2024,Getafe,Carles Pérez,ESP,"MF,FW",27-054,1998,15.3,2,0,0,38,10,1,41,6,23,0,0,0,46,12,24,33.3,misc
-ESP-La Liga,2024,Getafe,Chrisantus Uche,NGA,"FW,MF",21-327,2003,23.4,8,1,1,47,62,17,19,8,17,0,0,0,96,77,113,40.5,misc
-ESP-La Liga,2024,Getafe,Coba da Costa,ESP,"MF,FW",22-259,2002,8.3,3,0,0,7,8,0,22,5,11,0,0,0,26,15,13,53.6,misc
-ESP-La Liga,2024,Getafe,David Argüelles,ESP,MF,23-100,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Getafe,David Soria,ESP,GK,32-007,1993,30.0,1,0,0,0,0,0,0,1,4,0,0,0,23,6,0,100.0,misc
-ESP-La Liga,2024,Getafe,Diego Rico,ESP,DF,32-047,1993,27.0,7,0,0,33,50,3,129,31,45,1,0,0,115,22,18,55.0,misc
-ESP-La Liga,2024,Getafe,Djené,TOG,"DF,MF",33-101,1991,24.5,9,0,0,33,22,1,28,19,10,0,0,0,89,41,30,57.7,misc
-ESP-La Liga,2024,Getafe,Domingos Duarte,POR,DF,30-032,1995,14.0,3,1,1,17,9,0,0,10,8,0,1,0,37,23,10,69.7,misc
-ESP-La Liga,2024,Getafe,Gorka Rivera Alonso,ESP,"DF,MF",20-253,2004,0.2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0.0,misc
-ESP-La Liga,2024,Getafe,Iglesias,ESP,DF,26-282,1998,24.9,4,0,0,38,32,1,71,38,41,0,0,0,84,31,30,50.8,misc
-ESP-La Liga,2024,Getafe,Ismael Bekhoucha,MAR,MF,20-142,2004,0.0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Getafe,Jesús Santiago,ESP,MF,20-321,2004,3.6,5,0,0,14,5,0,2,1,7,0,0,0,18,1,4,20.0,misc
-ESP-La Liga,2024,Getafe,John Joe,IRL,"MF,FW",21-169,2003,0.5,1,0,0,1,2,0,0,0,0,0,0,0,3,2,2,50.0,misc
-ESP-La Liga,2024,Getafe,Juan Bernat,ESP,"MF,FW",32-041,1993,4.5,0,0,0,4,3,0,8,1,8,0,0,0,17,7,9,43.8,misc
-ESP-La Liga,2024,Getafe,Juan Berrocal,ESP,DF,25-342,1999,9.0,6,1,1,14,1,0,0,11,7,0,1,0,30,27,12,69.2,misc
-ESP-La Liga,2024,Getafe,Juanmi,ESP,"FW,MF",31-326,1993,6.5,2,0,0,13,9,5,0,2,7,0,0,0,20,6,7,46.2,misc
-ESP-La Liga,2024,Getafe,Luis Milla,ESP,MF,30-186,1994,24.9,3,0,0,32,39,0,155,17,28,0,1,0,130,25,30,45.5,misc
-ESP-La Liga,2024,Getafe,Mauro Arambarri,URU,MF,29-193,1995,22.9,8,0,0,38,39,3,13,11,14,0,0,0,100,47,43,52.2,misc
-ESP-La Liga,2024,Getafe,Nabil Aberdin,FRA,MF,22-231,2002,2.9,1,0,0,7,6,0,0,0,4,0,0,0,8,10,3,76.9,misc
-ESP-La Liga,2024,Getafe,Omar Alderete,PAR,DF,28-106,1996,26.4,7,0,0,27,10,6,5,34,22,1,3,0,96,76,41,65.0,misc
-ESP-La Liga,2024,Getafe,Peter González,DOM,"MF,FW",22-260,2002,4.0,0,0,0,7,9,1,9,1,4,0,0,0,14,7,12,36.8,misc
-ESP-La Liga,2024,Getafe,Ramón Terrats,ESP,"MF,FW",24-175,2000,6.6,1,0,0,9,11,0,23,1,6,0,0,0,24,7,6,53.8,misc
-ESP-La Liga,2024,Getafe,Álvaro Rodríguez,URU,FW,20-271,2004,7.0,4,0,0,23,17,5,3,3,5,0,0,0,25,75,63,54.3,misc
-ESP-La Liga,2024,Girona,Abel Ruiz,ESP,FW,25-073,2000,13.0,3,0,0,6,13,5,4,4,2,0,0,0,20,7,19,26.9,misc
-ESP-La Liga,2024,Girona,Alejandro Francés,ESP,DF,22-253,2002,9.9,1,0,0,13,13,1,18,14,18,0,0,0,28,4,9,30.8,misc
-ESP-La Liga,2024,Girona,Arnau Martinez,ESP,"DF,MF",21-351,2003,22.7,2,0,0,13,32,1,48,23,18,0,1,0,101,23,19,54.8,misc
-ESP-La Liga,2024,Girona,Arnaut Danjuma,NED,"FW,MF",28-070,1997,12.7,2,0,0,12,12,12,61,2,5,0,1,0,31,0,2,0.0,misc
-ESP-La Liga,2024,Girona,Arthur Melo,BRA,MF,28-242,1996,3.5,0,0,0,3,8,0,2,3,6,0,0,0,15,0,2,0.0,misc
-ESP-La Liga,2024,Girona,Bojan Miovski,MKD,FW,25-291,1999,9.4,0,0,0,13,11,8,3,2,5,1,0,0,13,13,20,39.4,misc
-ESP-La Liga,2024,Girona,Bryan Gil,ESP,"FW,MF",24-059,2001,19.1,4,0,0,22,40,4,78,10,20,0,0,0,78,0,5,0.0,misc
-ESP-La Liga,2024,Girona,Cristhian Stuani,URU,FW,38-181,1986,6.8,2,0,0,20,2,4,1,5,5,0,0,0,9,11,10,52.4,misc
-ESP-La Liga,2024,Girona,Daley Blind,NED,DF,35-033,1990,22.9,2,0,0,14,12,0,28,22,19,0,0,0,85,13,17,43.3,misc
-ESP-La Liga,2024,Girona,David López,ESP,DF,35-184,1989,21.8,3,0,0,6,11,1,3,12,18,0,1,0,76,26,25,51.0,misc
-ESP-La Liga,2024,Girona,Donny van de Beek,NED,MF,27-358,1997,15.3,5,0,0,22,8,3,11,10,17,0,0,0,47,9,8,52.9,misc
-ESP-La Liga,2024,Girona,Ferrán Ruiz,ESP,MF,21-350,2003,0.2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,misc
-ESP-La Liga,2024,Girona,Gabriel Osei Misehouy,NED,"FW,MF",19-267,2005,2.9,0,0,0,1,5,2,6,0,1,0,0,0,11,0,3,0.0,misc
-ESP-La Liga,2024,Girona,Iker Almena,ESP,"FW,DF",20-342,2004,0.5,0,0,0,0,1,0,4,0,0,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Girona,Iván Martín,ESP,MF,26-056,1999,18.5,1,0,0,17,14,3,15,10,15,0,0,0,91,3,13,18.8,misc
-ESP-La Liga,2024,Girona,Jhon Solis,COL,MF,20-190,2004,4.9,2,0,0,6,5,0,2,4,4,0,0,0,21,3,3,50.0,misc
-ESP-La Liga,2024,Girona,Juanpe,ESP,DF,33-346,1991,6.7,2,0,0,3,2,0,1,8,5,0,0,0,19,20,8,71.4,misc
-ESP-La Liga,2024,Girona,Kim Minsu,KOR,"MF,FW",19-082,2006,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,misc
-ESP-La Liga,2024,Girona,Ladislav Krejčí,CZE,DF,25-356,1999,20.1,8,0,0,17,10,0,9,30,14,1,0,1,77,42,17,71.2,misc
-ESP-La Liga,2024,Girona,Miguel Gutiérrez,ESP,"DF,MF",23-258,2001,25.4,3,0,0,26,31,5,140,16,24,0,1,0,137,4,14,22.2,misc
-ESP-La Liga,2024,Girona,Oriol Romeu,ESP,MF,33-199,1991,12.9,5,0,0,25,13,0,7,11,21,0,1,0,63,10,13,43.5,misc
-ESP-La Liga,2024,Girona,Papa Ba,ESP,MF,20-211,2004,0.5,0,0,0,1,4,0,1,0,1,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Girona,Pau López,ESP,GK,30-119,1994,0.5,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Girona,Paulo Gazzaniga,ARG,GK,33-099,1992,29.5,4,0,0,1,3,0,0,0,1,0,0,0,42,0,2,0.0,misc
-ESP-La Liga,2024,Girona,Portu,ESP,"FW,MF",32-325,1992,3.9,4,0,0,9,6,5,16,0,4,0,0,0,13,5,7,41.7,misc
-ESP-La Liga,2024,Girona,Silvi Clúa,ESP,MF,20-072,2005,1.8,0,0,0,5,0,0,0,2,7,0,0,0,4,6,3,66.7,misc
-ESP-La Liga,2024,Girona,Viktor Tsyhankov,UKR,"FW,MF",27-147,1997,14.0,1,0,0,9,22,3,86,10,10,1,0,0,44,3,12,20.0,misc
-ESP-La Liga,2024,Girona,Yangel Herrera,VEN,MF,27-087,1998,18.8,9,1,0,54,49,3,33,26,32,1,0,0,80,39,33,54.2,misc
-ESP-La Liga,2024,Girona,Yaser Asprilla,COL,"FW,MF",21-143,2003,11.4,2,0,0,8,20,1,64,5,8,0,0,0,43,3,0,100.0,misc
-ESP-La Liga,2024,Las Palmas,Aboubacar Bassinga,CIV,MF,19-272,2005,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Las Palmas,Adnan Januzaj,BEL,"MF,FW",30-065,1995,4.1,4,0,0,3,12,0,42,0,5,0,0,0,22,1,8,11.1,misc
-ESP-La Liga,2024,Las Palmas,Alberto Moleiro,ESP,"FW,MF",21-193,2003,24.0,5,0,0,24,34,2,19,13,11,0,0,0,102,5,17,22.7,misc
-ESP-La Liga,2024,Las Palmas,Andy Pelmard,FRA,DF,25-030,2000,2.3,1,0,0,2,3,0,2,2,0,0,0,0,4,1,1,50.0,misc
-ESP-La Liga,2024,Las Palmas,Benito Ramírez,ESP,"DF,MF",29-274,1995,4.3,2,1,0,4,6,0,30,1,5,0,0,0,27,3,9,25.0,misc
-ESP-La Liga,2024,Las Palmas,Daley Sinkgraven,NED,DF,29-281,1995,1.0,0,0,0,2,2,0,4,1,1,0,0,0,6,1,0,100.0,misc
-ESP-La Liga,2024,Las Palmas,Dario Essugo,POR,MF,20-028,2005,15.9,9,2,2,27,25,0,1,33,34,0,0,0,85,22,24,47.8,misc
-ESP-La Liga,2024,Las Palmas,Dinko Horkaš,CRO,GK,26-032,1999,4.1,1,0,0,1,0,0,0,0,0,0,1,0,7,0,0,,misc
-ESP-La Liga,2024,Las Palmas,Enzo Loiodice,FRA,MF,24-135,2000,5.6,3,0,0,9,5,1,9,5,4,0,0,0,20,6,4,60.0,misc
-ESP-La Liga,2024,Las Palmas,Fabio González,ESP,MF,28-058,1997,0.6,0,0,0,1,0,0,1,0,0,0,0,0,3,1,0,100.0,misc
-ESP-La Liga,2024,Las Palmas,Fábio Silva,POR,FW,22-266,2002,18.9,7,0,0,36,41,18,20,4,6,0,0,0,46,47,45,51.1,misc
-ESP-La Liga,2024,Las Palmas,Jaime Mata,ESP,FW,36-169,1988,5.2,6,0,0,14,10,10,9,3,1,0,0,0,15,15,23,39.5,misc
-ESP-La Liga,2024,Las Palmas,Jasper Cillessen,NED,GK,35-354,1989,25.9,1,0,0,0,5,0,0,0,0,0,0,0,20,2,2,50.0,misc
-ESP-La Liga,2024,Las Palmas,Javier Muñoz,ESP,"MF,DF",30-042,1995,24.9,3,0,0,26,22,2,42,27,32,0,0,0,100,10,24,29.4,misc
-ESP-La Liga,2024,Las Palmas,José Campaña,ESP,MF,31-315,1993,11.9,3,0,0,7,19,0,26,18,14,0,1,0,73,15,4,78.9,misc
-ESP-La Liga,2024,Las Palmas,Juan Herzog,ESP,DF,21-333,2003,10.7,1,0,0,3,7,0,0,14,11,0,0,0,34,27,14,65.9,misc
-ESP-La Liga,2024,Las Palmas,Kirian Rodríguez,ESP,MF,29-037,1996,19.5,2,0,0,9,18,0,18,10,17,0,0,0,100,13,17,43.3,misc
-ESP-La Liga,2024,Las Palmas,Manuel Fuster,ESP,"FW,MF",27-171,1997,7.8,2,0,0,10,25,1,50,2,7,0,0,0,39,3,9,25.0,misc
-ESP-La Liga,2024,Las Palmas,Marc Cardona,ESP,"FW,DF",29-277,1995,1.2,1,0,0,1,2,0,1,0,1,0,0,0,7,0,5,0.0,misc
-ESP-La Liga,2024,Las Palmas,Marvin,ESP,"DF,FW",24-282,2000,7.1,3,0,0,11,13,0,37,5,9,0,1,0,36,8,11,42.1,misc
-ESP-La Liga,2024,Las Palmas,Mika Màrmol,ESP,DF,22-283,2002,19.7,4,0,0,24,6,2,39,30,17,0,1,0,57,16,12,57.1,misc
-ESP-La Liga,2024,Las Palmas,Oliver McBurnie,SCO,FW,28-311,1996,14.1,0,0,0,23,16,7,1,4,5,0,0,0,27,63,59,51.6,misc
-ESP-La Liga,2024,Las Palmas,Pejiño,ESP,FW,28-256,1996,0.2,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Las Palmas,Sandro Ramírez,ESP,"FW,MF",29-276,1995,19.2,6,0,0,22,35,5,102,15,15,1,1,0,72,9,14,39.1,misc
-ESP-La Liga,2024,Las Palmas,Scott McKenna,SCO,DF,28-150,1996,22.4,5,1,0,12,6,0,1,8,9,0,1,1,61,70,33,68.0,misc
-ESP-La Liga,2024,Las Palmas,Stefan Bajcetic,ESP,"MF,DF",20-171,2004,5.5,1,0,0,12,5,0,1,8,8,0,1,0,31,8,7,53.3,misc
-ESP-La Liga,2024,Las Palmas,Valentín Pezzolesi,ESP,DF,17-360,2007,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Las Palmas,Viti,ESP,DF,27-207,1997,16.0,5,0,0,21,21,0,31,21,38,0,0,0,63,14,17,45.2,misc
-ESP-La Liga,2024,Las Palmas,Álex Muñoz,ESP,DF,30-255,1994,14.4,3,0,0,27,11,2,24,16,29,0,1,0,32,21,20,51.2,misc
-ESP-La Liga,2024,Las Palmas,Álex Suárez,ESP,DF,32-024,1993,21.9,11,0,0,21,16,1,0,7,17,0,1,1,52,22,40,35.5,misc
-ESP-La Liga,2024,Leganés,Adrià Altimira,ESP,"DF,FW",24-014,2001,12.0,3,0,0,21,17,2,10,12,15,0,1,0,52,9,14,39.1,misc
-ESP-La Liga,2024,Leganés,Aritz Arambarri,ESP,DF,27-070,1998,2.0,0,0,0,0,0,0,0,3,1,0,0,0,4,6,8,42.9,misc
-ESP-La Liga,2024,Leganés,Borna Barišić,CRO,DF,32-152,1992,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Leganés,Dani Raba,ESP,"MF,FW",29-164,1995,15.2,4,0,0,30,47,6,65,14,21,1,0,0,77,4,10,28.6,misc
-ESP-La Liga,2024,Leganés,Darko Brašanac,SRB,MF,33-058,1992,15.5,2,0,0,33,12,4,9,13,10,1,0,0,53,18,35,34.0,misc
-ESP-La Liga,2024,Leganés,Diego,ESP,"FW,MF",24-358,2000,9.0,1,0,0,17,18,6,4,1,0,1,0,0,15,34,49,41.0,misc
-ESP-La Liga,2024,Leganés,Duk,CPV,"MF,FW",25-054,2000,0.6,1,0,0,1,6,0,4,0,3,0,0,0,6,0,0,,misc
-ESP-La Liga,2024,Leganés,Enric Franquesa,ESP,"DF,FW",28-044,1997,6.8,1,0,0,8,6,0,16,5,9,0,0,0,29,5,5,50.0,misc
-ESP-La Liga,2024,Leganés,Javi Hernández,ESP,DF,26-344,1998,19.5,4,0,0,37,9,4,39,20,15,0,0,0,85,15,21,41.7,misc
-ESP-La Liga,2024,Leganés,Jorge Sáenz,ESP,DF,28-145,1996,10.9,3,1,0,19,8,0,0,18,15,0,1,0,36,27,20,57.4,misc
-ESP-La Liga,2024,Leganés,Juan Cruz,ESP,"FW,DF",24-351,2000,21.2,2,0,0,11,20,7,83,11,17,0,0,0,91,12,15,44.4,misc
-ESP-La Liga,2024,Leganés,Juan Soriano,ESP,GK,27-231,1997,6.0,1,1,0,0,3,0,0,0,1,0,0,1,5,0,0,,misc
-ESP-La Liga,2024,Leganés,Julián Chicco,ARG,MF,27-088,1998,2.3,0,0,0,1,3,0,2,2,5,0,0,0,8,0,9,0.0,misc
-ESP-La Liga,2024,Leganés,Marko Dmitrović,SRB,GK,33-077,1992,24.0,0,0,0,1,6,0,0,0,1,0,1,0,27,9,0,100.0,misc
-ESP-La Liga,2024,Leganés,Matija Nastasić,SRB,DF,32-014,1993,22.6,3,0,0,14,6,2,0,19,11,1,2,0,47,35,17,67.3,misc
-ESP-La Liga,2024,Leganés,Miguel,ESP,FW,25-220,1999,18.4,3,0,0,22,30,12,7,4,7,0,0,0,23,28,92,23.3,misc
-ESP-La Liga,2024,Leganés,Munir El Haddadi,MAR,"FW,MF",29-222,1995,6.1,1,1,0,13,23,5,9,0,8,0,0,0,27,8,19,29.6,misc
-ESP-La Liga,2024,Leganés,Renato Tapia,PER,"MF,DF",29-257,1995,19.2,6,0,0,26,30,0,11,19,24,0,0,0,113,23,17,57.5,misc
-ESP-La Liga,2024,Leganés,Roberto López,ESP,MF,24-352,2000,4.4,0,0,0,1,3,0,23,1,5,0,0,0,28,1,5,16.7,misc
-ESP-La Liga,2024,Leganés,Sergi,ESP,DF,32-356,1992,27.8,2,1,0,28,7,7,1,35,25,1,1,1,70,50,49,50.5,misc
-ESP-La Liga,2024,Leganés,Seydouba Cissé,GUI,MF,24-060,2001,21.4,3,0,0,33,21,1,7,11,26,1,1,0,135,23,31,42.6,misc
-ESP-La Liga,2024,Leganés,Sébastien Haller,CIV,FW,30-293,1994,4.5,0,0,0,4,5,7,0,0,0,0,0,0,10,26,17,60.5,misc
-ESP-La Liga,2024,Leganés,Valentin Rosier,FRA,DF,28-235,1996,24.1,8,0,0,39,16,8,32,44,47,0,0,0,110,23,16,59.0,misc
-ESP-La Liga,2024,Leganés,Yan Diomandé,CIV,"FW,MF",18-148,2006,0.2,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Leganés,Yvan Neyou,CMR,MF,28-098,1997,22.9,12,0,0,28,45,0,13,21,33,0,0,0,107,21,18,53.8,misc
-ESP-La Liga,2024,Leganés,Óscar Rodríguez Arnaiz,ESP,"MF,FW",26-287,1998,12.2,5,1,0,14,21,1,40,17,14,1,1,0,50,11,20,35.5,misc
-ESP-La Liga,2024,Mallorca,Abdón Prats,ESP,"FW,MF",32-125,1992,4.2,4,0,0,5,15,2,0,1,1,1,0,0,12,15,28,34.9,misc
-ESP-La Liga,2024,Mallorca,Antonio Raillo,ESP,DF,33-185,1991,27.6,5,1,0,39,8,2,2,27,16,0,0,0,83,103,68,60.2,misc
-ESP-La Liga,2024,Mallorca,Antonio Sánchez,ESP,"MF,DF",28-100,1997,10.8,2,0,0,17,10,3,23,14,13,0,0,0,56,3,9,25.0,misc
-ESP-La Liga,2024,Mallorca,Chiquinho,POR,"MF,FW",25-065,2000,1.6,2,0,0,6,8,0,9,2,0,0,0,0,10,0,5,0.0,misc
-ESP-La Liga,2024,Mallorca,Copete,ESP,DF,25-183,1999,12.3,6,0,0,20,11,0,5,13,10,0,0,0,27,17,14,54.8,misc
-ESP-La Liga,2024,Mallorca,Cyle Larin,CAN,FW,29-359,1995,14.4,4,0,0,22,24,19,3,1,4,1,0,0,36,46,65,41.4,misc
-ESP-La Liga,2024,Mallorca,Dani Rodríguez,ESP,"MF,FW",36-309,1988,19.6,4,0,0,44,34,8,107,11,24,0,0,0,60,22,29,43.1,misc
-ESP-La Liga,2024,Mallorca,Daniel Luna,COL,MF,21-339,2003,0.2,0,0,0,0,1,0,3,0,0,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Mallorca,David López,ESP,DF,22-067,2003,0.9,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3,0.0,misc
-ESP-La Liga,2024,Mallorca,Dominik Greif,SVK,GK,28-005,1997,25.0,1,0,0,0,3,0,0,0,0,0,0,0,33,6,2,75.0,misc
-ESP-La Liga,2024,Mallorca,Jan Salas,ESP,MF,19-244,2005,0.2,0,0,0,0,2,0,0,0,1,0,0,0,2,1,0,100.0,misc
-ESP-La Liga,2024,Mallorca,Javier Llabrés,ESP,FW,22-212,2002,0.6,0,0,0,0,1,1,4,0,0,0,0,0,3,1,0,100.0,misc
-ESP-La Liga,2024,Mallorca,Johan Mojica,COL,DF,32-233,1992,24.6,5,0,0,16,19,0,110,25,19,1,2,0,145,8,12,40.0,misc
-ESP-La Liga,2024,Mallorca,Leo Román,ESP,GK,24-279,2000,5.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,misc
-ESP-La Liga,2024,Mallorca,Manu Morlanes,ESP,MF,26-089,1999,14.4,6,0,0,15,13,0,7,24,27,0,0,0,78,10,16,38.5,misc
-ESP-La Liga,2024,Mallorca,Marc Domenech,ESP,FW,19-100,2006,1.5,0,0,0,4,0,0,2,0,1,0,0,0,4,5,5,50.0,misc
-ESP-La Liga,2024,Mallorca,Martin Valjent,SVK,DF,29-121,1995,23.7,4,0,0,14,8,0,8,15,16,0,0,0,81,35,28,55.6,misc
-ESP-La Liga,2024,Mallorca,Mateu Morey,ESP,DF,25-040,2000,4.2,1,0,0,9,5,0,14,9,8,0,0,0,18,4,3,57.1,misc
-ESP-La Liga,2024,Mallorca,Omar Mascarell,EQG,MF,32-068,1993,17.6,4,1,0,21,13,0,3,41,13,0,0,0,64,34,18,65.4,misc
-ESP-La Liga,2024,Mallorca,Pablo Maffeo,ESP,DF,27-273,1997,21.6,3,0,0,12,32,0,82,22,35,0,0,0,85,17,14,54.8,misc
-ESP-La Liga,2024,Mallorca,Roberto Navarro,ESP,"MF,FW",22-364,2002,14.2,3,0,0,14,21,2,29,19,22,0,0,0,94,5,9,35.7,misc
-ESP-La Liga,2024,Mallorca,Samu Costa,POR,MF,24-135,2000,21.8,7,1,1,40,45,2,14,25,32,0,0,0,93,53,28,65.4,misc
-ESP-La Liga,2024,Mallorca,Sergi Darder,ESP,"MF,FW",31-110,1993,22.7,3,0,0,17,27,2,120,11,21,0,0,0,88,9,8,52.9,misc
-ESP-La Liga,2024,Mallorca,Siebe Van Der Heyden,BEL,"DF,MF",26-316,1998,1.1,0,0,0,2,0,0,2,2,1,0,0,0,5,2,1,66.7,misc
-ESP-La Liga,2024,Mallorca,Takuma Asano,JPN,"FW,MF",30-152,1994,10.6,0,0,0,4,13,5,18,5,9,0,0,0,41,5,26,16.1,misc
-ESP-La Liga,2024,Mallorca,Toni Lato,ESP,DF,27-141,1997,4.9,0,1,0,9,2,0,21,3,7,0,0,0,22,5,6,45.5,misc
-ESP-La Liga,2024,Mallorca,Valery Fernández,ESP,"MF,FW",25-139,1999,3.2,1,0,0,3,1,1,3,0,7,0,0,0,18,1,4,20.0,misc
-ESP-La Liga,2024,Mallorca,Vedat Muriqi,KVX,FW,30-352,1994,19.4,1,2,0,24,36,18,9,7,4,1,1,1,43,121,84,59.0,misc
-ESP-La Liga,2024,Osasuna,Abel,ESP,DF,24-233,2000,18.8,3,0,0,19,24,1,68,15,29,0,1,0,92,16,14,53.3,misc
-ESP-La Liga,2024,Osasuna,Aimar Oroz,ESP,"MF,FW",23-135,2001,25.0,6,0,0,24,54,5,19,18,17,0,0,0,124,12,20,37.5,misc
-ESP-La Liga,2024,Osasuna,Aitor Fernández,ESP,GK,33-343,1991,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Osasuna,Ante Budimir,CRO,FW,33-263,1991,25.4,3,0,0,34,23,13,5,1,7,6,0,0,42,120,113,51.5,misc
-ESP-La Liga,2024,Osasuna,Bryan Zaragoza,ESP,"FW,MF",23-351,2001,15.9,3,0,0,12,26,6,71,1,9,0,0,0,41,1,9,10.0,misc
-ESP-La Liga,2024,Osasuna,Catena,ESP,DF,30-165,1994,27.8,9,0,0,31,9,0,1,28,24,0,1,0,89,53,26,67.1,misc
-ESP-La Liga,2024,Osasuna,Enzo Boyomo,CMR,DF,23-186,2001,25.2,5,0,0,37,7,0,1,32,34,0,0,0,95,21,29,42.0,misc
-ESP-La Liga,2024,Osasuna,Iker Benito,ESP,"FW,MF",22-244,2002,0.4,0,0,0,1,1,0,2,1,0,0,0,0,3,0,1,0.0,misc
-ESP-La Liga,2024,Osasuna,Iker Muñoz,ESP,MF,22-157,2002,4.6,2,0,0,9,7,0,3,3,2,0,0,0,19,9,10,47.4,misc
-ESP-La Liga,2024,Osasuna,Javi Martínez,ESP,MF,25-110,1999,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Osasuna,Jesús Areso,ESP,DF,25-283,1999,26.3,6,0,0,26,13,7,130,7,28,0,0,0,93,19,14,57.6,misc
-ESP-La Liga,2024,Osasuna,Jon Moncayola,ESP,MF,26-333,1998,21.8,8,0,0,31,7,0,95,11,36,0,0,0,84,14,14,50.0,misc
-ESP-La Liga,2024,Osasuna,Jorge Herrando,ESP,DF,24-042,2001,11.2,3,0,0,14,2,0,0,7,9,0,0,0,30,22,7,75.9,misc
-ESP-La Liga,2024,Osasuna,José Arnaiz,ESP,"MF,FW",29-361,1995,1.3,0,0,0,0,5,3,13,3,4,0,0,0,14,1,3,25.0,misc
-ESP-La Liga,2024,Osasuna,Juan Cruz Armada,ESP,DF,32-257,1992,12.7,3,0,0,12,2,2,9,8,10,0,0,0,36,6,5,54.5,misc
-ESP-La Liga,2024,Osasuna,Kike Barja,ESP,"FW,MF",28-010,1997,2.7,2,0,0,8,4,0,25,3,3,0,0,0,7,4,2,66.7,misc
-ESP-La Liga,2024,Osasuna,Lucas Torró,ESP,MF,30-266,1994,25.5,10,0,0,65,36,1,1,40,37,0,2,0,144,136,47,74.3,misc
-ESP-La Liga,2024,Osasuna,Moi Gómez,ESP,"MF,FW",30-292,1994,8.1,1,0,0,12,6,1,26,5,8,0,0,1,61,7,12,36.8,misc
-ESP-La Liga,2024,Osasuna,Nacho Vidal,ESP,DF,30-077,1995,1.4,0,0,0,2,1,0,2,0,0,0,0,0,5,3,1,75.0,misc
-ESP-La Liga,2024,Osasuna,Pablo Ibáñez,ESP,MF,26-203,1998,9.7,2,0,0,18,18,0,6,13,7,0,0,0,45,16,19,45.7,misc
-ESP-La Liga,2024,Osasuna,Raúl,ESP,"FW,MF",24-159,2000,7.5,0,0,0,9,12,6,6,0,6,0,0,0,13,18,14,56.3,misc
-ESP-La Liga,2024,Osasuna,Rubén García,ESP,"FW,MF",31-271,1993,21.3,2,0,0,25,27,10,105,12,27,1,0,0,100,24,35,40.7,misc
-ESP-La Liga,2024,Osasuna,Rubén Peña,ESP,"FW,DF",33-267,1991,7.4,1,0,0,11,5,0,44,5,2,0,0,0,28,5,13,27.8,misc
-ESP-La Liga,2024,Osasuna,Sergio Herrera,ESP,GK,31-310,1993,29.0,5,0,0,1,3,0,0,0,1,0,1,0,26,4,1,80.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Abdul Mumin,GHA,DF,26-309,1998,22.4,6,1,0,22,12,0,6,23,25,0,0,0,93,31,25,55.4,misc
-ESP-La Liga,2024,Rayo Vallecano,Adri Embarba,ESP,"FW,MF",32-339,1992,15.3,4,0,0,23,20,13,100,12,16,0,0,0,57,10,25,28.6,misc
-ESP-La Liga,2024,Rayo Vallecano,Alfonso Espino,URU,DF,33-096,1992,6.4,3,0,0,11,11,0,17,10,16,0,0,0,38,10,8,55.6,misc
-ESP-La Liga,2024,Rayo Vallecano,Andrei Ratiu,ROU,DF,26-295,1998,27.2,4,0,0,19,17,5,61,23,34,0,0,0,144,15,26,36.6,misc
-ESP-La Liga,2024,Rayo Vallecano,Aridane Hernández,ESP,DF,36-019,1989,6.4,1,0,0,4,5,0,0,3,6,0,0,1,28,21,5,80.8,misc
-ESP-La Liga,2024,Rayo Vallecano,Augusto Batalla,ARG,GK,28-346,1996,25.0,4,0,0,0,3,0,0,0,1,0,0,0,38,5,0,100.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Cárdenas,ESP,GK,28-014,1997,5.0,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,,misc
-ESP-La Liga,2024,Rayo Vallecano,Etienne Eto'o,CMR,FW,22-236,2002,0.4,0,0,0,0,0,1,0,0,0,0,0,0,0,6,2,75.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Florian Lejeune,FRA,DF,33-326,1991,28.9,5,0,0,41,14,0,5,27,24,0,1,0,126,65,43,60.2,misc
-ESP-La Liga,2024,Rayo Vallecano,Gerard Gumbau,ESP,MF,30-114,1994,6.8,4,0,0,16,8,2,33,3,12,0,0,0,15,11,14,44.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Isaac Palazón Camacho,ESP,"MF,FW",30-105,1994,17.9,4,0,0,35,38,3,74,8,16,0,0,0,83,11,26,29.7,misc
-ESP-La Liga,2024,Rayo Vallecano,Iván Balliu,ALB,DF,33-100,1992,9.0,2,0,0,13,6,0,13,7,8,0,0,0,28,9,20,31.0,misc
-ESP-La Liga,2024,Rayo Vallecano,James Rodríguez,COL,"MF,FW",33-273,1991,1.6,1,0,0,2,1,3,13,1,2,0,0,0,8,2,3,40.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Jorge de Frutos,ESP,"FW,MF",28-050,1997,22.1,2,1,0,33,23,2,61,15,14,0,0,0,86,12,18,40.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Pathé Ciss,SEN,MF,31-026,1994,17.5,8,0,0,39,20,0,3,28,20,0,2,0,120,38,24,61.3,misc
-ESP-La Liga,2024,Rayo Vallecano,Pedro Díaz,ESP,MF,26-310,1998,8.5,1,0,0,5,6,0,36,6,11,0,0,0,60,4,5,44.4,misc
-ESP-La Liga,2024,Rayo Vallecano,Pelayo Fernandez,ESP,DF,21-347,2003,1.0,1,0,0,2,0,0,0,1,0,0,0,0,4,3,2,60.0,misc
-ESP-La Liga,2024,Rayo Vallecano,Pep Chavarría,ESP,DF,27-001,1998,22.2,2,0,0,22,22,2,62,22,28,0,1,0,91,19,23,45.2,misc
-ESP-La Liga,2024,Rayo Vallecano,Randy Nteka,ANG,FW,27-126,1997,10.8,6,0,0,34,13,13,4,4,5,0,0,0,22,33,47,41.3,misc
-ESP-La Liga,2024,Rayo Vallecano,Raúl de Tomás,ESP,DF,30-176,1994,0.2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Rayo Vallecano,Sergi Guardiola,ESP,FW,33-317,1991,3.5,1,0,0,8,7,1,4,1,2,0,0,0,6,5,8,38.5,misc
-ESP-La Liga,2024,Rayo Vallecano,Sergio Camello,ESP,FW,24-060,2001,12.6,2,0,0,11,10,2,6,4,3,0,0,0,32,11,26,29.7,misc
-ESP-La Liga,2024,Rayo Vallecano,Unai López,ESP,MF,29-163,1995,14.6,7,1,0,15,14,1,24,19,13,0,0,0,94,10,12,45.5,misc
-ESP-La Liga,2024,Rayo Vallecano,Álvaro García,ESP,"FW,MF",32-166,1992,21.3,4,0,0,11,16,10,84,28,21,0,1,0,73,5,13,27.8,misc
-ESP-La Liga,2024,Rayo Vallecano,Óscar Trejo,ARG,MF,36-350,1988,5.4,1,0,0,17,11,1,7,4,5,0,0,0,21,4,7,36.4,misc
-ESP-La Liga,2024,Rayo Vallecano,Óscar Valentín,ESP,MF,30-234,1994,16.3,3,0,0,43,24,0,2,21,36,0,0,0,89,28,33,45.9,misc
-ESP-La Liga,2024,Real Madrid,Andriy Lunin,UKR,GK,26-059,1999,5.0,0,0,0,0,1,0,0,0,0,0,0,0,12,2,0,100.0,misc
-ESP-La Liga,2024,Real Madrid,Antonio Rüdiger,GER,DF,32-039,1993,23.5,3,0,0,14,15,2,4,8,11,2,1,0,96,32,24,57.1,misc
-ESP-La Liga,2024,Real Madrid,Arda Güler,TUR,"MF,FW",20-045,2005,7.9,1,0,0,11,23,4,25,4,8,1,0,0,32,6,7,46.2,misc
-ESP-La Liga,2024,Real Madrid,Aurélien Tchouaméni,FRA,"DF,MF",25-074,2000,23.3,3,0,0,21,16,0,10,35,17,0,1,0,109,55,17,76.4,misc
-ESP-La Liga,2024,Real Madrid,Brahim Díaz,MAR,"FW,MF",25-251,1999,12.9,0,0,0,11,26,0,7,4,16,0,0,0,41,2,13,13.3,misc
-ESP-La Liga,2024,Real Madrid,Chema,ESP,MF,19-351,2005,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,50.0,misc
-ESP-La Liga,2024,Real Madrid,Dani Carvajal,ESP,DF,33-090,1992,6.8,1,0,0,3,6,0,14,10,8,0,0,0,21,7,5,58.3,misc
-ESP-La Liga,2024,Real Madrid,Dani Ceballos,ESP,MF,28-247,1996,9.2,4,0,0,12,23,0,11,13,18,0,0,0,61,2,1,66.7,misc
-ESP-La Liga,2024,Real Madrid,Daniel Yáñez,ESP,FW,18-014,2007,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Real Madrid,David Alaba,AUT,DF,32-291,1992,3.0,1,0,0,2,0,0,3,6,0,0,0,0,6,3,0,100.0,misc
-ESP-La Liga,2024,Real Madrid,Eduardo Camavinga,FRA,"MF,DF",22-152,2002,9.7,1,0,0,17,25,1,1,14,21,0,1,0,73,15,15,50.0,misc
-ESP-La Liga,2024,Real Madrid,Endrick,BRA,FW,18-264,2006,1.4,1,0,0,7,6,1,0,3,1,1,0,0,3,4,4,50.0,misc
-ESP-La Liga,2024,Real Madrid,Federico Valverde,URU,"MF,DF",26-263,1998,25.7,3,0,0,9,14,1,20,50,24,0,0,0,133,21,12,63.6,misc
-ESP-La Liga,2024,Real Madrid,Ferland Mendy,FRA,DF,29-307,1995,11.2,1,1,0,5,7,0,1,9,14,0,0,0,36,4,2,66.7,misc
-ESP-La Liga,2024,Real Madrid,Fran,ESP,GK,19-291,2005,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Real Madrid,Fran Garcia,ESP,DF,25-240,1999,17.4,0,0,0,9,16,2,43,23,22,0,0,0,85,11,13,45.8,misc
-ESP-La Liga,2024,Real Madrid,Jesús Vallejo,ESP,DF,28-096,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,misc
-ESP-La Liga,2024,Real Madrid,Jude Bellingham,ENG,MF,21-286,2003,22.0,3,1,0,26,53,5,11,23,28,1,0,0,71,20,21,48.8,misc
-ESP-La Liga,2024,Real Madrid,Kylian Mbappé,FRA,FW,26-112,1998,26.9,3,0,0,20,32,39,28,0,5,2,0,0,34,3,5,37.5,misc
-ESP-La Liga,2024,Real Madrid,Lorenzo Aguado,ESP,DF,22-204,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Real Madrid,Lucas Vázquez,ESP,DF,33-284,1991,19.3,3,0,0,23,26,3,53,16,26,0,0,0,63,4,11,26.7,misc
-ESP-La Liga,2024,Real Madrid,Luka Modrić,CRO,MF,39-214,1985,15.8,7,0,0,18,15,2,79,22,16,0,0,0,88,5,11,31.3,misc
-ESP-La Liga,2024,Real Madrid,Raúl Asencio,ESP,DF,22-057,2003,12.2,1,0,0,6,13,1,0,9,11,0,0,0,50,22,9,71.0,misc
-ESP-La Liga,2024,Real Madrid,Rodrygo,BRA,"FW,MF",24-092,2001,19.7,0,0,0,7,33,1,74,10,13,1,0,0,61,7,13,35.0,misc
-ESP-La Liga,2024,Real Madrid,Thibaut Courtois,BEL,GK,32-335,1992,24.0,0,0,0,0,0,0,0,1,0,0,0,1,42,7,0,100.0,misc
-ESP-La Liga,2024,Real Madrid,Vinicius Júnior,BRA,FW,24-273,2000,20.5,7,1,0,26,56,9,47,3,8,2,0,0,52,1,7,12.5,misc
-ESP-La Liga,2024,Real Madrid,Éder Militão,BRA,DF,27-083,1998,10.4,2,0,0,18,8,0,2,12,17,0,0,0,44,21,12,63.6,misc
-ESP-La Liga,2024,Real Sociedad,Aihen Muñoz,ESP,DF,27-238,1997,7.6,4,0,0,10,9,0,16,11,10,0,1,0,31,16,14,53.3,misc
-ESP-La Liga,2024,Real Sociedad,Ander Barrenetxea,ESP,"MF,FW",23-105,2001,11.4,5,0,0,25,10,2,39,10,15,0,1,0,76,7,11,38.9,misc
-ESP-La Liga,2024,Real Sociedad,Aritz Elustondo,ESP,DF,31-014,1994,10.9,0,1,0,16,17,0,3,8,7,0,0,0,40,25,17,59.5,misc
-ESP-La Liga,2024,Real Sociedad,Arkaitz Mariezkurrena,ESP,"MF,FW",20-006,2005,0.9,0,0,0,5,1,0,0,1,0,0,0,0,6,1,2,33.3,misc
-ESP-La Liga,2024,Real Sociedad,Arsen Zakharyan,RUS,"MF,FW",21-320,2003,0.8,0,0,0,1,0,0,1,1,1,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Real Sociedad,Beñat Turrientes,ESP,MF,23-070,2002,8.3,4,0,0,10,20,0,18,4,5,0,0,0,33,9,18,33.3,misc
-ESP-La Liga,2024,Real Sociedad,Brais Méndez,ESP,MF,28-094,1997,14.0,4,0,0,33,35,7,44,6,11,0,0,0,59,14,21,40.0,misc
-ESP-La Liga,2024,Real Sociedad,Daniel Díaz,ESP,MF,18-293,2006,0.1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,100.0,misc
-ESP-La Liga,2024,Real Sociedad,Hamari Traoré,MLI,DF,33-074,1992,4.9,1,0,0,8,3,0,5,4,9,0,0,0,22,5,8,38.5,misc
-ESP-La Liga,2024,Real Sociedad,Igor Zubeldia,ESP,DF,28-012,1997,22.7,6,1,0,36,10,0,1,25,21,0,1,0,73,60,79,43.2,misc
-ESP-La Liga,2024,Real Sociedad,Javi López,ESP,DF,23-017,2002,18.2,4,0,0,24,23,1,48,5,20,0,0,0,81,9,15,37.5,misc
-ESP-La Liga,2024,Real Sociedad,Jon Aramburu,VEN,DF,22-262,2002,22.5,7,0,0,38,30,3,37,27,60,0,1,0,108,32,26,55.2,misc
-ESP-La Liga,2024,Real Sociedad,Jon Magunazelaia,ESP,MF,24-272,2000,0.1,0,0,0,1,1,0,0,0,1,0,0,0,5,3,0,100.0,misc
-ESP-La Liga,2024,Real Sociedad,Jon Martin,ESP,DF,19-100,2006,4.0,2,0,0,10,0,0,0,5,2,0,0,0,11,19,6,76.0,misc
-ESP-La Liga,2024,Real Sociedad,Jon Pacheco,ESP,DF,24-093,2001,7.0,3,0,0,16,4,0,0,6,6,0,0,0,24,16,13,55.2,misc
-ESP-La Liga,2024,Real Sociedad,Luka Sučić,CRO,MF,22-215,2002,16.1,2,0,0,11,15,3,15,12,16,0,0,0,90,22,18,55.0,misc
-ESP-La Liga,2024,Real Sociedad,Luken Beitia,ESP,DF,20-285,2004,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,100.0,misc
-ESP-La Liga,2024,Real Sociedad,Martín Zubimendi,ESP,MF,26-068,1999,26.9,4,0,0,37,19,0,12,35,35,1,0,0,119,42,23,64.6,misc
-ESP-La Liga,2024,Real Sociedad,Mikel Oyarzabal,ESP,FW,27-355,1997,18.3,3,1,0,10,18,14,6,4,10,1,0,0,35,23,60,27.7,misc
-ESP-La Liga,2024,Real Sociedad,Nayef Aguerd,MAR,DF,29-012,1996,18.6,5,0,0,11,19,0,2,13,24,0,1,0,67,60,30,66.7,misc
-ESP-La Liga,2024,Real Sociedad,Olasagasti,ESP,MF,24-238,2000,8.4,2,0,0,14,6,0,10,13,8,0,0,0,38,12,22,35.3,misc
-ESP-La Liga,2024,Real Sociedad,Orri Steinn Óskarsson,ISL,FW,20-225,2004,9.8,0,0,0,6,6,8,7,2,6,0,0,0,15,29,55,34.5,misc
-ESP-La Liga,2024,Real Sociedad,Pablo Marín,ESP,MF,21-282,2003,6.9,2,0,0,12,10,0,7,2,10,0,0,0,35,9,16,36.0,misc
-ESP-La Liga,2024,Real Sociedad,Sergio Gómez,ESP,"MF,DF",24-219,2000,25.2,3,0,0,26,12,8,177,16,34,0,1,0,125,12,18,40.0,misc
-ESP-La Liga,2024,Real Sociedad,Sheraldo Becker,SUR,"FW,MF",30-061,1995,10.8,1,1,0,8,14,9,63,1,2,0,0,0,29,7,15,31.8,misc
-ESP-La Liga,2024,Real Sociedad,Takefusa Kubo,JPN,"MF,FW",23-311,2001,19.5,5,0,0,16,53,7,58,9,14,0,0,0,89,10,12,45.5,misc
-ESP-La Liga,2024,Real Sociedad,Umar Sadiq,NGA,FW,28-068,1997,2.5,1,0,0,8,1,5,2,1,1,0,0,0,5,9,11,45.0,misc
-ESP-La Liga,2024,Real Sociedad,Unai Marrero,ESP,GK,23-184,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Real Sociedad,Urko González,ESP,MF,24-022,2001,0.5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0.0,misc
-ESP-La Liga,2024,Real Sociedad,Álex Remiro,ESP,GK,30-018,1995,29.0,0,0,0,0,3,0,0,0,0,0,0,0,49,4,0,100.0,misc
-ESP-La Liga,2024,Real Sociedad,Álvaro Odriozola,ESP,DF,29-118,1995,0.5,1,0,0,2,1,0,1,0,1,0,0,0,2,1,0,100.0,misc
-ESP-La Liga,2024,Sevilla,Adrià Pedrosa,ESP,DF,26-333,1998,20.4,6,0,0,32,16,1,71,16,31,0,0,0,74,10,27,27.0,misc
-ESP-La Liga,2024,Sevilla,Akor Adams,NGA,FW,25-072,2000,1.5,0,0,0,1,0,1,0,0,0,0,0,0,4,6,10,37.5,misc
-ESP-La Liga,2024,Sevilla,Albert Sambi Lokonga,BEL,MF,25-171,1999,14.8,4,0,0,19,20,0,2,8,14,0,0,0,65,28,11,71.8,misc
-ESP-La Liga,2024,Sevilla,Carmona,ESP,DF,23-072,2002,26.9,7,0,0,33,34,1,25,60,47,0,0,0,145,28,18,60.9,misc
-ESP-La Liga,2024,Sevilla,Chidera Ejuke,NGA,FW,27-099,1998,9.8,0,0,0,6,14,4,18,4,10,0,0,0,57,4,8,33.3,misc
-ESP-La Liga,2024,Sevilla,Darío Fuentes,ESP,DF,22-089,2003,0.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Sevilla,Djibril Sow,SUI,MF,28-064,1997,18.5,5,0,0,21,36,0,7,20,9,0,0,0,95,21,20,51.2,misc
-ESP-La Liga,2024,Sevilla,Dodi Lukebakio,BEL,FW,27-199,1997,28.0,2,0,0,33,43,16,110,5,12,0,0,0,98,14,13,51.9,misc
-ESP-La Liga,2024,Sevilla,Gonzalo Montiel,ARG,"DF,MF",28-100,1997,1.3,1,0,0,3,1,0,3,2,2,0,0,0,4,1,0,100.0,misc
-ESP-La Liga,2024,Sevilla,Isaac Romero,ESP,FW,24-328,2000,21.7,8,0,0,31,32,11,17,6,5,1,1,0,51,27,48,36.0,misc
-ESP-La Liga,2024,Sevilla,Israel Domínguez,ESP,FW,21-339,2003,0.2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0.0,misc
-ESP-La Liga,2024,Sevilla,Jesús Navas,ESP,"FW,MF",39-141,1985,4.7,0,0,0,1,4,3,33,4,2,0,0,0,10,5,5,50.0,misc
-ESP-La Liga,2024,Sevilla,Juanlu Sánchez,ESP,"MF,DF",21-239,2003,13.7,4,1,1,7,7,1,23,8,23,0,0,0,46,15,17,46.9,misc
-ESP-La Liga,2024,Sevilla,Kelechi Iheanacho,NGA,FW,28-190,1996,4.4,0,0,0,5,1,7,0,0,0,0,0,0,7,2,8,20.0,misc
-ESP-La Liga,2024,Sevilla,Kike Salas,ESP,DF,22-353,2002,18.4,4,0,0,14,11,0,6,27,21,0,0,0,73,57,24,70.4,misc
-ESP-La Liga,2024,Sevilla,Leandro Antonetti,PUR,FW,22-088,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Sevilla,Loïc Bade,FRA,DF,25-000,2000,24.2,6,0,0,20,7,0,4,26,25,0,1,0,118,54,24,69.2,misc
-ESP-La Liga,2024,Sevilla,Lucas Ocampos,ARG,FW,30-274,1994,1.9,0,0,0,3,2,0,4,0,2,0,0,0,6,3,4,42.9,misc
-ESP-La Liga,2024,Sevilla,Lucien Agoume,FRA,MF,23-061,2002,15.8,4,1,0,31,3,2,6,25,16,0,1,0,91,29,26,52.7,misc
-ESP-La Liga,2024,Sevilla,Manu Bueno,ESP,MF,20-258,2004,1.2,0,0,0,2,3,0,0,0,3,0,0,0,6,0,1,0.0,misc
-ESP-La Liga,2024,Sevilla,Marcão,BRA,DF,28-310,1996,5.1,6,1,1,8,9,0,0,6,6,0,1,0,23,13,5,72.2,misc
-ESP-La Liga,2024,Sevilla,Mateo Mejía,ESP,FW,22-011,2003,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,misc
-ESP-La Liga,2024,Sevilla,Nemanja Gudelj,SRB,"DF,MF",33-146,1991,22.1,4,0,0,21,13,0,29,22,18,0,0,0,59,38,22,63.3,misc
-ESP-La Liga,2024,Sevilla,Peque,ESP,"FW,MF",22-189,2002,9.0,1,0,0,17,20,2,7,7,3,0,1,0,29,6,21,22.2,misc
-ESP-La Liga,2024,Sevilla,Ramón Martínez,ESP,DF,22-171,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
-ESP-La Liga,2024,Sevilla,Ruben Vargas,SUI,"FW,MF",26-249,1998,7.5,0,0,0,11,9,3,37,3,4,0,0,0,31,7,6,53.8,misc
-ESP-La Liga,2024,Sevilla,Saúl Ñíguez,ESP,MF,30-141,1994,13.8,7,1,0,36,10,1,16,18,24,0,1,0,69,27,27,50.0,misc
-ESP-La Liga,2024,Sevilla,Stanis Idumbo,BEL,"FW,MF",19-286,2005,2.9,0,0,0,1,6,0,0,4,5,0,0,0,18,1,0,100.0,misc
-ESP-La Liga,2024,Sevilla,Suso,ESP,"FW,MF",31-143,1993,2.0,1,0,0,2,5,1,14,0,1,0,0,0,13,2,2,50.0,misc
-ESP-La Liga,2024,Sevilla,Tanguy Nianzou,FRA,DF,22-308,2002,5.8,3,1,1,10,5,0,0,8,5,0,0,1,9,17,2,89.5,misc
-ESP-La Liga,2024,Sevilla,Valentín Barco,ARG,"DF,FW",20-262,2004,3.2,0,0,0,7,5,0,24,2,9,0,0,0,16,0,2,0.0,misc
-ESP-La Liga,2024,Sevilla,Álvaro Fernández,ESP,GK,26-363,1998,7.3,2,0,0,0,2,0,0,0,0,0,0,0,7,1,0,100.0,misc
-ESP-La Liga,2024,Sevilla,Álvaro Pascual,ESP,FW,23-100,2002,0.7,1,0,0,1,1,0,1,2,0,0,0,0,4,1,2,33.3,misc
-ESP-La Liga,2024,Sevilla,Ørjan Nyland,NOR,GK,34-213,1990,22.7,2,0,0,1,0,0,0,0,2,0,0,0,22,5,0,100.0,misc
-ESP-La Liga,2024,Valencia,Alberto Marí,ESP,FW,23-274,2001,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Valencia,Cristhian Mosquera,ESP,DF,20-288,2004,28.9,6,0,0,13,19,0,1,31,29,0,3,0,157,33,40,45.2,misc
-ESP-La Liga,2024,Valencia,César Tárrega,ESP,DF,23-044,2002,26.6,4,0,0,46,12,0,1,17,27,0,2,1,76,74,50,59.7,misc
-ESP-La Liga,2024,Valencia,Dani Gómez,ESP,FW,26-255,1998,5.9,0,0,0,7,8,10,0,2,2,0,0,0,14,7,24,22.6,misc
-ESP-La Liga,2024,Valencia,David Otorbi,ESP,MF,17-177,2007,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Valencia,Diego López,ESP,"MF,FW",22-333,2002,24.1,2,0,0,17,26,12,56,12,15,1,0,0,78,13,48,21.3,misc
-ESP-La Liga,2024,Valencia,Dimitri Foulquier,FRA,DF,32-019,1993,20.9,5,0,0,22,25,0,50,12,24,0,0,0,79,10,14,41.7,misc
-ESP-La Liga,2024,Valencia,Domingos André Ribeiro Almeida,POR,"MF,FW",24-316,2000,17.1,1,0,0,22,23,2,48,8,25,0,0,0,69,3,14,17.6,misc
-ESP-La Liga,2024,Valencia,Enzo Barrenechea,ARG,MF,23-324,2001,18.5,6,0,0,19,28,0,3,21,27,1,0,0,88,31,20,60.8,misc
-ESP-La Liga,2024,Valencia,Francisco Perez,ESP,"FW,MF",22-214,2002,4.5,1,0,0,4,8,0,20,3,9,0,0,0,14,5,4,55.6,misc
-ESP-La Liga,2024,Valencia,Germán Valera,ESP,MF,23-026,2002,1.6,0,0,0,2,4,0,6,4,1,0,0,0,4,1,2,33.3,misc
-ESP-La Liga,2024,Valencia,Giorgi Mamardashvili,GEO,GK,24-194,2000,26.0,1,0,0,0,4,0,0,1,0,0,0,0,20,1,1,50.0,misc
-ESP-La Liga,2024,Valencia,Hugo Duro,ESP,FW,25-152,1999,19.0,3,0,0,29,41,6,7,10,7,0,1,1,39,50,87,36.5,misc
-ESP-La Liga,2024,Valencia,Hugo Guillamón,ESP,MF,25-070,2000,4.0,2,0,0,6,4,1,1,5,8,0,0,0,21,5,4,55.6,misc
-ESP-La Liga,2024,Valencia,Iker Córdoba,ESP,DF,19-151,2005,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,100.0,misc
-ESP-La Liga,2024,Valencia,Ivan Jaime Pajuelo,ESP,MF,24-197,2000,2.1,0,0,0,4,6,1,6,2,2,0,0,0,14,4,3,57.1,misc
-ESP-La Liga,2024,Valencia,Javier Guerra,ESP,MF,22-100,2003,22.0,2,0,0,26,25,0,39,13,19,0,0,0,121,15,15,50.0,misc
-ESP-La Liga,2024,Valencia,Jesus Vazquez,ESP,DF,22-099,2003,8.6,3,0,0,15,10,1,20,6,14,0,0,0,33,9,10,47.4,misc
-ESP-La Liga,2024,Valencia,José Luis García Vayá,ESP,MF,26-243,1998,16.0,8,1,0,24,14,1,99,14,20,0,0,0,91,21,18,53.8,misc
-ESP-La Liga,2024,Valencia,José Luis Gayà,ESP,DF,29-321,1995,13.7,5,0,0,22,9,2,63,16,30,0,0,0,62,8,6,57.1,misc
-ESP-La Liga,2024,Valencia,Luis Rioja,ESP,"MF,FW",31-177,1993,25.1,5,0,0,13,31,9,169,21,16,0,0,0,88,11,20,35.5,misc
-ESP-La Liga,2024,Valencia,Martín Tejón,ESP,"MF,DF",20-364,2004,0.5,0,0,0,1,1,0,1,0,0,0,0,0,4,0,3,0.0,misc
-ESP-La Liga,2024,Valencia,Max Aarons,ENG,"DF,MF",25-097,2000,1.2,1,0,0,0,1,0,2,0,3,0,0,0,5,2,1,66.7,misc
-ESP-La Liga,2024,Valencia,Maximiliano Caufriez,BEL,DF,28-054,1997,1.0,0,0,0,3,0,0,0,1,1,0,1,0,1,2,5,28.6,misc
-ESP-La Liga,2024,Valencia,Mouctar Diakhaby,GUI,DF,28-113,1996,3.0,0,0,0,2,1,0,0,3,1,0,0,0,11,7,2,77.8,misc
-ESP-La Liga,2024,Valencia,Rafa Mir,ESP,"FW,MF",27-297,1997,4.8,2,0,0,3,3,4,4,1,5,0,0,0,10,8,14,36.4,misc
-ESP-La Liga,2024,Valencia,Rodrigo Abajas,ESP,DF,21-334,2003,0.7,1,0,0,2,0,1,1,1,2,0,0,0,2,0,1,0.0,misc
-ESP-La Liga,2024,Valencia,Sergi Canós,ESP,"MF,FW",28-068,1997,4.0,3,0,0,12,6,1,18,5,7,0,0,0,20,4,7,36.4,misc
-ESP-La Liga,2024,Valencia,Stole Dimitrievski,MKD,GK,31-107,1993,4.0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,,misc
-ESP-La Liga,2024,Valencia,Thierry Correia,POR,DF,26-033,1999,8.5,1,0,0,15,14,0,18,4,18,0,0,0,38,4,8,33.3,misc
-ESP-La Liga,2024,Valencia,Umar Sadiq,NGA,FW,28-068,1997,6.3,3,0,0,22,11,8,0,1,2,0,0,0,10,18,15,54.5,misc
-ESP-La Liga,2024,Valencia,Yarek Gasiorowski,ESP,DF,20-089,2005,10.4,1,0,0,5,2,0,3,25,16,0,0,0,38,24,12,66.7,misc
-ESP-La Liga,2024,Valladolid,Adam Aznou,MAR,DF,18-313,2006,5.1,1,0,0,5,8,0,8,7,14,0,0,0,31,5,1,83.3,misc
-ESP-La Liga,2024,Valladolid,Adrian Baquerin,ESP,FW,18-038,2007,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,100.0,misc
-ESP-La Liga,2024,Valladolid,Amath,SEN,"FW,DF",28-269,1996,3.5,1,0,0,3,5,2,4,2,0,0,0,0,11,1,4,20.0,misc
-ESP-La Liga,2024,Valladolid,André Ferreira,POR,GK,28-317,1996,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,misc
-ESP-La Liga,2024,Valladolid,Antonio Candela,ITA,DF,24-349,2000,5.0,0,0,0,3,3,0,11,4,4,0,0,0,15,1,4,20.0,misc
-ESP-La Liga,2024,Valladolid,Anuar,MAR,"MF,FW",30-086,1995,14.4,5,0,0,22,35,9,16,13,17,1,0,0,52,18,21,46.2,misc
-ESP-La Liga,2024,Valladolid,Arnau Rafús,ESP,GK,21-349,2003,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,misc
-ESP-La Liga,2024,Valladolid,Cenk Özkacar,TUR,DF,24-187,2000,3.9,0,0,0,1,0,0,0,11,3,0,0,0,17,6,10,37.5,misc
-ESP-La Liga,2024,Valladolid,Chuky san jose,ESP,"MF,FW",20-347,2004,4.5,1,0,0,2,8,3,13,0,2,0,0,0,13,0,9,0.0,misc
-ESP-La Liga,2024,Valladolid,Darwin Machís,VEN,"FW,MF",32-063,1993,5.3,0,0,0,3,9,2,44,3,3,0,0,0,24,5,1,83.3,misc
-ESP-La Liga,2024,Valladolid,David Torres,ESP,DF,22-037,2003,15.4,5,0,0,13,3,0,3,10,8,0,0,1,27,20,21,48.8,misc
-ESP-La Liga,2024,Valladolid,Enzo Boyomo,CMR,DF,23-186,2001,3.0,0,0,0,3,0,0,0,1,2,0,0,0,11,3,5,37.5,misc
-ESP-La Liga,2024,Valladolid,Eray Cömert,SUI,"DF,MF",27-066,1998,14.9,6,0,0,16,11,0,0,16,11,0,0,0,38,16,16,50.0,misc
-ESP-La Liga,2024,Valladolid,Florian Grillitsch,AUT,MF,29-247,1995,3.7,1,0,0,2,6,0,4,2,4,0,0,0,23,2,1,66.7,misc
-ESP-La Liga,2024,Valladolid,Henrique,BRA,DF,30-351,1994,0.5,0,0,0,1,3,0,1,1,1,0,0,0,3,0,0,,misc
-ESP-La Liga,2024,Valladolid,Iván Sánchez,ESP,"MF,FW",32-200,1992,12.3,4,0,0,12,36,1,80,12,17,0,0,0,49,9,11,45.0,misc
-ESP-La Liga,2024,Valladolid,Javi Sánchez,ESP,DF,28-028,1997,20.4,5,0,0,16,3,0,0,20,15,0,1,0,50,32,30,51.6,misc
-ESP-La Liga,2024,Valladolid,Joseph Aidoo,GHA,DF,29-194,1995,3.1,0,0,0,1,2,0,0,3,3,0,0,0,15,1,3,25.0,misc
-ESP-La Liga,2024,Valladolid,Juanmi Latasa,ESP,FW,24-019,2001,9.8,6,1,0,29,24,5,5,0,0,0,0,0,16,64,40,61.5,misc
-ESP-La Liga,2024,Valladolid,Juma Bah,SLE,DF,19-000,2006,9.6,1,0,0,6,6,0,0,12,7,0,0,0,35,31,13,70.5,misc
-ESP-La Liga,2024,Valladolid,Karl Jakob Hein,EST,GK,22-363,2002,28.0,0,0,0,0,2,0,0,0,0,0,0,0,37,7,0,100.0,misc
-ESP-La Liga,2024,Valladolid,Kenedy,BRA,"MF,FW",29-062,1996,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
-ESP-La Liga,2024,Valladolid,Kike Pérez,ESP,MF,28-056,1997,13.2,6,0,0,32,21,1,33,7,26,0,0,0,60,12,15,44.4,misc
-ESP-La Liga,2024,Valladolid,Lucas Oliveira Rosa,BRA,DF,25-008,2000,21.0,6,0,0,35,19,1,36,28,33,0,0,0,87,18,10,64.3,misc
-ESP-La Liga,2024,Valladolid,Luis Pérez,ESP,DF,30-066,1995,25.9,2,0,0,12,24,3,96,26,27,0,1,0,72,14,31,31.1,misc
-ESP-La Liga,2024,Valladolid,Mamadou Sylla,SEN,"FW,MF",31-022,1994,14.1,4,0,0,14,24,12,9,2,3,1,0,0,26,39,46,45.9,misc
-ESP-La Liga,2024,Valladolid,Marcos André,BRA,FW,28-173,1996,13.0,5,0,0,12,28,5,1,3,6,0,0,0,43,46,44,51.1,misc
-ESP-La Liga,2024,Valladolid,Mario Maroto,ESP,MF,21-134,2003,0.2,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,50.0,misc
-ESP-La Liga,2024,Valladolid,Mario Martín,ESP,MF,21-037,2004,17.2,7,3,1,42,37,1,9,19,30,0,1,0,76,27,27,50.0,misc
-ESP-La Liga,2024,Valladolid,Raúl Chasco,ESP,DF,21-210,2003,1.4,0,0,0,3,0,0,3,2,1,0,0,0,2,0,0,,misc
-ESP-La Liga,2024,Valladolid,Raúl Moro,ESP,"FW,MF",22-127,2002,19.3,2,0,0,3,13,8,114,9,10,0,0,0,63,7,10,41.2,misc
-ESP-La Liga,2024,Valladolid,Selim Amallah,MAR,MF,28-147,1996,12.3,6,0,0,29,20,1,30,7,14,0,0,0,50,4,13,23.5,misc
-ESP-La Liga,2024,Valladolid,Stanko Jurić,CRO,MF,28-238,1996,15.7,7,1,1,35,8,0,0,18,21,0,0,0,76,42,13,76.4,misc
-ESP-La Liga,2024,Valladolid,Tamás Nikitscher,HUN,MF,25-159,1999,6.1,2,0,0,12,5,0,0,9,5,0,0,0,20,8,4,66.7,misc
-ESP-La Liga,2024,Valladolid,Víctor Meseguer,ESP,MF,25-306,1999,4.6,1,0,0,8,5,0,3,2,6,0,0,0,25,10,8,55.6,misc
-ESP-La Liga,2024,Villarreal,Alex Baena,ESP,MF,23-265,2001,25.0,8,0,0,37,38,4,187,21,14,0,0,0,130,15,18,45.5,misc
-ESP-La Liga,2024,Villarreal,Alfonso Pedraza,ESP,"DF,MF",29-002,1996,0.9,0,0,0,1,1,0,10,1,0,0,0,0,4,0,0,,misc
-ESP-La Liga,2024,Villarreal,Arnaut Danjuma,NED,FW,28-070,1997,2.2,1,0,0,1,1,3,0,0,1,0,0,0,2,2,0,100.0,misc
-ESP-La Liga,2024,Villarreal,Ayoze Pérez,ESP,FW,31-256,1993,15.6,3,0,0,18,31,5,15,6,12,0,0,0,45,9,20,31.0,misc
-ESP-La Liga,2024,Villarreal,Daniel Parejo,ESP,MF,35-360,1989,19.7,7,0,0,17,23,1,16,19,33,0,0,0,121,20,8,71.4,misc
-ESP-La Liga,2024,Villarreal,Denis Suárez,ESP,MF,31-095,1994,4.1,0,0,0,1,4,0,15,1,4,0,0,0,11,1,5,16.7,misc
-ESP-La Liga,2024,Villarreal,Diego Conde,ESP,GK,26-165,1998,20.8,2,0,0,0,1,0,0,1,2,0,0,0,27,1,0,100.0,misc
-ESP-La Liga,2024,Villarreal,Eric Bailly,CIV,DF,30-364,1994,6.4,2,0,0,6,1,0,0,6,3,0,1,0,17,11,7,61.1,misc
-ESP-La Liga,2024,Villarreal,Gerard Moreno,ESP,FW,33-004,1992,7.2,0,0,0,10,9,1,10,2,4,1,0,0,21,16,4,80.0,misc
-ESP-La Liga,2024,Villarreal,Ilias Akhomach,MAR,"MF,FW",20-360,2004,6.5,1,0,0,9,21,1,18,3,7,0,0,0,30,6,6,50.0,misc
-ESP-La Liga,2024,Villarreal,Juan Bernat,ESP,"DF,MF",32-041,1993,2.4,0,0,0,0,2,1,9,1,7,0,0,0,13,5,2,71.4,misc
-ESP-La Liga,2024,Villarreal,Juan Foyth,ARG,DF,27-089,1998,10.0,3,0,0,9,3,0,4,14,14,0,0,0,33,29,19,60.4,misc
-ESP-La Liga,2024,Villarreal,Kiko Femenía,ESP,DF,34-068,1991,20.4,6,0,0,16,12,1,43,31,27,0,0,0,84,5,9,35.7,misc
-ESP-La Liga,2024,Villarreal,Logan Costa,CPV,DF,24-010,2001,20.2,2,0,0,12,3,2,2,14,16,1,2,0,74,29,26,52.7,misc
-ESP-La Liga,2024,Villarreal,Luiz Lúcio Reis Júnior,BRA,GK,24-087,2001,8.2,1,0,0,0,1,0,0,0,0,0,0,0,9,3,0,100.0,misc
-ESP-La Liga,2024,Villarreal,Nicolas Pépé,CIV,"FW,MF",29-317,1995,10.0,1,0,0,12,13,6,18,3,3,1,0,0,30,9,13,40.9,misc
-ESP-La Liga,2024,Villarreal,Pape Gueye,SEN,MF,26-077,1999,19.8,5,2,1,28,49,4,17,22,23,0,0,0,100,26,21,55.3,misc
-ESP-La Liga,2024,Villarreal,Pau Cabanes,ESP,"MF,FW",20-053,2005,1.8,0,0,0,4,7,0,6,3,4,1,0,0,6,1,2,33.3,misc
-ESP-La Liga,2024,Villarreal,Pau Navarro,ESP,DF,19-351,2005,6.5,0,0,0,6,7,0,2,3,14,0,0,0,33,3,11,21.4,misc
-ESP-La Liga,2024,Villarreal,Ramón Terrats,ESP,"MF,FW",24-175,2000,1.5,1,0,0,2,2,0,5,2,3,0,0,0,11,3,2,60.0,misc
-ESP-La Liga,2024,Villarreal,Raúl Albiol,ESP,DF,39-219,1985,13.2,5,0,0,11,6,0,0,6,9,0,2,1,44,29,14,67.4,misc
-ESP-La Liga,2024,Villarreal,Santi Comesaña,ESP,MF,28-188,1996,21.4,6,0,0,33,22,1,11,15,41,0,0,0,126,26,38,40.6,misc
-ESP-La Liga,2024,Villarreal,Sergi Cardona,ESP,DF,25-277,1999,27.0,8,0,0,30,24,3,94,31,40,0,0,0,118,37,20,64.9,misc
-ESP-La Liga,2024,Villarreal,Tajon Buchanan,CAN,MF,26-062,1999,2.6,0,0,0,7,10,3,15,1,4,0,0,0,16,3,2,60.0,misc
-ESP-La Liga,2024,Villarreal,Thiago Ojeda,ARG,MF,22-089,2003,0.1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,misc
-ESP-La Liga,2024,Villarreal,Thierno Barry,FRA,FW,22-172,2002,19.8,3,0,0,37,39,16,4,0,8,1,0,0,29,77,42,64.7,misc
-ESP-La Liga,2024,Villarreal,Willy Kambwala,FRA,DF,20-229,2004,9.1,1,1,0,5,0,0,0,6,7,0,0,0,21,13,14,48.1,misc
-ESP-La Liga,2024,Villarreal,Yeremi Pino,ESP,MF,22-173,2002,15.6,8,0,0,33,23,11,41,8,21,1,0,0,63,9,12,42.9,misc
+ESP-La Liga,2024,Celta Vigo,Fran Beltrán,ESP,MF,26-067,1999.0,20.3,2,0,0,24,9,0,3,19,26,0,1,0,89,19,20,48.7,misc
+ESP-La Liga,2024,Celta Vigo,Franco Cervi,ARG,"FW,MF",30-320,1994.0,2.9,1,0,0,4,1,0,6,8,3,0,0,0,12,4,4,50.0,misc
+ESP-La Liga,2024,Celta Vigo,Hugo Sotelo,ESP,MF,21-113,2003.0,12.6,4,0,0,17,9,1,43,4,15,0,0,0,67,2,10,16.7,misc
+ESP-La Liga,2024,Celta Vigo,Hugo Álvarez,ESP,"MF,DF",21-283,2003.0,15.4,5,0,0,22,14,2,28,7,9,0,1,0,70,5,5,50.0,misc
+ESP-La Liga,2024,Celta Vigo,Iago Aspas,ESP,"FW,MF",37-253,1987.0,16.4,4,1,1,15,31,5,10,6,8,1,0,0,49,7,7,50.0,misc
+ESP-La Liga,2024,Celta Vigo,Iker Losada,ESP,"FW,MF",23-253,2001.0,3.1,2,0,0,3,0,0,5,1,3,0,0,0,8,1,4,20.0,misc
+ESP-La Liga,2024,Celta Vigo,Ilaix Moriba,GUI,MF,22-082,2003.0,17.3,7,1,1,22,46,2,5,10,29,0,0,0,81,17,22,43.6,misc
+ESP-La Liga,2024,Celta Vigo,Iván Villar,ESP,GK,27-276,1997.0,4.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,1,50.0,misc
+ESP-La Liga,2024,Celta Vigo,Jailson Siqueira,BRA,"DF,MF",29-216,1995.0,6.5,1,0,0,3,4,0,1,9,11,0,0,1,31,15,15,50.0,misc
+ESP-La Liga,2024,Celta Vigo,Javi Rodríguez,ESP,DF,21-289,2003.0,21.6,6,0,0,27,16,0,2,29,33,0,0,0,68,34,25,57.6,misc
+ESP-La Liga,2024,Celta Vigo,Javier Manquillo,ESP,DF,30-341,1994.0,5.7,1,0,0,9,1,0,3,7,5,0,0,0,18,5,8,38.5,misc
+ESP-La Liga,2024,Celta Vigo,Jonathan Bamba,CIV,"FW,MF",29-016,1996.0,9.0,1,0,0,7,17,4,25,5,7,0,0,0,52,5,10,33.3,misc
+ESP-La Liga,2024,Celta Vigo,Joseph Aidoo,GHA,DF,29-194,1995.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Celta Vigo,Luca de la Torre,USA,MF,26-323,1998.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2024,Celta Vigo,Marcos Alonso,ESP,DF,34-104,1990.0,23.0,9,1,1,23,21,2,32,27,18,0,0,0,132,59,38,60.8,misc
+ESP-La Liga,2024,Celta Vigo,Mihailo Ristić,SRB,"MF,DF",29-162,1995.0,2.7,1,0,0,6,2,0,5,1,3,0,0,0,13,0,8,0.0,misc
+ESP-La Liga,2024,Celta Vigo,Pablo Durán,ESP,"FW,MF",23-321,2001.0,11.0,3,0,0,23,13,4,16,7,6,0,0,0,33,6,23,20.7,misc
+ESP-La Liga,2024,Celta Vigo,Sergio Carreira,ESP,"MF,DF",24-180,2000.0,13.6,0,0,0,13,4,2,39,11,16,0,0,0,51,3,12,20.0,misc
+ESP-La Liga,2024,Celta Vigo,Tadeo Allende,ARG,FW,26-050,1999.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Celta Vigo,Vicente Guaita,ESP,GK,38-091,1987.0,26.0,0,0,0,0,4,0,0,0,0,0,0,0,59,9,0,100.0,misc
+ESP-La Liga,2024,Celta Vigo,Williot Swedberg,SWE,"FW,MF",21-069,2004.0,11.8,1,0,0,16,25,7,18,3,12,0,0,0,38,7,13,35.0,misc
+ESP-La Liga,2024,Celta Vigo,Yoel Lago,ESP,DF,21-017,2004.0,1.5,0,0,0,1,1,0,0,2,1,0,0,0,6,1,1,50.0,misc
+ESP-La Liga,2024,Celta Vigo,Óscar Mingueza,ESP,"MF,DF",25-333,1999.0,23.1,5,1,0,19,19,2,92,16,18,1,0,0,108,10,9,52.6,misc
+ESP-La Liga,2024,Espanyol,Alejo Véliz,ARG,FW,21-204,2003.0,11.0,3,0,0,17,26,5,0,4,1,0,0,0,20,44,50,46.8,misc
+ESP-La Liga,2024,Espanyol,Alex Král,CZE,MF,26-327,1998.0,27.3,1,0,0,27,22,0,35,23,33,0,0,0,112,33,27,55.0,misc
+ESP-La Liga,2024,Espanyol,Antoniu,ESP,"MF,FW",22-218,2002.0,6.4,3,0,0,12,12,4,13,7,6,0,0,0,20,5,11,31.3,misc
+ESP-La Liga,2024,Espanyol,Brian Oliván,ESP,DF,31-010,1994.0,11.3,2,0,0,13,6,3,55,10,10,0,0,0,28,3,10,23.1,misc
+ESP-La Liga,2024,Espanyol,Carlos Romero,ESP,"DF,MF",23-164,2001.0,19.5,5,0,0,22,9,1,56,19,28,0,2,0,86,11,18,37.9,misc
+ESP-La Liga,2024,Espanyol,Edu Expósito,ESP,"MF,FW",28-253,1996.0,3.7,2,0,0,7,7,0,24,5,4,0,0,0,21,3,7,30.0,misc
+ESP-La Liga,2024,Espanyol,Fernando Calero,ESP,"DF,MF",29-209,1995.0,4.8,0,0,0,4,5,0,0,12,4,0,0,0,14,6,8,42.9,misc
+ESP-La Liga,2024,Espanyol,Irvin Cardona,FRA,"FW,MF",27-246,1997.0,6.7,1,0,0,8,8,5,14,4,5,0,0,0,19,8,11,42.1,misc
+ESP-La Liga,2024,Espanyol,Javi Puado,ESP,"FW,MF",26-321,1998.0,25.7,5,0,0,15,21,4,19,4,12,1,0,0,72,7,25,21.9,misc
+ESP-La Liga,2024,Espanyol,Joan García,ESP,GK,23-342,2001.0,29.0,2,0,0,0,4,0,0,0,0,0,0,0,27,15,1,93.8,misc
+ESP-La Liga,2024,Espanyol,Jofre,ESP,"MF,FW",23-298,2001.0,19.7,5,0,0,24,46,3,37,13,13,0,0,0,91,3,11,21.4,misc
+ESP-La Liga,2024,Espanyol,José Gragera,ESP,MF,24-132,2000.0,6.3,0,0,0,18,8,0,0,5,16,0,0,0,18,11,5,68.8,misc
+ESP-La Liga,2024,Espanyol,Justin Smith,CAN,MF,22-066,2003.0,2.3,0,0,0,5,2,0,1,4,3,0,0,0,8,3,0,100.0,misc
+ESP-La Liga,2024,Espanyol,Leandro Cabrera,URU,DF,33-298,1991.0,24.0,3,0,0,17,7,0,14,26,18,1,1,0,64,59,37,61.5,misc
+ESP-La Liga,2024,Espanyol,Marash Kumbulla,ALB,DF,25-062,2000.0,25.2,7,0,0,30,24,0,4,25,18,0,0,0,60,53,32,62.4,misc
+ESP-La Liga,2024,Espanyol,Naci Ünüvar,NED,"MF,DF",21-302,2003.0,0.3,0,0,0,0,1,1,2,0,2,0,0,0,3,0,0,,misc
+ESP-La Liga,2024,Espanyol,Omar El Hilali,MAR,DF,21-211,2003.0,27.4,10,0,0,43,23,3,41,38,68,0,2,0,110,25,20,55.6,misc
+ESP-La Liga,2024,Espanyol,Pere Milla,ESP,"MF,FW",32-200,1992.0,3.0,3,0,0,4,10,2,9,2,1,0,0,0,17,4,6,40.0,misc
+ESP-La Liga,2024,Espanyol,Pol Lozano,ESP,MF,25-187,1999.0,16.9,10,0,0,45,12,0,16,20,27,0,0,0,74,7,13,35.0,misc
+ESP-La Liga,2024,Espanyol,Rafael Bauza,ESP,MF,20-071,2005.0,2.0,1,0,0,8,0,0,0,0,3,0,0,0,4,3,2,60.0,misc
+ESP-La Liga,2024,Espanyol,Roberto Férnandez,ESP,FW,22-282,2002.0,8.2,1,0,0,21,15,2,1,3,4,1,0,0,20,17,29,37.0,misc
+ESP-La Liga,2024,Espanyol,Sergi Gómez,ESP,DF,33-014,1992.0,7.2,1,0,0,6,1,0,1,7,5,0,0,0,15,11,20,35.5,misc
+ESP-La Liga,2024,Espanyol,Urko González,ESP,MF,24-022,2001.0,6.6,1,0,0,10,6,0,1,5,12,0,1,0,32,8,8,50.0,misc
+ESP-La Liga,2024,Espanyol,Walid Cheddira,MAR,FW,27-079,1998.0,6.7,2,0,0,25,24,7,0,1,0,1,0,0,18,13,24,35.1,misc
+ESP-La Liga,2024,Espanyol,Álvaro Aguado,ESP,MF,28-345,1996.0,4.6,3,0,0,5,7,0,12,3,2,0,0,0,33,3,2,60.0,misc
+ESP-La Liga,2024,Espanyol,Álvaro Tejero,ESP,"MF,DF",28-265,1996.0,12.8,2,0,0,13,19,1,98,11,4,0,0,0,62,9,10,47.4,misc
+ESP-La Liga,2024,Getafe,Abdoulaye Keita,ESP,"FW,MF",22-222,2002.0,1.1,0,0,0,6,0,0,1,0,2,0,0,0,6,3,3,50.0,misc
+ESP-La Liga,2024,Getafe,Alberto Risco,ESP,"MF,FW",19-224,2005.0,0.8,0,0,0,1,2,0,4,0,4,0,0,0,5,1,3,25.0,misc
+ESP-La Liga,2024,Getafe,Alex Sola,ESP,"MF,FW",25-306,1999.0,11.4,4,0,0,24,26,7,18,7,14,0,0,0,47,18,28,39.1,misc
+ESP-La Liga,2024,Getafe,Allan Nyom,CMR,"DF,MF",36-336,1988.0,7.3,4,0,0,18,6,0,15,2,7,0,1,0,23,7,13,35.0,misc
+ESP-La Liga,2024,Getafe,Bertuğ Yıldırım,TUR,FW,22-273,2002.0,10.3,7,0,0,27,15,13,4,1,3,1,0,0,21,63,47,57.3,misc
+ESP-La Liga,2024,Getafe,Borja Mayoral,ESP,FW,28-006,1997.0,7.0,0,0,0,6,10,7,6,0,2,0,0,0,17,14,25,35.9,misc
+ESP-La Liga,2024,Getafe,Carles Aleñá,ESP,"MF,FW",27-096,1998.0,5.0,1,0,0,8,11,2,6,0,3,0,0,0,12,10,9,52.6,misc
+ESP-La Liga,2024,Getafe,Carles Pérez,ESP,"MF,FW",27-054,1998.0,15.3,2,0,0,38,10,1,41,6,23,0,0,0,46,12,24,33.3,misc
+ESP-La Liga,2024,Getafe,Chrisantus Uche,NGA,"FW,MF",21-327,2003.0,23.4,8,1,1,47,62,17,19,8,17,0,0,0,96,77,113,40.5,misc
+ESP-La Liga,2024,Getafe,Coba da Costa,ESP,"MF,FW",22-259,2002.0,8.3,3,0,0,7,8,0,22,5,11,0,0,0,26,15,13,53.6,misc
+ESP-La Liga,2024,Getafe,David Argüelles,ESP,MF,23-100,2002.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Getafe,David Soria,ESP,GK,32-007,1993.0,30.0,1,0,0,0,0,0,0,1,4,0,0,0,23,6,0,100.0,misc
+ESP-La Liga,2024,Getafe,Diego Rico,ESP,DF,32-047,1993.0,27.0,7,0,0,33,50,3,129,31,45,1,0,0,115,22,18,55.0,misc
+ESP-La Liga,2024,Getafe,Djené,TOG,"DF,MF",33-101,1991.0,24.5,9,0,0,33,22,1,28,19,10,0,0,0,89,41,30,57.7,misc
+ESP-La Liga,2024,Getafe,Domingos Duarte,POR,DF,30-032,1995.0,14.0,3,1,1,17,9,0,0,10,8,0,1,0,37,23,10,69.7,misc
+ESP-La Liga,2024,Getafe,Gorka Rivera Alonso,ESP,"DF,MF",20-253,2004.0,0.2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2024,Getafe,Iglesias,ESP,DF,26-282,1998.0,24.9,4,0,0,38,32,1,71,38,41,0,0,0,84,31,30,50.8,misc
+ESP-La Liga,2024,Getafe,Ismael Bekhoucha,MAR,MF,20-142,2004.0,0.0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Getafe,Jesús Santiago,ESP,MF,20-321,2004.0,3.6,5,0,0,14,5,0,2,1,7,0,0,0,18,1,4,20.0,misc
+ESP-La Liga,2024,Getafe,John Joe,IRL,"MF,FW",21-169,2003.0,0.5,1,0,0,1,2,0,0,0,0,0,0,0,3,2,2,50.0,misc
+ESP-La Liga,2024,Getafe,Juan Bernat,ESP,"MF,FW",32-041,1993.0,4.5,0,0,0,4,3,0,8,1,8,0,0,0,17,7,9,43.8,misc
+ESP-La Liga,2024,Getafe,Juan Berrocal,ESP,DF,25-342,1999.0,9.0,6,1,1,14,1,0,0,11,7,0,1,0,30,27,12,69.2,misc
+ESP-La Liga,2024,Getafe,Juanmi,ESP,"FW,MF",31-326,1993.0,6.5,2,0,0,13,9,5,0,2,7,0,0,0,20,6,7,46.2,misc
+ESP-La Liga,2024,Getafe,Luis Milla,ESP,MF,30-186,1994.0,24.9,3,0,0,32,39,0,155,17,28,0,1,0,130,25,30,45.5,misc
+ESP-La Liga,2024,Getafe,Mauro Arambarri,URU,MF,29-193,1995.0,22.9,8,0,0,38,39,3,13,11,14,0,0,0,100,47,43,52.2,misc
+ESP-La Liga,2024,Getafe,Nabil Aberdin,FRA,MF,22-231,2002.0,2.9,1,0,0,7,6,0,0,0,4,0,0,0,8,10,3,76.9,misc
+ESP-La Liga,2024,Getafe,Omar Alderete,PAR,DF,28-106,1996.0,26.4,7,0,0,27,10,6,5,34,22,1,3,0,96,76,41,65.0,misc
+ESP-La Liga,2024,Getafe,Peter González,DOM,"MF,FW",22-260,2002.0,4.0,0,0,0,7,9,1,9,1,4,0,0,0,14,7,12,36.8,misc
+ESP-La Liga,2024,Getafe,Ramón Terrats,ESP,"MF,FW",24-175,2000.0,6.6,1,0,0,9,11,0,23,1,6,0,0,0,24,7,6,53.8,misc
+ESP-La Liga,2024,Getafe,Álvaro Rodríguez,URU,FW,20-271,2004.0,7.0,4,0,0,23,17,5,3,3,5,0,0,0,25,75,63,54.3,misc
+ESP-La Liga,2024,Girona,Abel Ruiz,ESP,FW,25-073,2000.0,13.0,3,0,0,6,13,5,4,4,2,0,0,0,20,7,19,26.9,misc
+ESP-La Liga,2024,Girona,Alejandro Francés,ESP,DF,22-253,2002.0,9.9,1,0,0,13,13,1,18,14,18,0,0,0,28,4,9,30.8,misc
+ESP-La Liga,2024,Girona,Arnau Martinez,ESP,"DF,MF",21-351,2003.0,22.7,2,0,0,13,32,1,48,23,18,0,1,0,101,23,19,54.8,misc
+ESP-La Liga,2024,Girona,Arnaut Danjuma,NED,"FW,MF",28-070,1997.0,12.7,2,0,0,12,12,12,61,2,5,0,1,0,31,0,2,0.0,misc
+ESP-La Liga,2024,Girona,Arthur Melo,BRA,MF,28-242,1996.0,3.5,0,0,0,3,8,0,2,3,6,0,0,0,15,0,2,0.0,misc
+ESP-La Liga,2024,Girona,Bojan Miovski,MKD,FW,25-291,1999.0,9.4,0,0,0,13,11,8,3,2,5,1,0,0,13,13,20,39.4,misc
+ESP-La Liga,2024,Girona,Bryan Gil,ESP,"FW,MF",24-059,2001.0,19.1,4,0,0,22,40,4,78,10,20,0,0,0,78,0,5,0.0,misc
+ESP-La Liga,2024,Girona,Cristhian Stuani,URU,FW,38-181,1986.0,6.8,2,0,0,20,2,4,1,5,5,0,0,0,9,11,10,52.4,misc
+ESP-La Liga,2024,Girona,Daley Blind,NED,DF,35-033,1990.0,22.9,2,0,0,14,12,0,28,22,19,0,0,0,85,13,17,43.3,misc
+ESP-La Liga,2024,Girona,David López,ESP,DF,35-184,1989.0,21.8,3,0,0,6,11,1,3,12,18,0,1,0,76,26,25,51.0,misc
+ESP-La Liga,2024,Girona,Donny van de Beek,NED,MF,27-358,1997.0,15.3,5,0,0,22,8,3,11,10,17,0,0,0,47,9,8,52.9,misc
+ESP-La Liga,2024,Girona,Ferrán Ruiz,ESP,MF,21-350,2003.0,0.2,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2024,Girona,Gabriel Osei Misehouy,NED,"FW,MF",19-267,2005.0,2.9,0,0,0,1,5,2,6,0,1,0,0,0,11,0,3,0.0,misc
+ESP-La Liga,2024,Girona,Iker Almena,ESP,"FW,DF",20-342,2004.0,0.5,0,0,0,0,1,0,4,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Girona,Iván Martín,ESP,MF,26-056,1999.0,18.5,1,0,0,17,14,3,15,10,15,0,0,0,91,3,13,18.8,misc
+ESP-La Liga,2024,Girona,Jhon Solis,COL,MF,20-190,2004.0,4.9,2,0,0,6,5,0,2,4,4,0,0,0,21,3,3,50.0,misc
+ESP-La Liga,2024,Girona,Juanpe,ESP,DF,33-346,1991.0,6.7,2,0,0,3,2,0,1,8,5,0,0,0,19,20,8,71.4,misc
+ESP-La Liga,2024,Girona,Kim Minsu,KOR,"MF,FW",19-082,2006.0,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2024,Girona,Ladislav Krejčí,CZE,DF,25-356,1999.0,20.1,8,0,0,17,10,0,9,30,14,1,0,1,77,42,17,71.2,misc
+ESP-La Liga,2024,Girona,Miguel Gutiérrez,ESP,"DF,MF",23-258,2001.0,25.4,3,0,0,26,31,5,140,16,24,0,1,0,137,4,14,22.2,misc
+ESP-La Liga,2024,Girona,Oriol Romeu,ESP,MF,33-199,1991.0,12.9,5,0,0,25,13,0,7,11,21,0,1,0,63,10,13,43.5,misc
+ESP-La Liga,2024,Girona,Papa Ba,ESP,MF,20-211,2004.0,0.5,0,0,0,1,4,0,1,0,1,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Girona,Pau López,ESP,GK,30-119,1994.0,0.5,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Girona,Paulo Gazzaniga,ARG,GK,33-099,1992.0,29.5,4,0,0,1,3,0,0,0,1,0,0,0,42,0,2,0.0,misc
+ESP-La Liga,2024,Girona,Portu,ESP,"FW,MF",32-325,1992.0,3.9,4,0,0,9,6,5,16,0,4,0,0,0,13,5,7,41.7,misc
+ESP-La Liga,2024,Girona,Silvi Clúa,ESP,MF,20-072,2005.0,1.8,0,0,0,5,0,0,0,2,7,0,0,0,4,6,3,66.7,misc
+ESP-La Liga,2024,Girona,Viktor Tsyhankov,UKR,"FW,MF",27-147,1997.0,14.0,1,0,0,9,22,3,86,10,10,1,0,0,44,3,12,20.0,misc
+ESP-La Liga,2024,Girona,Yangel Herrera,VEN,MF,27-087,1998.0,18.8,9,1,0,54,49,3,33,26,32,1,0,0,80,39,33,54.2,misc
+ESP-La Liga,2024,Girona,Yaser Asprilla,COL,"FW,MF",21-143,2003.0,11.4,2,0,0,8,20,1,64,5,8,0,0,0,43,3,0,100.0,misc
+ESP-La Liga,2024,Las Palmas,Aboubacar Bassinga,CIV,MF,19-272,2005.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Las Palmas,Adnan Januzaj,BEL,"MF,FW",30-065,1995.0,4.1,4,0,0,3,12,0,42,0,5,0,0,0,22,1,8,11.1,misc
+ESP-La Liga,2024,Las Palmas,Alberto Moleiro,ESP,"FW,MF",21-193,2003.0,24.0,5,0,0,24,34,2,19,13,11,0,0,0,102,5,17,22.7,misc
+ESP-La Liga,2024,Las Palmas,Andy Pelmard,FRA,DF,25-030,2000.0,2.3,1,0,0,2,3,0,2,2,0,0,0,0,4,1,1,50.0,misc
+ESP-La Liga,2024,Las Palmas,Benito Ramírez,ESP,"DF,MF",29-274,1995.0,4.3,2,1,0,4,6,0,30,1,5,0,0,0,27,3,9,25.0,misc
+ESP-La Liga,2024,Las Palmas,Daley Sinkgraven,NED,DF,29-281,1995.0,1.0,0,0,0,2,2,0,4,1,1,0,0,0,6,1,0,100.0,misc
+ESP-La Liga,2024,Las Palmas,Dario Essugo,POR,MF,20-028,2005.0,15.9,9,2,2,27,25,0,1,33,34,0,0,0,85,22,24,47.8,misc
+ESP-La Liga,2024,Las Palmas,Dinko Horkaš,CRO,GK,26-032,1999.0,4.1,1,0,0,1,0,0,0,0,0,0,1,0,7,0,0,,misc
+ESP-La Liga,2024,Las Palmas,Enzo Loiodice,FRA,MF,24-135,2000.0,5.6,3,0,0,9,5,1,9,5,4,0,0,0,20,6,4,60.0,misc
+ESP-La Liga,2024,Las Palmas,Fabio González,ESP,MF,28-058,1997.0,0.6,0,0,0,1,0,0,1,0,0,0,0,0,3,1,0,100.0,misc
+ESP-La Liga,2024,Las Palmas,Fábio Silva,POR,FW,22-266,2002.0,18.9,7,0,0,36,41,18,20,4,6,0,0,0,46,47,45,51.1,misc
+ESP-La Liga,2024,Las Palmas,Jaime Mata,ESP,FW,36-169,1988.0,5.2,6,0,0,14,10,10,9,3,1,0,0,0,15,15,23,39.5,misc
+ESP-La Liga,2024,Las Palmas,Jasper Cillessen,NED,GK,35-354,1989.0,25.9,1,0,0,0,5,0,0,0,0,0,0,0,20,2,2,50.0,misc
+ESP-La Liga,2024,Las Palmas,Javier Muñoz,ESP,"MF,DF",30-042,1995.0,24.9,3,0,0,26,22,2,42,27,32,0,0,0,100,10,24,29.4,misc
+ESP-La Liga,2024,Las Palmas,José Campaña,ESP,MF,31-315,1993.0,11.9,3,0,0,7,19,0,26,18,14,0,1,0,73,15,4,78.9,misc
+ESP-La Liga,2024,Las Palmas,Juan Herzog,ESP,DF,21-333,2003.0,10.7,1,0,0,3,7,0,0,14,11,0,0,0,34,27,14,65.9,misc
+ESP-La Liga,2024,Las Palmas,Kirian Rodríguez,ESP,MF,29-037,1996.0,19.5,2,0,0,9,18,0,18,10,17,0,0,0,100,13,17,43.3,misc
+ESP-La Liga,2024,Las Palmas,Manuel Fuster,ESP,"FW,MF",27-171,1997.0,7.8,2,0,0,10,25,1,50,2,7,0,0,0,39,3,9,25.0,misc
+ESP-La Liga,2024,Las Palmas,Marc Cardona,ESP,"FW,DF",29-277,1995.0,1.2,1,0,0,1,2,0,1,0,1,0,0,0,7,0,5,0.0,misc
+ESP-La Liga,2024,Las Palmas,Marvin,ESP,"DF,FW",24-282,2000.0,7.1,3,0,0,11,13,0,37,5,9,0,1,0,36,8,11,42.1,misc
+ESP-La Liga,2024,Las Palmas,Mika Màrmol,ESP,DF,22-283,2002.0,19.7,4,0,0,24,6,2,39,30,17,0,1,0,57,16,12,57.1,misc
+ESP-La Liga,2024,Las Palmas,Oliver McBurnie,SCO,FW,28-311,1996.0,14.1,0,0,0,23,16,7,1,4,5,0,0,0,27,63,59,51.6,misc
+ESP-La Liga,2024,Las Palmas,Pejiño,ESP,FW,28-256,1996.0,0.2,0,0,0,1,0,0,1,0,1,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Las Palmas,Sandro Ramírez,ESP,"FW,MF",29-276,1995.0,19.2,6,0,0,22,35,5,102,15,15,1,1,0,72,9,14,39.1,misc
+ESP-La Liga,2024,Las Palmas,Scott McKenna,SCO,DF,28-150,1996.0,22.4,5,1,0,12,6,0,1,8,9,0,1,1,61,70,33,68.0,misc
+ESP-La Liga,2024,Las Palmas,Stefan Bajcetic,ESP,"MF,DF",20-171,2004.0,5.5,1,0,0,12,5,0,1,8,8,0,1,0,31,8,7,53.3,misc
+ESP-La Liga,2024,Las Palmas,Valentín Pezzolesi,ESP,DF,17-360,2007.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Las Palmas,Viti,ESP,DF,27-207,1997.0,16.0,5,0,0,21,21,0,31,21,38,0,0,0,63,14,17,45.2,misc
+ESP-La Liga,2024,Las Palmas,Álex Muñoz,ESP,DF,30-255,1994.0,14.4,3,0,0,27,11,2,24,16,29,0,1,0,32,21,20,51.2,misc
+ESP-La Liga,2024,Las Palmas,Álex Suárez,ESP,DF,32-024,1993.0,21.9,11,0,0,21,16,1,0,7,17,0,1,1,52,22,40,35.5,misc
+ESP-La Liga,2024,Leganés,Adrià Altimira,ESP,"DF,FW",24-014,2001.0,12.0,3,0,0,21,17,2,10,12,15,0,1,0,52,9,14,39.1,misc
+ESP-La Liga,2024,Leganés,Aritz Arambarri,ESP,DF,27-070,1998.0,2.0,0,0,0,0,0,0,0,3,1,0,0,0,4,6,8,42.9,misc
+ESP-La Liga,2024,Leganés,Borna Barišić,CRO,DF,32-152,1992.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Leganés,Dani Raba,ESP,"MF,FW",29-164,1995.0,15.2,4,0,0,30,47,6,65,14,21,1,0,0,77,4,10,28.6,misc
+ESP-La Liga,2024,Leganés,Darko Brašanac,SRB,MF,33-058,1992.0,15.5,2,0,0,33,12,4,9,13,10,1,0,0,53,18,35,34.0,misc
+ESP-La Liga,2024,Leganés,Diego,ESP,"FW,MF",24-358,2000.0,9.0,1,0,0,17,18,6,4,1,0,1,0,0,15,34,49,41.0,misc
+ESP-La Liga,2024,Leganés,Duk,CPV,"MF,FW",25-054,2000.0,0.6,1,0,0,1,6,0,4,0,3,0,0,0,6,0,0,,misc
+ESP-La Liga,2024,Leganés,Enric Franquesa,ESP,"DF,FW",28-044,1997.0,6.8,1,0,0,8,6,0,16,5,9,0,0,0,29,5,5,50.0,misc
+ESP-La Liga,2024,Leganés,Javi Hernández,ESP,DF,26-344,1998.0,19.5,4,0,0,37,9,4,39,20,15,0,0,0,85,15,21,41.7,misc
+ESP-La Liga,2024,Leganés,Jorge Sáenz,ESP,DF,28-145,1996.0,10.9,3,1,0,19,8,0,0,18,15,0,1,0,36,27,20,57.4,misc
+ESP-La Liga,2024,Leganés,Juan Cruz,ESP,"FW,DF",24-351,2000.0,21.2,2,0,0,11,20,7,83,11,17,0,0,0,91,12,15,44.4,misc
+ESP-La Liga,2024,Leganés,Juan Soriano,ESP,GK,27-231,1997.0,6.0,1,1,0,0,3,0,0,0,1,0,0,1,5,0,0,,misc
+ESP-La Liga,2024,Leganés,Julián Chicco,ARG,MF,27-088,1998.0,2.3,0,0,0,1,3,0,2,2,5,0,0,0,8,0,9,0.0,misc
+ESP-La Liga,2024,Leganés,Marko Dmitrović,SRB,GK,33-077,1992.0,24.0,0,0,0,1,6,0,0,0,1,0,1,0,27,9,0,100.0,misc
+ESP-La Liga,2024,Leganés,Matija Nastasić,SRB,DF,32-014,1993.0,22.6,3,0,0,14,6,2,0,19,11,1,2,0,47,35,17,67.3,misc
+ESP-La Liga,2024,Leganés,Miguel,ESP,FW,25-220,1999.0,18.4,3,0,0,22,30,12,7,4,7,0,0,0,23,28,92,23.3,misc
+ESP-La Liga,2024,Leganés,Munir El Haddadi,MAR,"FW,MF",29-222,1995.0,6.1,1,1,0,13,23,5,9,0,8,0,0,0,27,8,19,29.6,misc
+ESP-La Liga,2024,Leganés,Renato Tapia,PER,"MF,DF",29-257,1995.0,19.2,6,0,0,26,30,0,11,19,24,0,0,0,113,23,17,57.5,misc
+ESP-La Liga,2024,Leganés,Roberto López,ESP,MF,24-352,2000.0,4.4,0,0,0,1,3,0,23,1,5,0,0,0,28,1,5,16.7,misc
+ESP-La Liga,2024,Leganés,Sergi,ESP,DF,32-356,1992.0,27.8,2,1,0,28,7,7,1,35,25,1,1,1,70,50,49,50.5,misc
+ESP-La Liga,2024,Leganés,Seydouba Cissé,GUI,MF,24-060,2001.0,21.4,3,0,0,33,21,1,7,11,26,1,1,0,135,23,31,42.6,misc
+ESP-La Liga,2024,Leganés,Sébastien Haller,CIV,FW,30-293,1994.0,4.5,0,0,0,4,5,7,0,0,0,0,0,0,10,26,17,60.5,misc
+ESP-La Liga,2024,Leganés,Valentin Rosier,FRA,DF,28-235,1996.0,24.1,8,0,0,39,16,8,32,44,47,0,0,0,110,23,16,59.0,misc
+ESP-La Liga,2024,Leganés,Yan Diomandé,CIV,"FW,MF",18-148,2006.0,0.2,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Leganés,Yvan Neyou,CMR,MF,28-098,1997.0,22.9,12,0,0,28,45,0,13,21,33,0,0,0,107,21,18,53.8,misc
+ESP-La Liga,2024,Leganés,Óscar Rodríguez Arnaiz,ESP,"MF,FW",26-287,1998.0,12.2,5,1,0,14,21,1,40,17,14,1,1,0,50,11,20,35.5,misc
+ESP-La Liga,2024,Mallorca,Abdón Prats,ESP,"FW,MF",32-125,1992.0,4.2,4,0,0,5,15,2,0,1,1,1,0,0,12,15,28,34.9,misc
+ESP-La Liga,2024,Mallorca,Antonio Raillo,ESP,DF,33-185,1991.0,27.6,5,1,0,39,8,2,2,27,16,0,0,0,83,103,68,60.2,misc
+ESP-La Liga,2024,Mallorca,Antonio Sánchez,ESP,"MF,DF",28-100,1997.0,10.8,2,0,0,17,10,3,23,14,13,0,0,0,56,3,9,25.0,misc
+ESP-La Liga,2024,Mallorca,Chiquinho,POR,"MF,FW",25-065,2000.0,1.6,2,0,0,6,8,0,9,2,0,0,0,0,10,0,5,0.0,misc
+ESP-La Liga,2024,Mallorca,Copete,ESP,DF,25-183,1999.0,12.3,6,0,0,20,11,0,5,13,10,0,0,0,27,17,14,54.8,misc
+ESP-La Liga,2024,Mallorca,Cyle Larin,CAN,FW,29-359,1995.0,14.4,4,0,0,22,24,19,3,1,4,1,0,0,36,46,65,41.4,misc
+ESP-La Liga,2024,Mallorca,Dani Rodríguez,ESP,"MF,FW",36-309,1988.0,19.6,4,0,0,44,34,8,107,11,24,0,0,0,60,22,29,43.1,misc
+ESP-La Liga,2024,Mallorca,Daniel Luna,COL,MF,21-339,2003.0,0.2,0,0,0,0,1,0,3,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Mallorca,David López,ESP,DF,22-067,2003.0,0.9,0,0,0,0,0,0,0,1,1,0,0,0,1,0,3,0.0,misc
+ESP-La Liga,2024,Mallorca,Dominik Greif,SVK,GK,28-005,1997.0,25.0,1,0,0,0,3,0,0,0,0,0,0,0,33,6,2,75.0,misc
+ESP-La Liga,2024,Mallorca,Jan Salas,ESP,MF,19-244,2005.0,0.2,0,0,0,0,2,0,0,0,1,0,0,0,2,1,0,100.0,misc
+ESP-La Liga,2024,Mallorca,Javier Llabrés,ESP,FW,22-212,2002.0,0.6,0,0,0,0,1,1,4,0,0,0,0,0,3,1,0,100.0,misc
+ESP-La Liga,2024,Mallorca,Johan Mojica,COL,DF,32-233,1992.0,24.6,5,0,0,16,19,0,110,25,19,1,2,0,145,8,12,40.0,misc
+ESP-La Liga,2024,Mallorca,Leo Román,ESP,GK,24-279,2000.0,5.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,misc
+ESP-La Liga,2024,Mallorca,Manu Morlanes,ESP,MF,26-089,1999.0,14.4,6,0,0,15,13,0,7,24,27,0,0,0,78,10,16,38.5,misc
+ESP-La Liga,2024,Mallorca,Marc Domenech,ESP,FW,19-100,2006.0,1.5,0,0,0,4,0,0,2,0,1,0,0,0,4,5,5,50.0,misc
+ESP-La Liga,2024,Mallorca,Martin Valjent,SVK,DF,29-121,1995.0,23.7,4,0,0,14,8,0,8,15,16,0,0,0,81,35,28,55.6,misc
+ESP-La Liga,2024,Mallorca,Mateu Morey,ESP,DF,25-040,2000.0,4.2,1,0,0,9,5,0,14,9,8,0,0,0,18,4,3,57.1,misc
+ESP-La Liga,2024,Mallorca,Omar Mascarell,EQG,MF,32-068,1993.0,17.6,4,1,0,21,13,0,3,41,13,0,0,0,64,34,18,65.4,misc
+ESP-La Liga,2024,Mallorca,Pablo Maffeo,ESP,DF,27-273,1997.0,21.6,3,0,0,12,32,0,82,22,35,0,0,0,85,17,14,54.8,misc
+ESP-La Liga,2024,Mallorca,Roberto Navarro,ESP,"MF,FW",22-364,2002.0,14.2,3,0,0,14,21,2,29,19,22,0,0,0,94,5,9,35.7,misc
+ESP-La Liga,2024,Mallorca,Samu Costa,POR,MF,24-135,2000.0,21.8,7,1,1,40,45,2,14,25,32,0,0,0,93,53,28,65.4,misc
+ESP-La Liga,2024,Mallorca,Sergi Darder,ESP,"MF,FW",31-110,1993.0,22.7,3,0,0,17,27,2,120,11,21,0,0,0,88,9,8,52.9,misc
+ESP-La Liga,2024,Mallorca,Siebe Van Der Heyden,BEL,"DF,MF",26-316,1998.0,1.1,0,0,0,2,0,0,2,2,1,0,0,0,5,2,1,66.7,misc
+ESP-La Liga,2024,Mallorca,Takuma Asano,JPN,"FW,MF",30-152,1994.0,10.6,0,0,0,4,13,5,18,5,9,0,0,0,41,5,26,16.1,misc
+ESP-La Liga,2024,Mallorca,Toni Lato,ESP,DF,27-141,1997.0,4.9,0,1,0,9,2,0,21,3,7,0,0,0,22,5,6,45.5,misc
+ESP-La Liga,2024,Mallorca,Valery Fernández,ESP,"MF,FW",25-139,1999.0,3.2,1,0,0,3,1,1,3,0,7,0,0,0,18,1,4,20.0,misc
+ESP-La Liga,2024,Mallorca,Vedat Muriqi,KVX,FW,30-352,1994.0,19.4,1,2,0,24,36,18,9,7,4,1,1,1,43,121,84,59.0,misc
+ESP-La Liga,2024,Osasuna,Abel,ESP,DF,24-233,2000.0,18.8,3,0,0,19,24,1,68,15,29,0,1,0,92,16,14,53.3,misc
+ESP-La Liga,2024,Osasuna,Aimar Oroz,ESP,"MF,FW",23-135,2001.0,25.0,6,0,0,24,54,5,19,18,17,0,0,0,124,12,20,37.5,misc
+ESP-La Liga,2024,Osasuna,Aitor Fernández,ESP,GK,33-343,1991.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Osasuna,Ante Budimir,CRO,FW,33-263,1991.0,25.4,3,0,0,34,23,13,5,1,7,6,0,0,42,120,113,51.5,misc
+ESP-La Liga,2024,Osasuna,Bryan Zaragoza,ESP,"FW,MF",23-351,2001.0,15.9,3,0,0,12,26,6,71,1,9,0,0,0,41,1,9,10.0,misc
+ESP-La Liga,2024,Osasuna,Catena,ESP,DF,30-165,1994.0,27.8,9,0,0,31,9,0,1,28,24,0,1,0,89,53,26,67.1,misc
+ESP-La Liga,2024,Osasuna,Enzo Boyomo,CMR,DF,23-186,2001.0,25.2,5,0,0,37,7,0,1,32,34,0,0,0,95,21,29,42.0,misc
+ESP-La Liga,2024,Osasuna,Iker Benito,ESP,"FW,MF",22-244,2002.0,0.4,0,0,0,1,1,0,2,1,0,0,0,0,3,0,1,0.0,misc
+ESP-La Liga,2024,Osasuna,Iker Muñoz,ESP,MF,22-157,2002.0,4.6,2,0,0,9,7,0,3,3,2,0,0,0,19,9,10,47.4,misc
+ESP-La Liga,2024,Osasuna,Javi Martínez,ESP,MF,25-110,1999.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Osasuna,Jesús Areso,ESP,DF,25-283,1999.0,26.3,6,0,0,26,13,7,130,7,28,0,0,0,93,19,14,57.6,misc
+ESP-La Liga,2024,Osasuna,Jon Moncayola,ESP,MF,26-333,1998.0,21.8,8,0,0,31,7,0,95,11,36,0,0,0,84,14,14,50.0,misc
+ESP-La Liga,2024,Osasuna,Jorge Herrando,ESP,DF,24-042,2001.0,11.2,3,0,0,14,2,0,0,7,9,0,0,0,30,22,7,75.9,misc
+ESP-La Liga,2024,Osasuna,José Arnaiz,ESP,"MF,FW",29-361,1995.0,1.3,0,0,0,0,5,3,13,3,4,0,0,0,14,1,3,25.0,misc
+ESP-La Liga,2024,Osasuna,Juan Cruz Armada,ESP,DF,32-257,1992.0,12.7,3,0,0,12,2,2,9,8,10,0,0,0,36,6,5,54.5,misc
+ESP-La Liga,2024,Osasuna,Kike Barja,ESP,"FW,MF",28-010,1997.0,2.7,2,0,0,8,4,0,25,3,3,0,0,0,7,4,2,66.7,misc
+ESP-La Liga,2024,Osasuna,Lucas Torró,ESP,MF,30-266,1994.0,25.5,10,0,0,65,36,1,1,40,37,0,2,0,144,136,47,74.3,misc
+ESP-La Liga,2024,Osasuna,Moi Gómez,ESP,"MF,FW",30-292,1994.0,8.1,1,0,0,12,6,1,26,5,8,0,0,1,61,7,12,36.8,misc
+ESP-La Liga,2024,Osasuna,Nacho Vidal,ESP,DF,30-077,1995.0,1.4,0,0,0,2,1,0,2,0,0,0,0,0,5,3,1,75.0,misc
+ESP-La Liga,2024,Osasuna,Pablo Ibáñez,ESP,MF,26-203,1998.0,9.7,2,0,0,18,18,0,6,13,7,0,0,0,45,16,19,45.7,misc
+ESP-La Liga,2024,Osasuna,Raúl,ESP,"FW,MF",24-159,2000.0,7.5,0,0,0,9,12,6,6,0,6,0,0,0,13,18,14,56.3,misc
+ESP-La Liga,2024,Osasuna,Rubén García,ESP,"FW,MF",31-271,1993.0,21.3,2,0,0,25,27,10,105,12,27,1,0,0,100,24,35,40.7,misc
+ESP-La Liga,2024,Osasuna,Rubén Peña,ESP,"FW,DF",33-267,1991.0,7.4,1,0,0,11,5,0,44,5,2,0,0,0,28,5,13,27.8,misc
+ESP-La Liga,2024,Osasuna,Sergio Herrera,ESP,GK,31-310,1993.0,29.0,5,0,0,1,3,0,0,0,1,0,1,0,26,4,1,80.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Abdul Mumin,GHA,DF,26-309,1998.0,22.4,6,1,0,22,12,0,6,23,25,0,0,0,93,31,25,55.4,misc
+ESP-La Liga,2024,Rayo Vallecano,Adri Embarba,ESP,"FW,MF",32-339,1992.0,15.3,4,0,0,23,20,13,100,12,16,0,0,0,57,10,25,28.6,misc
+ESP-La Liga,2024,Rayo Vallecano,Alfonso Espino,URU,DF,33-096,1992.0,6.4,3,0,0,11,11,0,17,10,16,0,0,0,38,10,8,55.6,misc
+ESP-La Liga,2024,Rayo Vallecano,Andrei Ratiu,ROU,DF,26-295,1998.0,27.2,4,0,0,19,17,5,61,23,34,0,0,0,144,15,26,36.6,misc
+ESP-La Liga,2024,Rayo Vallecano,Aridane Hernández,ESP,DF,36-019,1989.0,6.4,1,0,0,4,5,0,0,3,6,0,0,1,28,21,5,80.8,misc
+ESP-La Liga,2024,Rayo Vallecano,Augusto Batalla,ARG,GK,28-346,1996.0,25.0,4,0,0,0,3,0,0,0,1,0,0,0,38,5,0,100.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Cárdenas,ESP,GK,28-014,1997.0,5.0,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,,misc
+ESP-La Liga,2024,Rayo Vallecano,Etienne Eto'o,CMR,FW,22-236,2002.0,0.4,0,0,0,0,0,1,0,0,0,0,0,0,0,6,2,75.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Florian Lejeune,FRA,DF,33-326,1991.0,28.9,5,0,0,41,14,0,5,27,24,0,1,0,126,65,43,60.2,misc
+ESP-La Liga,2024,Rayo Vallecano,Gerard Gumbau,ESP,MF,30-114,1994.0,6.8,4,0,0,16,8,2,33,3,12,0,0,0,15,11,14,44.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Isaac Palazón Camacho,ESP,"MF,FW",30-105,1994.0,17.9,4,0,0,35,38,3,74,8,16,0,0,0,83,11,26,29.7,misc
+ESP-La Liga,2024,Rayo Vallecano,Iván Balliu,ALB,DF,33-100,1992.0,9.0,2,0,0,13,6,0,13,7,8,0,0,0,28,9,20,31.0,misc
+ESP-La Liga,2024,Rayo Vallecano,James Rodríguez,COL,"MF,FW",33-273,1991.0,1.6,1,0,0,2,1,3,13,1,2,0,0,0,8,2,3,40.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Jorge de Frutos,ESP,"FW,MF",28-050,1997.0,22.1,2,1,0,33,23,2,61,15,14,0,0,0,86,12,18,40.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Pathé Ciss,SEN,MF,31-026,1994.0,17.5,8,0,0,39,20,0,3,28,20,0,2,0,120,38,24,61.3,misc
+ESP-La Liga,2024,Rayo Vallecano,Pedro Díaz,ESP,MF,26-310,1998.0,8.5,1,0,0,5,6,0,36,6,11,0,0,0,60,4,5,44.4,misc
+ESP-La Liga,2024,Rayo Vallecano,Pelayo Fernandez,ESP,DF,21-347,2003.0,1.0,1,0,0,2,0,0,0,1,0,0,0,0,4,3,2,60.0,misc
+ESP-La Liga,2024,Rayo Vallecano,Pep Chavarría,ESP,DF,27-001,1998.0,22.2,2,0,0,22,22,2,62,22,28,0,1,0,91,19,23,45.2,misc
+ESP-La Liga,2024,Rayo Vallecano,Randy Nteka,ANG,FW,27-126,1997.0,10.8,6,0,0,34,13,13,4,4,5,0,0,0,22,33,47,41.3,misc
+ESP-La Liga,2024,Rayo Vallecano,Raúl de Tomás,ESP,DF,30-176,1994.0,0.2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Rayo Vallecano,Sergi Guardiola,ESP,FW,33-317,1991.0,3.5,1,0,0,8,7,1,4,1,2,0,0,0,6,5,8,38.5,misc
+ESP-La Liga,2024,Rayo Vallecano,Sergio Camello,ESP,FW,24-060,2001.0,12.6,2,0,0,11,10,2,6,4,3,0,0,0,32,11,26,29.7,misc
+ESP-La Liga,2024,Rayo Vallecano,Unai López,ESP,MF,29-163,1995.0,14.6,7,1,0,15,14,1,24,19,13,0,0,0,94,10,12,45.5,misc
+ESP-La Liga,2024,Rayo Vallecano,Álvaro García,ESP,"FW,MF",32-166,1992.0,21.3,4,0,0,11,16,10,84,28,21,0,1,0,73,5,13,27.8,misc
+ESP-La Liga,2024,Rayo Vallecano,Óscar Trejo,ARG,MF,36-350,1988.0,5.4,1,0,0,17,11,1,7,4,5,0,0,0,21,4,7,36.4,misc
+ESP-La Liga,2024,Rayo Vallecano,Óscar Valentín,ESP,MF,30-234,1994.0,16.3,3,0,0,43,24,0,2,21,36,0,0,0,89,28,33,45.9,misc
+ESP-La Liga,2024,Real Madrid,Andriy Lunin,UKR,GK,26-059,1999.0,5.0,0,0,0,0,1,0,0,0,0,0,0,0,12,2,0,100.0,misc
+ESP-La Liga,2024,Real Madrid,Antonio Rüdiger,GER,DF,32-039,1993.0,23.5,3,0,0,14,15,2,4,8,11,2,1,0,96,32,24,57.1,misc
+ESP-La Liga,2024,Real Madrid,Arda Güler,TUR,"MF,FW",20-045,2005.0,7.9,1,0,0,11,23,4,25,4,8,1,0,0,32,6,7,46.2,misc
+ESP-La Liga,2024,Real Madrid,Aurélien Tchouaméni,FRA,"DF,MF",25-074,2000.0,23.3,3,0,0,21,16,0,10,35,17,0,1,0,109,55,17,76.4,misc
+ESP-La Liga,2024,Real Madrid,Brahim Díaz,MAR,"FW,MF",25-251,1999.0,12.9,0,0,0,11,26,0,7,4,16,0,0,0,41,2,13,13.3,misc
+ESP-La Liga,2024,Real Madrid,Chema,ESP,MF,19-351,2005.0,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,50.0,misc
+ESP-La Liga,2024,Real Madrid,Dani Carvajal,ESP,DF,33-090,1992.0,6.8,1,0,0,3,6,0,14,10,8,0,0,0,21,7,5,58.3,misc
+ESP-La Liga,2024,Real Madrid,Dani Ceballos,ESP,MF,28-247,1996.0,9.2,4,0,0,12,23,0,11,13,18,0,0,0,61,2,1,66.7,misc
+ESP-La Liga,2024,Real Madrid,Daniel Yáñez,ESP,FW,18-014,2007.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Real Madrid,David Alaba,AUT,DF,32-291,1992.0,3.0,1,0,0,2,0,0,3,6,0,0,0,0,6,3,0,100.0,misc
+ESP-La Liga,2024,Real Madrid,Eduardo Camavinga,FRA,"MF,DF",22-152,2002.0,9.7,1,0,0,17,25,1,1,14,21,0,1,0,73,15,15,50.0,misc
+ESP-La Liga,2024,Real Madrid,Endrick,BRA,FW,18-264,2006.0,1.4,1,0,0,7,6,1,0,3,1,1,0,0,3,4,4,50.0,misc
+ESP-La Liga,2024,Real Madrid,Federico Valverde,URU,"MF,DF",26-263,1998.0,25.7,3,0,0,9,14,1,20,50,24,0,0,0,133,21,12,63.6,misc
+ESP-La Liga,2024,Real Madrid,Ferland Mendy,FRA,DF,29-307,1995.0,11.2,1,1,0,5,7,0,1,9,14,0,0,0,36,4,2,66.7,misc
+ESP-La Liga,2024,Real Madrid,Fran,ESP,GK,19-291,2005.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Real Madrid,Fran Garcia,ESP,DF,25-240,1999.0,17.4,0,0,0,9,16,2,43,23,22,0,0,0,85,11,13,45.8,misc
+ESP-La Liga,2024,Real Madrid,Jesús Vallejo,ESP,DF,28-096,1997.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2024,Real Madrid,Jude Bellingham,ENG,MF,21-286,2003.0,22.0,3,1,0,26,53,5,11,23,28,1,0,0,71,20,21,48.8,misc
+ESP-La Liga,2024,Real Madrid,Kylian Mbappé,FRA,FW,26-112,1998.0,26.9,3,0,0,20,32,39,28,0,5,2,0,0,34,3,5,37.5,misc
+ESP-La Liga,2024,Real Madrid,Lorenzo Aguado,ESP,DF,22-204,2002.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Real Madrid,Lucas Vázquez,ESP,DF,33-284,1991.0,19.3,3,0,0,23,26,3,53,16,26,0,0,0,63,4,11,26.7,misc
+ESP-La Liga,2024,Real Madrid,Luka Modrić,CRO,MF,39-214,1985.0,15.8,7,0,0,18,15,2,79,22,16,0,0,0,88,5,11,31.3,misc
+ESP-La Liga,2024,Real Madrid,Raúl Asencio,ESP,DF,22-057,2003.0,12.2,1,0,0,6,13,1,0,9,11,0,0,0,50,22,9,71.0,misc
+ESP-La Liga,2024,Real Madrid,Rodrygo,BRA,"FW,MF",24-092,2001.0,19.7,0,0,0,7,33,1,74,10,13,1,0,0,61,7,13,35.0,misc
+ESP-La Liga,2024,Real Madrid,Thibaut Courtois,BEL,GK,32-335,1992.0,24.0,0,0,0,0,0,0,0,1,0,0,0,1,42,7,0,100.0,misc
+ESP-La Liga,2024,Real Madrid,Vinicius Júnior,BRA,FW,24-273,2000.0,20.5,7,1,0,26,56,9,47,3,8,2,0,0,52,1,7,12.5,misc
+ESP-La Liga,2024,Real Madrid,Éder Militão,BRA,DF,27-083,1998.0,10.4,2,0,0,18,8,0,2,12,17,0,0,0,44,21,12,63.6,misc
+ESP-La Liga,2024,Real Sociedad,Aihen Muñoz,ESP,DF,27-238,1997.0,7.6,4,0,0,10,9,0,16,11,10,0,1,0,31,16,14,53.3,misc
+ESP-La Liga,2024,Real Sociedad,Ander Barrenetxea,ESP,"MF,FW",23-105,2001.0,11.4,5,0,0,25,10,2,39,10,15,0,1,0,76,7,11,38.9,misc
+ESP-La Liga,2024,Real Sociedad,Aritz Elustondo,ESP,DF,31-014,1994.0,10.9,0,1,0,16,17,0,3,8,7,0,0,0,40,25,17,59.5,misc
+ESP-La Liga,2024,Real Sociedad,Arkaitz Mariezkurrena,ESP,"MF,FW",20-006,2005.0,0.9,0,0,0,5,1,0,0,1,0,0,0,0,6,1,2,33.3,misc
+ESP-La Liga,2024,Real Sociedad,Arsen Zakharyan,RUS,"MF,FW",21-320,2003.0,0.8,0,0,0,1,0,0,1,1,1,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Real Sociedad,Beñat Turrientes,ESP,MF,23-070,2002.0,8.3,4,0,0,10,20,0,18,4,5,0,0,0,33,9,18,33.3,misc
+ESP-La Liga,2024,Real Sociedad,Brais Méndez,ESP,MF,28-094,1997.0,14.0,4,0,0,33,35,7,44,6,11,0,0,0,59,14,21,40.0,misc
+ESP-La Liga,2024,Real Sociedad,Daniel Díaz,ESP,MF,18-293,2006.0,0.1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2024,Real Sociedad,Hamari Traoré,MLI,DF,33-074,1992.0,4.9,1,0,0,8,3,0,5,4,9,0,0,0,22,5,8,38.5,misc
+ESP-La Liga,2024,Real Sociedad,Igor Zubeldia,ESP,DF,28-012,1997.0,22.7,6,1,0,36,10,0,1,25,21,0,1,0,73,60,79,43.2,misc
+ESP-La Liga,2024,Real Sociedad,Javi López,ESP,DF,23-017,2002.0,18.2,4,0,0,24,23,1,48,5,20,0,0,0,81,9,15,37.5,misc
+ESP-La Liga,2024,Real Sociedad,Jon Aramburu,VEN,DF,22-262,2002.0,22.5,7,0,0,38,30,3,37,27,60,0,1,0,108,32,26,55.2,misc
+ESP-La Liga,2024,Real Sociedad,Jon Magunazelaia,ESP,MF,24-272,2000.0,0.1,0,0,0,1,1,0,0,0,1,0,0,0,5,3,0,100.0,misc
+ESP-La Liga,2024,Real Sociedad,Jon Martin,ESP,DF,19-100,2006.0,4.0,2,0,0,10,0,0,0,5,2,0,0,0,11,19,6,76.0,misc
+ESP-La Liga,2024,Real Sociedad,Jon Pacheco,ESP,DF,24-093,2001.0,7.0,3,0,0,16,4,0,0,6,6,0,0,0,24,16,13,55.2,misc
+ESP-La Liga,2024,Real Sociedad,Luka Sučić,CRO,MF,22-215,2002.0,16.1,2,0,0,11,15,3,15,12,16,0,0,0,90,22,18,55.0,misc
+ESP-La Liga,2024,Real Sociedad,Luken Beitia,ESP,DF,20-285,2004.0,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2024,Real Sociedad,Martín Zubimendi,ESP,MF,26-068,1999.0,26.9,4,0,0,37,19,0,12,35,35,1,0,0,119,42,23,64.6,misc
+ESP-La Liga,2024,Real Sociedad,Mikel Oyarzabal,ESP,FW,27-355,1997.0,18.3,3,1,0,10,18,14,6,4,10,1,0,0,35,23,60,27.7,misc
+ESP-La Liga,2024,Real Sociedad,Nayef Aguerd,MAR,DF,29-012,1996.0,18.6,5,0,0,11,19,0,2,13,24,0,1,0,67,60,30,66.7,misc
+ESP-La Liga,2024,Real Sociedad,Olasagasti,ESP,MF,24-238,2000.0,8.4,2,0,0,14,6,0,10,13,8,0,0,0,38,12,22,35.3,misc
+ESP-La Liga,2024,Real Sociedad,Orri Steinn Óskarsson,ISL,FW,20-225,2004.0,9.8,0,0,0,6,6,8,7,2,6,0,0,0,15,29,55,34.5,misc
+ESP-La Liga,2024,Real Sociedad,Pablo Marín,ESP,MF,21-282,2003.0,6.9,2,0,0,12,10,0,7,2,10,0,0,0,35,9,16,36.0,misc
+ESP-La Liga,2024,Real Sociedad,Sergio Gómez,ESP,"MF,DF",24-219,2000.0,25.2,3,0,0,26,12,8,177,16,34,0,1,0,125,12,18,40.0,misc
+ESP-La Liga,2024,Real Sociedad,Sheraldo Becker,SUR,"FW,MF",30-061,1995.0,10.8,1,1,0,8,14,9,63,1,2,0,0,0,29,7,15,31.8,misc
+ESP-La Liga,2024,Real Sociedad,Takefusa Kubo,JPN,"MF,FW",23-311,2001.0,19.5,5,0,0,16,53,7,58,9,14,0,0,0,89,10,12,45.5,misc
+ESP-La Liga,2024,Real Sociedad,Umar Sadiq,NGA,FW,28-068,1997.0,2.5,1,0,0,8,1,5,2,1,1,0,0,0,5,9,11,45.0,misc
+ESP-La Liga,2024,Real Sociedad,Unai Marrero,ESP,GK,23-184,2001.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Real Sociedad,Urko González,ESP,MF,24-022,2001.0,0.5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0.0,misc
+ESP-La Liga,2024,Real Sociedad,Álex Remiro,ESP,GK,30-018,1995.0,29.0,0,0,0,0,3,0,0,0,0,0,0,0,49,4,0,100.0,misc
+ESP-La Liga,2024,Real Sociedad,Álvaro Odriozola,ESP,DF,29-118,1995.0,0.5,1,0,0,2,1,0,1,0,1,0,0,0,2,1,0,100.0,misc
+ESP-La Liga,2024,Sevilla,Adrià Pedrosa,ESP,DF,26-333,1998.0,20.4,6,0,0,32,16,1,71,16,31,0,0,0,74,10,27,27.0,misc
+ESP-La Liga,2024,Sevilla,Akor Adams,NGA,FW,25-072,2000.0,1.5,0,0,0,1,0,1,0,0,0,0,0,0,4,6,10,37.5,misc
+ESP-La Liga,2024,Sevilla,Albert Sambi Lokonga,BEL,MF,25-171,1999.0,14.8,4,0,0,19,20,0,2,8,14,0,0,0,65,28,11,71.8,misc
+ESP-La Liga,2024,Sevilla,Carmona,ESP,DF,23-072,2002.0,26.9,7,0,0,33,34,1,25,60,47,0,0,0,145,28,18,60.9,misc
+ESP-La Liga,2024,Sevilla,Chidera Ejuke,NGA,FW,27-099,1998.0,9.8,0,0,0,6,14,4,18,4,10,0,0,0,57,4,8,33.3,misc
+ESP-La Liga,2024,Sevilla,Darío Fuentes,ESP,DF,22-089,2003.0,0.1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Sevilla,Djibril Sow,SUI,MF,28-064,1997.0,18.5,5,0,0,21,36,0,7,20,9,0,0,0,95,21,20,51.2,misc
+ESP-La Liga,2024,Sevilla,Dodi Lukebakio,BEL,FW,27-199,1997.0,28.0,2,0,0,33,43,16,110,5,12,0,0,0,98,14,13,51.9,misc
+ESP-La Liga,2024,Sevilla,Gonzalo Montiel,ARG,"DF,MF",28-100,1997.0,1.3,1,0,0,3,1,0,3,2,2,0,0,0,4,1,0,100.0,misc
+ESP-La Liga,2024,Sevilla,Isaac Romero,ESP,FW,24-328,2000.0,21.7,8,0,0,31,32,11,17,6,5,1,1,0,51,27,48,36.0,misc
+ESP-La Liga,2024,Sevilla,Israel Domínguez,ESP,FW,21-339,2003.0,0.2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2024,Sevilla,Jesús Navas,ESP,"FW,MF",39-141,1985.0,4.7,0,0,0,1,4,3,33,4,2,0,0,0,10,5,5,50.0,misc
+ESP-La Liga,2024,Sevilla,Juanlu Sánchez,ESP,"MF,DF",21-239,2003.0,13.7,4,1,1,7,7,1,23,8,23,0,0,0,46,15,17,46.9,misc
+ESP-La Liga,2024,Sevilla,Kelechi Iheanacho,NGA,FW,28-190,1996.0,4.4,0,0,0,5,1,7,0,0,0,0,0,0,7,2,8,20.0,misc
+ESP-La Liga,2024,Sevilla,Kike Salas,ESP,DF,22-353,2002.0,18.4,4,0,0,14,11,0,6,27,21,0,0,0,73,57,24,70.4,misc
+ESP-La Liga,2024,Sevilla,Leandro Antonetti,PUR,FW,22-088,2003.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Sevilla,Loïc Bade,FRA,DF,25-000,2000.0,24.2,6,0,0,20,7,0,4,26,25,0,1,0,118,54,24,69.2,misc
+ESP-La Liga,2024,Sevilla,Lucas Ocampos,ARG,FW,30-274,1994.0,1.9,0,0,0,3,2,0,4,0,2,0,0,0,6,3,4,42.9,misc
+ESP-La Liga,2024,Sevilla,Lucien Agoume,FRA,MF,23-061,2002.0,15.8,4,1,0,31,3,2,6,25,16,0,1,0,91,29,26,52.7,misc
+ESP-La Liga,2024,Sevilla,Manu Bueno,ESP,MF,20-258,2004.0,1.2,0,0,0,2,3,0,0,0,3,0,0,0,6,0,1,0.0,misc
+ESP-La Liga,2024,Sevilla,Marcão,BRA,DF,28-310,1996.0,5.1,6,1,1,8,9,0,0,6,6,0,1,0,23,13,5,72.2,misc
+ESP-La Liga,2024,Sevilla,Mateo Mejía,ESP,FW,22-011,2003.0,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2024,Sevilla,Nemanja Gudelj,SRB,"DF,MF",33-146,1991.0,22.1,4,0,0,21,13,0,29,22,18,0,0,0,59,38,22,63.3,misc
+ESP-La Liga,2024,Sevilla,Peque,ESP,"FW,MF",22-189,2002.0,9.0,1,0,0,17,20,2,7,7,3,0,1,0,29,6,21,22.2,misc
+ESP-La Liga,2024,Sevilla,Ramón Martínez,ESP,DF,22-171,2002.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2024,Sevilla,Ruben Vargas,SUI,"FW,MF",26-249,1998.0,7.5,0,0,0,11,9,3,37,3,4,0,0,0,31,7,6,53.8,misc
+ESP-La Liga,2024,Sevilla,Saúl Ñíguez,ESP,MF,30-141,1994.0,13.8,7,1,0,36,10,1,16,18,24,0,1,0,69,27,27,50.0,misc
+ESP-La Liga,2024,Sevilla,Stanis Idumbo,BEL,"FW,MF",19-286,2005.0,2.9,0,0,0,1,6,0,0,4,5,0,0,0,18,1,0,100.0,misc
+ESP-La Liga,2024,Sevilla,Suso,ESP,"FW,MF",31-143,1993.0,2.0,1,0,0,2,5,1,14,0,1,0,0,0,13,2,2,50.0,misc
+ESP-La Liga,2024,Sevilla,Tanguy Nianzou,FRA,DF,22-308,2002.0,5.8,3,1,1,10,5,0,0,8,5,0,0,1,9,17,2,89.5,misc
+ESP-La Liga,2024,Sevilla,Valentín Barco,ARG,"DF,FW",20-262,2004.0,3.2,0,0,0,7,5,0,24,2,9,0,0,0,16,0,2,0.0,misc
+ESP-La Liga,2024,Sevilla,Álvaro Fernández,ESP,GK,26-363,1998.0,7.3,2,0,0,0,2,0,0,0,0,0,0,0,7,1,0,100.0,misc
+ESP-La Liga,2024,Sevilla,Álvaro Pascual,ESP,FW,23-100,2002.0,0.7,1,0,0,1,1,0,1,2,0,0,0,0,4,1,2,33.3,misc
+ESP-La Liga,2024,Sevilla,Ørjan Nyland,NOR,GK,34-213,1990.0,22.7,2,0,0,1,0,0,0,0,2,0,0,0,22,5,0,100.0,misc
+ESP-La Liga,2024,Valencia,Alberto Marí,ESP,FW,23-274,2001.0,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Valencia,Cristhian Mosquera,ESP,DF,20-288,2004.0,28.9,6,0,0,13,19,0,1,31,29,0,3,0,157,33,40,45.2,misc
+ESP-La Liga,2024,Valencia,César Tárrega,ESP,DF,23-044,2002.0,26.6,4,0,0,46,12,0,1,17,27,0,2,1,76,74,50,59.7,misc
+ESP-La Liga,2024,Valencia,Dani Gómez,ESP,FW,26-255,1998.0,5.9,0,0,0,7,8,10,0,2,2,0,0,0,14,7,24,22.6,misc
+ESP-La Liga,2024,Valencia,David Otorbi,ESP,MF,17-177,2007.0,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Valencia,Diego López,ESP,"MF,FW",22-333,2002.0,24.1,2,0,0,17,26,12,56,12,15,1,0,0,78,13,48,21.3,misc
+ESP-La Liga,2024,Valencia,Dimitri Foulquier,FRA,DF,32-019,1993.0,20.9,5,0,0,22,25,0,50,12,24,0,0,0,79,10,14,41.7,misc
+ESP-La Liga,2024,Valencia,Domingos André Ribeiro Almeida,POR,"MF,FW",24-316,2000.0,17.1,1,0,0,22,23,2,48,8,25,0,0,0,69,3,14,17.6,misc
+ESP-La Liga,2024,Valencia,Enzo Barrenechea,ARG,MF,23-324,2001.0,18.5,6,0,0,19,28,0,3,21,27,1,0,0,88,31,20,60.8,misc
+ESP-La Liga,2024,Valencia,Francisco Perez,ESP,"FW,MF",22-214,2002.0,4.5,1,0,0,4,8,0,20,3,9,0,0,0,14,5,4,55.6,misc
+ESP-La Liga,2024,Valencia,Germán Valera,ESP,MF,23-026,2002.0,1.6,0,0,0,2,4,0,6,4,1,0,0,0,4,1,2,33.3,misc
+ESP-La Liga,2024,Valencia,Giorgi Mamardashvili,GEO,GK,24-194,2000.0,26.0,1,0,0,0,4,0,0,1,0,0,0,0,20,1,1,50.0,misc
+ESP-La Liga,2024,Valencia,Hugo Duro,ESP,FW,25-152,1999.0,19.0,3,0,0,29,41,6,7,10,7,0,1,1,39,50,87,36.5,misc
+ESP-La Liga,2024,Valencia,Hugo Guillamón,ESP,MF,25-070,2000.0,4.0,2,0,0,6,4,1,1,5,8,0,0,0,21,5,4,55.6,misc
+ESP-La Liga,2024,Valencia,Iker Córdoba,ESP,DF,19-151,2005.0,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2024,Valencia,Ivan Jaime Pajuelo,ESP,MF,24-197,2000.0,2.1,0,0,0,4,6,1,6,2,2,0,0,0,14,4,3,57.1,misc
+ESP-La Liga,2024,Valencia,Javier Guerra,ESP,MF,22-100,2003.0,22.0,2,0,0,26,25,0,39,13,19,0,0,0,121,15,15,50.0,misc
+ESP-La Liga,2024,Valencia,Jesus Vazquez,ESP,DF,22-099,2003.0,8.6,3,0,0,15,10,1,20,6,14,0,0,0,33,9,10,47.4,misc
+ESP-La Liga,2024,Valencia,José Luis García Vayá,ESP,MF,26-243,1998.0,16.0,8,1,0,24,14,1,99,14,20,0,0,0,91,21,18,53.8,misc
+ESP-La Liga,2024,Valencia,José Luis Gayà,ESP,DF,29-321,1995.0,13.7,5,0,0,22,9,2,63,16,30,0,0,0,62,8,6,57.1,misc
+ESP-La Liga,2024,Valencia,Luis Rioja,ESP,"MF,FW",31-177,1993.0,25.1,5,0,0,13,31,9,169,21,16,0,0,0,88,11,20,35.5,misc
+ESP-La Liga,2024,Valencia,Martín Tejón,ESP,"MF,DF",20-364,2004.0,0.5,0,0,0,1,1,0,1,0,0,0,0,0,4,0,3,0.0,misc
+ESP-La Liga,2024,Valencia,Max Aarons,ENG,"DF,MF",25-097,2000.0,1.2,1,0,0,0,1,0,2,0,3,0,0,0,5,2,1,66.7,misc
+ESP-La Liga,2024,Valencia,Maximiliano Caufriez,BEL,DF,28-054,1997.0,1.0,0,0,0,3,0,0,0,1,1,0,1,0,1,2,5,28.6,misc
+ESP-La Liga,2024,Valencia,Mouctar Diakhaby,GUI,DF,28-113,1996.0,3.0,0,0,0,2,1,0,0,3,1,0,0,0,11,7,2,77.8,misc
+ESP-La Liga,2024,Valencia,Rafa Mir,ESP,"FW,MF",27-297,1997.0,4.8,2,0,0,3,3,4,4,1,5,0,0,0,10,8,14,36.4,misc
+ESP-La Liga,2024,Valencia,Rodrigo Abajas,ESP,DF,21-334,2003.0,0.7,1,0,0,2,0,1,1,1,2,0,0,0,2,0,1,0.0,misc
+ESP-La Liga,2024,Valencia,Sergi Canós,ESP,"MF,FW",28-068,1997.0,4.0,3,0,0,12,6,1,18,5,7,0,0,0,20,4,7,36.4,misc
+ESP-La Liga,2024,Valencia,Stole Dimitrievski,MKD,GK,31-107,1993.0,4.0,1,0,0,0,0,0,0,0,0,0,0,0,7,0,0,,misc
+ESP-La Liga,2024,Valencia,Thierry Correia,POR,DF,26-033,1999.0,8.5,1,0,0,15,14,0,18,4,18,0,0,0,38,4,8,33.3,misc
+ESP-La Liga,2024,Valencia,Umar Sadiq,NGA,FW,28-068,1997.0,6.3,3,0,0,22,11,8,0,1,2,0,0,0,10,18,15,54.5,misc
+ESP-La Liga,2024,Valencia,Yarek Gasiorowski,ESP,DF,20-089,2005.0,10.4,1,0,0,5,2,0,3,25,16,0,0,0,38,24,12,66.7,misc
+ESP-La Liga,2024,Valladolid,Adam Aznou,MAR,DF,18-313,2006.0,5.1,1,0,0,5,8,0,8,7,14,0,0,0,31,5,1,83.3,misc
+ESP-La Liga,2024,Valladolid,Adrian Baquerin,ESP,FW,18-038,2007.0,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2024,Valladolid,Amath,SEN,"FW,DF",28-269,1996.0,3.5,1,0,0,3,5,2,4,2,0,0,0,0,11,1,4,20.0,misc
+ESP-La Liga,2024,Valladolid,André Ferreira,POR,GK,28-317,1996.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2024,Valladolid,Antonio Candela,ITA,DF,24-349,2000.0,5.0,0,0,0,3,3,0,11,4,4,0,0,0,15,1,4,20.0,misc
+ESP-La Liga,2024,Valladolid,Anuar,MAR,"MF,FW",30-086,1995.0,14.4,5,0,0,22,35,9,16,13,17,1,0,0,52,18,21,46.2,misc
+ESP-La Liga,2024,Valladolid,Arnau Rafús,ESP,GK,21-349,2003.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,misc
+ESP-La Liga,2024,Valladolid,Cenk Özkacar,TUR,DF,24-187,2000.0,3.9,0,0,0,1,0,0,0,11,3,0,0,0,17,6,10,37.5,misc
+ESP-La Liga,2024,Valladolid,Chuky san jose,ESP,"MF,FW",20-347,2004.0,4.5,1,0,0,2,8,3,13,0,2,0,0,0,13,0,9,0.0,misc
+ESP-La Liga,2024,Valladolid,Darwin Machís,VEN,"FW,MF",32-063,1993.0,5.3,0,0,0,3,9,2,44,3,3,0,0,0,24,5,1,83.3,misc
+ESP-La Liga,2024,Valladolid,David Torres,ESP,DF,22-037,2003.0,15.4,5,0,0,13,3,0,3,10,8,0,0,1,27,20,21,48.8,misc
+ESP-La Liga,2024,Valladolid,Enzo Boyomo,CMR,DF,23-186,2001.0,3.0,0,0,0,3,0,0,0,1,2,0,0,0,11,3,5,37.5,misc
+ESP-La Liga,2024,Valladolid,Eray Cömert,SUI,"DF,MF",27-066,1998.0,14.9,6,0,0,16,11,0,0,16,11,0,0,0,38,16,16,50.0,misc
+ESP-La Liga,2024,Valladolid,Florian Grillitsch,AUT,MF,29-247,1995.0,3.7,1,0,0,2,6,0,4,2,4,0,0,0,23,2,1,66.7,misc
+ESP-La Liga,2024,Valladolid,Henrique,BRA,DF,30-351,1994.0,0.5,0,0,0,1,3,0,1,1,1,0,0,0,3,0,0,,misc
+ESP-La Liga,2024,Valladolid,Iván Sánchez,ESP,"MF,FW",32-200,1992.0,12.3,4,0,0,12,36,1,80,12,17,0,0,0,49,9,11,45.0,misc
+ESP-La Liga,2024,Valladolid,Javi Sánchez,ESP,DF,28-028,1997.0,20.4,5,0,0,16,3,0,0,20,15,0,1,0,50,32,30,51.6,misc
+ESP-La Liga,2024,Valladolid,Joseph Aidoo,GHA,DF,29-194,1995.0,3.1,0,0,0,1,2,0,0,3,3,0,0,0,15,1,3,25.0,misc
+ESP-La Liga,2024,Valladolid,Juanmi Latasa,ESP,FW,24-019,2001.0,9.8,6,1,0,29,24,5,5,0,0,0,0,0,16,64,40,61.5,misc
+ESP-La Liga,2024,Valladolid,Juma Bah,SLE,DF,19-000,2006.0,9.6,1,0,0,6,6,0,0,12,7,0,0,0,35,31,13,70.5,misc
+ESP-La Liga,2024,Valladolid,Karl Jakob Hein,EST,GK,22-363,2002.0,28.0,0,0,0,0,2,0,0,0,0,0,0,0,37,7,0,100.0,misc
+ESP-La Liga,2024,Valladolid,Kenedy,BRA,"MF,FW",29-062,1996.0,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2024,Valladolid,Kike Pérez,ESP,MF,28-056,1997.0,13.2,6,0,0,32,21,1,33,7,26,0,0,0,60,12,15,44.4,misc
+ESP-La Liga,2024,Valladolid,Lucas Oliveira Rosa,BRA,DF,25-008,2000.0,21.0,6,0,0,35,19,1,36,28,33,0,0,0,87,18,10,64.3,misc
+ESP-La Liga,2024,Valladolid,Luis Pérez,ESP,DF,30-066,1995.0,25.9,2,0,0,12,24,3,96,26,27,0,1,0,72,14,31,31.1,misc
+ESP-La Liga,2024,Valladolid,Mamadou Sylla,SEN,"FW,MF",31-022,1994.0,14.1,4,0,0,14,24,12,9,2,3,1,0,0,26,39,46,45.9,misc
+ESP-La Liga,2024,Valladolid,Marcos André,BRA,FW,28-173,1996.0,13.0,5,0,0,12,28,5,1,3,6,0,0,0,43,46,44,51.1,misc
+ESP-La Liga,2024,Valladolid,Mario Maroto,ESP,MF,21-134,2003.0,0.2,0,0,0,0,0,0,0,2,0,0,0,0,1,1,1,50.0,misc
+ESP-La Liga,2024,Valladolid,Mario Martín,ESP,MF,21-037,2004.0,17.2,7,3,1,42,37,1,9,19,30,0,1,0,76,27,27,50.0,misc
+ESP-La Liga,2024,Valladolid,Raúl Chasco,ESP,DF,21-210,2003.0,1.4,0,0,0,3,0,0,3,2,1,0,0,0,2,0,0,,misc
+ESP-La Liga,2024,Valladolid,Raúl Moro,ESP,"FW,MF",22-127,2002.0,19.3,2,0,0,3,13,8,114,9,10,0,0,0,63,7,10,41.2,misc
+ESP-La Liga,2024,Valladolid,Selim Amallah,MAR,MF,28-147,1996.0,12.3,6,0,0,29,20,1,30,7,14,0,0,0,50,4,13,23.5,misc
+ESP-La Liga,2024,Valladolid,Stanko Jurić,CRO,MF,28-238,1996.0,15.7,7,1,1,35,8,0,0,18,21,0,0,0,76,42,13,76.4,misc
+ESP-La Liga,2024,Valladolid,Tamás Nikitscher,HUN,MF,25-159,1999.0,6.1,2,0,0,12,5,0,0,9,5,0,0,0,20,8,4,66.7,misc
+ESP-La Liga,2024,Valladolid,Víctor Meseguer,ESP,MF,25-306,1999.0,4.6,1,0,0,8,5,0,3,2,6,0,0,0,25,10,8,55.6,misc
+ESP-La Liga,2024,Villarreal,Alex Baena,ESP,MF,23-265,2001.0,25.0,8,0,0,37,38,4,187,21,14,0,0,0,130,15,18,45.5,misc
+ESP-La Liga,2024,Villarreal,Alfonso Pedraza,ESP,"DF,MF",29-002,1996.0,0.9,0,0,0,1,1,0,10,1,0,0,0,0,4,0,0,,misc
+ESP-La Liga,2024,Villarreal,Arnaut Danjuma,NED,FW,28-070,1997.0,2.2,1,0,0,1,1,3,0,0,1,0,0,0,2,2,0,100.0,misc
+ESP-La Liga,2024,Villarreal,Ayoze Pérez,ESP,FW,31-256,1993.0,15.6,3,0,0,18,31,5,15,6,12,0,0,0,45,9,20,31.0,misc
+ESP-La Liga,2024,Villarreal,Daniel Parejo,ESP,MF,35-360,1989.0,19.7,7,0,0,17,23,1,16,19,33,0,0,0,121,20,8,71.4,misc
+ESP-La Liga,2024,Villarreal,Denis Suárez,ESP,MF,31-095,1994.0,4.1,0,0,0,1,4,0,15,1,4,0,0,0,11,1,5,16.7,misc
+ESP-La Liga,2024,Villarreal,Diego Conde,ESP,GK,26-165,1998.0,20.8,2,0,0,0,1,0,0,1,2,0,0,0,27,1,0,100.0,misc
+ESP-La Liga,2024,Villarreal,Eric Bailly,CIV,DF,30-364,1994.0,6.4,2,0,0,6,1,0,0,6,3,0,1,0,17,11,7,61.1,misc
+ESP-La Liga,2024,Villarreal,Gerard Moreno,ESP,FW,33-004,1992.0,7.2,0,0,0,10,9,1,10,2,4,1,0,0,21,16,4,80.0,misc
+ESP-La Liga,2024,Villarreal,Ilias Akhomach,MAR,"MF,FW",20-360,2004.0,6.5,1,0,0,9,21,1,18,3,7,0,0,0,30,6,6,50.0,misc
+ESP-La Liga,2024,Villarreal,Juan Bernat,ESP,"DF,MF",32-041,1993.0,2.4,0,0,0,0,2,1,9,1,7,0,0,0,13,5,2,71.4,misc
+ESP-La Liga,2024,Villarreal,Juan Foyth,ARG,DF,27-089,1998.0,10.0,3,0,0,9,3,0,4,14,14,0,0,0,33,29,19,60.4,misc
+ESP-La Liga,2024,Villarreal,Kiko Femenía,ESP,DF,34-068,1991.0,20.4,6,0,0,16,12,1,43,31,27,0,0,0,84,5,9,35.7,misc
+ESP-La Liga,2024,Villarreal,Logan Costa,CPV,DF,24-010,2001.0,20.2,2,0,0,12,3,2,2,14,16,1,2,0,74,29,26,52.7,misc
+ESP-La Liga,2024,Villarreal,Luiz Lúcio Reis Júnior,BRA,GK,24-087,2001.0,8.2,1,0,0,0,1,0,0,0,0,0,0,0,9,3,0,100.0,misc
+ESP-La Liga,2024,Villarreal,Nicolas Pépé,CIV,"FW,MF",29-317,1995.0,10.0,1,0,0,12,13,6,18,3,3,1,0,0,30,9,13,40.9,misc
+ESP-La Liga,2024,Villarreal,Pape Gueye,SEN,MF,26-077,1999.0,19.8,5,2,1,28,49,4,17,22,23,0,0,0,100,26,21,55.3,misc
+ESP-La Liga,2024,Villarreal,Pau Cabanes,ESP,"MF,FW",20-053,2005.0,1.8,0,0,0,4,7,0,6,3,4,1,0,0,6,1,2,33.3,misc
+ESP-La Liga,2024,Villarreal,Pau Navarro,ESP,DF,19-351,2005.0,6.5,0,0,0,6,7,0,2,3,14,0,0,0,33,3,11,21.4,misc
+ESP-La Liga,2024,Villarreal,Ramón Terrats,ESP,"MF,FW",24-175,2000.0,1.5,1,0,0,2,2,0,5,2,3,0,0,0,11,3,2,60.0,misc
+ESP-La Liga,2024,Villarreal,Raúl Albiol,ESP,DF,39-219,1985.0,13.2,5,0,0,11,6,0,0,6,9,0,2,1,44,29,14,67.4,misc
+ESP-La Liga,2024,Villarreal,Santi Comesaña,ESP,MF,28-188,1996.0,21.4,6,0,0,33,22,1,11,15,41,0,0,0,126,26,38,40.6,misc
+ESP-La Liga,2024,Villarreal,Sergi Cardona,ESP,DF,25-277,1999.0,27.0,8,0,0,30,24,3,94,31,40,0,0,0,118,37,20,64.9,misc
+ESP-La Liga,2024,Villarreal,Tajon Buchanan,CAN,MF,26-062,1999.0,2.6,0,0,0,7,10,3,15,1,4,0,0,0,16,3,2,60.0,misc
+ESP-La Liga,2024,Villarreal,Thiago Ojeda,ARG,MF,22-089,2003.0,0.1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2024,Villarreal,Thierno Barry,FRA,FW,22-172,2002.0,19.8,3,0,0,37,39,16,4,0,8,1,0,0,29,77,42,64.7,misc
+ESP-La Liga,2024,Villarreal,Willy Kambwala,FRA,DF,20-229,2004.0,9.1,1,1,0,5,0,0,0,6,7,0,0,0,21,13,14,48.1,misc
+ESP-La Liga,2024,Villarreal,Yeremi Pino,ESP,MF,22-173,2002.0,15.6,8,0,0,33,23,11,41,8,21,1,0,0,63,9,12,42.9,misc

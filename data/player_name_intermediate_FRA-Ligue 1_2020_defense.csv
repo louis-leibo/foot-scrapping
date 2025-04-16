@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-FRA-Ligue 1,2020,Angers,Abdoulaye Bamba,CIV,DF,30,1990,15.0,27,17,19,7,1,19,28,67.9,9,7,1,6,19,46,34,0,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 FRA-Ligue 1,2020,Angers,Angelo Fulgini,FRA,MF,23,1996,30.3,22,13,4,12,6,12,34,35.3,22,17,0,17,15,37,9,0,defense
 FRA-Ligue 1,2020,Angers,Antonin Bobichon,FRA,"MF,FW",24,1995,10.1,23,14,10,8,5,9,15,60.0,6,4,1,3,2,25,1,0,defense
 FRA-Ligue 1,2020,Angers,Baptiste Santamaria,FRA,MF,25,1995,3.0,9,6,3,5,1,2,7,28.6,5,4,0,4,7,16,8,0,defense

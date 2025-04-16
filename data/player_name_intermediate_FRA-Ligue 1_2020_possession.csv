@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving,stat_type
-,,,,,,,,,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,
-FRA-Ligue 1,2020,Angers,Abdoulaye Bamba,CIV,DF,30,1990,15.0,993,36,315,495,189,5,993,9,4,44.4,5,55.6,479,1855,818,19,13,2,13,3,553,60,possession
+league,season,team,player,nation,pos,age,born,90s,Touches Touches,Touches Def Pen,Touches Def 3rd,Touches Mid 3rd,Touches Att 3rd,Touches Att Pen,Touches Live,Take-Ons Att,Take-Ons Succ,Take-Ons Succ%,Take-Ons Tkld,Take-Ons Tkld%,Carries Carries,Carries TotDist,Carries PrgDist,Carries PrgC,Carries 1/3,Carries CPA,Carries Mis,Carries Dis,Receiving Rec,Receiving PrgR,stat_type
 FRA-Ligue 1,2020,Angers,Angelo Fulgini,FRA,MF,23,1996,30.3,2014,12,193,1143,708,86,2013,155,81,52.3,74,47.7,1400,7854,3982,101,81,21,98,69,1624,192,possession
 FRA-Ligue 1,2020,Angers,Antonin Bobichon,FRA,"MF,FW",24,1995,10.1,652,6,66,363,230,20,652,26,18,69.2,8,30.8,419,2017,915,20,24,3,17,16,478,58,possession
 FRA-Ligue 1,2020,Angers,Baptiste Santamaria,FRA,MF,25,1995,3.0,197,4,37,127,34,4,197,5,2,40.0,3,60.0,84,437,222,4,3,0,2,3,111,1,possession

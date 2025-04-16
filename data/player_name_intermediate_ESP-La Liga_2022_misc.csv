@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ESP-La Liga,2022,Almería,Adri Embarba,ESP,"FW,MF",30,1992,16.4,5,1,1,22,30,10,127,9,27,0,0,0,100,8,30,21.1,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ESP-La Liga,2022,Almería,Alejandro Pozo Pozo,ESP,DF,23,1999,20.9,2,0,0,15,14,1,70,26,19,0,1,0,138,12,23,34.3,misc
 ESP-La Liga,2022,Almería,Arnau Puigmal,ESP,"MF,FW",21,2001,8.5,4,0,0,10,15,2,18,11,14,0,1,0,36,3,8,27.3,misc
 ESP-La Liga,2022,Almería,Chumi,ESP,DF,23,1999,16.5,5,0,0,10,3,0,8,15,16,0,0,0,87,11,12,47.8,misc

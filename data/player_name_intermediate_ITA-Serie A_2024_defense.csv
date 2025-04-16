@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-ITA-Serie A,2024,Atalanta,Ademola Lookman,NGA,"FW,MF",27-173,1997,19.7,27,13,9,12,6,8,15,53.3,7,16,0,16,2,29,3,1,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 ITA-Serie A,2024,Atalanta,Alberto Manzoni,ITA,MF,19-290,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
 ITA-Serie A,2024,Atalanta,Ben Godfrey,ENG,DF,27-086,1998,0.3,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,0,0,defense
 ITA-Serie A,2024,Atalanta,Berat Djimsiti,ALB,DF,32-051,1993,23.9,45,28,23,21,1,25,34,73.5,9,26,16,10,35,80,91,2,defense

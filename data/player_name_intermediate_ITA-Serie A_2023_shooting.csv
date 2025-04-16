@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
-,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
-ITA-Serie A,2023,Atalanta,Ademola Lookman,NGA,"FW,MF",25,1997,21.0,11,67,24,35.8,3.18,1.14,0.16,0.46,14.3,0,0,0,9.1,9.1,0.14,1.9,1.9,shooting
+league,season,team,player,nation,pos,age,born,90s,Standard Gls,Standard Sh,Standard SoT,Standard SoT%,Standard Sh/90,Standard SoT/90,Standard G/Sh,Standard G/SoT,Standard Dist,Standard FK,Standard PK,Standard PKatt,Expected xG,Expected npxG,Expected npxG/Sh,Expected G-xG,Expected np:G-xG,stat_type
 ITA-Serie A,2023,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",27,1995,13.1,3,37,21,56.8,2.83,1.61,0.08,0.14,16.4,0,0,0,5.4,5.4,0.15,-2.4,-2.4,shooting
 ITA-Serie A,2023,Atalanta,Berat Djimsiti,ALB,DF,30,1993,31.5,0,13,0,0.0,0.41,0.0,0.0,,10.6,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
 ITA-Serie A,2023,Atalanta,Charles De Ketelaere,BEL,"FW,MF",22,2001,22.5,10,44,24,54.5,1.95,1.07,0.2,0.38,14.2,0,1,1,7.1,6.3,0.14,2.9,2.7,shooting

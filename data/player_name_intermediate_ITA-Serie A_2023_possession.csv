@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Take-Ons,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving,stat_type
-,,,,,,,,,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,
-ITA-Serie A,2023,Atalanta,Ademola Lookman,NGA,"FW,MF",25,1997,21.0,1109,2,54,458,607,129,1109,87,39,44.8,37,42.5,699,4257,1972,72,42,35,66,42,866,222,possession
+league,season,team,player,nation,pos,age,born,90s,Touches Touches,Touches Def Pen,Touches Def 3rd,Touches Mid 3rd,Touches Att 3rd,Touches Att Pen,Touches Live,Take-Ons Att,Take-Ons Succ,Take-Ons Succ%,Take-Ons Tkld,Take-Ons Tkld%,Carries Carries,Carries TotDist,Carries PrgDist,Carries PrgC,Carries 1/3,Carries CPA,Carries Mis,Carries Dis,Receiving Rec,Receiving PrgR,stat_type
 ITA-Serie A,2023,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",27,1995,13.1,785,4,62,323,407,52,785,49,17,34.7,27,55.1,490,2993,1421,41,35,10,37,15,601,122,possession
 ITA-Serie A,2023,Atalanta,Berat Djimsiti,ALB,DF,30,1993,31.5,1962,217,1054,823,96,26,1962,2,1,50.0,1,50.0,953,4836,2044,6,10,0,7,3,1167,10,possession
 ITA-Serie A,2023,Atalanta,Charles De Ketelaere,BEL,"FW,MF",22,2001,22.5,1098,10,60,442,612,133,1097,88,40,45.5,35,39.8,669,4241,2121,88,51,41,83,54,835,219,possession

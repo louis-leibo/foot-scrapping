@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Total,Total,Total,Total,Total,Short,Short,Short,Medium,Medium,Medium,Long,Long,Long,Ast,xAG,Expected,Expected,KP,1/3,PPA,CrsPA,PrgP,stat_type
-,,,,,,,,,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp%,Cmp,Att,Cmp%,Cmp,Att,Cmp%,,,xA,A-xAG,,,,,,
-FRA-Ligue 1,2020,Angers,Abdoulaye Bamba,CIV,DF,30,1990,15.0,650,875,74.3,10169,4909,358,398,89.9,223,298,74.8,46,118,39.0,0,1.4,1.4,-1.4,8,47,11,5,53,passing
+league,season,team,player,nation,pos,age,born,90s,Total Cmp,Total Att,Total Cmp%,Total TotDist,Total PrgDist,Short Cmp,Short Att,Short Cmp%,Medium Cmp,Medium Att,Medium Cmp%,Long Cmp,Long Att,Long Cmp%,Ast,xAG,Expected xA,Expected A-xAG,KP,1/3,PPA,CrsPA,PrgP,stat_type
 FRA-Ligue 1,2020,Angers,Angelo Fulgini,FRA,MF,23,1996,30.3,1289,1620,79.6,20421,5849,697,779,89.5,422,506,83.4,114,211,54.0,3,4.8,5.0,-1.8,58,117,38,7,201,passing
 FRA-Ligue 1,2020,Angers,Antonin Bobichon,FRA,"MF,FW",24,1995,10.1,441,548,80.5,7153,1993,241,266,90.6,138,164,84.1,47,86,54.7,1,1.4,1.5,-0.4,17,39,5,0,61,passing
 FRA-Ligue 1,2020,Angers,Baptiste Santamaria,FRA,MF,25,1995,3.0,132,153,86.3,2300,622,59,66,89.4,55,60,91.7,12,16,75.0,0,0.2,0.1,-0.2,4,16,1,1,14,passing

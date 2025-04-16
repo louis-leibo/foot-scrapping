@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ENG-Premier League,2022,Arsenal,Aaron Ramsdale,ENG,GK,24,1998,38.0,1,0,0,0,4,0,0,0,1,0,0,0,33,6,0,100.0,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ENG-Premier League,2022,Arsenal,Albert Sambi Lokonga,BEL,MF,22,1999,2.2,0,0,0,1,5,0,0,5,1,0,0,0,14,3,2,60.0,misc
 ENG-Premier League,2022,Arsenal,Ben White,ENG,DF,24,1997,33.9,5,0,0,28,30,1,57,22,31,0,0,0,155,33,41,44.6,misc
 ENG-Premier League,2022,Arsenal,Bukayo Saka,ENG,FW,20,2001,35.3,6,0,0,43,65,9,172,14,34,0,0,0,127,16,38,29.6,misc

@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
-,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
-ITA-Serie A,2022,Atalanta,Ademola Lookman,NGA,"FW,MF",24,1997,19.2,3,0,0,24,36,11,38,4,5,1,0,0,86,3,13,18.8,misc
+league,season,team,player,nation,pos,age,born,90s,Performance CrdY,Performance CrdR,Performance 2CrdY,Performance Fls,Performance Fld,Performance Off,Performance Crs,Performance Int,Performance TklW,Performance PKwon,Performance PKcon,Performance OG,Performance Recov,Aerial Duels Won,Aerial Duels Lost,Aerial Duels Won%,stat_type
 ITA-Serie A,2022,Atalanta,Berat Djimsiti,ALB,DF,29,1993,20.0,3,0,0,15,8,0,0,36,19,0,0,0,112,59,42,58.4,misc
 ITA-Serie A,2022,Atalanta,Brandon Soppy,FRA,DF,20,2002,7.1,2,0,0,18,20,2,19,3,5,1,0,0,49,4,2,66.7,misc
 ITA-Serie A,2022,Atalanta,Caleb Okoli,ITA,DF,21,2001,10.7,3,0,0,15,8,0,2,30,17,0,0,0,66,43,25,63.2,misc

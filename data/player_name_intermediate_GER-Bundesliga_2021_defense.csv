@@ -1,6 +1,4 @@
-league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
-,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
-GER-Bundesliga,2021,Arminia,Amos Pieper,GER,DF,22,1998,29.8,58,32,39,17,2,20,33,60.6,13,48,35,13,66,124,160,3,defense
+league,season,team,player,nation,pos,age,born,90s,Tackles Tkl,Tackles TklW,Tackles Def 3rd,Tackles Mid 3rd,Tackles Att 3rd,Challenges Tkl,Challenges Att,Challenges Tkl%,Challenges Lost,Blocks Blocks,Blocks Sh,Blocks Pass,Int,Tkl+Int,Clr,Err,stat_type
 GER-Bundesliga,2021,Arminia,Anderson Lucoqui,ANG,DF,23,1997,17.8,40,25,23,17,0,20,40,50.0,20,30,7,23,27,67,53,0,defense
 GER-Bundesliga,2021,Arminia,Andreas Voglsammer,GER,"FW,MF",28,1992,11.1,12,8,6,6,0,8,17,47.1,9,11,0,11,3,15,11,0,defense
 GER-Bundesliga,2021,Arminia,Arne Maier,GER,MF,21,1999,11.5,13,9,5,7,1,4,11,36.4,7,10,3,7,8,21,11,1,defense
