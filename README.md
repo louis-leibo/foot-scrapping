@@ -16,17 +16,6 @@ Le projet se concentre sur les premières divisions (et, lorsqu'elles sont dispo
 - Espagne (La Liga, Segunda División)
 - Allemagne (Bundesliga, 2. Bundesliga)
 - Italie (Serie A, Serie B)
-- Portugal (Primeira Liga, Liga Portugal 2)
-- Pays-Bas (Eredivisie, Eerste Divisie)
-
-### Europe Centrale et de l'Est
-- Croatie (HNL)
-- République Tchèque (Czech First League)
-- Serbie (Serbian SuperLiga)
-- Ukraine (Ukrainian Premier League)
-- Pologne (Ekstraklasa)
-- Roumanie (Liga I)
-- Hongrie (NB I)
 
 ## Installation
 
