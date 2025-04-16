@@ -1,0 +1,608 @@
+league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
+,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
+FRA-Ligue 1,2022,Ajaccio,Anthony Khelifa,ALG,DF,16,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Ben Hamed Touré,CIV,FW,18,2003,2.3,0,2,0,0.0,0.86,0.0,0.0,,28.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Ajaccio,Benjamin Leroy,FRA,GK,33,1989,31.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Bevic Moussiti-Oko,CGO,FW,27,1995,7.8,1,20,7,35.0,2.58,0.9,0.05,0.14,12.6,0,0,0,1.8,1.8,0.09,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Ajaccio,Clément Vidal,FRA,"DF,MF",22,2000,21.1,1,12,2,16.7,0.57,0.09,0.08,0.5,10.8,0,0,0,0.8,0.8,0.06,0.2,0.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Cyrille Bayala,BFA,MF,26,1996,22.3,1,22,6,27.3,0.99,0.27,0.05,0.17,15.2,0,0,0,2.0,2.0,0.09,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Cédric Avinel,GLP,DF,35,1986,19.9,1,3,1,33.3,0.15,0.05,0.33,1.0,4.1,0,0,0,1.0,1.0,0.41,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Fernand Mayembo,CGO,DF,26,1996,7.9,0,4,0,0.0,0.51,0.0,0.0,,6.2,0,0,0,1.2,1.2,0.29,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Florian Chabrolle,FRA,MF,24,1998,3.7,0,2,1,50.0,0.55,0.27,0.0,0.0,26.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Ajaccio,François-Joseph Sollacaro,FRA,GK,28,1994,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Ghjuvanni Quilichini,FRA,GK,19,2002,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Ismael Diallo,CIV,DF,25,1997,24.2,0,3,0,0.0,0.12,0.0,0.0,,17.5,0,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Ajaccio,Ivane Chegra,FRA,"MF,FW",18,2004,2.1,0,1,0,0.0,0.47,0.0,0.0,,20.4,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Kevin Spadanuda,SUI,"MF,FW",25,1997,11.8,0,7,1,14.3,0.59,0.08,0.0,0.0,14.2,0,0,0,0.7,0.7,0.1,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Ajaccio,Kouamé Botué,BFA,"FW,MF",19,2002,2.5,0,7,0,0.0,2.75,0.0,0.0,,14.2,0,0,0,1.2,1.2,0.17,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Mathieu Coutadeur,FRA,MF,36,1986,21.6,0,4,0,0.0,0.18,0.0,0.0,,29.1,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Ajaccio,Mehdi Puch-Herrantz,FRA,MF,18,2004,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Mickaël Alphonse,GLP,DF,33,1989,15.1,0,10,2,20.0,0.66,0.13,0.0,0.0,16.3,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Ajaccio,Mickaël Barreto,FRA,MF,31,1991,14.7,1,19,4,21.1,1.29,0.27,0.05,0.25,26.6,3,0,0,0.9,0.9,0.05,0.1,0.1,shooting
+FRA-Ligue 1,2022,Ajaccio,Mohamed Youssouf,COM,DF,34,1988,27.3,0,5,1,20.0,0.18,0.04,0.0,0.0,18.7,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Ajaccio,Mounaim El Idrissy,FRA,FW,23,1999,27.7,6,50,19,38.0,1.8,0.68,0.12,0.32,14.6,0,0,0,7.2,7.2,0.14,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Moussa Djitte,SEN,FW,22,1999,1.5,0,2,0,0.0,1.32,0.0,0.0,,23.3,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Ajaccio,Moussa Soumano,FRA,FW,17,2005,5.5,1,6,2,33.3,1.09,0.36,0.17,0.5,17.5,0,0,0,0.5,0.5,0.09,0.5,0.5,shooting
+FRA-Ligue 1,2022,Ajaccio,Oumar Gonzalez,CMR,DF,24,1998,28.6,0,11,3,27.3,0.38,0.1,0.0,0.0,11.1,0,0,0,1.0,1.0,0.09,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Paolo Lebas,FRA,MF,19,2003,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Qazim Laçi,ALB,MF,26,1996,2.4,0,4,0,0.0,1.7,0.0,0.0,,30.4,1,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Riad Nouri,FRA,"MF,FW",37,1985,18.8,1,16,4,25.0,0.85,0.21,0.06,0.25,16.4,0,0,1,2.3,1.6,0.1,-1.3,-0.6,shooting
+FRA-Ligue 1,2022,Ajaccio,Romain Hamouma,FRA,"FW,MF",35,1987,12.0,2,16,6,37.5,1.33,0.5,0.13,0.33,15.3,1,0,0,3.2,3.2,0.2,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Ruan Levine,BRA,"MF,FW",23,1999,0.3,0,2,1,50.0,7.5,3.75,0.0,0.0,13.1,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Thomas Mangani,FRA,MF,35,1987,14.8,1,9,0,0.0,0.61,0.0,0.0,,27.1,2,1,2,2.0,0.4,0.05,-1.0,-0.4,shooting
+FRA-Ligue 1,2022,Ajaccio,Tony Strata,ROU,"MF,DF",17,2004,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Ajaccio,Vincent Marchetti,FRA,MF,25,1997,27.2,0,37,9,24.3,1.36,0.33,0.0,0.0,22.8,1,0,0,2.3,2.3,0.06,-2.3,-2.3,shooting
+FRA-Ligue 1,2022,Ajaccio,Yanis Cimignani,FRA,"MF,DF",20,2002,3.1,0,6,2,33.3,1.94,0.65,0.0,0.0,24.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Yoann Touzghar,TUN,FW,35,1986,5.0,0,3,0,0.0,0.6,0.0,0.0,,11.1,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Ajaccio,Youcef Belaïli,ALG,"MF,FW",30,1992,12.8,6,27,9,33.3,2.11,0.7,0.04,0.11,24.8,4,5,6,6.2,1.8,0.07,-0.2,-0.8,shooting
+FRA-Ligue 1,2022,Ajaccio,Youssouf Koné,MLI,DF,27,1995,10.2,0,1,1,100.0,0.1,0.1,0.0,0.0,27.6,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Abdallah Sima,SEN,FW,21,2001,20.4,5,39,10,25.6,1.91,0.49,0.13,0.5,12.7,0,0,0,4.8,4.8,0.12,0.2,0.2,shooting
+FRA-Ligue 1,2022,Angers,Abdoulaye Bamba,CIV,DF,32,1990,15.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Adrien Hunou,FRA,"MF,FW",28,1994,24.8,4,45,18,40.0,1.81,0.73,0.09,0.22,13.2,0,0,0,6.5,6.5,0.14,-2.5,-2.5,shooting
+FRA-Ligue 1,2022,Angers,Amine Salama,FRA,"FW,MF",22,2000,13.9,3,25,11,44.0,1.8,0.79,0.12,0.27,15.2,1,0,0,3.0,3.0,0.12,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Antonin Bobichon,FRA,MF,26,1995,0.2,0,1,1,100.0,5.0,5.0,0.0,0.0,31.2,1,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Angers,Azzedine Ounahi,MAR,"MF,FW",22,2000,12.5,0,23,6,26.1,1.83,0.48,0.0,0.0,19.8,1,0,0,1.8,1.8,0.08,-1.8,-1.8,shooting
+FRA-Ligue 1,2022,Angers,Batista Mendy,FRA,"MF,DF",22,2000,31.8,0,15,2,13.3,0.47,0.06,0.0,0.0,24.0,0,0,0,0.9,0.9,0.06,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Angers,Cédric Hountondji,BEN,DF,28,1994,34.4,0,11,4,36.4,0.32,0.12,0.0,0.0,8.9,0,0,0,1.1,1.1,0.1,-1.1,-1.1,shooting
+FRA-Ligue 1,2022,Angers,Faouzi Ghoulam,ALG,DF,31,1991,5.3,0,1,0,0.0,0.19,0.0,0.0,,24.4,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Angers,Farid El Melali,ALG,"DF,FW",25,1997,9.0,0,11,2,18.2,1.23,0.22,0.0,0.0,18.8,0,0,0,1.1,1.1,0.1,-1.1,-1.1,shooting
+FRA-Ligue 1,2022,Angers,Halid Šabanović,BIH,DF,22,1999,7.1,2,5,3,60.0,0.71,0.42,0.4,0.67,17.1,0,0,0,0.9,0.9,0.18,1.1,1.1,shooting
+FRA-Ligue 1,2022,Angers,Himad Abdelli,ALG,"MF,FW",22,1999,23.7,2,24,7,29.2,1.01,0.29,0.08,0.29,22.4,2,0,0,1.4,1.4,0.06,0.6,0.6,shooting
+FRA-Ligue 1,2022,Angers,Ibrahim Amadou,FRA,"DF,MF",29,1993,4.7,0,2,0,0.0,0.42,0.0,0.0,,24.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Angers,Ibrahima Niane,SEN,FW,23,1999,12.6,2,26,11,42.3,2.06,0.87,0.08,0.18,13.7,0,0,0,3.4,3.4,0.13,-1.4,-1.4,shooting
+FRA-Ligue 1,2022,Angers,Ilyes Cheti,ALG,DF,27,1995,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Jason Mbock,FRA,"MF,FW",22,1999,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Jean Mattéo Bahoya,FRA,"FW,MF",17,2005,3.0,0,4,0,0.0,1.33,0.0,0.0,,15.4,0,0,0,0.5,0.5,0.13,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Angers,Justin-Noël Kalumba,FRA,DF,17,2004,6.1,0,2,0,0.0,0.33,0.0,0.0,,24.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Angers,Lilian Raolisoa,FRA,"DF,MF",22,2000,1.9,1,3,2,66.7,1.56,1.04,0.33,0.5,18.7,0,0,0,0.2,0.2,0.06,0.8,0.8,shooting
+FRA-Ligue 1,2022,Angers,Lois Diony,FRA,FW,29,1992,5.6,1,12,3,25.0,2.13,0.53,0.08,0.33,14.5,0,0,0,2.2,2.2,0.18,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Angers,Marin Jakoliš,CRO,FW,25,1996,0.3,0,2,1,50.0,6.43,3.21,0.0,0.0,12.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Angers,Miha Blažič,SVN,DF,29,1993,22.0,2,8,4,50.0,0.36,0.18,0.25,0.5,10.0,1,0,0,1.6,1.6,0.2,0.4,0.4,shooting
+FRA-Ligue 1,2022,Angers,Nabil Bentaleb,ALG,MF,27,1994,27.7,4,39,13,33.3,1.41,0.47,0.05,0.15,27.5,8,2,2,3.2,1.6,0.04,0.8,0.4,shooting
+FRA-Ligue 1,2022,Angers,Ousmane Camara,FRA,DF,19,2003,5.8,0,1,1,100.0,0.17,0.17,0.0,0.0,6.5,0,0,0,0.2,0.2,0.16,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Angers,Paul Bernardoni,FRA,GK,25,1997,27.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Pierrick Capelle,FRA,"MF,DF",35,1987,15.9,0,16,7,43.8,1.01,0.44,0.0,0.0,17.6,0,0,0,1.5,1.5,0.1,-1.5,-1.5,shooting
+FRA-Ligue 1,2022,Angers,Sada Thioub,SEN,"DF,FW",27,1995,11.8,1,9,1,11.1,0.76,0.08,0.11,1.0,14.0,0,0,0,1.4,1.4,0.15,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Angers,Sofiane Boufal,MAR,"FW,MF",28,1993,9.3,4,21,9,42.9,2.27,0.97,0.1,0.22,20.8,4,2,2,3.6,2.1,0.1,0.4,-0.1,shooting
+FRA-Ligue 1,2022,Angers,Souleyman Doumbia,CIV,"DF,FW",25,1996,19.9,0,7,2,28.6,0.35,0.1,0.0,0.0,16.0,0,0,0,1.0,1.0,0.14,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Angers,Waniss Taibi,FRA,MF,20,2002,2.1,0,1,0,0.0,0.48,0.0,0.0,,6.5,0,0,0,0.3,0.3,0.31,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Angers,Yahia Fofana,CIV,GK,21,2000,11.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Angers,Yan Valery,TUN,DF,23,1999,27.7,0,13,2,15.4,0.47,0.07,0.0,0.0,21.0,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Angers,Zinédine Ould Khaled,FRA,"MF,FW",22,2000,0.6,0,1,1,100.0,1.76,1.76,0.0,0.0,2.8,0,0,0,0.3,0.3,0.3,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Auxerre,Akim Zedadka,ALG,DF,27,1995,17.8,0,9,0,0.0,0.51,0.0,0.0,,19.6,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Auxerre,Alexandre Coeff,FRA,DF,30,1992,6.5,0,1,0,0.0,0.15,0.0,0.0,,9.2,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Benoît Costil,FRA,GK,35,1987,19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Birama Touré,MLI,MF,30,1992,37.8,2,25,7,28.0,0.66,0.19,0.08,0.29,26.1,0,0,1,1.9,1.1,0.04,0.1,0.9,shooting
+FRA-Ligue 1,2022,Auxerre,Brayann Pereira,FRA,DF,19,2003,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Donovan Léon,GUF,GK,29,1992,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Dénys Bain,FRA,DF,29,1993,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Gauthier Hein,FRA,"MF,FW",25,1996,20.8,2,38,10,26.3,1.82,0.48,0.05,0.2,19.3,2,0,0,3.9,3.9,0.1,-1.9,-1.9,shooting
+FRA-Ligue 1,2022,Auxerre,Gaëtan Charbonnier,FRA,"FW,MF",33,1988,2.8,1,7,1,14.3,2.48,0.35,0.14,1.0,23.2,0,0,0,0.6,0.6,0.09,0.4,0.4,shooting
+FRA-Ligue 1,2022,Auxerre,Gaëtan Perrin,FRA,"MF,FW",26,1996,15.5,3,26,9,34.6,1.68,0.58,0.08,0.22,21.2,0,1,1,2.9,2.1,0.08,0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Gideon Mensah,GHA,DF,24,1998,25.1,0,5,1,20.0,0.2,0.04,0.0,0.0,25.3,0,0,0,0.1,0.1,0.01,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Hamza Sakhi,FRA,MF,26,1996,18.4,1,30,9,30.0,1.63,0.49,0.03,0.11,24.1,2,0,0,1.7,1.7,0.06,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Auxerre,Han-Noah Massengo,FRA,MF,21,2001,12.4,0,13,1,7.7,1.05,0.08,0.0,0.0,18.9,0,0,0,1.4,1.4,0.11,-1.4,-1.4,shooting
+FRA-Ligue 1,2022,Auxerre,Ionuț Radu,ROU,GK,25,1997,17.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Jubal,BRA,DF,28,1993,35.7,3,18,5,27.8,0.5,0.14,0.11,0.4,11.6,0,1,1,3.1,2.3,0.13,-0.1,-0.3,shooting
+FRA-Ligue 1,2022,Auxerre,Julian Jeanvier,GUI,DF,30,1992,19.6,1,8,4,50.0,0.41,0.2,0.13,0.25,8.7,0,0,0,1.2,1.2,0.15,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Auxerre,Kays Ruiz,FRA,MF,19,2002,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Kenji-Van Boto,MAD,DF,26,1996,2.0,0,3,0,0.0,1.5,0.0,0.0,,24.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Kévin Danois,FRA,MF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Lassine Sinayoko,MLI,"MF,FW",22,1999,17.4,1,42,13,31.0,2.41,0.75,0.02,0.08,17.3,0,0,0,3.2,3.2,0.08,-2.2,-2.2,shooting
+FRA-Ligue 1,2022,Auxerre,M'Baye Niang,SEN,FW,27,1994,16.5,6,36,12,33.3,2.19,0.73,0.08,0.25,13.5,0,3,3,7.2,4.9,0.14,-1.2,-1.9,shooting
+FRA-Ligue 1,2022,Auxerre,Mathias Autret,FRA,"MF,FW",31,1991,14.3,2,23,11,47.8,1.6,0.77,0.04,0.09,25.4,1,1,1,2.5,1.7,0.07,-0.5,-0.7,shooting
+FRA-Ligue 1,2022,Auxerre,Matthis Abline,FRA,"FW,MF",19,2003,9.0,2,24,8,33.3,2.68,0.89,0.04,0.13,20.6,0,1,2,3.6,2.0,0.08,-1.6,-1.0,shooting
+FRA-Ligue 1,2022,Auxerre,Nuno da Costa,CPV,"FW,MF",31,1991,22.3,5,39,14,35.9,1.75,0.63,0.13,0.36,15.7,0,0,0,4.6,4.6,0.12,0.4,0.4,shooting
+FRA-Ligue 1,2022,Auxerre,Ousmane Camara,GUI,"FW,MF",20,2001,0.3,0,1,0,0.0,3.75,0.0,0.0,,11.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Paul Joly,FRA,DF,22,2000,9.6,0,7,0,0.0,0.73,0.0,0.0,,23.5,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Quentin Bernard,FRA,DF,33,1989,7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Rayan Raveloson,MAD,"DF,MF",25,1997,27.0,2,29,5,17.2,1.07,0.19,0.07,0.4,19.5,3,0,0,2.4,2.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Auxerre,Rémy Dugimont,FRA,"FW,MF",36,1986,1.3,0,4,1,25.0,3.19,0.8,0.0,0.0,27.6,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Auxerre,Siriki Dembélé,CIV,"MF,FW",25,1996,4.1,0,5,2,40.0,1.21,0.48,0.0,0.0,21.4,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Auxerre,Souleymane Touré,FRA,DF,19,2003,17.6,1,8,2,25.0,0.45,0.11,0.13,0.5,8.0,0,0,0,1.5,1.5,0.19,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Auxerre,Théo Pellenard,FRA,DF,28,1994,1.1,0,1,0,0.0,0.91,0.0,0.0,,11.5,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Auxerre,Youssouf M'Changama,COM,MF,31,1990,12.0,0,18,2,11.1,1.5,0.17,0.0,0.0,30.3,7,0,0,0.6,0.6,0.03,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Brest,Achraf Dari,MAR,DF,23,1999,14.6,1,4,2,50.0,0.27,0.14,0.25,0.5,15.4,0,0,0,0.4,0.4,0.09,0.6,0.6,shooting
+FRA-Ligue 1,2022,Brest,Alberth Elis,HON,"MF,FW",26,1996,2.9,0,4,1,25.0,1.4,0.35,0.0,0.0,13.1,0,0,0,0.5,0.5,0.13,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Brest,Axel Camblan,FRA,"FW,MF",18,2003,0.8,0,1,1,100.0,1.32,1.32,0.0,0.0,6.8,0,0,0,0.2,0.2,0.17,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Brest,Bradley Locko,FRA,DF,20,2002,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Brest,Brendan Chardonnet,FRA,DF,27,1994,27.7,0,16,3,18.8,0.58,0.11,0.0,0.0,11.1,0,0,0,1.2,1.2,0.07,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Brest,Christophe Hérelle,MTQ,DF,29,1992,11.8,0,3,0,0.0,0.25,0.0,0.0,,16.4,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Brest,Franck Honorat,FRA,"FW,MF",25,1996,28.2,6,47,17,36.2,1.67,0.6,0.13,0.35,18.1,4,0,0,4.8,4.8,0.1,1.2,1.2,shooting
+FRA-Ligue 1,2022,Brest,Félix Lemaréchal,FRA,MF,18,2003,3.2,0,2,0,0.0,0.62,0.0,0.0,,22.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Brest,Haris Belkebla,ALG,MF,28,1994,29.5,2,9,2,22.2,0.3,0.07,0.11,0.5,25.5,0,1,1,1.3,0.5,0.05,0.7,0.5,shooting
+FRA-Ligue 1,2022,Brest,Hianga Mananga Mbock,FRA,MF,22,1999,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Brest,Hugo Magnetti,FRA,MF,24,1998,18.8,1,17,6,35.3,0.91,0.32,0.06,0.17,24.7,0,0,0,0.8,0.8,0.05,0.2,0.2,shooting
+FRA-Ligue 1,2022,Brest,Irvin Cardona,FRA,"FW,MF",24,1997,2.6,0,4,2,50.0,1.55,0.77,0.0,0.0,13.4,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Brest,Islam Slimani,ALG,FW,34,1988,11.0,1,14,2,14.3,1.28,0.18,0.07,0.5,14.1,0,0,1,2.6,1.8,0.13,-1.6,-0.8,shooting
+FRA-Ligue 1,2022,Brest,Jean-Kevin Duverne,HAI,DF,25,1997,27.9,0,5,1,20.0,0.18,0.04,0.0,0.0,17.2,0,0,0,0.4,0.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Brest,Jere Uronen,FIN,DF,28,1994,3.3,0,1,0,0.0,0.3,0.0,0.0,,29.8,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Brest,Joaquín Blázquez,ARG,GK,21,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Brest,Jérémy Le Douaron,FRA,"MF,FW",24,1998,23.0,10,55,23,41.8,2.39,1.0,0.18,0.43,11.1,0,0,0,8.4,8.4,0.16,1.6,1.6,shooting
+FRA-Ligue 1,2022,Brest,Karamoko Dembélé,ENG,"FW,MF",19,2003,2.0,0,4,2,50.0,2.01,1.01,0.0,0.0,16.1,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Brest,Kenny Lala,MAD,DF,30,1991,15.7,0,12,3,25.0,0.76,0.19,0.0,0.0,25.6,2,0,0,0.4,0.4,0.03,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Brest,Lilian Brassier,FRA,DF,22,1999,34.4,0,20,3,15.0,0.58,0.09,0.0,0.0,16.3,0,0,0,1.1,1.1,0.05,-1.1,-1.1,shooting
+FRA-Ligue 1,2022,Brest,Mahdi Camara,FRA,MF,24,1998,20.2,2,24,7,29.2,1.19,0.35,0.08,0.29,16.3,0,0,0,2.5,2.5,0.11,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Brest,Marco Bizot,NED,GK,31,1991,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Brest,Mathias Pereira Lage,POR,"MF,FW",25,1996,14.0,2,21,9,42.9,1.5,0.64,0.1,0.22,18.8,1,0,0,1.4,1.4,0.07,0.6,0.6,shooting
+FRA-Ligue 1,2022,Brest,Noah Fadiga,SEN,DF,22,1999,14.5,1,11,3,27.3,0.76,0.21,0.09,0.33,18.3,0,0,0,0.7,0.7,0.07,0.3,0.3,shooting
+FRA-Ligue 1,2022,Brest,Pierre Lees-Melou,FRA,MF,29,1993,30.7,5,43,13,30.2,1.4,0.42,0.12,0.38,23.8,2,0,0,2.1,2.1,0.05,2.9,2.9,shooting
+FRA-Ligue 1,2022,Brest,Romain Del Castillo,FRA,"MF,FW",26,1996,15.8,6,31,11,35.5,1.96,0.7,0.03,0.09,20.7,3,5,5,6.3,2.4,0.08,-0.3,-1.4,shooting
+FRA-Ligue 1,2022,Brest,Steve Mounié,BEN,FW,27,1994,18.4,6,58,19,32.8,3.15,1.03,0.09,0.26,14.9,0,1,1,7.3,6.5,0.12,-1.3,-1.5,shooting
+FRA-Ligue 1,2022,Brest,Taïryk Arconte,FRA,FW,18,2003,1.4,0,2,1,50.0,1.41,0.7,0.0,0.0,12.5,0,0,0,0.3,0.3,0.14,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Brest,Youcef Belaïli,ALG,"FW,MF",30,1992,4.0,0,9,1,11.1,2.28,0.25,0.0,0.0,16.0,1,0,0,0.7,0.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Clermont Foot,Alidu Seidu,GHA,DF,22,2000,27.3,0,6,2,33.3,0.22,0.07,0.0,0.0,32.6,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Clermont Foot,Arial Mendy,SEN,DF,27,1994,2.5,0,2,0,0.0,0.81,0.0,0.0,,20.6,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Aïman Maurer,MAR,MF,17,2004,5.6,0,11,5,45.5,1.98,0.9,0.0,0.0,16.4,1,0,0,1.2,1.2,0.11,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Clermont Foot,Baila Diallo,FRA,"DF,MF",21,2001,1.0,0,1,0,0.0,1.01,0.0,0.0,,31.4,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Brandon Baiye,BEL,MF,21,2000,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Cheick Konaté,MLI,DF,18,2004,6.4,0,3,0,0.0,0.47,0.0,0.0,,26.5,0,0,0,0.4,0.4,0.13,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Clermont Foot,Elba Rashani,KVX,"MF,FW",29,1993,24.0,3,35,13,37.1,1.46,0.54,0.09,0.23,14.4,0,0,0,4.7,4.7,0.13,-1.7,-1.7,shooting
+FRA-Ligue 1,2022,Clermont Foot,Florent Ogier,FRA,DF,33,1989,18.9,0,2,0,0.0,0.11,0.0,0.0,,18.2,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Clermont Foot,Grejohn Kyei,FRA,FW,26,1995,24.8,10,54,19,35.2,2.18,0.77,0.11,0.32,17.5,0,4,6,11.7,7.0,0.13,-1.7,-1.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Jason Berthomier,FRA,MF,32,1990,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Jean-Claude Billong,CMR,MF,28,1993,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Jim Allevinah,GAB,"DF,FW",27,1995,24.9,1,30,8,26.7,1.2,0.32,0.03,0.13,16.9,0,0,0,2.5,2.5,0.08,-1.5,-1.5,shooting
+FRA-Ligue 1,2022,Clermont Foot,Jodel Dossou,BEN,"MF,DF",30,1992,2.9,1,6,3,50.0,2.09,1.05,0.17,0.33,16.7,0,0,0,0.4,0.4,0.07,0.6,0.6,shooting
+FRA-Ligue 1,2022,Clermont Foot,Johan Gastien,FRA,MF,34,1988,28.9,4,19,9,47.4,0.66,0.31,0.21,0.44,24.8,1,0,0,1.2,1.2,0.06,2.8,2.8,shooting
+FRA-Ligue 1,2022,Clermont Foot,Jérémie Bela,ANG,"DF,MF",29,1993,8.3,1,12,5,41.7,1.45,0.61,0.08,0.2,21.7,1,0,0,0.6,0.6,0.05,0.4,0.4,shooting
+FRA-Ligue 1,2022,Clermont Foot,Komnen Andrić,SRB,FW,27,1995,16.1,4,28,11,39.3,1.74,0.68,0.11,0.27,14.4,0,1,2,5.5,3.9,0.14,-1.5,-0.9,shooting
+FRA-Ligue 1,2022,Clermont Foot,Mateusz Wieteska,POL,DF,25,1997,34.6,0,16,5,31.3,0.46,0.14,0.0,0.0,8.6,0,0,0,2.1,2.1,0.13,-2.1,-2.1,shooting
+FRA-Ligue 1,2022,Clermont Foot,Maxime Gonalons,FRA,MF,33,1989,16.1,1,6,2,33.3,0.37,0.12,0.17,0.5,22.6,0,0,0,0.5,0.5,0.09,0.5,0.5,shooting
+FRA-Ligue 1,2022,Clermont Foot,Maximiliano Caufriez,BEL,DF,25,1997,24.7,1,14,6,42.9,0.57,0.24,0.07,0.17,17.9,0,0,0,0.9,0.9,0.07,0.1,0.1,shooting
+FRA-Ligue 1,2022,Clermont Foot,Mehdi Zeffane,ALG,"DF,MF",30,1992,7.3,1,8,2,25.0,1.09,0.27,0.13,0.5,20.1,0,0,0,1.1,1.1,0.14,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Clermont Foot,Mory Diaw,SEN,GK,29,1993,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Muhammed Cham,AUT,MF,21,2000,21.9,7,51,19,37.3,2.33,0.87,0.1,0.26,20.6,7,2,2,6.0,4.4,0.09,1.0,0.6,shooting
+FRA-Ligue 1,2022,Clermont Foot,Neto Borges,BRA,DF,25,1996,31.5,3,23,7,30.4,0.73,0.22,0.13,0.43,14.6,0,0,0,3.1,3.1,0.13,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Clermont Foot,Ouparine Djoco,GNB,GK,24,1998,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Saîf-Eddine Khaoui,TUN,MF,27,1995,22.5,7,47,22,46.8,2.09,0.98,0.15,0.32,21.5,6,0,0,5.1,5.1,0.11,1.9,1.9,shooting
+FRA-Ligue 1,2022,Clermont Foot,Souleymane Cissé,FRA,DF,19,2002,0.4,0,1,0,0.0,2.5,0.0,0.0,,13.9,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Yanis Massolin,FRA,MF,19,2002,0.7,0,1,0,0.0,1.5,0.0,0.0,,21.4,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+FRA-Ligue 1,2022,Clermont Foot,Yohann Magnin,FRA,MF,25,1997,26.7,0,17,1,5.9,0.64,0.04,0.0,0.0,19.8,0,0,0,1.1,1.1,0.06,-1.1,-1.1,shooting
+FRA-Ligue 1,2022,Lens,Adam Buksa,POL,"FW,MF",26,1996,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Adrien Thomasson,FRA,"MF,FW",28,1993,14.2,5,21,9,42.9,1.48,0.63,0.24,0.56,14.5,0,0,0,3.0,3.0,0.14,2.0,2.0,shooting
+FRA-Ligue 1,2022,Lens,Alexis Claude-Maurice,FRA,"MF,FW",24,1998,6.7,5,14,9,64.3,2.09,1.34,0.36,0.56,16.6,0,0,0,2.6,2.6,0.19,2.4,2.4,shooting
+FRA-Ligue 1,2022,Lens,Angelo Fulgini,FRA,"MF,FW",25,1996,9.5,1,12,8,66.7,1.26,0.84,0.08,0.13,15.7,0,0,0,1.3,1.3,0.11,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Lens,Brice Samba,FRA,GK,28,1994,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Christopher Wooh,CMR,MF,20,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,David Costa,POR,"MF,FW",21,2001,15.6,1,26,7,26.9,1.66,0.45,0.04,0.14,17.6,3,0,0,2.8,2.8,0.11,-1.8,-1.8,shooting
+FRA-Ligue 1,2022,Lens,Deiver Machado,COL,"DF,MF",28,1993,24.3,4,18,7,38.9,0.74,0.29,0.22,0.57,19.3,1,0,0,1.3,1.3,0.07,2.7,2.7,shooting
+FRA-Ligue 1,2022,Lens,Facundo Medina,ARG,DF,23,1999,30.9,2,18,4,22.2,0.58,0.13,0.11,0.5,13.9,0,0,0,2.6,2.6,0.14,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Lens,Florian Sotoca,FRA,"MF,FW",31,1990,33.9,7,86,29,33.7,2.53,0.85,0.07,0.21,15.6,0,1,3,10.5,8.1,0.09,-3.5,-2.1,shooting
+FRA-Ligue 1,2022,Lens,Gaël Kakuta,COD,FW,31,1991,0.2,0,1,0,0.0,4.09,0.0,0.0,,29.8,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Ignatius Ganago,CMR,FW,23,1999,0.7,0,1,0,0.0,1.53,0.0,0.0,,23.1,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Ismaël Boura,COM,"DF,FW",21,2000,1.0,0,2,1,50.0,1.94,0.97,0.0,0.0,28.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lens,Jean Onana,CMR,"MF,DF",22,2000,9.0,0,8,3,37.5,0.89,0.33,0.0,0.0,23.1,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lens,Jean-Louis Leca,FRA,GK,36,1985,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Jimmy Cabot,FRA,"DF,MF",28,1994,5.7,0,5,1,20.0,0.88,0.18,0.0,0.0,17.0,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Lens,Jonathan Gradit,FRA,DF,29,1992,31.4,1,5,1,20.0,0.16,0.03,0.2,1.0,14.1,0,0,0,0.8,0.8,0.16,0.2,0.2,shooting
+FRA-Ligue 1,2022,Lens,Julien Le Cardinal,FRA,DF,24,1997,1.8,0,5,2,40.0,2.73,1.09,0.0,0.0,9.6,0,0,0,0.6,0.6,0.11,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Lens,Kevin Danso,AUT,DF,23,1998,35.9,1,24,4,16.7,0.67,0.11,0.04,0.25,14.9,0,0,0,2.5,2.4,0.1,-1.5,-1.4,shooting
+FRA-Ligue 1,2022,Lens,Loïs Openda,BEL,FW,22,2000,28.0,21,103,49,47.6,3.68,1.75,0.19,0.41,13.1,0,1,1,18.4,17.6,0.17,2.6,2.4,shooting
+FRA-Ligue 1,2022,Lens,Massadio Haïdara,MLI,"DF,MF",29,1992,18.6,0,13,0,0.0,0.7,0.0,0.0,,11.6,0,0,0,2.1,2.1,0.16,-2.1,-2.1,shooting
+FRA-Ligue 1,2022,Lens,Patrick Berg,NOR,"MF,FW",24,1997,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Przemysław Frankowski,POL,"DF,MF",27,1995,31.5,5,28,6,21.4,0.89,0.19,0.07,0.33,22.1,2,3,3,4.2,1.8,0.06,0.8,0.2,shooting
+FRA-Ligue 1,2022,Lens,Rémy Labeau Lascary,GLP,"FW,MF",19,2003,1.4,0,3,1,33.3,2.2,0.73,0.0,0.0,15.9,0,0,0,0.4,0.4,0.13,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lens,Salis Abdul Samed,GHA,MF,22,2000,32.2,1,13,4,30.8,0.4,0.12,0.08,0.25,19.1,0,0,0,0.9,0.9,0.07,0.1,0.1,shooting
+FRA-Ligue 1,2022,Lens,Seko Fofana,CIV,MF,27,1995,34.1,7,82,22,26.8,2.4,0.64,0.07,0.27,19.9,0,1,2,9.3,7.7,0.09,-2.3,-1.7,shooting
+FRA-Ligue 1,2022,Lens,Steven Fortes,CPV,DF,30,1992,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lens,Wesley Saïd,FRA,"FW,MF",27,1995,7.2,5,27,10,37.0,3.77,1.4,0.19,0.5,14.5,0,0,0,3.3,3.3,0.12,1.7,1.7,shooting
+FRA-Ligue 1,2022,Lens,Łukasz Poręba,POL,MF,22,2000,2.9,0,3,0,0.0,1.04,0.0,0.0,,17.1,0,0,0,0.6,0.6,0.19,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Lille,Adam Ounas,ALG,"FW,MF",25,1996,11.8,1,26,9,34.6,2.2,0.76,0.04,0.11,19.1,3,0,0,2.3,2.3,0.09,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Lille,Akim Zedadka,ALG,"DF,MF",27,1995,3.9,1,3,1,33.3,0.76,0.25,0.33,1.0,15.3,0,0,0,0.4,0.4,0.13,0.6,0.6,shooting
+FRA-Ligue 1,2022,Lille,Alan Virginius,FRA,FW,19,2003,2.9,1,12,5,41.7,4.19,1.74,0.08,0.2,14.4,0,0,0,3.1,3.1,0.26,-2.1,-2.1,shooting
+FRA-Ligue 1,2022,Lille,Alexsandro Ribeiro,BRA,DF,22,1999,17.9,3,17,7,41.2,0.95,0.39,0.18,0.43,9.5,0,0,0,1.8,1.8,0.11,1.2,1.2,shooting
+FRA-Ligue 1,2022,Lille,Amine Messoussa,FRA,FW,17,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lille,André Gomes,POR,MF,29,1993,18.1,3,18,5,27.8,0.99,0.28,0.17,0.6,21.2,0,0,0,1.1,1.1,0.06,1.9,1.9,shooting
+FRA-Ligue 1,2022,Lille,Angel Gomes,ENG,MF,21,2000,31.3,2,55,17,30.9,1.76,0.54,0.02,0.06,23.2,4,1,1,4.6,3.8,0.07,-2.6,-2.8,shooting
+FRA-Ligue 1,2022,Lille,Bafodé Diakité,FRA,DF,21,2001,29.5,3,19,6,31.6,0.64,0.2,0.16,0.5,11.4,0,0,0,1.7,1.7,0.09,1.3,1.3,shooting
+FRA-Ligue 1,2022,Lille,Benjamin André,FRA,MF,31,1990,32.4,1,24,4,16.7,0.74,0.12,0.04,0.25,16.9,0,0,0,1.6,1.6,0.07,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Lille,Carlos Baleba,CMR,MF,18,2004,5.3,0,12,2,16.7,2.26,0.38,0.0,0.0,24.3,0,0,0,0.5,0.5,0.04,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Lille,Edon Zhegrova,KVX,"FW,MF",23,1999,11.7,3,42,14,33.3,3.58,1.19,0.07,0.21,18.4,1,0,0,3.6,3.6,0.09,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Lille,Gabriel Gudmundsson,SWE,"DF,FW",23,1999,9.3,0,7,1,14.3,0.75,0.11,0.0,0.0,22.0,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Lille,Ismaily,BRA,DF,32,1990,19.8,2,13,6,46.2,0.66,0.3,0.15,0.33,17.4,0,0,0,1.2,1.2,0.09,0.8,0.8,shooting
+FRA-Ligue 1,2022,Lille,Jonas Martin,FRA,MF,32,1990,3.1,0,1,0,0.0,0.32,0.0,0.0,,7.6,0,0,0,0.1,0.1,0.12,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lille,Jonathan Bamba,CIV,FW,26,1996,30.9,6,71,28,39.4,2.3,0.91,0.08,0.21,15.5,0,0,0,8.2,8.2,0.12,-2.2,-2.2,shooting
+FRA-Ligue 1,2022,Lille,Jonathan David,CAN,FW,22,2000,35.2,24,95,44,46.3,2.7,1.25,0.15,0.32,15.8,0,10,11,23.6,15.1,0.16,0.4,-1.1,shooting
+FRA-Ligue 1,2022,Lille,José Fonte,POR,DF,38,1983,28.8,1,14,2,14.3,0.49,0.07,0.07,0.5,12.3,0,0,0,1.4,1.4,0.11,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lille,Leny Yoro,FRA,DF,16,2005,8.5,0,2,0,0.0,0.23,0.0,0.0,,15.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lille,Lucas Chevalier,FRA,GK,20,2001,32.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lille,Léo Jardim,BRA,GK,27,1995,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lille,Mohamed Lamine Bayo,GUI,"FW,MF",24,1998,7.2,4,22,10,45.5,3.04,1.38,0.18,0.4,10.4,0,0,0,3.2,3.2,0.15,0.8,0.8,shooting
+FRA-Ligue 1,2022,Lille,Rémy Cabella,FRA,"MF,FW",32,1990,28.1,7,42,23,54.8,1.5,0.82,0.17,0.3,14.1,8,0,0,8.3,8.3,0.2,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Lille,Simon Ramet,FRA,DF,19,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lille,Tiago Djaló,POR,DF,22,2000,22.4,2,15,4,26.7,0.67,0.18,0.13,0.5,12.7,0,0,0,1.3,1.3,0.08,0.7,0.7,shooting
+FRA-Ligue 1,2022,Lille,Timothy Weah,USA,"DF,FW",22,2000,19.4,0,30,11,36.7,1.54,0.57,0.0,0.0,21.6,0,0,0,2.5,2.5,0.08,-2.5,-2.5,shooting
+FRA-Ligue 1,2022,Lille,Yusuf Yazıcı,TUR,MF,25,1997,2.2,1,5,2,40.0,2.25,0.9,0.2,0.5,19.0,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+FRA-Ligue 1,2022,Lorient,Adil Aouchiche,FRA,MF,20,2002,2.8,0,8,3,37.5,2.88,1.08,0.0,0.0,17.1,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Lorient,Adrian Grbić,AUT,"MF,FW",25,1996,0.3,0,3,0,0.0,10.8,0.0,0.0,,28.5,2,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Lorient,Armand Lauriente,FRA,FW,23,1998,3.0,1,14,5,35.7,4.74,1.69,0.07,0.2,18.2,2,0,0,1.8,1.8,0.13,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Lorient,Ayman Kari,FRA,"MF,DF",17,2004,1.1,0,4,0,0.0,3.75,0.0,0.0,,18.6,0,0,0,0.5,0.5,0.14,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Lorient,Bamba Dieng,SEN,FW,22,2000,8.3,3,21,7,33.3,2.53,0.84,0.1,0.29,16.0,0,1,1,4.9,4.1,0.23,-1.9,-2.1,shooting
+FRA-Ligue 1,2022,Lorient,Bamo Meïté,CIV,DF,20,2001,16.7,1,3,1,33.3,0.18,0.06,0.33,1.0,8.5,0,0,0,0.7,0.7,0.25,0.3,0.3,shooting
+FRA-Ligue 1,2022,Lorient,Bonke Innocent,NGA,MF,26,1996,13.1,0,4,0,0.0,0.3,0.0,0.0,,26.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lorient,Chrislain Matsima,FRA,"DF,MF",20,2002,2.5,0,1,0,0.0,0.4,0.0,0.0,,10.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lorient,Dango Ouattara,BFA,"FW,MF",20,2002,17.2,6,52,17,32.7,3.02,0.99,0.12,0.35,16.6,4,0,0,5.2,5.2,0.1,0.8,0.8,shooting
+FRA-Ligue 1,2022,Lorient,Darlin Yongwa,CMR,DF,21,2000,8.7,1,9,3,33.3,1.04,0.35,0.11,0.33,16.9,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
+FRA-Ligue 1,2022,Lorient,Eli Junior Kroupi,FRA,"FW,MF",16,2006,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lorient,Enzo Le Fée,FRA,MF,22,2000,33.6,5,45,18,40.0,1.34,0.54,0.11,0.28,23.4,8,0,0,3.5,3.5,0.08,1.5,1.5,shooting
+FRA-Ligue 1,2022,Lorient,Gedeon Kalulu,COD,DF,24,1997,27.1,0,10,2,20.0,0.37,0.07,0.0,0.0,20.9,0,0,0,0.6,0.6,0.07,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Lorient,Ibrahima Koné,MLI,FW,23,1999,17.5,7,28,13,46.4,1.6,0.74,0.18,0.38,16.1,0,2,3,5.6,3.2,0.12,1.4,1.8,shooting
+FRA-Ligue 1,2022,Lorient,Igor Carioca,BRA,DF,25,1996,5.1,0,4,1,25.0,0.79,0.2,0.0,0.0,19.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Lorient,Jean-Victor Makengo,FRA,MF,24,1998,11.8,0,5,2,40.0,0.42,0.17,0.0,0.0,26.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lorient,Julien Laporte,FRA,DF,28,1993,18.4,0,6,2,33.3,0.33,0.11,0.0,0.0,14.8,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Lorient,Julien Ponceau,FRA,MF,21,2000,18.4,1,14,4,28.6,0.76,0.22,0.07,0.25,18.5,0,0,0,1.8,1.8,0.13,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Lorient,Laurent Abergel,FRA,MF,29,1993,26.0,0,13,2,15.4,0.5,0.08,0.0,0.0,24.0,0,0,0,0.5,0.5,0.04,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Lorient,Montassar Talbi,TUN,DF,24,1998,38.0,1,9,6,66.7,0.24,0.16,0.11,0.17,11.8,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
+FRA-Ligue 1,2022,Lorient,Quentin Boisgard,FRA,MF,25,1997,2.0,1,6,3,50.0,2.93,1.47,0.17,0.33,18.5,0,0,0,0.4,0.4,0.07,0.6,0.6,shooting
+FRA-Ligue 1,2022,Lorient,Romain Faivre,FRA,"MF,FW",24,1998,13.8,5,25,14,56.0,1.81,1.01,0.2,0.36,17.0,0,0,0,2.7,2.7,0.11,2.3,2.3,shooting
+FRA-Ligue 1,2022,Lorient,Siriné Doucouré,MLI,"FW,MF",20,2002,1.5,0,7,1,14.3,4.63,0.66,0.0,0.0,13.5,0,0,0,0.7,0.7,0.11,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Lorient,Stéphane Diarra,FRA,"FW,MF",23,1998,11.8,2,20,8,40.0,1.69,0.68,0.1,0.25,16.2,0,0,0,2.2,2.2,0.11,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Lorient,Terem Moffi,NGA,FW,23,1999,15.4,12,33,18,54.5,2.14,1.17,0.33,0.61,13.6,0,1,2,7.3,5.7,0.17,4.7,5.3,shooting
+FRA-Ligue 1,2022,Lorient,Théo Le Bris,FRA,"MF,DF",19,2002,16.1,2,10,4,40.0,0.62,0.25,0.2,0.5,14.0,0,0,0,1.1,1.1,0.11,0.9,0.9,shooting
+FRA-Ligue 1,2022,Lorient,Vincent Le Goff,FRA,DF,32,1989,37.0,0,17,6,35.3,0.46,0.16,0.0,0.0,18.3,0,0,0,1.2,1.2,0.07,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Lorient,Vito Mannone,ITA,GK,34,1988,17.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lorient,Yoann Cathline,FRA,"FW,MF",20,2002,12.1,1,26,9,34.6,2.15,0.74,0.04,0.11,20.3,0,0,0,1.5,1.5,0.06,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Lorient,Yvon Mvogo,SUI,GK,28,1994,20.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Alexandre Lacazette,FRA,FW,31,1991,32.5,27,107,47,43.9,3.29,1.44,0.2,0.45,14.4,8,6,8,24.2,17.9,0.17,2.8,3.1,shooting
+FRA-Ligue 1,2022,Lyon,Amin Sarr,SWE,FW,21,2001,6.0,1,6,5,83.3,1.01,0.84,0.17,0.2,12.7,0,0,0,1.2,1.2,0.2,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Lyon,Anthony Lopes,POR,GK,31,1990,31.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Bradley Barcola,FRA,"FW,MF",19,2002,16.0,5,27,13,48.1,1.69,0.81,0.19,0.38,13.6,0,0,0,3.4,3.4,0.13,1.6,1.6,shooting
+FRA-Ligue 1,2022,Lyon,Castello Lukeba,FRA,DF,19,2002,33.2,2,13,5,38.5,0.39,0.15,0.15,0.4,10.2,0,0,0,1.2,1.2,0.09,0.8,0.8,shooting
+FRA-Ligue 1,2022,Lyon,Corentin Tolisso,FRA,MF,27,1994,22.6,1,30,9,30.0,1.33,0.4,0.03,0.11,23.0,0,0,0,1.7,1.7,0.06,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Lyon,Damien Da Silva,FRA,DF,34,1988,3.8,0,2,0,0.0,0.53,0.0,0.0,,13.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lyon,Dejan Lovren,CRO,DF,33,1989,16.2,1,13,3,23.1,0.8,0.19,0.08,0.33,12.5,1,0,0,0.8,0.8,0.06,0.2,0.2,shooting
+FRA-Ligue 1,2022,Lyon,Henrique,BRA,"DF,FW",28,1994,4.0,0,1,0,0.0,0.25,0.0,0.0,,27.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Houssem Aouar,ALG,MF,24,1998,5.8,1,14,6,42.9,2.4,1.03,0.07,0.17,15.1,0,0,0,1.4,1.4,0.11,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lyon,Jeff Reine-Adélaïde,FRA,MF,24,1998,3.7,0,10,7,70.0,2.68,1.87,0.0,0.0,20.0,0,0,0,0.8,0.8,0.08,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Lyon,Jeffinho,BRA,FW,22,1999,5.0,1,10,5,50.0,2.02,1.01,0.1,0.2,15.7,0,0,0,1.1,1.1,0.11,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Lyon,Johann Lepenant,FRA,MF,19,2002,21.5,1,19,1,5.3,0.88,0.05,0.05,1.0,23.8,0,0,0,0.9,0.9,0.05,0.1,0.1,shooting
+FRA-Ligue 1,2022,Lyon,Jérôme Boateng,GER,DF,33,1988,4.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Karl Toko Ekambi,CMR,"FW,MF",29,1992,15.0,4,41,19,46.3,2.73,1.26,0.1,0.21,14.7,0,0,0,4.4,4.4,0.11,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lyon,Lucas Paquetá,BRA,MF,24,1997,1.8,0,5,1,20.0,2.83,0.57,0.0,0.0,15.1,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lyon,Malo Gusto,FRA,DF,19,2003,17.7,0,7,3,42.9,0.39,0.17,0.0,0.0,20.9,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lyon,Mamadou Sarr,FRA,MF,16,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Maxence Caqueret,FRA,MF,22,2000,30.7,4,26,13,50.0,0.85,0.42,0.15,0.31,19.1,3,0,0,2.6,2.6,0.1,1.4,1.4,shooting
+FRA-Ligue 1,2022,Lyon,Mohamed El Arouch,FRA,MF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Moussa Dembélé,FRA,"FW,MF",26,1996,9.7,3,28,13,46.4,2.87,1.33,0.11,0.23,13.3,0,0,0,3.8,3.8,0.14,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Lyon,Nicolás Tagliafico,ARG,DF,29,1992,33.2,1,23,5,21.7,0.69,0.15,0.04,0.2,16.8,0,0,0,2.4,1.9,0.08,-1.4,-0.9,shooting
+FRA-Ligue 1,2022,Lyon,Rayan Cherki,FRA,"MF,FW",18,2003,20.8,4,61,21,34.4,2.93,1.01,0.07,0.19,18.7,3,0,0,4.9,4.9,0.08,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Lyon,Romain Faivre,FRA,MF,24,1998,3.3,0,5,2,40.0,1.5,0.6,0.0,0.0,23.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Lyon,Rémy Riou,FRA,GK,34,1987,6.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Lyon,Sael Kumbedi,FRA,DF,17,2005,14.7,0,9,2,22.2,0.61,0.14,0.0,0.0,21.9,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Lyon,Sinaly Diomande,CIV,DF,21,2001,21.7,0,10,2,20.0,0.46,0.09,0.0,0.0,12.6,0,0,0,0.8,0.8,0.08,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Lyon,Tetê,BRA,"FW,MF",22,2000,12.3,6,30,13,43.3,2.44,1.06,0.2,0.46,16.5,1,0,0,4.2,4.2,0.14,1.8,1.8,shooting
+FRA-Ligue 1,2022,Lyon,Thiago Mendes,BRA,"MF,DF",30,1992,22.9,1,14,4,28.6,0.61,0.17,0.07,0.25,25.1,2,0,0,0.7,0.7,0.05,0.3,0.3,shooting
+FRA-Ligue 1,2022,Marseille,Alexis Sánchez,CHI,"FW,MF",33,1988,29.8,14,63,29,46.0,2.12,0.97,0.19,0.41,15.2,5,2,3,12.6,10.2,0.17,1.4,1.8,shooting
+FRA-Ligue 1,2022,Marseille,Amine Harit,MAR,"MF,FW",25,1997,5.7,0,6,3,50.0,1.05,0.52,0.0,0.0,18.7,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Marseille,Arkadiusz Milik,POL,FW,28,1994,1.4,0,1,0,0.0,0.7,0.0,0.0,,7.8,0,0,0,0.1,0.1,0.14,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Marseille,Azzedine Ounahi,MAR,"MF,FW",22,2000,1.3,1,3,2,66.7,2.23,1.49,0.33,0.5,21.0,1,0,0,0.7,0.7,0.22,0.3,0.3,shooting
+FRA-Ligue 1,2022,Marseille,Bamba Dieng,SEN,"FW,MF",22,2000,2.2,1,11,5,45.5,5.1,2.32,0.09,0.2,12.5,0,0,0,1.5,1.5,0.14,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Marseille,Cengiz Ünder,TUR,"MF,DF",25,1997,27.7,5,70,23,32.9,2.53,0.83,0.06,0.17,17.1,2,1,1,8.3,7.5,0.11,-3.3,-3.5,shooting
+FRA-Ligue 1,2022,Marseille,Chancel Mbemba,COD,DF,27,1994,31.7,5,27,9,33.3,0.85,0.28,0.19,0.56,11.0,0,0,0,3.1,3.1,0.11,1.9,1.9,shooting
+FRA-Ligue 1,2022,Marseille,Cédric Bakambu,COD,MF,31,1991,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Dimitri Payet,FRA,"MF,FW",35,1987,9.3,4,27,7,25.9,2.91,0.75,0.11,0.43,20.6,1,1,1,3.0,2.2,0.08,1.0,0.8,shooting
+FRA-Ligue 1,2022,Marseille,Duje Ćaleta-Car,CRO,DF,25,1996,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Eric Bailly,CIV,DF,28,1994,6.0,0,3,0,0.0,0.5,0.0,0.0,,13.0,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Marseille,François Mughe,CMR,MF,18,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Gerson,BRA,MF,25,1997,4.6,2,9,6,66.7,1.94,1.29,0.22,0.33,15.8,0,0,0,0.8,0.8,0.09,1.2,1.2,shooting
+FRA-Ligue 1,2022,Marseille,Issa Kaboré,BFA,DF,21,2001,11.4,1,8,3,37.5,0.7,0.26,0.13,0.33,16.2,0,0,0,0.9,0.9,0.11,0.1,0.1,shooting
+FRA-Ligue 1,2022,Marseille,Jonathan Clauss,FRA,DF,29,1992,28.8,2,48,12,25.0,1.67,0.42,0.04,0.17,17.5,0,0,0,4.2,4.2,0.09,-2.2,-2.2,shooting
+FRA-Ligue 1,2022,Marseille,Jordan Veretout,FRA,MF,29,1993,31.8,4,30,9,30.0,0.94,0.28,0.1,0.33,20.5,1,1,1,3.9,3.1,0.1,0.1,-0.1,shooting
+FRA-Ligue 1,2022,Marseille,Leonardo Balerdi,ARG,DF,23,1999,29.3,0,11,0,0.0,0.38,0.0,0.0,,10.2,0,0,0,1.3,1.3,0.12,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Marseille,Luis Javier Suárez,COL,FW,24,1997,3.3,3,16,7,43.8,4.91,2.15,0.19,0.43,12.6,0,0,0,2.4,2.4,0.15,0.6,0.6,shooting
+FRA-Ligue 1,2022,Marseille,Mattéo Guendouzi,FRA,MF,23,1999,23.4,2,24,5,20.8,1.02,0.21,0.04,0.2,16.4,0,1,1,3.3,2.5,0.11,-1.3,-1.5,shooting
+FRA-Ligue 1,2022,Marseille,Nuno Tavares,POR,"DF,MF",22,2000,26.1,6,65,17,26.2,2.49,0.65,0.09,0.35,19.4,0,0,0,4.5,4.5,0.07,1.5,1.5,shooting
+FRA-Ligue 1,2022,Marseille,Pape Gueye,SEN,"MF,DF",23,1999,5.5,1,8,4,50.0,1.46,0.73,0.13,0.25,16.8,0,0,0,0.7,0.7,0.09,0.3,0.3,shooting
+FRA-Ligue 1,2022,Marseille,Pau López,ESP,GK,27,1994,32.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Rubén Blanco,ESP,GK,27,1995,5.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Ruslan Malinovskyi,UKR,"MF,FW",29,1993,13.6,1,35,7,20.0,2.57,0.51,0.03,0.14,24.3,6,0,0,2.3,2.3,0.06,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Marseille,Salim Ben Seghir,FRA,MF,19,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Samuel Gigot,FRA,DF,28,1993,20.9,2,12,3,25.0,0.57,0.14,0.17,0.67,8.0,0,0,0,2.6,2.6,0.21,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Marseille,Sead Kolašinac,BIH,DF,29,1993,24.6,4,22,9,40.9,0.89,0.37,0.18,0.44,9.7,0,0,0,4.1,4.1,0.19,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Marseille,Souleymane Touré,FRA,DF,19,2003,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Marseille,Valentin Rongier,FRA,MF,27,1994,33.7,1,22,4,18.2,0.65,0.12,0.05,0.25,20.0,0,0,0,1.7,1.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Marseille,Vitinha,POR,FW,22,2000,5.2,2,25,9,36.0,4.85,1.75,0.08,0.22,12.6,0,0,0,4.0,4.0,0.16,-2.0,-2.0,shooting
+FRA-Ligue 1,2022,Monaco,Aleksandr Golovin,RUS,"MF,FW",26,1996,27.4,8,49,25,51.0,1.79,0.91,0.16,0.32,19.0,2,0,0,5.3,5.3,0.11,2.7,2.7,shooting
+FRA-Ligue 1,2022,Monaco,Alexander Nübel,GER,GK,25,1996,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Monaco,Axel Disasi,FRA,DF,24,1998,37.0,3,28,9,32.1,0.76,0.24,0.11,0.33,15.4,0,0,1,3.8,3.0,0.11,-0.8,0.0,shooting
+FRA-Ligue 1,2022,Monaco,Benoît Badiashile,FRA,DF,21,2001,9.3,2,5,3,60.0,0.54,0.32,0.4,0.67,16.0,0,0,0,0.6,0.6,0.13,1.4,1.4,shooting
+FRA-Ligue 1,2022,Monaco,Breel Embolo,SUI,FW,25,1997,20.7,12,40,20,50.0,1.94,0.97,0.3,0.6,10.9,0,0,1,8.5,7.6,0.19,3.5,4.4,shooting
+FRA-Ligue 1,2022,Monaco,Caio Henrique Oliveira Silva,BRA,DF,25,1997,32.2,1,10,6,60.0,0.31,0.19,0.1,0.17,21.1,2,0,0,0.7,0.7,0.07,0.3,0.3,shooting
+FRA-Ligue 1,2022,Monaco,Chrislain Matsima,FRA,DF,20,2002,5.0,0,3,2,66.7,0.61,0.4,0.0,0.0,8.0,0,0,0,0.7,0.7,0.22,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Monaco,Edan Diop,FRA,"DF,FW",17,2004,2.5,1,6,2,33.3,2.42,0.81,0.17,0.5,15.6,0,0,0,1.2,1.2,0.2,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Monaco,Eliesse Ben Seghir,MAR,"FW,MF",17,2005,11.7,4,21,8,38.1,1.8,0.68,0.19,0.5,18.6,0,0,0,1.9,1.9,0.09,2.1,2.1,shooting
+FRA-Ligue 1,2022,Monaco,Eliot Matazo,BEL,MF,20,2002,13.1,1,4,3,75.0,0.31,0.23,0.25,0.33,22.9,0,0,0,0.2,0.2,0.05,0.8,0.8,shooting
+FRA-Ligue 1,2022,Monaco,Gelson Martins,POR,"MF,FW",27,1995,3.8,0,12,3,25.0,3.13,0.78,0.0,0.0,15.9,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Monaco,Guillermo Maripán,CHI,DF,28,1994,24.0,3,16,6,37.5,0.67,0.25,0.19,0.5,10.7,0,0,0,1.6,1.6,0.1,1.4,1.4,shooting
+FRA-Ligue 1,2022,Monaco,Ismail Jakobs,SEN,"DF,FW",22,1999,12.4,0,14,6,42.9,1.13,0.48,0.0,0.0,15.2,1,0,0,1.0,1.0,0.07,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Monaco,Jean Lucas,BRA,MF,24,1998,3.2,0,5,3,60.0,1.55,0.93,0.0,0.0,18.3,0,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Monaco,Kevin Volland,GER,"FW,MF",30,1992,7.1,3,15,7,46.7,2.11,0.99,0.2,0.43,15.6,0,0,0,1.7,1.7,0.12,1.3,1.3,shooting
+FRA-Ligue 1,2022,Monaco,Krépin Diatta,SEN,"MF,FW",23,1999,23.0,4,40,18,45.0,1.74,0.78,0.1,0.22,15.2,0,0,0,4.6,4.6,0.12,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Monaco,Maghnes Akliouche,FRA,"MF,FW",20,2002,4.5,0,5,2,40.0,1.12,0.45,0.0,0.0,14.9,0,0,0,0.5,0.5,0.09,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Monaco,Malang Sarr,FRA,DF,23,1999,8.0,0,1,0,0.0,0.13,0.0,0.0,,12.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2022,Monaco,Mohamed Camara,MLI,MF,22,2000,24.4,0,27,6,22.2,1.11,0.25,0.0,0.0,28.4,0,0,0,1.0,1.0,0.04,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Monaco,Myron Boadu,NED,FW,21,2001,3.3,3,7,5,71.4,2.14,1.53,0.43,0.6,11.5,0,0,0,2.6,2.6,0.37,0.4,0.4,shooting
+FRA-Ligue 1,2022,Monaco,Ruben Aguilar,FRA,DF,29,1993,13.0,0,4,2,50.0,0.31,0.15,0.0,0.0,17.5,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Monaco,Sofiane Diop,FRA,MF,22,2000,0.7,1,2,1,50.0,2.77,1.38,0.5,1.0,10.5,0,0,0,1.0,1.0,0.5,0.0,0.0,shooting
+FRA-Ligue 1,2022,Monaco,Soungoutou Magassa,FRA,MF,18,2003,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Monaco,Takumi Minamino,JPN,"MF,FW",27,1995,8.0,1,22,8,36.4,2.73,0.99,0.05,0.13,16.4,1,0,0,1.9,1.9,0.08,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Monaco,Vanderson,BRA,"DF,MF",21,2001,24.6,1,26,8,30.8,1.06,0.33,0.04,0.13,19.5,0,0,0,2.4,2.4,0.09,-1.4,-1.4,shooting
+FRA-Ligue 1,2022,Monaco,Wissam Ben Yedder,FRA,FW,31,1990,23.5,19,66,36,54.5,2.81,1.53,0.21,0.39,14.2,3,5,6,17.4,12.7,0.19,1.6,1.3,shooting
+FRA-Ligue 1,2022,Monaco,Youssouf Fofana,FRA,MF,23,1999,34.3,2,42,10,23.8,1.22,0.29,0.05,0.2,22.9,1,0,0,2.8,2.8,0.07,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Montpellier,Arnaud Nordin,FRA,FW,24,1998,26.7,9,59,24,40.7,2.21,0.9,0.15,0.38,16.1,0,0,0,6.5,6.5,0.11,2.5,2.5,shooting
+FRA-Ligue 1,2022,Montpellier,Arnaud Souquet,FRA,"DF,FW",30,1992,4.0,0,1,0,0.0,0.25,0.0,0.0,,20.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Montpellier,Axel Gueguin,FRA,"FW,MF",17,2005,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Benjamin Lecomte,FRA,GK,31,1991,19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Bingourou Kamara,SEN,GK,25,1996,4.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Boubakar Kouyaté,MLI,DF,25,1997,14.0,0,11,3,27.3,0.79,0.21,0.0,0.0,11.5,0,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Montpellier,Béni Makouana,CGO,"FW,MF",19,2002,2.2,0,6,1,16.7,2.73,0.45,0.0,0.0,13.9,0,0,0,0.8,0.8,0.14,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Montpellier,Cheikh Faye,SEN,FW,23,1999,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Christopher Jullien,FRA,DF,29,1993,29.9,0,17,2,11.8,0.57,0.07,0.0,0.0,8.6,0,0,0,2.0,2.0,0.12,-2.0,-2.0,shooting
+FRA-Ligue 1,2022,Montpellier,Elye Wahi,FRA,FW,19,2003,27.9,19,62,36,58.1,2.22,1.29,0.29,0.5,14.5,1,1,1,12.2,11.4,0.18,6.8,6.6,shooting
+FRA-Ligue 1,2022,Montpellier,Enzo Tchato,CMR,DF,19,2002,12.2,1,4,2,50.0,0.33,0.16,0.25,0.5,18.8,0,0,0,0.4,0.4,0.09,0.6,0.6,shooting
+FRA-Ligue 1,2022,Montpellier,Faitout Maouassa,FRA,"FW,DF",24,1998,21.4,5,34,12,35.3,1.59,0.56,0.15,0.42,20.1,1,0,0,3.3,3.3,0.1,1.7,1.7,shooting
+FRA-Ligue 1,2022,Montpellier,Falaye Sacko,MLI,DF,27,1995,28.7,1,6,2,33.3,0.21,0.07,0.17,0.5,16.7,0,0,0,0.8,0.8,0.13,0.2,0.2,shooting
+FRA-Ligue 1,2022,Montpellier,Issiaga Sylla,GUI,DF,28,1994,14.5,1,10,1,10.0,0.69,0.07,0.1,1.0,14.8,0,0,0,0.8,0.8,0.08,0.2,0.2,shooting
+FRA-Ligue 1,2022,Montpellier,Jonas Omlin,SUI,GK,28,1994,13.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Jordan Ferri,FRA,MF,30,1992,30.4,1,14,2,14.3,0.46,0.07,0.07,0.5,24.1,0,0,0,0.8,0.8,0.06,0.2,0.2,shooting
+FRA-Ligue 1,2022,Montpellier,Joris Chotard,FRA,MF,20,2001,27.3,0,12,1,8.3,0.44,0.04,0.0,0.0,27.2,0,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Montpellier,Khalil Fayad,FRA,MF,18,2004,8.0,0,8,3,37.5,1.0,0.38,0.0,0.0,21.8,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Montpellier,Léo Leroy,FRA,MF,22,2000,13.2,0,18,6,33.3,1.36,0.45,0.0,0.0,20.6,1,0,0,1.1,1.1,0.06,-1.1,-1.1,shooting
+FRA-Ligue 1,2022,Montpellier,Mamadou Sakho,FRA,DF,32,1990,8.5,1,3,2,66.7,0.35,0.24,0.33,0.5,6.1,0,0,0,0.5,0.5,0.18,0.5,0.5,shooting
+FRA-Ligue 1,2022,Montpellier,Matis Carvalho,POR,GK,23,1999,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Maxime Estève,FRA,DF,20,2002,18.3,0,6,0,0.0,0.33,0.0,0.0,,9.5,0,0,0,0.6,0.6,0.09,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Montpellier,Nicolas Cozza,FRA,DF,23,1999,14.2,2,7,4,57.1,0.49,0.28,0.29,0.5,10.0,0,0,0,1.4,1.4,0.2,0.6,0.6,shooting
+FRA-Ligue 1,2022,Montpellier,Pedro Mendes,POR,DF,31,1990,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Sacha Delaye,FRA,"FW,MF",20,2002,0.2,1,2,1,50.0,9.0,4.5,0.5,1.0,20.4,0,0,0,0.1,0.1,0.03,0.9,0.9,shooting
+FRA-Ligue 1,2022,Montpellier,Stephy Mavididi,ENG,FW,24,1998,14.3,4,37,15,40.5,2.59,1.05,0.11,0.27,16.8,0,0,0,4.3,4.3,0.12,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Montpellier,Thibault Tamas,FRA,DF,21,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Montpellier,Théo Sainte-Luce,FRA,DF,23,1998,5.9,1,3,2,66.7,0.51,0.34,0.33,0.5,20.5,0,0,0,0.4,0.4,0.14,0.6,0.6,shooting
+FRA-Ligue 1,2022,Montpellier,Téji Savanier,FRA,MF,30,1991,28.3,12,58,24,41.4,2.05,0.85,0.1,0.25,27.0,19,6,6,8.6,3.8,0.07,3.4,2.2,shooting
+FRA-Ligue 1,2022,Montpellier,Valère Germain,FRA,"FW,MF",32,1990,7.6,2,19,6,31.6,2.49,0.78,0.11,0.33,12.7,0,0,0,2.5,2.5,0.13,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Montpellier,Wahbi Khazri,TUN,"FW,MF",31,1991,18.2,4,38,16,42.1,2.09,0.88,0.11,0.25,22.2,0,0,0,4.1,4.1,0.11,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Abdoul Kader Bamba,FRA,"FW,MF",28,1994,0.9,0,1,1,100.0,1.15,1.15,0.0,0.0,19.3,0,0,0,0.1,0.1,0.09,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Alban Lafont,FRA,GK,23,1999,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nantes,Andrei Girotto,BRA,"DF,MF",30,1992,35.0,1,27,6,22.2,0.77,0.17,0.04,0.17,17.2,2,0,0,1.7,1.7,0.06,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Nantes,Andy Delort,ALG,FW,30,1991,5.2,0,18,10,55.6,3.45,1.92,0.0,0.0,16.1,2,0,0,2.5,2.5,0.14,-2.5,-2.5,shooting
+FRA-Ligue 1,2022,Nantes,Charles Traore,MLI,DF,30,1992,5.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nantes,Dennis Appiah,FRA,"DF,MF",30,1992,8.8,0,5,1,20.0,0.57,0.11,0.0,0.0,19.3,0,0,0,0.4,0.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Nantes,Evann Guessand,CIV,"FW,MF",21,2001,14.0,3,22,12,54.5,1.57,0.86,0.14,0.25,12.1,0,0,0,2.6,2.6,0.12,0.4,0.4,shooting
+FRA-Ligue 1,2022,Nantes,Fabien Centonze,FRA,DF,26,1996,18.8,0,14,0,0.0,0.75,0.0,0.0,,23.0,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Nantes,Florent Mollet,FRA,MF,30,1991,12.1,1,22,9,40.9,1.82,0.74,0.05,0.11,23.2,5,0,0,1.2,1.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Nantes,Fábio,BRA,"DF,MF",32,1990,2.5,0,3,2,66.7,1.21,0.8,0.0,0.0,13.9,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Nantes,Ignatius Ganago,CMR,"FW,MF",23,1999,16.9,5,33,14,42.4,1.95,0.83,0.15,0.36,13.0,0,0,0,3.7,3.7,0.11,1.3,1.3,shooting
+FRA-Ligue 1,2022,Nantes,Jaouen Hadjam,ALG,DF,19,2003,8.9,0,6,3,50.0,0.67,0.34,0.0,0.0,30.3,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Nantes,Jean-Charles Castelletto,CMR,DF,27,1995,28.5,0,9,3,33.3,0.32,0.11,0.0,0.0,13.4,0,0,0,0.7,0.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Nantes,João Victor,BRA,DF,24,1998,9.4,0,2,0,0.0,0.21,0.0,0.0,,15.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Lohann Doucet,FRA,"MF,FW",19,2002,1.0,0,1,1,100.0,0.99,0.99,0.0,0.0,16.2,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Ludovic Blas,FRA,"MF,FW",24,1997,31.3,7,95,32,33.7,3.04,1.02,0.05,0.16,21.5,4,2,4,9.3,6.4,0.07,-2.3,-1.4,shooting
+FRA-Ligue 1,2022,Nantes,Marcus Coco,FRA,"FW,MF",26,1996,7.1,1,7,1,14.3,0.98,0.14,0.14,1.0,13.6,0,0,0,1.1,1.1,0.16,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Mohamed Achi,FRA,FW,20,2002,0.4,0,1,0,0.0,2.5,0.0,0.0,,26.1,0,0,0,0.1,0.1,0.12,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Moses Simon,NGA,"FW,MF",27,1995,26.1,5,32,9,28.1,1.23,0.35,0.13,0.44,18.3,1,1,1,4.6,3.6,0.11,0.4,0.4,shooting
+FRA-Ligue 1,2022,Nantes,Mostafa Mohamed,EGY,FW,24,1997,21.5,8,58,24,41.4,2.69,1.11,0.14,0.33,14.2,0,0,0,7.3,7.3,0.13,0.7,0.7,shooting
+FRA-Ligue 1,2022,Nantes,Moussa Sissoko,FRA,MF,32,1989,21.3,2,17,4,23.5,0.8,0.19,0.12,0.5,16.3,0,0,0,2.4,2.4,0.14,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Nantes,Nathan Zeze,FRA,DF,17,2005,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nantes,Nicolas Pallois,FRA,DF,34,1987,24.6,1,9,3,33.3,0.37,0.12,0.11,0.33,12.9,0,0,0,1.2,1.2,0.13,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Nantes,Pedro Chirivella,ESP,MF,25,1997,22.5,0,16,5,31.3,0.71,0.22,0.0,0.0,22.2,0,0,0,0.8,0.8,0.05,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Nantes,Quentin Merlin,FRA,DF,20,2002,19.9,1,15,4,26.7,0.75,0.2,0.07,0.25,22.8,1,0,0,0.8,0.8,0.05,0.2,0.2,shooting
+FRA-Ligue 1,2022,Nantes,Rémy Descamps,FRA,GK,26,1996,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nantes,Samuel Moutoussamy,COD,MF,25,1996,26.7,0,22,5,22.7,0.83,0.19,0.0,0.0,16.8,0,0,0,1.7,1.7,0.08,-1.7,-1.7,shooting
+FRA-Ligue 1,2022,Nantes,Stredair Appuah,FRA,"DF,MF",18,2004,0.7,0,3,0,0.0,4.09,0.0,0.0,,26.5,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nantes,Sébastien Corchia,FRA,DF,31,1990,8.7,0,5,2,40.0,0.57,0.23,0.0,0.0,27.4,1,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Nice,Aaron Ramsey,WAL,MF,31,1990,17.6,1,22,6,27.3,1.25,0.34,0.05,0.17,15.3,1,0,0,2.5,2.5,0.11,-1.5,-1.5,shooting
+FRA-Ligue 1,2022,Nice,Alexis Beka Beka,FRA,"MF,DF",21,2001,6.1,0,9,3,33.3,1.49,0.5,0.0,0.0,24.5,1,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Nice,Alexis Claude-Maurice,FRA,FW,24,1998,0.7,0,2,0,0.0,2.81,0.0,0.0,,24.0,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nice,Amine Gouiri,ALG,"FW,MF",22,2000,2.5,0,5,2,40.0,1.99,0.8,0.0,0.0,12.5,0,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Nice,Andréa Dacourt,FRA,MF,17,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Andy Delort,ALG,FW,30,1991,8.7,6,23,8,34.8,2.65,0.92,0.13,0.38,16.4,1,3,3,5.4,3.0,0.13,0.6,0.0,shooting
+FRA-Ligue 1,2022,Nice,Antoine Mendy,SEN,DF,18,2004,5.8,0,8,2,25.0,1.39,0.35,0.0,0.0,16.3,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Nice,Ayoub Amraoui,MAR,"DF,FW",18,2004,3.3,0,1,0,0.0,0.31,0.0,0.0,,20.4,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Badredine Bouanani,ALG,"FW,MF",17,2004,9.6,0,24,10,41.7,2.5,1.04,0.0,0.0,21.1,1,0,0,1.7,1.7,0.07,-1.7,-1.7,shooting
+FRA-Ligue 1,2022,Nice,Bilal Brahimi,ALG,"FW,MF",22,2000,8.9,3,20,6,30.0,2.25,0.68,0.15,0.5,24.3,0,0,0,1.0,1.0,0.05,2.0,2.0,shooting
+FRA-Ligue 1,2022,Nice,Calvin Stengs,NED,FW,23,1998,2.4,0,3,1,33.3,1.27,0.42,0.0,0.0,20.1,0,0,0,0.3,0.3,0.09,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Nice,Dante,BRA,DF,38,1983,36.7,1,23,5,21.7,0.63,0.14,0.04,0.2,13.8,0,0,0,1.5,1.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Nice,Flavius Daniliuc,AUT,DF,21,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Gaëtan Laborde,FRA,FW,28,1994,27.8,13,74,39,52.7,2.66,1.4,0.18,0.33,15.7,1,0,1,11.8,11.0,0.15,1.2,2.0,shooting
+FRA-Ligue 1,2022,Nice,Hicham Boudaoui,ALG,MF,22,1999,20.8,1,21,9,42.9,1.01,0.43,0.05,0.11,23.8,0,0,0,0.9,0.9,0.04,0.1,0.1,shooting
+FRA-Ligue 1,2022,Nice,Jean-Clair Todibo,FRA,DF,22,1999,31.9,0,14,4,28.6,0.44,0.13,0.0,0.0,13.4,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Nice,Joe Bryan,ENG,"MF,DF",28,1993,2.0,0,1,0,0.0,0.51,0.0,0.0,,18.9,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Jordan Lotomba,SUI,DF,23,1998,27.3,0,13,5,38.5,0.48,0.18,0.0,0.0,19.8,0,0,0,0.9,0.9,0.07,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Nice,Kasper Schmeichel,DEN,GK,35,1986,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Khéphren Thuram,FRA,MF,21,2001,28.3,2,38,9,23.7,1.34,0.32,0.05,0.22,18.4,0,0,0,3.2,3.2,0.08,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Nice,Marcin Bułka,POL,GK,22,1999,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Mario Lemina,GAB,"MF,DF",28,1993,9.3,0,6,3,50.0,0.64,0.32,0.0,0.0,20.1,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Nice,Mattia Viti,ITA,DF,20,2002,7.0,1,2,1,50.0,0.28,0.14,0.5,1.0,7.8,0,0,0,0.1,0.1,0.05,0.9,0.9,shooting
+FRA-Ligue 1,2022,Nice,Melvin Bard,FRA,DF,21,2000,27.3,0,7,2,28.6,0.26,0.07,0.0,0.0,15.4,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Nice,Nicolas Pépé,CIV,"FW,MF",27,1995,16.6,6,46,17,37.0,2.77,1.02,0.07,0.18,17.6,2,3,3,8.1,5.8,0.13,-2.1,-2.8,shooting
+FRA-Ligue 1,2022,Nice,Pablo Rosario,NED,"MF,DF",25,1997,19.6,0,10,2,20.0,0.51,0.1,0.0,0.0,16.3,0,0,0,0.9,0.9,0.09,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Nice,Rareş Ilie,ROU,"MF,FW",19,2003,1.6,0,4,0,0.0,2.43,0.0,0.0,,16.8,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Nice,Reda Belahyane,MAR,MF,18,2004,2.0,0,1,0,0.0,0.49,0.0,0.0,,21.9,0,0,0,0.1,0.1,0.09,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Nice,Ross Barkley,ENG,"MF,FW",28,1993,10.7,4,38,17,44.7,3.56,1.59,0.11,0.24,19.7,3,0,0,4.3,4.3,0.11,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Nice,Sofiane Diop,FRA,"MF,FW",22,2000,13.6,1,28,9,32.1,2.05,0.66,0.04,0.11,20.0,1,0,0,2.6,2.6,0.09,-1.6,-1.6,shooting
+FRA-Ligue 1,2022,Nice,Terem Moffi,NGA,FW,23,1999,14.8,6,44,18,40.9,2.98,1.22,0.14,0.33,14.9,0,0,0,8.3,8.3,0.19,-2.3,-2.3,shooting
+FRA-Ligue 1,2022,Nice,Théo Trinker,FRA,MF,21,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Youcef Atal,ALG,"DF,MF",26,1996,8.7,1,12,5,41.7,1.39,0.58,0.08,0.2,17.3,0,0,0,1.0,1.0,0.09,0.0,0.0,shooting
+FRA-Ligue 1,2022,Nice,Youssouf Ndayishimiye,BDI,"MF,DF",23,1998,6.3,1,8,4,50.0,1.27,0.63,0.13,0.25,18.2,0,0,0,0.5,0.5,0.06,0.5,0.5,shooting
+FRA-Ligue 1,2022,Paris S-G,Achraf Hakimi,MAR,"DF,MF",23,1998,22.8,5,18,9,50.0,0.79,0.39,0.28,0.56,14.9,0,0,0,3.8,3.8,0.21,1.2,1.2,shooting
+FRA-Ligue 1,2022,Paris S-G,Alexandre Letellier,FRA,GK,31,1990,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Carlos Soler,ESP,MF,25,1997,13.2,3,10,6,60.0,0.76,0.45,0.3,0.5,15.2,0,0,0,1.6,1.6,0.16,1.4,1.4,shooting
+FRA-Ligue 1,2022,Paris S-G,Danilo Pereira,POR,"DF,MF",30,1991,26.8,2,22,5,22.7,0.82,0.19,0.09,0.4,12.7,0,0,0,2.3,2.3,0.11,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Paris S-G,El Chadaille Bitshiabu,FRA,DF,17,2005,6.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Fabián Ruiz Peña,ESP,MF,26,1996,21.0,3,26,9,34.6,1.24,0.43,0.12,0.33,18.2,0,0,0,2.8,2.8,0.11,0.2,0.2,shooting
+FRA-Ligue 1,2022,Paris S-G,Gianluigi Donnarumma,ITA,GK,23,1999,37.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Hugo Ekitike,FRA,FW,20,2002,12.8,3,34,12,35.3,2.65,0.94,0.09,0.25,14.8,0,0,0,3.7,3.7,0.11,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Paris S-G,Ilyes Housni,FRA,FW,17,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Ismaël Gharbi,ESP,"MF,FW",18,2004,0.6,0,3,1,33.3,4.66,1.55,0.0,0.0,21.3,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Paris S-G,Juan Bernat,ESP,"DF,MF",29,1993,18.3,1,7,6,85.7,0.38,0.33,0.14,0.17,11.4,0,0,0,0.9,0.9,0.12,0.1,0.1,shooting
+FRA-Ligue 1,2022,Paris S-G,Kylian Mbappé,FRA,FW,23,1998,31.3,29,144,73,50.7,4.6,2.33,0.18,0.36,15.9,1,3,5,26.3,22.2,0.15,2.7,3.8,shooting
+FRA-Ligue 1,2022,Paris S-G,Leandro Paredes,ARG,MF,28,1994,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Lionel Messi,ARG,"FW,MF",35,1987,31.5,16,129,55,42.6,4.09,1.74,0.12,0.29,18.3,20,0,0,15.5,15.5,0.12,0.5,0.5,shooting
+FRA-Ligue 1,2022,Paris S-G,Marco Verratti,ITA,MF,29,1992,24.4,0,8,4,50.0,0.33,0.16,0.0,0.0,17.8,0,0,0,0.8,0.8,0.1,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Paris S-G,Marquinhos,BRA,DF,28,1994,30.2,2,18,4,22.2,0.6,0.13,0.11,0.5,9.2,0,0,0,2.1,2.1,0.11,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Paris S-G,Neymar,BRA,"MF,FW",30,1992,17.2,13,36,18,50.0,2.1,1.05,0.31,0.61,16.8,6,2,2,8.1,6.5,0.18,4.9,4.5,shooting
+FRA-Ligue 1,2022,Paris S-G,Nordi Mukiele,FRA,DF,24,1997,12.6,0,11,2,18.2,0.87,0.16,0.0,0.0,11.6,0,0,0,1.0,1.0,0.09,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Nuno Mendes,POR,DF,20,2002,17.2,1,10,7,70.0,0.58,0.41,0.1,0.14,13.7,0,0,0,1.0,1.0,0.1,0.0,0.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Pablo Sarabia,ESP,"FW,MF",30,1992,4.1,0,6,2,33.3,1.46,0.49,0.0,0.0,10.4,0,0,0,1.3,1.3,0.22,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Paris S-G,Presnel Kimpembe,FRA,DF,26,1995,8.1,0,4,0,0.0,0.49,0.0,0.0,,6.3,0,0,0,0.7,0.7,0.17,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Paris S-G,Renato Sanches,POR,MF,24,1997,8.0,2,14,6,42.9,1.76,0.75,0.14,0.33,17.9,0,0,0,1.1,1.1,0.08,0.9,0.9,shooting
+FRA-Ligue 1,2022,Paris S-G,Sergio Ramos,ESP,DF,36,1986,30.0,2,19,7,36.8,0.63,0.23,0.11,0.29,14.6,1,0,0,1.7,1.7,0.09,0.3,0.3,shooting
+FRA-Ligue 1,2022,Paris S-G,Timothee Pembele,FRA,DF,19,2002,2.9,0,3,1,33.3,1.03,0.34,0.0,0.0,16.3,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Paris S-G,Vitinha,POR,MF,22,2000,27.2,2,31,11,35.5,1.14,0.4,0.06,0.18,20.5,0,0,0,3.0,3.0,0.1,-1.0,-1.0,shooting
+FRA-Ligue 1,2022,Paris S-G,Warren Zaïre-Emery,FRA,"MF,DF",16,2006,10.3,2,9,4,44.4,0.87,0.39,0.22,0.5,17.1,0,0,0,1.4,1.4,0.16,0.6,0.6,shooting
+FRA-Ligue 1,2022,Reims,Alexis Flips,FRA,"FW,MF",22,2000,22.0,4,53,20,37.7,2.41,0.91,0.08,0.2,24.1,9,0,0,3.9,3.9,0.07,0.1,0.1,shooting
+FRA-Ligue 1,2022,Reims,Andrew Gravillon,GLP,DF,24,1998,11.5,0,8,1,12.5,0.69,0.09,0.0,0.0,18.3,1,0,0,0.8,0.8,0.1,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Reims,Arber Zeneli,KVX,"FW,MF",27,1995,11.1,0,31,6,19.4,2.79,0.54,0.0,0.0,20.8,5,0,0,2.1,2.1,0.07,-2.1,-2.1,shooting
+FRA-Ligue 1,2022,Reims,Azor Matusiwa,NED,MF,24,1998,27.6,0,11,4,36.4,0.4,0.14,0.0,0.0,26.2,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Reims,Bradley Locko,FRA,DF,20,2002,11.8,0,5,0,0.0,0.42,0.0,0.0,,22.3,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Reims,Check Keita,FRA,DF,19,2003,7.6,0,3,1,33.3,0.4,0.13,0.0,0.0,19.4,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Reims,Dion Lopy,SEN,MF,20,2002,15.3,0,18,4,22.2,1.17,0.26,0.0,0.0,23.3,0,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Reims,El Bilal Touré,MLI,FW,20,2001,1.0,0,1,1,100.0,0.99,0.99,0.0,0.0,26.1,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Emmanuel Agbadou,CIV,DF,25,1997,26.5,0,22,3,13.6,0.83,0.11,0.0,0.0,15.8,0,0,0,1.7,1.7,0.08,-1.7,-1.7,shooting
+FRA-Ligue 1,2022,Reims,Fallou Fall,SEN,DF,18,2004,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Folarin Balogun,USA,FW,21,2001,33.3,21,121,50,41.3,3.63,1.5,0.12,0.3,15.2,2,6,7,26.6,21.0,0.18,-5.6,-6.0,shooting
+FRA-Ligue 1,2022,Reims,Ibrahim Diakité,GUI,DF,18,2003,1.5,0,1,1,100.0,0.69,0.69,0.0,0.0,7.5,0,0,0,0.2,0.2,0.2,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Reims,Jens Cajuste,SWE,MF,22,1999,17.0,3,27,7,25.9,1.59,0.41,0.11,0.43,19.5,0,0,0,1.5,1.5,0.06,1.5,1.5,shooting
+FRA-Ligue 1,2022,Reims,Junya Ito,JPN,FW,29,1993,32.4,6,42,17,40.5,1.3,0.52,0.14,0.35,15.3,0,0,0,5.7,5.7,0.14,0.3,0.3,shooting
+FRA-Ligue 1,2022,Reims,Kaj Sierhuis,NED,"FW,MF",24,1998,2.4,0,5,1,20.0,2.06,0.41,0.0,0.0,14.3,0,0,0,0.4,0.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Reims,Kamory Doumbia,MLI,MF,19,2003,12.8,2,25,9,36.0,1.95,0.7,0.04,0.11,19.8,0,1,1,3.7,2.9,0.12,-1.7,-1.9,shooting
+FRA-Ligue 1,2022,Reims,Mamadou Diakhon,FRA,FW,16,2005,0.2,0,1,0,0.0,4.29,0.0,0.0,,18.9,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Marshall Munetsi,ZIM,MF,26,1996,30.0,7,68,23,33.8,2.27,0.77,0.1,0.3,16.1,0,0,0,9.4,9.4,0.14,-2.4,-2.4,shooting
+FRA-Ligue 1,2022,Reims,Martin Adeline,FRA,"MF,FW",18,2003,1.2,0,1,0,0.0,0.84,0.0,0.0,,25.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Reims,Maxime Busi,BEL,DF,22,1999,11.6,0,3,0,0.0,0.26,0.0,0.0,,27.5,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Reims,Mitchell van Bergen,NED,"FW,DF",22,1999,10.1,0,25,11,44.0,2.49,1.09,0.0,0.0,19.2,0,0,0,2.2,2.2,0.09,-2.2,-2.2,shooting
+FRA-Ligue 1,2022,Reims,Mohamed Toure,AUS,"FW,MF",18,2004,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Myziane Maolida,COM,"MF,FW",23,1999,2.6,1,6,2,33.3,2.33,0.78,0.17,0.5,17.2,0,0,0,0.5,0.5,0.08,0.5,0.5,shooting
+FRA-Ligue 1,2022,Reims,Nathanael Mbuku,COD,"FW,MF",20,2002,0.7,0,2,0,0.0,2.73,0.0,0.0,,21.0,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Reims,Noah Holm,NOR,"FW,MF",21,2001,2.2,0,2,0,0.0,0.93,0.0,0.0,,36.7,0,0,0,0.3,0.3,0.16,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Reims,Patrick Pentz,AUT,GK,25,1997,7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Rafik Guitane,FRA,FW,23,1999,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Samuel Koeberlé,FRA,MF,17,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Thibault De Smet,BEL,DF,24,1998,19.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Thomas Foket,BEL,DF,27,1994,22.0,0,2,1,50.0,0.09,0.05,0.0,0.0,11.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Reims,Valentin Atangana Edoa,FRA,MF,16,2005,1.9,0,1,0,0.0,0.52,0.0,0.0,,15.5,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Wout Faes,BEL,DF,24,1998,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Yehvann Diouf,FRA,GK,22,1999,31.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Reims,Yunis Abdelhamid,MAR,DF,34,1987,37.0,1,32,3,9.4,0.86,0.08,0.03,0.33,15.0,0,0,0,2.4,2.4,0.07,-1.4,-1.4,shooting
+FRA-Ligue 1,2022,Rennes,Adrien Truffert,FRA,DF,20,2001,21.7,0,10,3,30.0,0.46,0.14,0.0,0.0,21.3,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Rennes,Alan Do Marcolino,GAB,FW,20,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Rennes,Amine Gouiri,ALG,"FW,MF",22,2000,28.0,15,74,30,40.5,2.64,1.07,0.2,0.5,13.6,0,0,0,11.1,11.1,0.15,3.9,3.9,shooting
+FRA-Ligue 1,2022,Rennes,Arnaud Kalimuendo,FRA,FW,20,2002,20.5,7,43,21,48.8,2.09,1.02,0.16,0.33,14.0,0,0,0,7.5,7.5,0.18,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Rennes,Arthur Theate,BEL,DF,22,2000,34.7,4,31,10,32.3,0.89,0.29,0.13,0.4,11.9,0,0,0,4.5,4.5,0.15,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Rennes,Baptiste Santamaria,FRA,MF,27,1995,20.1,2,19,8,42.1,0.94,0.4,0.11,0.25,23.2,0,0,0,1.1,1.1,0.06,0.9,0.9,shooting
+FRA-Ligue 1,2022,Rennes,Benjamin Bourigeaud,FRA,"MF,FW",28,1994,34.1,7,71,19,26.8,2.08,0.56,0.07,0.26,20.0,10,2,2,8.7,7.1,0.1,-1.7,-2.1,shooting
+FRA-Ligue 1,2022,Rennes,Birger Meling,NOR,DF,27,1994,13.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Rennes,Christopher Wooh,CMR,DF,20,2001,11.2,0,5,0,0.0,0.45,0.0,0.0,,8.9,0,0,0,0.7,0.7,0.13,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Rennes,Djed Spence,ENG,DF,21,2000,6.4,0,3,1,33.3,0.47,0.16,0.0,0.0,14.0,0,0,0,0.4,0.4,0.12,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Rennes,Doğan Alemdar,TUR,GK,19,2002,4.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Rennes,Désiré Doué,FRA,"MF,FW",17,2005,12.4,3,21,6,28.6,1.7,0.48,0.14,0.5,21.0,0,0,0,1.6,1.6,0.07,1.4,1.4,shooting
+FRA-Ligue 1,2022,Rennes,Flavien Tait,FRA,MF,29,1993,18.7,2,25,6,24.0,1.34,0.32,0.08,0.33,18.4,0,0,0,2.3,2.3,0.09,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Rennes,Gaëtan Laborde,FRA,FW,28,1994,2.8,2,11,6,54.5,3.98,2.17,0.18,0.33,13.2,0,0,0,1.7,1.7,0.16,0.3,0.3,shooting
+FRA-Ligue 1,2022,Rennes,Guela Doué,CIV,"FW,MF",19,2002,0.1,0,1,0,0.0,7.5,0.0,0.0,,31.4,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Rennes,Hamari Traoré,MLI,DF,30,1992,28.1,1,30,9,30.0,1.07,0.32,0.03,0.11,15.5,0,0,0,1.9,1.9,0.06,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Rennes,Ibrahim Salah,MAR,"FW,MF",20,2001,2.5,0,6,2,33.3,2.38,0.79,0.0,0.0,20.9,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Rennes,Jeanuël Belocian,FRA,DF,17,2005,5.6,0,1,0,0.0,0.18,0.0,0.0,,19.3,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2022,Rennes,Jeremy Doku,BEL,"MF,FW",20,2002,14.3,6,26,12,46.2,1.81,0.84,0.23,0.5,15.7,0,0,0,2.7,2.7,0.1,3.3,3.3,shooting
+FRA-Ligue 1,2022,Rennes,Joe Rodon,WAL,DF,24,1997,15.7,1,7,2,28.6,0.44,0.13,0.14,0.5,6.9,0,0,0,0.9,0.9,0.13,0.1,0.1,shooting
+FRA-Ligue 1,2022,Rennes,Kamaldeen Sulemana,GHA,"FW,MF",20,2002,3.6,1,13,3,23.1,3.59,0.83,0.08,0.33,17.6,0,0,0,1.4,1.4,0.11,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Rennes,Karl Toko Ekambi,CMR,"FW,MF",29,1992,10.8,3,22,7,31.8,2.04,0.65,0.14,0.43,13.4,0,0,0,3.6,3.6,0.16,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Rennes,Lesley Ugochukwu,FRA,MF,18,2004,14.8,0,6,1,16.7,0.41,0.07,0.0,0.0,18.4,0,0,0,0.9,0.9,0.15,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Rennes,Lorenz Assignon,TOG,DF,22,2000,2.9,0,3,1,33.3,1.03,0.34,0.0,0.0,14.7,0,0,0,0.3,0.3,0.11,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Rennes,Lovro Majer,CRO,"MF,FW",24,1998,18.5,2,33,11,33.3,1.78,0.59,0.03,0.09,20.4,5,1,1,3.3,2.5,0.08,-1.3,-1.5,shooting
+FRA-Ligue 1,2022,Rennes,Loïc Bade,FRA,DF,22,2000,1.0,0,2,0,0.0,2.0,0.0,0.0,,8.7,0,0,0,0.2,0.2,0.1,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Rennes,Martin Terrier,FRA,"FW,MF",25,1997,14.7,9,47,27,57.4,3.21,1.84,0.19,0.33,15.2,0,0,0,5.6,5.6,0.12,3.4,3.4,shooting
+FRA-Ligue 1,2022,Rennes,Matthis Abline,FRA,"FW,MF",19,2003,1.2,1,6,2,33.3,5.05,1.68,0.17,0.5,12.2,0,0,0,0.8,0.8,0.13,0.2,0.2,shooting
+FRA-Ligue 1,2022,Rennes,Serhou Guirassy,GUI,MF,26,1996,0.3,0,2,1,50.0,7.83,3.91,0.0,0.0,10.5,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Rennes,Steve Mandanda,FRA,GK,37,1985,33.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Rennes,Warmed Omari,COM,DF,22,2000,15.1,0,3,1,33.3,0.2,0.07,0.0,0.0,7.1,0,0,0,0.6,0.6,0.19,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Rennes,Xeka,POR,MF,27,1994,6.1,0,5,0,0.0,0.82,0.0,0.0,,22.8,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Strasbourg,Adrien Thomasson,FRA,MF,28,1993,10.4,0,17,5,29.4,1.63,0.48,0.0,0.0,12.1,0,0,0,1.5,1.5,0.09,-1.5,-1.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Alexander Djiku,GHA,DF,27,1994,29.7,1,17,5,29.4,0.57,0.17,0.06,0.2,14.4,1,0,0,1.4,1.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Strasbourg,Colin Dagba,FRA,"DF,MF",23,1998,10.6,0,5,0,0.0,0.47,0.0,0.0,,16.3,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Strasbourg,Dany Jean,HAI,"DF,MF",19,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Strasbourg,Dimitri Liénard,FRA,"DF,MF",34,1988,17.1,0,13,2,15.4,0.76,0.12,0.0,0.0,21.8,2,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Strasbourg,Eduard Sobol,UKR,DF,27,1995,9.7,0,5,0,0.0,0.52,0.0,0.0,,26.6,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Strasbourg,Franci Bouebari,FRA,DF,18,2003,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Strasbourg,Frederic Guilbert,FRA,DF,27,1994,16.2,0,12,1,8.3,0.74,0.06,0.0,0.0,26.3,3,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Strasbourg,Gerzino Nyamsi,FRA,DF,25,1997,17.5,1,14,7,50.0,0.8,0.4,0.07,0.14,10.8,0,0,0,1.5,1.5,0.11,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Habib Diallo,SEN,FW,27,1995,32.0,20,90,36,40.0,2.81,1.13,0.19,0.47,13.0,1,3,4,17.7,14.5,0.17,2.3,2.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Habib Diarra,SEN,"MF,FW",18,2004,18.1,3,23,9,39.1,1.27,0.5,0.13,0.33,20.1,0,0,0,1.8,1.8,0.08,1.2,1.2,shooting
+FRA-Ligue 1,2022,Strasbourg,Ibrahima Sissoko,MLI,MF,24,1997,14.6,0,13,3,23.1,0.89,0.21,0.0,0.0,18.0,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Strasbourg,Ismaël Doukouré,FRA,"DF,MF",19,2003,25.5,1,9,2,22.2,0.35,0.08,0.11,0.5,25.4,0,0,0,0.3,0.3,0.03,0.7,0.7,shooting
+FRA-Ligue 1,2022,Strasbourg,Jean-Eudes Aholou,CIV,MF,28,1994,14.4,3,21,8,38.1,1.45,0.55,0.14,0.38,25.0,0,0,0,1.2,1.2,0.06,1.8,1.8,shooting
+FRA-Ligue 1,2022,Strasbourg,Jean-Ricner Bellegarde,FRA,"MF,FW",24,1998,26.9,2,38,13,34.2,1.41,0.48,0.05,0.15,22.2,11,0,0,2.5,2.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Karol Fila,POL,DF,24,1998,0.5,0,1,0,0.0,1.91,0.0,0.0,,20.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Strasbourg,Kévin Gameiro,FRA,FW,35,1987,23.3,10,44,22,50.0,1.89,0.94,0.2,0.41,13.0,0,1,2,8.2,6.5,0.15,1.8,2.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Lebo Mothiba,RSA,"FW,MF",26,1996,4.8,3,9,4,44.4,1.86,0.83,0.33,0.75,13.0,0,0,0,1.1,1.1,0.12,1.9,1.9,shooting
+FRA-Ligue 1,2022,Strasbourg,Lucas Perrin,FRA,DF,23,1998,19.6,0,7,4,57.1,0.36,0.2,0.0,0.0,11.7,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Ludovic Ajorque,FRA,FW,28,1994,8.6,1,22,7,31.8,2.57,0.82,0.0,0.0,15.1,1,1,1,3.3,2.5,0.11,-2.3,-2.5,shooting
+FRA-Ligue 1,2022,Strasbourg,Marvin Senaya,TOG,DF,21,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Strasbourg,Matz Sels,BEL,GK,30,1992,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Strasbourg,Maxime Le Marchand,FRA,DF,32,1989,22.4,0,8,0,0.0,0.36,0.0,0.0,,19.1,0,0,0,0.6,0.6,0.08,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Strasbourg,Morgan Sanson,FRA,MF,27,1994,15.8,1,32,8,25.0,2.03,0.51,0.03,0.13,19.7,1,0,0,3.1,3.1,0.1,-2.1,-2.1,shooting
+FRA-Ligue 1,2022,Strasbourg,Nordine Kandil,FRA,"MF,FW",20,2001,1.1,0,3,0,0.0,2.67,0.0,0.0,,19.3,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Strasbourg,Ronaël Pierre-Gabriel,FRA,DF,24,1998,7.3,0,3,2,66.7,0.41,0.28,0.0,0.0,14.6,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Strasbourg,Sanjin Prcić,BIH,MF,28,1993,18.1,1,28,7,25.0,1.54,0.39,0.04,0.14,26.0,1,0,0,1.2,1.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Strasbourg,Thomas Delaine,FRA,"DF,MF",30,1992,11.9,0,6,4,66.7,0.51,0.34,0.0,0.0,18.7,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Strasbourg,Yuito Suzuki,JPN,"FW,MF",20,2001,0.4,1,2,1,50.0,5.0,2.5,0.5,1.0,13.0,0,0,0,0.1,0.1,0.07,0.9,0.9,shooting
+FRA-Ligue 1,2022,Toulouse,Ado Onaiwu,JPN,FW,26,1995,12.0,2,19,4,21.1,1.58,0.33,0.11,0.5,17.2,0,0,0,1.6,1.6,0.09,0.4,0.4,shooting
+FRA-Ligue 1,2022,Toulouse,Anthony Rouault,FRA,DF,21,2001,36.8,2,19,10,52.6,0.52,0.27,0.11,0.2,9.0,0,0,0,3.3,3.3,0.17,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Toulouse,Branco van den Boomen,NED,MF,27,1995,32.1,5,48,20,41.7,1.5,0.62,0.02,0.05,25.1,16,4,4,6.0,2.9,0.06,-1.0,-1.9,shooting
+FRA-Ligue 1,2022,Toulouse,Brecht Dejaegere,BEL,MF,31,1991,20.1,4,23,7,30.4,1.14,0.35,0.17,0.57,14.6,0,0,0,2.6,2.6,0.11,1.4,1.4,shooting
+FRA-Ligue 1,2022,Toulouse,Christian Mawissa,FRA,DF,17,2005,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Denis Genreau,AUS,MF,23,1999,7.3,0,7,2,28.6,0.96,0.27,0.0,0.0,16.5,0,0,0,0.6,0.6,0.08,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Toulouse,Fares Chaïbi,ALG,"FW,MF",19,2002,26.0,5,63,25,39.7,2.42,0.96,0.08,0.2,16.8,2,0,0,5.9,5.9,0.09,-0.9,-0.9,shooting
+FRA-Ligue 1,2022,Toulouse,Gabriel Suazo,CHI,DF,24,1997,14.0,0,2,0,0.0,0.14,0.0,0.0,,17.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Toulouse,Issiaga Sylla,GUI,DF,28,1994,15.2,0,9,3,33.3,0.59,0.2,0.0,0.0,17.9,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Toulouse,Kévin Keben Biakolo,CMR,DF,18,2004,4.0,0,1,0,0.0,0.25,0.0,0.0,,18.2,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Logan Costa,CPV,DF,21,2001,4.6,0,5,2,40.0,1.08,0.43,0.0,0.0,8.6,0,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
+FRA-Ligue 1,2022,Toulouse,Maxime Dupé,FRA,GK,29,1993,38.0,0,1,0,0.0,0.03,0.0,0.0,,13.4,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Mikkel Desler,DEN,DF,27,1995,25.1,1,11,4,36.4,0.44,0.16,0.09,0.25,17.6,0,0,0,0.8,0.8,0.07,0.2,0.2,shooting
+FRA-Ligue 1,2022,Toulouse,Moussa Diarra,MLI,DF,21,2000,13.6,0,1,0,0.0,0.07,0.0,0.0,,6.4,0,0,0,0.2,0.2,0.16,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Toulouse,Naatan Skyttä,FIN,MF,20,2002,0.3,0,1,0,0.0,3.91,0.0,0.0,,15.5,0,0,0,0.1,0.1,0.1,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Toulouse,Nathan N'Goumou,CMR,FW,22,2000,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Oliver Zandén,SWE,"DF,MF",20,2001,1.6,0,2,1,50.0,1.23,0.62,0.0,0.0,17.6,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Rafael Ratão,BRA,"FW,MF",26,1995,20.6,5,31,11,35.5,1.51,0.53,0.16,0.45,12.4,0,0,0,5.1,5.1,0.17,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Toulouse,Rasmus Nicolaisen,DEN,DF,25,1997,33.3,0,13,7,53.8,0.39,0.21,0.0,0.0,11.5,0,0,0,1.2,1.2,0.09,-1.2,-1.2,shooting
+FRA-Ligue 1,2022,Toulouse,Rhys Healey,WAL,FW,27,1994,0.7,2,5,3,60.0,7.03,4.22,0.4,0.67,15.3,0,0,0,0.4,0.4,0.08,1.6,1.6,shooting
+FRA-Ligue 1,2022,Toulouse,Saïd Hamulic,BIH,FW,21,2000,1.2,0,1,0,0.0,0.87,0.0,0.0,,23.7,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Stijn Spierings,NED,MF,26,1996,34.7,2,24,5,20.8,0.69,0.14,0.08,0.4,20.2,0,0,0,1.8,1.8,0.07,0.2,0.2,shooting
+FRA-Ligue 1,2022,Toulouse,Theocharis Tsingaras,GRE,MF,21,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Thijs Dallinga,NED,FW,21,2000,26.1,12,61,30,49.2,2.33,1.15,0.2,0.4,12.1,0,0,0,9.8,9.8,0.16,2.2,2.2,shooting
+FRA-Ligue 1,2022,Toulouse,Veljko Birmančević,SRB,"FW,MF",24,1998,4.9,0,13,3,23.1,2.64,0.61,0.0,0.0,19.3,0,0,0,1.3,1.3,0.1,-1.3,-1.3,shooting
+FRA-Ligue 1,2022,Toulouse,Vincent Sierro,SUI,MF,26,1995,7.4,0,8,3,37.5,1.08,0.41,0.0,0.0,22.3,1,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+FRA-Ligue 1,2022,Toulouse,Waren Kamanzi,NOR,DF,21,2000,7.4,0,2,1,50.0,0.27,0.14,0.0,0.0,18.1,0,0,0,0.3,0.3,0.13,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Toulouse,Yanis Begraoui,MAR,"FW,MF",21,2001,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Toulouse,Zakaria Aboukhlal,MAR,"FW,MF",22,2000,27.5,10,83,30,36.1,3.02,1.09,0.12,0.33,15.9,0,0,0,11.5,11.5,0.14,-1.5,-1.5,shooting
+FRA-Ligue 1,2022,Troyes,Abdu Conté,POR,DF,24,1998,14.6,1,4,2,50.0,0.27,0.14,0.25,0.5,15.3,0,0,0,0.6,0.6,0.14,0.4,0.4,shooting
+FRA-Ligue 1,2022,Troyes,Adil Rami,FRA,DF,36,1985,17.7,0,9,3,33.3,0.51,0.17,0.0,0.0,26.0,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Troyes,Alexis Tibidi,FRA,"FW,MF",18,2003,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Amar Ahmed,SWE,FW,18,2004,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Andreas Bruus,DEN,"DF,FW",23,1999,18.1,0,11,3,27.3,0.61,0.17,0.0,0.0,19.7,1,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Troyes,Ante Palaversa,CRO,MF,22,2000,0.3,1,1,1,100.0,2.9,2.9,1.0,1.0,5.2,0,0,0,0.5,0.5,0.51,0.5,0.5,shooting
+FRA-Ligue 1,2022,Troyes,Derek Mazou-Sacko,FRA,MF,17,2004,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Erik Palmer-Brown,USA,DF,25,1997,35.5,0,12,2,16.7,0.34,0.06,0.0,0.0,11.7,0,0,0,1.1,1.1,0.09,-1.1,-1.1,shooting
+FRA-Ligue 1,2022,Troyes,Florian Tardieu,FRA,MF,30,1992,11.2,3,10,2,20.0,0.89,0.18,0.0,0.0,29.8,1,3,3,2.9,0.5,0.05,0.1,-0.5,shooting
+FRA-Ligue 1,2022,Troyes,Gauthier Gallon,FRA,GK,29,1993,29.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Ike Ugbo,CAN,"FW,MF",23,1998,9.9,2,15,5,33.3,1.51,0.5,0.13,0.4,16.2,1,0,0,2.2,2.2,0.15,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Troyes,Jackson Porozo,ECU,DF,21,2000,18.0,2,22,9,40.9,1.22,0.5,0.09,0.22,12.7,0,0,0,2.8,2.8,0.13,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Troyes,Jeff Reine-Adélaïde,FRA,MF,24,1998,2.6,0,4,0,0.0,1.55,0.0,0.0,,22.3,0,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Troyes,Jordan Dongmo,CMR,MF,21,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Kyliane Dong,FRA,"MF,FW",17,2004,2.4,0,2,0,0.0,0.85,0.0,0.0,,20.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2022,Troyes,Lucien Agoume,FRA,MF,20,2002,12.2,0,9,3,33.3,0.74,0.25,0.0,0.0,15.6,0,0,0,0.8,0.8,0.09,-0.8,-0.8,shooting
+FRA-Ligue 1,2022,Troyes,Mama Samba Baldé,GNB,FW,26,1995,29.6,12,73,24,32.9,2.47,0.81,0.14,0.42,17.1,0,2,2,10.6,9.1,0.12,1.4,0.9,shooting
+FRA-Ligue 1,2022,Troyes,Marlos Moreno,COL,"MF,DF",25,1996,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Mateusz Lis,POL,GK,25,1997,8.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Mathis Hamdi,FRA,DF,18,2003,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Papa Ndiaga Yade,MTN,"DF,MF",22,2000,6.3,0,10,3,30.0,1.58,0.48,0.0,0.0,20.3,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+FRA-Ligue 1,2022,Troyes,Renaud Ripart,FRA,"FW,MF",29,1993,14.7,4,39,14,35.9,2.66,0.95,0.1,0.29,16.0,0,0,0,3.5,3.5,0.09,0.5,0.5,shooting
+FRA-Ligue 1,2022,Troyes,Rominigue Kouamé,MLI,MF,25,1996,29.6,1,24,5,20.8,0.81,0.17,0.04,0.2,20.3,0,0,0,1.4,1.4,0.06,-0.4,-0.4,shooting
+FRA-Ligue 1,2022,Troyes,Rony Lopes,POR,"MF,FW",26,1995,26.1,7,57,20,35.1,2.19,0.77,0.12,0.35,19.3,5,0,0,4.9,4.9,0.09,2.1,2.1,shooting
+FRA-Ligue 1,2022,Troyes,Rudy Kohon,FRA,DF,18,2004,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Tanguy Zoukrou,FRA,DF,19,2003,5.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2022,Troyes,Thierno Balde,FRA,"DF,MF",20,2002,23.9,0,7,1,14.3,0.29,0.04,0.0,0.0,17.4,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2022,Troyes,Tristan Dingomé,CMR,MF,31,1991,1.1,0,3,1,33.3,2.73,0.91,0.0,0.0,21.7,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2022,Troyes,Wilson Odobert,FRA,"MF,FW",17,2004,19.6,4,27,14,51.9,1.38,0.71,0.15,0.29,18.0,0,0,0,2.6,2.6,0.1,1.4,1.4,shooting
+FRA-Ligue 1,2022,Troyes,Xavier Chavalerin,FRA,MF,31,1991,27.0,4,27,11,40.7,1.0,0.41,0.15,0.36,21.5,0,0,0,1.5,1.5,0.06,2.5,2.5,shooting
+FRA-Ligue 1,2022,Troyes,Yasser Larouci,ALG,"DF,MF",21,2001,20.0,1,10,4,40.0,0.5,0.2,0.1,0.25,20.6,0,0,0,0.5,0.5,0.05,0.5,0.5,shooting
+FRA-Ligue 1,2022,Troyes,Yoann Salmier,GUF,DF,29,1992,29.4,1,14,3,21.4,0.48,0.1,0.07,0.33,16.6,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting

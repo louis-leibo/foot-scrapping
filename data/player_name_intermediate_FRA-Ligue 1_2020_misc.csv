@@ -1,0 +1,586 @@
+league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
+,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
+FRA-Ligue 1,2020,Angers,Abdoulaye Bamba,CIV,DF,30,1990,15.0,2,0,0,14,6,0,48,19,17,0,1,0,82,10,9,52.6,misc
+FRA-Ligue 1,2020,Angers,Angelo Fulgini,FRA,MF,23,1996,30.3,4,0,0,29,133,3,100,15,13,0,0,0,164,20,44,31.3,misc
+FRA-Ligue 1,2020,Angers,Antonin Bobichon,FRA,"MF,FW",24,1995,10.1,0,0,0,14,16,0,43,2,14,1,0,0,58,8,12,40.0,misc
+FRA-Ligue 1,2020,Angers,Baptiste Santamaria,FRA,MF,25,1995,3.0,1,0,0,7,5,1,1,7,6,0,0,0,25,6,5,54.5,misc
+FRA-Ligue 1,2020,Angers,Casimir Ninga,CHA,FW,27,1993,0.3,0,0,0,0,1,0,1,0,0,0,0,0,2,0,2,0.0,misc
+FRA-Ligue 1,2020,Angers,Enzo Ebosse,CMR,DF,21,1999,2.9,1,0,0,3,4,0,4,2,3,0,0,0,14,2,2,50.0,misc
+FRA-Ligue 1,2020,Angers,Farid El Melali,ALG,"FW,MF",23,1997,4.6,1,0,0,8,15,1,8,6,5,1,0,0,30,2,8,20.0,misc
+FRA-Ligue 1,2020,Angers,Ibrahim Amadou,FRA,MF,27,1993,16.7,6,0,0,34,5,0,4,23,26,0,0,0,98,19,17,52.8,misc
+FRA-Ligue 1,2020,Angers,Ismaël Traoré,CIV,DF,33,1986,33.3,3,0,0,21,11,0,4,40,14,0,0,0,214,36,41,46.8,misc
+FRA-Ligue 1,2020,Angers,Jimmy Cabot,FRA,"FW,MF",26,1994,10.5,1,0,0,16,11,1,26,12,13,0,0,0,65,1,7,12.5,misc
+FRA-Ligue 1,2020,Angers,Lassana Coulibaly,MLI,MF,24,1996,18.7,4,1,0,26,31,0,12,33,41,0,0,0,130,28,26,51.9,misc
+FRA-Ligue 1,2020,Angers,Lois Diony,FRA,FW,27,1992,19.4,2,0,0,22,35,5,38,5,10,1,0,0,34,46,77,37.4,misc
+FRA-Ligue 1,2020,Angers,Mateo Pavlović,BIH,DF,30,1990,12.3,3,0,0,16,2,0,0,21,6,0,0,0,59,23,19,54.8,misc
+FRA-Ligue 1,2020,Angers,Mathias Pereira Lage,POR,"FW,MF",23,1996,16.3,5,0,0,29,15,2,26,15,17,0,1,0,61,21,39,35.0,misc
+FRA-Ligue 1,2020,Angers,Mohamed Ali Cho,FRA,"FW,MF",16,2004,3.9,1,0,0,8,8,0,11,3,7,0,0,0,20,7,9,43.8,misc
+FRA-Ligue 1,2020,Angers,Noah Fatar,FRA,"FW,MF",18,2002,0.2,0,0,0,3,0,0,0,0,0,0,0,0,1,0,1,0.0,misc
+FRA-Ligue 1,2020,Angers,Paul Bernardoni,FRA,GK,23,1997,38.0,1,0,0,2,11,0,0,2,1,0,2,0,23,6,0,100.0,misc
+FRA-Ligue 1,2020,Angers,Pierrick Capelle,FRA,"MF,DF",33,1987,22.8,2,0,0,30,16,4,32,47,28,0,1,0,177,42,51,45.2,misc
+FRA-Ligue 1,2020,Angers,Rachid Alioui,MAR,FW,28,1992,0.2,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Angers,Rayan Aït-Nouri,ALG,DF,19,2001,2.1,0,0,0,2,3,0,4,4,2,0,0,0,8,1,3,25.0,misc
+FRA-Ligue 1,2020,Angers,Romain Thomas,FRA,DF,32,1988,33.6,5,1,1,35,20,3,0,50,25,0,1,0,186,97,53,64.7,misc
+FRA-Ligue 1,2020,Angers,Sada Thioub,SEN,"FW,MF",25,1995,14.0,0,0,0,18,25,1,25,9,14,0,0,0,67,13,16,44.8,misc
+FRA-Ligue 1,2020,Angers,Sofiane Boufal,MAR,"FW,MF",26,1993,8.1,3,0,0,22,23,0,20,3,11,2,0,0,49,5,5,50.0,misc
+FRA-Ligue 1,2020,Angers,Souleyman Doumbia,CIV,DF,23,1996,24.7,8,0,0,33,16,0,64,42,33,1,1,1,139,23,21,52.3,misc
+FRA-Ligue 1,2020,Angers,Stéphane Bahoken,CMR,FW,28,1992,18.0,4,0,0,31,29,17,20,9,6,0,0,0,40,26,55,32.1,misc
+FRA-Ligue 1,2020,Angers,Thomas Mangani,FRA,MF,33,1987,29.9,3,0,0,17,24,1,108,38,37,0,0,0,193,21,22,48.8,misc
+FRA-Ligue 1,2020,Angers,Vincent Manceau,FRA,DF,31,1989,25.7,4,0,0,17,15,0,62,35,27,0,1,0,132,13,11,54.2,misc
+FRA-Ligue 1,2020,Angers,Waniss Taibi,FRA,MF,18,2002,0.4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Angers,Wilfried Kanga,CIV,FW,22,1998,1.5,0,0,0,2,1,0,1,0,0,0,0,0,0,1,7,12.5,misc
+FRA-Ligue 1,2020,Angers,Yassin Fortune,FRA,FW,21,1999,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Angers,Zinédine Ould Khaled,FRA,MF,20,2000,0.4,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Bordeaux,Amadou Traore,FRA,"FW,MF",18,2002,3.4,0,0,0,5,10,0,15,1,1,0,0,0,14,1,4,20.0,misc
+FRA-Ligue 1,2020,Bordeaux,Benoît Costil,FRA,GK,33,1987,38.0,0,0,0,0,3,0,0,1,1,0,0,0,48,6,0,100.0,misc
+FRA-Ligue 1,2020,Bordeaux,Dilane Bakwa,FRA,"FW,MF",17,2002,0.6,0,0,0,1,6,0,0,1,2,0,0,0,6,1,2,33.3,misc
+FRA-Ligue 1,2020,Bordeaux,Enock Kwateng,FRA,DF,23,1997,11.5,4,0,0,15,17,0,17,26,12,0,0,0,78,23,14,62.2,misc
+FRA-Ligue 1,2020,Bordeaux,Hatem Ben Arfa,FRA,"MF,FW",33,1987,18.9,2,0,0,20,35,5,80,2,7,1,0,0,66,4,9,30.8,misc
+FRA-Ligue 1,2020,Bordeaux,Hwang Ui-jo,KOR,"FW,MF",27,1992,27.8,1,0,0,32,35,18,11,8,6,0,0,0,53,30,57,34.5,misc
+FRA-Ligue 1,2020,Bordeaux,Issouf Sissokho,MLI,"MF,DF",18,2002,0.9,2,0,0,4,1,0,0,1,4,0,0,0,7,1,0,100.0,misc
+FRA-Ligue 1,2020,Bordeaux,Jean Seri,CIV,MF,29,1991,7.9,3,0,0,14,12,0,5,12,9,0,0,0,56,7,10,41.2,misc
+FRA-Ligue 1,2020,Bordeaux,Jimmy Briand,FRA,FW,34,1985,6.3,2,0,0,14,12,2,0,1,3,0,1,0,21,30,31,49.2,misc
+FRA-Ligue 1,2020,Bordeaux,Josh Maja,NGA,FW,21,1998,8.9,2,0,0,7,12,2,0,6,2,0,0,0,31,14,19,42.4,misc
+FRA-Ligue 1,2020,Bordeaux,Laurent Koscielny,FRA,DF,34,1985,24.6,3,0,0,12,24,2,2,54,17,1,0,0,137,53,32,62.4,misc
+FRA-Ligue 1,2020,Bordeaux,Loris Benito,SUI,DF,28,1992,29.5,7,1,0,39,16,2,40,42,26,0,1,0,175,43,29,59.7,misc
+FRA-Ligue 1,2020,Bordeaux,Loïc Bessile,TOG,DF,21,1999,1.0,0,0,0,1,0,0,0,1,0,0,0,0,4,0,1,0.0,misc
+FRA-Ligue 1,2020,Bordeaux,Maxime Poundjé,FRA,DF,27,1992,5.5,1,0,0,3,9,0,25,11,7,0,0,0,17,16,10,61.5,misc
+FRA-Ligue 1,2020,Bordeaux,Mehdi Zerkane,ALG,"MF,FW",21,1999,13.2,3,1,0,21,25,1,8,9,15,1,1,0,69,18,18,50.0,misc
+FRA-Ligue 1,2020,Bordeaux,Mexer,MOZ,DF,31,1988,7.9,3,0,0,10,2,0,3,17,6,0,1,0,48,26,11,70.3,misc
+FRA-Ligue 1,2020,Bordeaux,Nicolas de Préville,FRA,"FW,MF",29,1991,17.9,3,0,0,20,45,2,64,13,14,0,0,0,88,25,29,46.3,misc
+FRA-Ligue 1,2020,Bordeaux,Otávio,BRA,MF,26,1994,17.3,6,0,0,28,10,0,2,26,31,0,1,0,112,9,12,42.9,misc
+FRA-Ligue 1,2020,Bordeaux,Pablo,BRA,DF,29,1991,12.0,5,0,0,20,5,0,1,25,11,0,1,1,71,38,17,69.1,misc
+FRA-Ligue 1,2020,Bordeaux,Paul Baysse,FRA,DF,32,1988,29.0,5,1,1,22,15,1,2,52,18,0,1,0,129,67,51,56.8,misc
+FRA-Ligue 1,2020,Bordeaux,Remi Oudin,FRA,"FW,MF",23,1996,26.9,2,0,0,23,34,4,133,51,16,0,0,0,150,48,41,53.9,misc
+FRA-Ligue 1,2020,Bordeaux,Rubén Pardo,ESP,MF,27,1992,0.3,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Bordeaux,Samuel Kalu,NGA,"FW,MF",22,1997,10.7,3,0,0,16,36,5,28,9,12,0,0,0,61,14,12,53.8,misc
+FRA-Ligue 1,2020,Bordeaux,Sekou Mara,FRA,"FW,MF",18,2002,2.5,0,0,0,7,4,1,3,1,3,0,0,0,6,16,6,72.7,misc
+FRA-Ligue 1,2020,Bordeaux,Tom Lacoux,FRA,MF,18,2002,5.8,4,1,1,18,1,0,2,12,14,0,0,0,36,3,4,42.9,misc
+FRA-Ligue 1,2020,Bordeaux,Toma Bašić,CRO,MF,23,1996,28.9,7,0,0,42,31,2,64,32,22,0,0,0,139,25,30,45.5,misc
+FRA-Ligue 1,2020,Bordeaux,Yacine Adli,FRA,MF,20,2000,26.9,6,0,0,39,37,0,53,39,37,0,0,0,172,27,27,50.0,misc
+FRA-Ligue 1,2020,Bordeaux,Youssouf Sabaly,SEN,DF,27,1993,32.3,4,0,0,32,43,2,50,49,33,0,1,0,169,25,25,50.0,misc
+FRA-Ligue 1,2020,Brest,Bandiougou Fadiga,FRA,"MF,FW",19,2001,0.5,0,0,0,0,1,0,1,0,0,0,0,0,2,0,1,0.0,misc
+FRA-Ligue 1,2020,Brest,Brendan Chardonnet,FRA,DF,25,1994,30.2,3,1,0,29,23,0,4,64,29,0,1,0,136,76,49,60.8,misc
+FRA-Ligue 1,2020,Brest,Christophe Hérelle,MTQ,DF,27,1992,15.3,4,0,0,19,16,1,2,31,13,0,0,1,65,36,20,64.3,misc
+FRA-Ligue 1,2020,Brest,Cristian Battocchio,ITA,MF,28,1992,3.9,0,0,0,1,2,0,17,4,2,0,0,0,21,1,4,20.0,misc
+FRA-Ligue 1,2020,Brest,Franck Honorat,FRA,"MF,FW",23,1996,27.3,3,0,0,37,14,3,185,11,13,0,1,0,124,22,25,46.8,misc
+FRA-Ligue 1,2020,Brest,Gautier Larsonneur,FRA,GK,23,1997,35.0,2,0,0,1,6,0,0,0,1,0,1,0,38,6,0,100.0,misc
+FRA-Ligue 1,2020,Brest,Gaëtan Charbonnier,FRA,"MF,FW",31,1988,17.4,4,0,0,25,21,10,24,9,15,0,0,0,71,30,46,39.5,misc
+FRA-Ligue 1,2020,Brest,Haris Belkebla,ALG,MF,26,1994,30.3,7,1,0,38,33,0,11,57,39,0,1,0,182,23,34,40.4,misc
+FRA-Ligue 1,2020,Brest,Heriberto Tavares,POR,"FW,MF",23,1997,0.5,0,0,0,1,0,0,2,1,0,0,0,0,1,1,2,33.3,misc
+FRA-Ligue 1,2020,Brest,Hianga Mananga Mbock,FRA,"MF,FW",20,1999,5.1,1,0,0,9,3,0,0,3,3,0,0,0,16,9,6,60.0,misc
+FRA-Ligue 1,2020,Brest,Hugo Magnetti,FRA,MF,22,1998,6.7,4,0,0,12,9,0,5,14,12,0,0,0,46,3,6,33.3,misc
+FRA-Ligue 1,2020,Brest,Ibrahima Diallo,FRA,MF,21,1999,4.9,1,0,0,8,8,0,3,3,9,0,0,0,35,1,3,25.0,misc
+FRA-Ligue 1,2020,Brest,Irvin Cardona,FRA,FW,22,1997,22.5,2,0,0,16,15,16,32,9,5,1,0,0,53,23,28,45.1,misc
+FRA-Ligue 1,2020,Brest,Jean Lucas,BRA,"MF,FW",22,1998,11.2,4,1,1,14,22,0,15,8,13,0,0,0,74,8,14,36.4,misc
+FRA-Ligue 1,2020,Brest,Jean-Kevin Duverne,HAI,DF,23,1997,22.5,4,0,0,21,15,0,10,30,21,0,2,0,112,38,50,43.2,misc
+FRA-Ligue 1,2020,Brest,Julien Faussurier,FRA,DF,33,1987,10.6,2,0,0,12,6,1,52,9,11,0,1,0,63,8,8,50.0,misc
+FRA-Ligue 1,2020,Brest,Jérémy Le Douaron,FRA,"FW,MF",22,1998,9.1,0,0,0,18,17,1,12,8,10,1,0,0,36,28,26,51.9,misc
+FRA-Ligue 1,2020,Brest,Lilian Brassier,FRA,DF,20,1999,10.7,3,0,0,19,12,0,8,23,10,0,0,0,54,33,11,75.0,misc
+FRA-Ligue 1,2020,Brest,Ludovic Baal,GUF,"DF,MF",34,1986,3.3,0,0,0,3,7,0,2,5,5,0,0,0,24,8,7,53.3,misc
+FRA-Ligue 1,2020,Brest,Paul Lasne,FRA,MF,31,1989,18.7,4,1,0,27,17,1,4,47,26,0,1,0,107,22,20,52.4,misc
+FRA-Ligue 1,2020,Brest,Romain Faivre,FRA,"MF,FW",22,1998,32.1,0,0,0,35,72,0,138,30,27,0,1,1,230,15,27,35.7,misc
+FRA-Ligue 1,2020,Brest,Romain Perraud,FRA,DF,22,1997,34.9,4,0,0,47,53,2,131,45,34,0,1,0,203,24,42,36.4,misc
+FRA-Ligue 1,2020,Brest,Romain Philippoteaux,FRA,"MF,FW",32,1988,6.5,0,0,0,3,7,2,9,10,6,0,0,0,33,0,0,,misc
+FRA-Ligue 1,2020,Brest,Ronaël Pierre-Gabriel,FRA,DF,22,1998,25.6,4,0,0,27,28,2,41,30,40,1,0,0,120,21,26,44.7,misc
+FRA-Ligue 1,2020,Brest,Steve Mounié,BEN,FW,25,1994,29.8,6,0,0,68,27,20,12,12,11,1,0,0,78,257,105,71.0,misc
+FRA-Ligue 1,2020,Brest,Sébastien Cibois,FRA,GK,22,1998,3.0,0,0,0,1,0,0,0,0,0,0,1,0,4,0,0,,misc
+FRA-Ligue 1,2020,Dijon,Aboubakar Kamara,MTN,"FW,MF",25,1995,6.2,1,1,0,14,17,1,10,0,1,0,0,0,12,15,21,41.7,misc
+FRA-Ligue 1,2020,Dijon,Ahmad Ngouyamsa,CHA,DF,19,2000,1.7,1,0,0,4,1,0,2,2,4,0,1,0,12,3,4,42.9,misc
+FRA-Ligue 1,2020,Dijon,Alfred Gomis,SEN,GK,26,1993,5.0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Dijon,Anthony Racioppi,SUI,GK,21,1998,21.0,0,0,0,0,2,0,0,2,0,0,0,0,32,4,1,80.0,misc
+FRA-Ligue 1,2020,Dijon,Aníbal Chalá,ECU,DF,24,1996,8.3,0,0,0,15,9,0,12,14,7,0,0,0,44,7,7,50.0,misc
+FRA-Ligue 1,2020,Dijon,Arthur Zagre,FRA,"DF,MF",18,2001,1.4,0,0,0,1,1,0,0,3,1,0,0,0,9,1,1,50.0,misc
+FRA-Ligue 1,2020,Dijon,Aurélien Scheidler,FRA,FW,22,1998,3.8,1,0,0,6,4,6,2,1,0,0,0,0,7,9,23,28.1,misc
+FRA-Ligue 1,2020,Dijon,Bersant Celina,KVX,"MF,FW",23,1996,25.5,5,1,0,15,18,1,124,8,12,0,1,0,106,3,22,12.0,misc
+FRA-Ligue 1,2020,Dijon,Bruno Ecuele Manga,GAB,DF,32,1988,38.0,3,0,0,17,26,1,2,57,38,0,1,0,257,125,65,65.8,misc
+FRA-Ligue 1,2020,Dijon,Charles Costes,FRA,MF,17,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Dijon,Didier Ibrahim Ndong,GAB,MF,26,1994,29.0,7,0,0,40,17,1,21,37,32,0,0,0,207,25,29,46.3,misc
+FRA-Ligue 1,2020,Dijon,Erwan Belhadji,FRA,MF,19,2001,0.3,0,0,0,0,1,0,0,0,0,0,0,0,5,0,0,,misc
+FRA-Ligue 1,2020,Dijon,Fouad Chafik,MAR,DF,33,1986,18.0,5,0,0,15,26,1,46,21,24,0,1,1,107,17,24,41.5,misc
+FRA-Ligue 1,2020,Dijon,Frédéric Sammaritano,FRA,"FW,MF",34,1986,12.6,4,1,0,13,22,0,78,9,10,0,0,0,49,2,15,11.8,misc
+FRA-Ligue 1,2020,Dijon,Jacques Siwe,FRA,FW,19,2001,1.9,0,0,0,4,5,0,0,1,1,1,0,0,5,3,3,50.0,misc
+FRA-Ligue 1,2020,Dijon,Jonathan Panzo,ENG,DF,19,2000,20.0,5,0,0,28,9,0,1,59,12,0,3,0,108,39,24,61.9,misc
+FRA-Ligue 1,2020,Dijon,Jordan Marié,FRA,MF,28,1991,15.9,2,0,0,12,7,0,15,23,17,0,0,0,96,12,9,57.1,misc
+FRA-Ligue 1,2020,Dijon,Junior Dina Ebimbe,FRA,"FW,MF",19,2000,23.8,5,0,0,44,36,2,27,14,25,0,0,0,134,17,29,37.0,misc
+FRA-Ligue 1,2020,Dijon,Mama Samba Baldé,GNB,FW,24,1995,24.0,4,0,0,38,40,16,7,4,9,1,0,0,75,58,117,33.1,misc
+FRA-Ligue 1,2020,Dijon,Mihai Dobre,ROU,FW,21,1998,5.9,0,0,0,5,6,1,4,10,5,0,0,0,32,11,10,52.4,misc
+FRA-Ligue 1,2020,Dijon,Mounir Chouiar,FRA,"FW,MF",21,1999,14.3,5,0,0,25,25,2,49,11,12,0,1,0,71,13,16,44.8,misc
+FRA-Ligue 1,2020,Dijon,Moussa Konaté,SEN,FW,27,1993,13.3,4,0,0,22,24,12,5,5,3,0,0,0,19,23,51,31.1,misc
+FRA-Ligue 1,2020,Dijon,Muzinga Ngonda,COD,DF,25,1994,25.6,5,0,0,35,16,1,69,72,40,0,0,0,187,31,39,44.3,misc
+FRA-Ligue 1,2020,Dijon,Pape Cheikh Diop,SEN,MF,22,1997,12.1,5,0,0,42,24,0,2,6,14,1,0,0,73,9,12,42.9,misc
+FRA-Ligue 1,2020,Dijon,Rayan Philippe,FRA,FW,19,2000,1.0,0,0,0,0,2,1,4,0,1,0,0,0,1,1,0,100.0,misc
+FRA-Ligue 1,2020,Dijon,Roger Assalé,CIV,"FW,MF",26,1993,9.2,0,1,0,12,27,6,6,2,8,1,0,0,24,5,16,23.8,misc
+FRA-Ligue 1,2020,Dijon,Romain Amalfitano,FRA,"FW,DF",30,1989,1.3,0,0,0,2,1,0,5,1,2,0,0,0,6,1,1,50.0,misc
+FRA-Ligue 1,2020,Dijon,Sacha Boey,FRA,DF,19,2000,20.7,1,0,0,36,13,2,51,41,40,0,1,0,127,23,25,47.9,misc
+FRA-Ligue 1,2020,Dijon,Saturnin Allagbé,BEN,GK,26,1993,12.0,2,0,0,2,1,0,0,0,0,0,1,0,14,3,1,75.0,misc
+FRA-Ligue 1,2020,Dijon,Senou Coulibaly,MLI,DF,25,1994,21.5,6,1,1,18,15,0,0,30,21,0,0,0,102,43,42,50.6,misc
+FRA-Ligue 1,2020,Dijon,Wesley Lautoa,NCL,"MF,DF",32,1987,17.9,4,0,0,42,14,0,4,29,20,0,0,1,84,22,13,62.9,misc
+FRA-Ligue 1,2020,Dijon,Wilitty Younoussa,CMR,MF,18,2001,0.9,0,0,0,0,2,0,1,2,3,0,0,0,6,1,1,50.0,misc
+FRA-Ligue 1,2020,Dijon,Yassine Benzia,ALG,"MF,FW",25,1994,4.5,1,0,0,8,9,0,22,6,5,0,0,0,28,4,7,36.4,misc
+FRA-Ligue 1,2020,Lens,Adrien Louveau,FRA,MF,20,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0.0,misc
+FRA-Ligue 1,2020,Lens,Aleksandar Radovanović,SRB,DF,26,1993,1.0,0,0,0,1,0,0,0,0,1,0,0,0,2,3,0,100.0,misc
+FRA-Ligue 1,2020,Lens,Ansou Sow,SEN,MF,20,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+FRA-Ligue 1,2020,Lens,Arnaud Kalimuendo,FRA,"FW,MF",18,2002,13.5,0,0,0,17,25,0,21,2,2,2,0,0,30,4,19,17.4,misc
+FRA-Ligue 1,2020,Lens,Cheick Doucouré,MLI,MF,20,2000,29.2,8,0,0,45,15,0,3,52,47,0,0,0,220,25,22,53.2,misc
+FRA-Ligue 1,2020,Lens,Cheick Traoré,MLI,DF,25,1995,0.4,0,0,0,1,1,0,1,2,2,0,0,0,3,2,1,66.7,misc
+FRA-Ligue 1,2020,Lens,Clément Michelin,FRA,DF,23,1997,12.8,3,2,1,23,13,4,84,25,19,0,1,0,58,25,20,55.6,misc
+FRA-Ligue 1,2020,Lens,Corentin Jean,FRA,"FW,MF",25,1995,6.4,3,0,0,14,16,2,17,2,3,2,0,0,19,5,17,22.7,misc
+FRA-Ligue 1,2020,Lens,David Costa,POR,"MF,FW",19,2001,1.7,0,0,0,2,2,0,4,0,4,0,0,0,8,0,0,,misc
+FRA-Ligue 1,2020,Lens,Facundo Medina,ARG,DF,21,1999,22.3,11,0,0,33,7,1,4,39,22,0,2,1,192,25,29,46.3,misc
+FRA-Ligue 1,2020,Lens,Florian Sotoca,FRA,FW,29,1990,26.8,7,0,0,49,46,10,48,9,20,0,0,0,70,89,112,44.3,misc
+FRA-Ligue 1,2020,Lens,Gaël Kakuta,COD,"MF,FW",29,1991,26.6,3,0,0,31,38,2,114,17,23,0,1,0,129,21,51,29.2,misc
+FRA-Ligue 1,2020,Lens,Ignatius Ganago,CMR,FW,21,1999,14.5,0,0,0,15,46,11,15,6,3,3,0,0,38,21,30,41.2,misc
+FRA-Ligue 1,2020,Lens,Ismaël Boura,COM,DF,19,2000,9.2,1,0,0,14,18,0,48,21,7,0,0,0,53,12,10,54.5,misc
+FRA-Ligue 1,2020,Lens,Issiaga Sylla,GUI,"DF,MF",26,1994,12.4,0,1,0,17,8,2,47,16,20,0,0,0,83,27,19,58.7,misc
+FRA-Ligue 1,2020,Lens,Jean-Louis Leca,FRA,GK,34,1985,36.8,2,0,0,1,10,0,0,1,2,0,1,0,37,8,0,100.0,misc
+FRA-Ligue 1,2020,Lens,Jonathan Clauss,FRA,DF,27,1992,28.0,2,0,0,22,14,2,216,45,20,1,2,0,151,18,26,40.9,misc
+FRA-Ligue 1,2020,Lens,Jonathan Gradit,FRA,DF,27,1992,31.4,9,1,1,51,62,0,4,56,39,0,2,0,149,55,54,50.5,misc
+FRA-Ligue 1,2020,Lens,Loïc Bade,FRA,DF,20,2000,29.0,11,1,1,44,16,1,5,74,34,0,1,0,212,112,62,64.4,misc
+FRA-Ligue 1,2020,Lens,Manuel Perez,FRA,"MF,FW",29,1991,1.4,1,0,0,3,0,0,0,2,0,0,0,0,3,2,2,50.0,misc
+FRA-Ligue 1,2020,Lens,Massadio Haïdara,MLI,DF,27,1992,23.7,6,0,0,33,35,2,44,35,32,1,0,0,119,42,27,60.9,misc
+FRA-Ligue 1,2020,Lens,Seko Fofana,CIV,MF,25,1995,25.7,2,0,0,21,21,1,19,34,8,1,1,0,155,22,10,68.8,misc
+FRA-Ligue 1,2020,Lens,Simon Banza,COD,FW,23,1996,15.2,6,1,1,29,33,9,11,7,6,1,0,0,41,57,63,47.5,misc
+FRA-Ligue 1,2020,Lens,Steven Fortes,CPV,DF,28,1992,15.9,7,1,1,26,9,0,1,27,20,0,0,1,76,36,22,62.1,misc
+FRA-Ligue 1,2020,Lens,Tony Mauricio,FRA,MF,26,1994,5.6,3,0,0,19,10,0,42,3,12,0,0,0,37,2,5,28.6,misc
+FRA-Ligue 1,2020,Lens,Wuilker Faríñez,VEN,GK,22,1998,1.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Lens,Yannick Cahuzac,FRA,MF,35,1985,25.0,9,0,0,30,20,2,12,33,12,0,0,1,117,30,26,53.6,misc
+FRA-Ligue 1,2020,Lille,Adama Soumaoro,FRA,DF,28,1992,1.6,1,0,0,2,1,0,0,2,0,0,0,0,9,5,0,100.0,misc
+FRA-Ligue 1,2020,Lille,Benjamin André,FRA,MF,29,1990,32.1,10,0,0,70,53,0,14,76,68,0,0,0,276,84,83,50.3,misc
+FRA-Ligue 1,2020,Lille,Boubakary Soumaré,FRA,MF,21,1999,21.3,3,0,0,23,16,0,1,39,29,0,0,0,148,30,18,62.5,misc
+FRA-Ligue 1,2020,Lille,Burak Yılmaz,TUR,FW,35,1985,22.8,6,0,0,33,37,29,12,5,6,1,0,0,45,37,60,38.1,misc
+FRA-Ligue 1,2020,Lille,Domagoj Bradarić,CRO,DF,20,1999,14.0,4,0,0,17,13,0,53,26,18,0,1,0,83,19,26,42.2,misc
+FRA-Ligue 1,2020,Lille,Isaac Lihadji,FRA,"MF,FW",18,2002,2.2,0,0,0,3,1,1,6,1,4,0,0,0,20,2,5,28.6,misc
+FRA-Ligue 1,2020,Lille,Jonathan Bamba,CIV,MF,24,1996,33.2,2,0,0,27,67,3,146,24,23,1,0,0,238,15,27,35.7,misc
+FRA-Ligue 1,2020,Lille,Jonathan David,CAN,FW,20,2000,26.2,0,0,0,33,43,5,8,3,10,2,0,0,74,15,67,18.3,misc
+FRA-Ligue 1,2020,Lille,Jonathan Ikone,FRA,"MF,FW",22,1998,24.2,0,0,0,13,23,6,7,7,12,0,0,0,96,17,40,29.8,misc
+FRA-Ligue 1,2020,Lille,José Fonte,POR,DF,36,1983,35.4,7,0,0,30,13,0,12,36,29,1,1,1,199,79,28,73.8,misc
+FRA-Ligue 1,2020,Lille,Jérémy Pied,FRA,DF,31,1989,3.5,1,0,0,6,2,0,19,6,0,0,0,0,30,5,8,38.5,misc
+FRA-Ligue 1,2020,Lille,Luiz Araújo,BRA,MF,24,1996,16.6,5,0,0,24,18,0,27,11,25,0,0,0,88,10,20,33.3,misc
+FRA-Ligue 1,2020,Lille,Mike Maignan,FRA,GK,25,1995,38.0,1,0,0,1,8,0,0,0,0,0,0,0,62,10,1,90.9,misc
+FRA-Ligue 1,2020,Lille,Reinildo Mandava,MOZ,DF,26,1994,24.2,2,1,0,38,35,2,82,45,43,0,0,0,156,52,17,75.4,misc
+FRA-Ligue 1,2020,Lille,Renato Sanches,POR,MF,22,1997,14.1,4,0,0,27,27,2,46,13,7,0,0,0,111,8,20,28.6,misc
+FRA-Ligue 1,2020,Lille,Sven Botman,NED,DF,20,2000,36.8,2,0,0,14,25,2,1,57,21,0,0,0,196,118,55,68.2,misc
+FRA-Ligue 1,2020,Lille,Tiago Djaló,POR,DF,20,2000,9.7,4,1,1,15,9,1,6,9,13,0,0,0,65,10,7,58.8,misc
+FRA-Ligue 1,2020,Lille,Timothy Weah,USA,"FW,MF",20,2000,9.8,1,0,0,14,7,4,21,4,7,0,0,0,33,11,20,35.5,misc
+FRA-Ligue 1,2020,Lille,Xeka,POR,MF,25,1994,13.3,6,0,0,28,27,0,22,20,17,0,0,0,83,16,19,45.7,misc
+FRA-Ligue 1,2020,Lille,Yusuf Yazıcı,TUR,"FW,MF",23,1997,12.1,1,0,0,13,10,7,93,2,5,0,0,0,54,4,15,21.1,misc
+FRA-Ligue 1,2020,Lille,Zeki Çelik,TUR,DF,23,1997,26.5,8,0,0,56,15,2,61,38,33,0,0,1,150,25,22,53.2,misc
+FRA-Ligue 1,2020,Lorient,Adrian Grbić,AUT,FW,23,1996,10.7,2,0,0,23,18,1,5,5,4,2,0,0,32,28,41,40.6,misc
+FRA-Ligue 1,2020,Lorient,Andrew Gravillon,GLP,DF,22,1998,25.2,3,1,0,18,36,0,9,59,17,0,2,1,140,53,51,51.0,misc
+FRA-Ligue 1,2020,Lorient,Armand Lauriente,FRA,"MF,FW",21,1998,18.0,4,0,0,23,37,8,90,15,10,1,0,0,82,13,16,44.8,misc
+FRA-Ligue 1,2020,Lorient,Enzo Le Fée,FRA,MF,20,2000,20.2,6,0,0,24,41,0,70,25,28,0,0,0,142,4,21,16.0,misc
+FRA-Ligue 1,2020,Lorient,Fabien Lemoine,FRA,MF,33,1987,21.5,8,0,0,58,23,0,17,27,45,0,2,0,189,29,26,52.7,misc
+FRA-Ligue 1,2020,Lorient,Franklin Wadja,CMR,"MF,FW",25,1995,0.4,1,0,0,1,0,0,0,2,2,0,0,0,4,1,0,100.0,misc
+FRA-Ligue 1,2020,Lorient,Houboulang Mendes,GNB,DF,22,1998,14.4,3,0,0,23,6,1,44,14,19,0,3,0,60,13,21,38.2,misc
+FRA-Ligue 1,2020,Lorient,Jonathan Delaplace,FRA,DF,34,1986,10.1,1,1,0,16,7,1,30,17,5,0,0,0,61,4,8,33.3,misc
+FRA-Ligue 1,2020,Lorient,Julien Laporte,FRA,DF,26,1993,29.5,8,1,1,31,19,0,0,65,39,1,3,0,140,80,50,61.5,misc
+FRA-Ligue 1,2020,Lorient,Jérémy Morel,MAD,DF,36,1984,27.7,1,0,0,19,16,0,5,44,19,0,0,0,148,42,37,53.2,misc
+FRA-Ligue 1,2020,Lorient,Jérôme Hergault,FRA,"DF,MF",34,1986,18.1,0,0,0,19,26,5,39,22,23,0,0,0,98,19,26,42.2,misc
+FRA-Ligue 1,2020,Lorient,Laurent Abergel,FRA,MF,27,1993,32.9,5,0,0,44,37,0,26,46,84,1,0,0,231,9,17,34.6,misc
+FRA-Ligue 1,2020,Lorient,Loris Mouyokolo,FRA,DF,19,2001,0.2,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Lorient,Matthieu Dreyer,FRA,GK,31,1989,15.0,1,0,0,0,1,0,0,0,0,0,0,0,20,1,0,100.0,misc
+FRA-Ligue 1,2020,Lorient,Paul Nardi,FRA,GK,26,1994,23.0,1,0,0,0,0,0,0,0,0,0,0,0,17,3,1,75.0,misc
+FRA-Ligue 1,2020,Lorient,Pierre-Yves Hamel,FRA,FW,26,1994,9.4,5,0,0,22,8,3,3,10,8,0,0,0,20,35,43,44.9,misc
+FRA-Ligue 1,2020,Lorient,Quentin Boisgard,FRA,"MF,FW",23,1997,14.6,5,0,0,25,17,2,126,15,17,0,0,0,75,6,17,26.1,misc
+FRA-Ligue 1,2020,Lorient,Stéphane Diarra,FRA,"MF,FW",21,1998,2.2,1,0,0,4,3,3,14,4,0,0,0,0,14,0,3,0.0,misc
+FRA-Ligue 1,2020,Lorient,Sylvain Marveaux,FRA,"MF,FW",34,1986,2.2,0,0,0,2,7,0,2,1,3,0,0,0,18,1,1,50.0,misc
+FRA-Ligue 1,2020,Lorient,Terem Moffi,NGA,FW,21,1999,23.0,2,0,0,30,18,11,5,4,8,1,0,0,57,38,78,32.8,misc
+FRA-Ligue 1,2020,Lorient,Thomas Fontaine,MAD,DF,29,1991,3.6,0,0,0,1,3,0,0,5,2,0,1,0,12,2,5,28.6,misc
+FRA-Ligue 1,2020,Lorient,Thomas Monconduit,FRA,MF,29,1991,12.8,4,0,0,24,17,0,12,13,15,0,0,0,82,13,18,41.9,misc
+FRA-Ligue 1,2020,Lorient,Trevoh Chalobah,ENG,"DF,MF",21,1999,24.9,5,0,0,20,25,0,11,69,26,0,0,0,142,43,34,55.8,misc
+FRA-Ligue 1,2020,Lorient,Umut Bozok,TUR,"MF,FW",23,1996,0.7,0,0,0,0,6,0,0,0,0,0,0,0,5,1,2,33.3,misc
+FRA-Ligue 1,2020,Lorient,Vincent Le Goff,FRA,DF,30,1989,25.6,0,0,0,16,12,1,64,44,29,0,0,0,126,20,38,34.5,misc
+FRA-Ligue 1,2020,Lorient,Yoane Wissa,COD,"MF,FW",23,1996,29.7,2,0,0,30,85,10,29,20,20,3,0,0,142,47,31,60.3,misc
+FRA-Ligue 1,2020,Lorient,Yoann Etienne,FRA,DF,23,1997,1.0,1,0,0,2,1,0,5,1,0,0,0,0,6,2,1,66.7,misc
+FRA-Ligue 1,2020,Lyon,Anthony Lopes,POR,GK,29,1990,38.0,2,0,0,2,6,0,0,1,1,0,2,2,68,4,0,100.0,misc
+FRA-Ligue 1,2020,Lyon,Bruno Guimarães,BRA,MF,22,1997,19.5,6,0,0,33,37,0,18,14,34,1,0,0,142,9,7,56.3,misc
+FRA-Ligue 1,2020,Lyon,Djamel Benlamri,ALG,DF,30,1989,1.7,0,0,0,2,7,0,0,6,3,0,0,0,7,3,1,75.0,misc
+FRA-Ligue 1,2020,Lyon,Fernando Marçal,BRA,DF,31,1989,0.9,0,0,0,1,0,0,3,2,0,0,0,0,2,7,1,87.5,misc
+FRA-Ligue 1,2020,Lyon,Florent da Silva,FRA,FW,17,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Lyon,Habib Keita,MLI,MF,18,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Lyon,Houssem Aouar,ALG,"MF,FW",22,1998,19.8,3,1,0,20,23,3,19,17,12,0,0,0,90,4,17,19.0,misc
+FRA-Ligue 1,2020,Lyon,Islam Slimani,ALG,FW,32,1988,6.4,0,1,0,13,6,6,3,1,5,0,0,0,14,15,18,45.5,misc
+FRA-Ligue 1,2020,Lyon,Jason Denayer,BEL,DF,25,1995,29.0,1,0,0,21,6,0,2,27,16,0,0,0,167,46,39,54.1,misc
+FRA-Ligue 1,2020,Lyon,Jean Lucas,BRA,MF,22,1998,1.9,1,0,0,3,2,0,8,2,2,0,1,0,14,0,2,0.0,misc
+FRA-Ligue 1,2020,Lyon,Jeff Reine-Adélaïde,FRA,FW,22,1998,0.3,0,0,0,1,1,0,2,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Lyon,Joachim Andersen,DEN,DF,24,1996,2.1,1,0,0,5,2,0,0,2,1,0,0,0,10,4,0,100.0,misc
+FRA-Ligue 1,2020,Lyon,Karl Toko Ekambi,CMR,FW,27,1992,31.2,3,0,0,27,27,15,53,26,10,2,0,0,107,35,44,44.3,misc
+FRA-Ligue 1,2020,Lyon,Kenny Tete,NED,DF,24,1995,0.2,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Lyon,Leo Dubois,FRA,DF,25,1994,32.3,3,0,0,21,32,2,212,31,26,1,1,0,184,32,21,60.4,misc
+FRA-Ligue 1,2020,Lyon,Lucas Paquetá,BRA,MF,22,1997,25.3,6,1,1,65,68,5,10,20,36,0,1,0,166,38,34,52.8,misc
+FRA-Ligue 1,2020,Lyon,Malo Gusto,FRA,"DF,MF",17,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Lyon,Marcelo,BRA,DF,33,1987,32.3,7,2,1,38,9,1,5,49,29,0,1,0,186,111,44,71.6,misc
+FRA-Ligue 1,2020,Lyon,Mattia De Sciglio,ITA,DF,27,1992,16.3,4,1,0,22,10,0,33,27,17,0,0,0,107,19,12,61.3,misc
+FRA-Ligue 1,2020,Lyon,Maxence Caqueret,FRA,MF,20,2000,19.6,4,1,1,31,26,0,13,23,45,0,0,0,140,9,12,42.9,misc
+FRA-Ligue 1,2020,Lyon,Maxwel Cornet,CIV,"DF,FW",23,1996,27.2,5,0,0,30,32,3,82,43,41,2,0,0,178,41,34,54.7,misc
+FRA-Ligue 1,2020,Lyon,Melvin Bard,FRA,DF,19,2000,4.8,0,1,0,8,6,0,22,6,8,1,0,0,38,11,14,44.0,misc
+FRA-Ligue 1,2020,Lyon,Memphis,NED,FW,26,1994,32.5,4,0,0,31,52,12,166,5,3,2,0,0,89,14,27,34.1,misc
+FRA-Ligue 1,2020,Lyon,Moussa Dembélé,FRA,FW,24,1996,7.5,3,0,0,17,6,6,1,5,2,0,0,0,20,18,18,50.0,misc
+FRA-Ligue 1,2020,Lyon,Rayan Cherki,FRA,"FW,MF",16,2003,7.8,1,1,0,16,20,1,9,4,3,1,0,0,38,1,5,16.7,misc
+FRA-Ligue 1,2020,Lyon,Sinaly Diomande,CIV,DF,19,2001,12.6,3,0,0,16,13,0,2,33,7,0,1,0,50,49,15,76.6,misc
+FRA-Ligue 1,2020,Lyon,Thiago Mendes,BRA,MF,28,1992,24.9,5,1,0,25,23,0,12,39,22,0,0,0,206,25,21,54.3,misc
+FRA-Ligue 1,2020,Lyon,Tino Kadewere,ZIM,FW,24,1996,22.3,4,0,0,35,25,9,33,21,22,1,0,0,115,33,38,46.5,misc
+FRA-Ligue 1,2020,Lyon,Yaya Soumaré,FRA,FW,20,2000,0.0,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Marseille,Arkadiusz Milik,POL,FW,26,1994,13.6,2,0,0,15,20,5,7,2,9,0,0,0,21,26,30,46.4,misc
+FRA-Ligue 1,2020,Marseille,Bamba Dieng,SEN,"FW,DF",20,2000,1.4,0,0,0,2,2,3,1,0,3,1,0,0,3,3,6,33.3,misc
+FRA-Ligue 1,2020,Marseille,Boubacar Kamara,FRA,MF,20,1999,32.2,6,0,0,49,55,0,3,34,51,0,0,0,211,63,42,60.0,misc
+FRA-Ligue 1,2020,Marseille,Bouna Sarr,SEN,DF,28,1992,0.8,0,0,0,3,2,0,2,1,1,0,0,0,6,1,3,25.0,misc
+FRA-Ligue 1,2020,Marseille,Cheick Souaré,FRA,MF,17,2002,0.1,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0.0,misc
+FRA-Ligue 1,2020,Marseille,Christopher Rocchia,FRA,"DF,FW",22,1998,0.2,0,0,0,2,1,0,0,0,0,0,0,0,2,1,0,100.0,misc
+FRA-Ligue 1,2020,Marseille,Darío Benedetto,ARG,FW,30,1990,17.5,3,2,1,19,19,12,11,3,4,0,0,0,31,25,60,29.4,misc
+FRA-Ligue 1,2020,Marseille,Dimitri Payet,FRA,"FW,MF",33,1987,26.9,4,2,0,16,46,1,191,8,17,0,1,0,102,4,14,22.2,misc
+FRA-Ligue 1,2020,Marseille,Duje Ćaleta-Car,CRO,DF,23,1996,31.3,8,1,0,30,15,0,0,44,17,0,0,0,162,77,35,68.8,misc
+FRA-Ligue 1,2020,Marseille,Florian Thauvin,FRA,"FW,MF",27,1993,30.4,5,0,0,25,53,7,204,14,22,0,1,0,105,12,12,50.0,misc
+FRA-Ligue 1,2020,Marseille,Hiroki Sakai,JPN,DF,30,1990,26.5,6,1,0,42,16,2,30,54,48,0,0,0,114,42,38,52.5,misc
+FRA-Ligue 1,2020,Marseille,Jordan Amavi,FRA,DF,26,1994,9.0,3,1,0,13,14,0,10,27,9,1,0,0,46,23,11,67.6,misc
+FRA-Ligue 1,2020,Marseille,Kevin Strootman,NED,"MF,FW",30,1990,2.6,2,0,0,8,2,0,0,5,6,0,0,0,25,5,3,62.5,misc
+FRA-Ligue 1,2020,Marseille,Leonardo Balerdi,ARG,DF,21,1999,18.2,6,1,0,31,27,2,1,28,18,0,0,0,129,35,42,45.5,misc
+FRA-Ligue 1,2020,Marseille,Lucas Perrin,FRA,DF,21,1998,3.4,1,0,0,4,4,0,0,8,4,0,0,0,16,8,3,72.7,misc
+FRA-Ligue 1,2020,Marseille,Luis Henrique,BRA,"FW,DF",18,2001,7.5,0,0,0,2,5,8,27,7,4,0,0,0,50,3,0,100.0,misc
+FRA-Ligue 1,2020,Marseille,Marley Aké,FRA,FW,19,2001,1.6,0,0,0,6,5,0,2,0,3,0,0,0,7,4,6,40.0,misc
+FRA-Ligue 1,2020,Marseille,Maxime Lopez,FRA,"FW,MF",22,1997,1.5,1,0,0,4,1,0,0,2,1,0,0,0,4,0,2,0.0,misc
+FRA-Ligue 1,2020,Marseille,Mickaël Cuisance,FRA,MF,20,1999,11.4,3,0,0,33,11,1,9,3,11,0,0,0,56,10,19,34.5,misc
+FRA-Ligue 1,2020,Marseille,Morgan Sanson,FRA,MF,25,1994,9.2,2,0,0,18,10,0,19,9,12,0,0,0,56,6,14,30.0,misc
+FRA-Ligue 1,2020,Marseille,Nemanja Radonjić,SRB,FW,24,1996,4.4,2,0,0,3,3,2,7,3,5,0,0,0,24,3,10,23.1,misc
+FRA-Ligue 1,2020,Marseille,Olivier Ntcham,CMR,MF,24,1996,1.3,0,0,0,1,0,0,1,2,0,0,0,0,9,0,0,,misc
+FRA-Ligue 1,2020,Marseille,Pape Gueye,SEN,MF,21,1999,22.9,11,1,1,47,46,0,9,47,21,0,0,0,162,46,39,54.1,misc
+FRA-Ligue 1,2020,Marseille,Pol Lirola,ESP,"DF,FW",22,1997,17.3,3,0,0,13,16,0,58,25,16,0,0,0,84,17,10,63.0,misc
+FRA-Ligue 1,2020,Marseille,Saîf-Eddine Khaoui,TUN,"FW,DF",25,1995,6.7,4,0,0,16,8,1,15,12,11,0,0,0,42,1,12,7.7,misc
+FRA-Ligue 1,2020,Marseille,Steve Mandanda,FRA,GK,35,1985,37.0,1,0,0,0,5,0,0,2,0,0,0,0,44,6,0,100.0,misc
+FRA-Ligue 1,2020,Marseille,Valentin Rongier,FRA,MF,25,1994,21.0,8,0,0,45,24,1,3,28,59,0,0,0,143,25,22,53.2,misc
+FRA-Ligue 1,2020,Marseille,Valère Germain,FRA,"FW,MF",30,1990,9.5,1,0,0,9,20,2,8,11,6,0,0,0,34,44,46,48.9,misc
+FRA-Ligue 1,2020,Marseille,Yohann Pelé,FRA,GK,37,1982,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Marseille,Yuto Nagatomo,JPN,DF,33,1986,17.7,2,0,0,12,13,3,29,29,16,0,0,1,71,16,16,50.0,misc
+FRA-Ligue 1,2020,Marseille,Álvaro González,ESP,DF,30,1990,31.5,14,0,0,31,30,2,0,33,17,1,1,0,137,46,38,54.8,misc
+FRA-Ligue 1,2020,Metz,Aaron Leya Iseka,BEL,FW,22,1997,11.2,4,0,0,26,12,3,2,0,4,0,0,0,21,29,41,41.4,misc
+FRA-Ligue 1,2020,Metz,Alexandre Oukidja,ALG,GK,32,1988,34.0,3,1,0,1,11,0,0,0,0,0,1,0,43,16,4,80.0,misc
+FRA-Ligue 1,2020,Metz,Boubacar Traoré,MLI,MF,18,2001,0.6,0,0,0,3,1,0,1,0,2,0,0,0,4,0,1,0.0,misc
+FRA-Ligue 1,2020,Metz,Boubakar Kouyaté,MLI,DF,23,1997,21.8,10,0,0,39,30,4,0,60,35,0,2,0,109,99,40,71.2,misc
+FRA-Ligue 1,2020,Metz,Cheikh Tidiane Sabaly,SEN,FW,21,1999,0.1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Metz,Dylan Bronn,TUN,DF,25,1995,37.9,4,0,0,37,12,0,4,44,37,0,2,0,232,44,41,51.8,misc
+FRA-Ligue 1,2020,Metz,Fabien Centonze,FRA,DF,24,1996,35.8,9,0,0,43,57,3,114,112,68,0,1,0,198,56,33,62.9,misc
+FRA-Ligue 1,2020,Metz,Farid Boulaya,ALG,"MF,FW",27,1993,31.3,5,0,0,20,64,1,185,12,16,2,1,0,172,27,42,39.1,misc
+FRA-Ligue 1,2020,Metz,Habib Diallo,SEN,"FW,MF",25,1995,1.6,0,0,0,2,2,2,0,0,1,0,0,0,4,9,14,39.1,misc
+FRA-Ligue 1,2020,Metz,Habib Maïga,CIV,MF,24,1996,29.9,9,0,0,64,36,2,22,49,52,1,0,0,230,39,31,55.7,misc
+FRA-Ligue 1,2020,Metz,Ibrahima Niane,SEN,FW,21,1999,7.4,0,0,0,11,12,3,3,0,1,1,0,0,14,23,30,43.4,misc
+FRA-Ligue 1,2020,Metz,John Boye,GHA,DF,33,1987,33.8,6,2,1,32,20,2,0,80,34,0,1,1,170,57,51,52.8,misc
+FRA-Ligue 1,2020,Metz,Kévin N'Doram,FRA,MF,24,1996,3.4,0,0,0,4,1,0,0,6,2,0,0,0,10,2,1,66.7,misc
+FRA-Ligue 1,2020,Metz,Lamine Gueye,SEN,"FW,MF",22,1998,16.2,1,0,0,12,37,9,69,21,9,0,0,0,67,26,42,38.2,misc
+FRA-Ligue 1,2020,Metz,Mamadou Fofana,MLI,"MF,DF",22,1998,11.9,2,0,0,12,1,0,0,18,11,0,1,0,78,11,13,45.8,misc
+FRA-Ligue 1,2020,Metz,Marc-Aurèle Caillard,FRA,GK,26,1994,4.0,1,0,0,1,1,0,0,0,0,0,1,0,1,1,0,100.0,misc
+FRA-Ligue 1,2020,Metz,Matthieu Udol,FRA,DF,24,1996,19.2,1,1,0,15,18,0,59,39,21,0,2,0,108,17,14,54.8,misc
+FRA-Ligue 1,2020,Metz,Opa Nguette,SEN,"FW,MF",26,1994,12.6,0,0,0,18,23,6,5,1,8,1,0,0,53,36,49,42.4,misc
+FRA-Ligue 1,2020,Metz,Papa Ndiaga Yade,MTN,"FW,MF",20,2000,11.1,4,0,0,35,8,1,32,4,8,0,0,0,54,14,29,32.6,misc
+FRA-Ligue 1,2020,Metz,Pape Matar Sarr,SEN,MF,17,2002,17.7,5,0,0,25,25,1,5,27,29,0,0,0,133,24,14,63.2,misc
+FRA-Ligue 1,2020,Metz,Thierry Ambrose,GLP,FW,23,1997,8.4,4,0,0,22,9,3,19,2,4,0,0,0,33,21,29,42.0,misc
+FRA-Ligue 1,2020,Metz,Thomas Delaine,FRA,"DF,FW",28,1992,19.8,4,0,0,21,17,0,85,24,18,0,0,0,85,8,19,29.6,misc
+FRA-Ligue 1,2020,Metz,Vagner Gonçalves,CPV,"FW,MF",24,1996,10.7,3,0,0,25,28,9,18,4,9,1,0,0,46,8,39,17.0,misc
+FRA-Ligue 1,2020,Metz,Victorien Angban,CIV,MF,23,1996,18.6,5,0,0,27,27,0,9,19,24,0,0,0,132,13,18,41.9,misc
+FRA-Ligue 1,2020,Metz,Vincent Pajot,FRA,MF,29,1990,10.2,3,0,0,16,12,1,11,42,20,0,1,0,59,12,10,54.5,misc
+FRA-Ligue 1,2020,Metz,Warren Tchimbembé,CGO,"MF,FW",22,1998,5.5,0,0,0,3,5,0,5,2,4,0,0,0,30,6,6,50.0,misc
+FRA-Ligue 1,2020,Metz,Youssef Maziz,FRA,"MF,FW",22,1998,2.9,1,0,0,2,5,0,10,6,0,0,0,0,11,3,1,75.0,misc
+FRA-Ligue 1,2020,Monaco,Aleksandr Golovin,RUS,"MF,FW",24,1996,11.9,2,0,0,19,13,3,102,11,16,0,0,0,89,11,16,40.7,misc
+FRA-Ligue 1,2020,Monaco,Aurélien Tchouaméni,FRA,MF,20,2000,34.0,9,1,1,57,62,1,29,60,68,0,0,0,257,81,41,66.4,misc
+FRA-Ligue 1,2020,Monaco,Axel Disasi,FRA,DF,22,1998,22.3,4,2,0,28,19,0,4,26,20,0,1,1,135,50,32,61.0,misc
+FRA-Ligue 1,2020,Monaco,Benjamin Lecomte,FRA,GK,29,1991,28.0,1,0,0,1,3,0,0,2,0,0,1,0,59,10,0,100.0,misc
+FRA-Ligue 1,2020,Monaco,Benoît Badiashile,FRA,DF,19,2001,31.9,5,0,0,32,15,2,3,58,17,0,0,0,193,108,40,73.0,misc
+FRA-Ligue 1,2020,Monaco,Caio Henrique Oliveira Silva,BRA,DF,23,1997,26.3,0,0,0,9,12,4,80,16,34,1,0,0,132,19,28,40.4,misc
+FRA-Ligue 1,2020,Monaco,Cesc Fàbregas,ESP,"MF,FW",33,1987,9.7,2,0,0,14,12,0,69,13,12,0,0,0,54,7,7,50.0,misc
+FRA-Ligue 1,2020,Monaco,Chrislain Matsima,FRA,"DF,FW",18,2002,3.9,2,0,0,2,1,0,1,4,4,0,0,0,20,8,7,53.3,misc
+FRA-Ligue 1,2020,Monaco,Djibril Sidibé,FRA,DF,28,1992,22.0,3,0,0,32,22,1,93,50,34,0,1,0,154,25,20,55.6,misc
+FRA-Ligue 1,2020,Monaco,Eliot Matazo,BEL,MF,18,2002,3.5,0,1,0,5,3,0,0,1,5,0,0,0,11,1,6,14.3,misc
+FRA-Ligue 1,2020,Monaco,Enzo Millot,FRA,MF,18,2002,0.5,0,0,0,1,1,0,4,2,0,0,0,0,2,1,1,50.0,misc
+FRA-Ligue 1,2020,Monaco,Florentino Luís,POR,MF,20,1999,2.7,1,0,0,4,2,0,1,6,2,0,0,0,9,3,2,60.0,misc
+FRA-Ligue 1,2020,Monaco,Fodé Ballo-Touré,SEN,DF,23,1997,7.4,2,0,0,10,12,1,39,6,17,1,0,0,37,12,10,54.5,misc
+FRA-Ligue 1,2020,Monaco,Gelson Martins,POR,"MF,FW",25,1995,17.2,3,0,0,23,36,5,28,13,26,2,0,0,87,9,25,26.5,misc
+FRA-Ligue 1,2020,Monaco,Giulian Biancone,FRA,"DF,MF",20,2000,1.0,1,0,0,1,2,0,8,1,3,0,0,0,8,6,2,75.0,misc
+FRA-Ligue 1,2020,Monaco,Guillermo Maripán,CHI,DF,26,1994,23.2,7,0,0,19,7,1,2,27,11,0,1,0,118,41,39,51.3,misc
+FRA-Ligue 1,2020,Monaco,Henry Onyekuru,NGA,FW,23,1997,1.6,0,0,0,1,3,2,0,0,0,0,0,0,3,2,6,25.0,misc
+FRA-Ligue 1,2020,Monaco,Jean-Eudes Aholou,CIV,MF,26,1994,0.4,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,100.0,misc
+FRA-Ligue 1,2020,Monaco,Kevin Volland,GER,"FW,MF",28,1992,30.8,4,0,0,60,45,13,28,4,16,2,0,0,100,56,66,45.9,misc
+FRA-Ligue 1,2020,Monaco,Krépin Diatta,SEN,"MF,DF",21,1999,4.3,3,0,0,3,8,3,12,4,3,0,0,0,16,7,5,58.3,misc
+FRA-Ligue 1,2020,Monaco,Pietro Pellegri,ITA,"FW,MF",19,2001,2.6,2,1,0,8,10,5,0,0,1,1,0,0,10,7,19,26.9,misc
+FRA-Ligue 1,2020,Monaco,Radosław Majecki,POL,GK,20,1999,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Monaco,Ruben Aguilar,FRA,"DF,MF",27,1993,24.7,6,0,0,39,36,1,118,47,37,1,0,0,139,46,38,54.8,misc
+FRA-Ligue 1,2020,Monaco,Sofiane Diop,FRA,"MF,FW",20,2000,22.5,4,0,0,33,56,4,39,31,34,0,0,0,148,18,32,36.0,misc
+FRA-Ligue 1,2020,Monaco,Stevan Jovetić,MNE,"FW,MF",30,1989,8.9,1,0,0,16,14,4,25,3,4,1,0,0,45,10,20,33.3,misc
+FRA-Ligue 1,2020,Monaco,Strahinja Pavlović,SRB,DF,19,2001,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,100.0,misc
+FRA-Ligue 1,2020,Monaco,Vito Mannone,ITA,GK,32,1988,9.0,0,0,0,0,1,0,0,0,0,0,0,0,11,0,0,,misc
+FRA-Ligue 1,2020,Monaco,Willem Geubbels,FRA,"MF,FW",18,2001,3.3,3,1,0,10,2,2,6,3,8,0,0,0,19,12,7,63.2,misc
+FRA-Ligue 1,2020,Monaco,Wissam Ben Yedder,FRA,FW,29,1990,29.0,3,0,0,12,39,18,17,13,9,2,0,0,87,40,72,35.7,misc
+FRA-Ligue 1,2020,Monaco,Youssouf Fofana,FRA,MF,21,1999,31.9,10,1,1,47,33,0,37,34,51,0,1,0,236,19,17,52.8,misc
+FRA-Ligue 1,2020,Montpellier,Ambroise Oyongo,CMR,DF,29,1991,6.2,1,0,0,7,7,0,12,8,6,0,1,0,27,6,4,60.0,misc
+FRA-Ligue 1,2020,Montpellier,Andy Delort,ALG,FW,28,1991,27.6,4,0,0,54,41,19,106,4,7,1,0,0,59,135,110,55.1,misc
+FRA-Ligue 1,2020,Montpellier,Arnaud Souquet,FRA,DF,28,1992,13.6,5,0,0,19,21,0,53,17,33,0,1,0,67,7,22,24.1,misc
+FRA-Ligue 1,2020,Montpellier,Clément Vidal,FRA,DF,20,2000,1.0,0,0,0,1,0,0,0,1,1,0,0,0,6,0,1,0.0,misc
+FRA-Ligue 1,2020,Montpellier,Damien Le Tallec,FRA,"MF,DF",30,1990,13.6,3,1,0,19,9,0,2,25,10,0,0,1,46,27,19,58.7,misc
+FRA-Ligue 1,2020,Montpellier,Daniel Congré,FRA,DF,35,1985,36.6,4,0,0,29,25,0,2,69,35,0,1,0,150,71,41,63.4,misc
+FRA-Ligue 1,2020,Montpellier,Dimitry Bertaud,COD,GK,22,1998,8.3,0,0,0,0,4,0,0,1,0,0,0,0,5,3,0,100.0,misc
+FRA-Ligue 1,2020,Montpellier,Elye Wahi,FRA,FW,17,2003,6.2,1,0,0,7,15,5,4,2,3,0,0,0,19,10,13,43.5,misc
+FRA-Ligue 1,2020,Montpellier,Florent Mollet,FRA,MF,28,1991,26.2,5,2,0,34,28,5,117,32,15,0,0,0,128,11,29,27.5,misc
+FRA-Ligue 1,2020,Montpellier,Gaëtan Laborde,FRA,"FW,MF",26,1994,36.2,3,0,0,62,30,6,55,16,22,0,0,0,118,134,127,51.3,misc
+FRA-Ligue 1,2020,Montpellier,Jonas Omlin,SUI,GK,26,1994,29.7,0,1,0,2,3,0,0,0,1,0,1,1,48,7,0,100.0,misc
+FRA-Ligue 1,2020,Montpellier,Jordan Ferri,FRA,MF,28,1992,28.6,6,0,0,52,34,0,27,8,40,0,0,0,231,20,24,45.5,misc
+FRA-Ligue 1,2020,Montpellier,Joris Chotard,FRA,MF,18,2001,12.9,3,0,0,14,7,1,9,11,8,0,0,0,58,10,9,52.6,misc
+FRA-Ligue 1,2020,Montpellier,Junior Sambia,FRA,"DF,MF",23,1996,27.2,2,0,0,23,44,3,92,39,29,1,0,0,139,41,35,53.9,misc
+FRA-Ligue 1,2020,Montpellier,Keagan Dolly,RSA,MF,27,1993,5.0,2,0,0,6,3,2,13,5,2,0,0,0,15,1,7,12.5,misc
+FRA-Ligue 1,2020,Montpellier,Mihailo Ristić,SRB,DF,24,1995,24.8,4,0,0,28,18,0,94,26,22,0,1,0,144,24,28,46.2,misc
+FRA-Ligue 1,2020,Montpellier,Nicolas Cozza,FRA,DF,21,1999,15.2,2,0,0,16,16,1,14,26,30,0,0,0,78,15,22,40.5,misc
+FRA-Ligue 1,2020,Montpellier,Pedro Mendes,POR,DF,29,1990,18.1,5,0,0,22,26,0,3,34,19,0,2,0,80,28,31,47.5,misc
+FRA-Ligue 1,2020,Montpellier,Petar Škuletić,SRB,"FW,MF",30,1990,2.6,0,0,0,4,4,1,0,0,2,0,0,0,8,24,21,53.3,misc
+FRA-Ligue 1,2020,Montpellier,Sacha Delaye,FRA,MF,18,2002,0.1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,100.0,misc
+FRA-Ligue 1,2020,Montpellier,Samy Benchamma,FRA,"DF,MF",20,2000,0.5,1,0,0,3,1,0,0,0,1,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Montpellier,Stephy Mavididi,ENG,"FW,MF",22,1998,22.6,3,0,0,31,33,3,30,14,5,1,0,0,86,12,43,21.8,misc
+FRA-Ligue 1,2020,Montpellier,Téji Savanier,FRA,MF,28,1991,24.1,6,1,0,58,65,1,163,38,33,1,2,0,196,18,21,46.2,misc
+FRA-Ligue 1,2020,Montpellier,Vitorino Hilton,BRA,DF,42,1977,23.5,4,2,0,18,16,0,4,38,10,0,3,0,148,44,29,60.3,misc
+FRA-Ligue 1,2020,Montpellier,Yun Il-lok,KOR,"MF,FW",28,1992,3.5,1,0,0,4,1,1,7,5,0,0,0,0,17,8,7,53.3,misc
+FRA-Ligue 1,2020,Nantes,Abdoul Kader Bamba,FRA,"FW,MF",26,1994,10.2,2,0,0,8,41,0,39,7,3,0,0,0,71,4,10,28.6,misc
+FRA-Ligue 1,2020,Nantes,Abdoulaye Sylla,GUI,DF,20,2000,0.1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Nantes,Abdoulaye Touré,GUI,MF,26,1994,18.7,2,0,0,20,30,0,9,22,12,0,2,0,106,33,22,60.0,misc
+FRA-Ligue 1,2020,Nantes,Alban Lafont,FRA,GK,21,1999,38.0,2,0,0,1,8,0,0,0,0,0,1,0,58,12,1,92.3,misc
+FRA-Ligue 1,2020,Nantes,Andrei Girotto,BRA,"DF,MF",28,1992,29.6,3,1,0,32,25,0,9,59,41,0,1,0,136,85,52,62.0,misc
+FRA-Ligue 1,2020,Nantes,Batista Mendy,FRA,MF,20,2000,0.8,0,0,0,3,1,0,0,1,1,0,0,0,7,2,0,100.0,misc
+FRA-Ligue 1,2020,Nantes,Bridge Ndilu,FRA,"FW,MF",20,2000,0.5,1,0,0,1,2,1,2,0,0,0,0,0,0,1,2,33.3,misc
+FRA-Ligue 1,2020,Nantes,Charles Traore,MLI,DF,28,1992,18.9,6,0,0,31,22,1,34,36,34,0,1,0,105,37,17,68.5,misc
+FRA-Ligue 1,2020,Nantes,Dennis Appiah,FRA,DF,28,1992,17.3,3,0,0,16,3,1,47,25,34,0,1,0,99,30,23,56.6,misc
+FRA-Ligue 1,2020,Nantes,Fábio,BRA,DF,30,1990,16.7,5,1,1,36,12,1,32,37,37,1,2,0,75,39,34,53.4,misc
+FRA-Ligue 1,2020,Nantes,Imran Louza,MAR,MF,21,1999,26.4,4,1,0,35,45,2,89,33,28,0,0,0,189,14,34,29.2,misc
+FRA-Ligue 1,2020,Nantes,Jean-Charles Castelletto,CMR,DF,25,1995,21.6,4,0,0,33,6,0,1,42,18,0,2,0,108,52,24,68.4,misc
+FRA-Ligue 1,2020,Nantes,Jean-Kévin Augustin,FRA,FW,23,1997,0.4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,misc
+FRA-Ligue 1,2020,Nantes,Kalifa Coulibaly,MLI,FW,28,1991,10.9,2,0,0,12,7,11,2,2,1,0,0,0,18,91,82,52.6,misc
+FRA-Ligue 1,2020,Nantes,Ludovic Blas,FRA,"MF,FW",22,1997,31.0,5,0,0,53,49,4,23,21,30,1,0,0,183,15,46,24.6,misc
+FRA-Ligue 1,2020,Nantes,Marcus Coco,FRA,"MF,FW",24,1996,16.4,5,0,0,48,36,2,48,20,21,1,0,0,97,37,44,45.7,misc
+FRA-Ligue 1,2020,Nantes,Mehdi Abeid,ALG,MF,27,1992,14.7,5,0,0,31,22,1,40,20,19,0,0,0,108,13,18,41.9,misc
+FRA-Ligue 1,2020,Nantes,Moses Simon,NGA,"FW,MF",25,1995,25.8,2,0,0,18,29,4,133,15,14,0,0,0,123,19,32,37.3,misc
+FRA-Ligue 1,2020,Nantes,Nicolas Pallois,FRA,DF,32,1987,30.8,8,1,1,21,12,3,7,37,36,0,1,1,215,60,40,60.0,misc
+FRA-Ligue 1,2020,Nantes,Pedro Chirivella,ESP,MF,23,1997,25.3,4,0,0,23,16,0,4,41,8,0,0,0,150,9,23,28.1,misc
+FRA-Ligue 1,2020,Nantes,Randal Kolo Muani,FRA,FW,21,1998,33.7,3,0,0,63,73,23,18,8,14,4,0,0,116,78,137,36.3,misc
+FRA-Ligue 1,2020,Nantes,Renaud Emond,BEL,"FW,MF",28,1991,3.9,1,0,0,5,13,0,2,0,0,1,0,0,6,15,26,36.6,misc
+FRA-Ligue 1,2020,Nantes,Roli Pereira de Sa,FRA,"FW,MF",23,1996,0.6,0,0,0,1,1,0,0,0,3,0,0,0,6,1,1,50.0,misc
+FRA-Ligue 1,2020,Nantes,Samuel Moutoussamy,COD,FW,23,1996,0.9,0,0,0,2,1,0,2,0,0,0,0,0,2,0,2,0.0,misc
+FRA-Ligue 1,2020,Nantes,Sébastien Corchia,FRA,DF,29,1990,23.0,3,0,0,21,43,0,136,38,30,0,1,0,88,24,29,45.3,misc
+FRA-Ligue 1,2020,Nice,Alexis Claude-Maurice,FRA,"MF,FW",22,1998,21.2,2,0,0,24,54,1,57,14,19,0,0,0,95,8,19,29.6,misc
+FRA-Ligue 1,2020,Nice,Alexis Trouillet,FRA,"MF,FW",19,2000,1.2,0,0,0,2,4,0,2,3,4,0,0,0,13,0,1,0.0,misc
+FRA-Ligue 1,2020,Nice,Amine Gouiri,ALG,"FW,MF",20,2000,30.5,5,0,0,45,36,8,88,17,18,1,0,0,103,20,29,40.8,misc
+FRA-Ligue 1,2020,Nice,Andy Pelmard,FRA,DF,20,2000,13.4,1,0,0,17,6,0,3,20,12,0,1,0,73,10,9,52.6,misc
+FRA-Ligue 1,2020,Nice,Dan Ndoye,SUI,"FW,MF",19,2000,6.1,0,0,0,16,15,3,19,7,6,0,1,0,17,5,8,38.5,misc
+FRA-Ligue 1,2020,Nice,Danilo Barbosa,BRA,DF,24,1996,2.8,2,0,0,3,4,0,0,2,3,0,0,0,16,4,2,66.7,misc
+FRA-Ligue 1,2020,Nice,Dante,BRA,DF,36,1983,8.6,2,0,0,6,4,0,0,10,5,0,1,0,48,21,7,75.0,misc
+FRA-Ligue 1,2020,Nice,Eddy Sylvestre,FRA,"FW,MF",20,1999,1.1,1,0,0,2,1,0,3,1,1,1,0,0,2,0,2,0.0,misc
+FRA-Ligue 1,2020,Nice,Evann Guessand,CIV,FW,19,2001,0.3,0,0,0,0,0,0,0,1,0,0,0,0,1,1,2,33.3,misc
+FRA-Ligue 1,2020,Nice,Flavius Daniliuc,AUT,DF,19,2001,16.4,0,0,0,12,9,0,2,14,15,0,0,0,101,16,25,39.0,misc
+FRA-Ligue 1,2020,Nice,Hassane Kamara,CIV,"DF,FW",26,1994,32.9,3,0,0,22,31,1,112,55,39,0,0,0,178,36,38,48.6,misc
+FRA-Ligue 1,2020,Nice,Hicham Boudaoui,ALG,MF,20,1999,19.3,9,0,0,29,20,6,16,23,35,1,0,0,84,14,26,35.0,misc
+FRA-Ligue 1,2020,Nice,Hicham Mahou,FRA,FW,21,1999,0.4,1,0,0,3,0,0,3,1,1,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Nice,Jean-Clair Todibo,FRA,DF,20,1999,14.8,5,0,0,17,14,0,2,19,15,0,0,0,112,26,22,54.2,misc
+FRA-Ligue 1,2020,Nice,Jeff Reine-Adélaïde,FRA,"MF,FW",22,1998,11.8,1,0,0,6,21,2,21,4,4,1,0,0,60,4,10,28.6,misc
+FRA-Ligue 1,2020,Nice,Jordan Lotomba,SUI,"DF,MF",21,1998,23.6,7,1,1,26,35,2,52,33,25,1,0,0,92,18,27,40.0,misc
+FRA-Ligue 1,2020,Nice,Kasper Dolberg,DEN,FW,22,1997,21.4,2,0,0,21,49,5,3,6,2,0,0,0,43,21,19,52.5,misc
+FRA-Ligue 1,2020,Nice,Khéphren Thuram,FRA,MF,19,2001,16.6,3,0,0,31,10,0,2,18,16,1,1,0,81,18,23,43.9,misc
+FRA-Ligue 1,2020,Nice,Malik Sellouki,FRA,"FW,MF",20,2000,0.7,1,0,0,1,2,0,6,2,0,0,0,0,4,0,0,,misc
+FRA-Ligue 1,2020,Nice,Morgan Schneiderlin,FRA,MF,30,1989,24.4,9,1,1,43,10,0,7,53,31,0,0,0,150,39,25,60.9,misc
+FRA-Ligue 1,2020,Nice,Myziane Maolida,COM,"FW,MF",21,1999,12.0,2,0,0,18,9,2,29,6,8,0,0,0,39,3,19,13.6,misc
+FRA-Ligue 1,2020,Nice,Patrick Burner,MTQ,DF,24,1996,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Nice,Pierre Lees-Melou,FRA,MF,27,1993,22.9,3,1,0,35,24,1,19,29,39,0,0,0,146,14,19,42.4,misc
+FRA-Ligue 1,2020,Nice,Racine Coly,SEN,MF,24,1995,0.2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Nice,Robson Bambu,BRA,DF,22,1997,11.6,3,1,0,19,9,1,1,10,11,0,1,0,80,19,19,50.0,misc
+FRA-Ligue 1,2020,Nice,Rony Lopes,POR,"FW,MF",24,1995,19.8,1,0,0,15,24,1,92,8,14,0,0,0,80,9,17,34.6,misc
+FRA-Ligue 1,2020,Nice,Salim Ben Seghir,FRA,DF,17,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Nice,Stanley N'Soki,FRA,DF,21,1999,13.8,4,0,0,11,6,0,9,26,19,0,1,0,95,28,9,75.7,misc
+FRA-Ligue 1,2020,Nice,Walter Benítez,ARG,GK,27,1993,38.0,3,0,0,0,4,0,0,1,1,0,0,0,35,13,0,100.0,misc
+FRA-Ligue 1,2020,Nice,William Saliba,FRA,DF,19,2001,20.0,2,0,0,16,10,0,0,26,9,0,1,0,151,36,22,62.1,misc
+FRA-Ligue 1,2020,Nice,Youcef Atal,ALG,"DF,FW",24,1996,10.6,1,0,0,18,27,7,51,26,12,0,0,0,63,8,20,28.6,misc
+FRA-Ligue 1,2020,Nîmes,Andrés Cubas,PAR,MF,24,1996,24.9,6,1,1,36,17,0,12,50,47,0,0,0,226,4,20,16.7,misc
+FRA-Ligue 1,2020,Nîmes,Anthony Briançon,FRA,DF,25,1994,13.6,4,0,0,9,10,1,2,33,7,0,0,0,70,24,21,53.3,misc
+FRA-Ligue 1,2020,Nîmes,Antoine Valerio,FRA,MF,20,1999,0.8,0,0,0,2,0,0,0,2,0,0,0,0,6,0,1,0.0,misc
+FRA-Ligue 1,2020,Nîmes,Baptiste Reynet,FRA,GK,29,1990,38.0,3,0,0,1,8,0,0,1,1,0,1,0,51,8,0,100.0,misc
+FRA-Ligue 1,2020,Nîmes,Birger Meling,NOR,DF,25,1994,25.9,4,0,0,15,39,1,39,36,31,0,0,0,140,21,17,55.3,misc
+FRA-Ligue 1,2020,Nîmes,Clément Depres,FRA,FW,25,1994,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Nîmes,Florian Miguel,FRA,DF,23,1996,17.1,4,2,1,17,32,0,7,45,13,0,2,0,80,31,33,48.4,misc
+FRA-Ligue 1,2020,Nîmes,Gaëtan Paquiez,FRA,DF,26,1994,11.6,1,0,0,13,17,0,12,16,12,0,0,0,46,19,13,59.4,misc
+FRA-Ligue 1,2020,Nîmes,Haris Duljević,BIH,"MF,FW",26,1993,8.6,1,0,0,9,12,1,18,8,9,0,0,0,56,11,23,32.4,misc
+FRA-Ligue 1,2020,Nîmes,Karim Aribi,ALG,FW,26,1994,3.3,0,0,0,2,2,0,2,0,2,1,0,0,7,12,39,23.5,misc
+FRA-Ligue 1,2020,Nîmes,Kelyan Guessoum,FRA,DF,21,1999,12.5,2,0,0,6,13,0,0,24,7,1,0,0,36,16,12,57.1,misc
+FRA-Ligue 1,2020,Nîmes,Kévin Denkey,TOG,FW,19,2000,5.8,3,0,0,20,10,2,2,1,2,0,0,0,17,8,16,33.3,misc
+FRA-Ligue 1,2020,Nîmes,Lamine Fomba,FRA,MF,22,1998,24.2,8,0,0,45,16,0,2,59,36,0,2,0,141,30,29,50.8,misc
+FRA-Ligue 1,2020,Nîmes,Loïck Landre,FRA,DF,28,1992,18.1,2,1,0,19,11,0,0,31,7,0,2,0,62,26,34,43.3,misc
+FRA-Ligue 1,2020,Nîmes,Lucas Buadés,FRA,MF,22,1997,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Nîmes,Lucas Deaux,FRA,"MF,DF",31,1988,19.5,4,1,0,36,19,3,21,20,32,0,1,0,108,36,28,56.3,misc
+FRA-Ligue 1,2020,Nîmes,Mahamadou Doucouré,MLI,"FW,MF",20,2000,0.5,0,0,0,0,1,0,1,0,1,0,0,0,3,0,1,0.0,misc
+FRA-Ligue 1,2020,Nîmes,Marco Majouga,CTA,"FW,MF",19,2001,1.4,0,0,0,3,1,1,3,0,1,0,0,0,8,4,2,66.7,misc
+FRA-Ligue 1,2020,Nîmes,Matteo Ahlinvi,BEN,MF,21,1999,10.0,0,0,0,17,15,1,6,2,20,0,1,0,57,8,13,38.1,misc
+FRA-Ligue 1,2020,Nîmes,Moussa Koné,SEN,FW,23,1996,19.5,2,0,0,20,41,16,4,2,6,0,0,0,42,16,73,18.0,misc
+FRA-Ligue 1,2020,Nîmes,Naomichi Ueda,JPN,DF,25,1994,7.9,0,0,0,3,3,1,0,6,2,0,0,0,36,13,9,59.1,misc
+FRA-Ligue 1,2020,Nîmes,Nassim Chadli,FRA,"FW,MF",19,2001,0.3,0,0,0,0,1,0,2,0,1,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Nîmes,Niclas Eliasson,SWE,"MF,FW",24,1995,20.0,1,0,0,25,42,4,142,23,14,0,0,0,70,19,43,30.6,misc
+FRA-Ligue 1,2020,Nîmes,Nolan Roux,FRA,FW,32,1988,7.2,2,0,0,11,16,3,8,5,3,0,0,0,21,11,26,29.7,misc
+FRA-Ligue 1,2020,Nîmes,Pablo Martinez,FRA,DF,31,1989,6.0,1,0,0,5,10,0,0,11,7,0,0,0,24,10,8,55.6,misc
+FRA-Ligue 1,2020,Nîmes,Patrick Burner,MTQ,DF,24,1996,14.6,0,0,0,15,12,0,26,24,11,0,0,0,69,13,21,38.2,misc
+FRA-Ligue 1,2020,Nîmes,Renaud Ripart,FRA,"MF,FW",27,1993,33.9,3,0,0,29,63,5,62,36,30,0,0,0,164,72,77,48.3,misc
+FRA-Ligue 1,2020,Nîmes,Romain Philippoteaux,FRA,"FW,MF",32,1988,2.4,0,0,0,1,0,0,9,2,1,0,0,0,14,0,0,,misc
+FRA-Ligue 1,2020,Nîmes,Sami Ben Amar,MAR,MF,22,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+FRA-Ligue 1,2020,Nîmes,Sidy Sarr,SEN,MF,24,1996,5.1,1,0,0,9,5,1,0,7,6,0,0,0,31,20,11,64.5,misc
+FRA-Ligue 1,2020,Nîmes,Sofiane Alakouch,MAR,DF,22,1998,16.7,4,0,0,25,26,1,19,21,33,1,1,0,106,7,13,35.0,misc
+FRA-Ligue 1,2020,Nîmes,Yassine Benrahou,FRA,MF,21,1999,13.8,2,0,0,8,25,0,93,4,9,0,0,0,68,6,21,22.2,misc
+FRA-Ligue 1,2020,Nîmes,Zinedine Ferhat,ALG,"FW,MF",27,1993,32.9,2,0,0,23,66,9,124,32,21,3,0,0,145,71,67,51.4,misc
+FRA-Ligue 1,2020,Paris S-G,Abdou Diallo,SEN,DF,24,1996,16.6,3,2,1,17,9,1,12,25,11,0,1,0,96,23,13,63.9,misc
+FRA-Ligue 1,2020,Paris S-G,Alessandro Florenzi,ITA,DF,29,1991,17.1,1,0,0,10,7,2,80,17,16,0,0,0,86,13,20,39.4,misc
+FRA-Ligue 1,2020,Paris S-G,Ander Herrera,ESP,MF,30,1989,20.6,6,0,0,32,16,0,13,31,35,0,0,0,139,8,12,40.0,misc
+FRA-Ligue 1,2020,Paris S-G,Arnaud Kalimuendo,FRA,FW,18,2002,0.8,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Paris S-G,Bandiougou Fadiga,FRA,"FW,MF",19,2001,0.7,1,0,0,2,2,0,0,0,0,0,0,0,3,0,0,,misc
+FRA-Ligue 1,2020,Paris S-G,Colin Dagba,FRA,DF,21,1998,15.1,3,0,0,20,9,3,39,16,11,0,1,0,64,2,11,15.4,misc
+FRA-Ligue 1,2020,Paris S-G,Danilo Pereira,POR,"MF,DF",28,1991,15.9,3,0,0,14,15,0,1,29,11,0,0,0,108,28,16,63.6,misc
+FRA-Ligue 1,2020,Paris S-G,Edouard Michut,FRA,MF,17,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Paris S-G,Idrissa Gana Gueye,SEN,MF,30,1989,17.6,3,0,0,35,19,0,7,20,35,0,0,0,145,25,19,56.8,misc
+FRA-Ligue 1,2020,Paris S-G,Jesé,ESP,FW,27,1993,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Paris S-G,Juan Bernat,ESP,DF,27,1993,2.2,2,0,0,6,1,0,1,1,3,0,0,0,7,0,3,0.0,misc
+FRA-Ligue 1,2020,Paris S-G,Julian Draxler,GER,"MF,FW",26,1993,11.8,3,0,0,8,13,4,29,14,6,0,0,0,46,4,3,57.1,misc
+FRA-Ligue 1,2020,Paris S-G,Kays Ruiz,FRA,"FW,MF",17,2002,2.1,1,0,0,4,5,0,1,3,1,0,0,0,8,1,2,33.3,misc
+FRA-Ligue 1,2020,Paris S-G,Kenny Nagera,FRA,FW,18,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Paris S-G,Keylor Navas,CRC,GK,33,1986,28.0,0,0,0,0,2,0,0,0,0,0,0,0,43,4,1,80.0,misc
+FRA-Ligue 1,2020,Paris S-G,Kylian Mbappé,FRA,FW,21,1998,26.4,5,0,0,23,38,17,53,3,2,4,0,0,59,5,14,26.3,misc
+FRA-Ligue 1,2020,Paris S-G,Layvin Kurzawa,FRA,DF,27,1992,14.2,4,1,0,33,7,1,43,28,19,1,0,0,88,30,13,69.8,misc
+FRA-Ligue 1,2020,Paris S-G,Leandro Paredes,ARG,MF,26,1994,14.5,7,1,1,23,17,0,9,17,18,0,0,0,102,10,9,52.6,misc
+FRA-Ligue 1,2020,Paris S-G,Marcin Bułka,POL,GK,20,1999,1.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0,misc
+FRA-Ligue 1,2020,Paris S-G,Marco Verratti,ITA,MF,27,1992,16.6,7,0,0,28,51,1,11,26,30,0,0,0,130,11,12,47.8,misc
+FRA-Ligue 1,2020,Paris S-G,Marquinhos,BRA,DF,26,1994,23.6,2,0,0,14,5,1,1,27,21,0,0,0,149,49,28,63.6,misc
+FRA-Ligue 1,2020,Paris S-G,Mauro Icardi,ARG,FW,27,1993,12.0,1,0,0,9,11,6,3,3,2,2,0,0,20,15,11,57.7,misc
+FRA-Ligue 1,2020,Paris S-G,Mitchel Bakker,NED,DF,20,2000,18.8,1,0,0,16,9,3,51,22,30,0,0,0,124,23,13,63.9,misc
+FRA-Ligue 1,2020,Paris S-G,Moise Kean,ITA,FW,20,2000,18.9,4,0,0,33,6,5,8,8,8,0,0,0,46,14,14,50.0,misc
+FRA-Ligue 1,2020,Paris S-G,Neymar,BRA,"MF,FW",28,1992,15.7,7,2,1,33,67,3,58,9,11,2,0,0,60,5,12,29.4,misc
+FRA-Ligue 1,2020,Paris S-G,Pablo Sarabia,ESP,"FW,MF",28,1992,14.7,2,0,0,6,16,7,51,5,11,0,0,0,54,4,11,26.7,misc
+FRA-Ligue 1,2020,Paris S-G,Presnel Kimpembe,FRA,DF,24,1995,25.6,6,1,0,31,25,0,0,30,28,0,0,0,163,37,24,60.7,misc
+FRA-Ligue 1,2020,Paris S-G,Rafinha,BRA,"MF,FW",27,1993,15.1,2,0,0,22,40,1,23,13,26,1,0,0,111,7,11,38.9,misc
+FRA-Ligue 1,2020,Paris S-G,Sergio Rico,ESP,GK,26,1993,9.0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,0,100.0,misc
+FRA-Ligue 1,2020,Paris S-G,Thilo Kehrer,GER,DF,23,1996,18.0,3,0,0,26,9,1,10,15,26,0,0,0,106,30,19,61.2,misc
+FRA-Ligue 1,2020,Paris S-G,Timothee Pembele,FRA,DF,17,2002,4.3,1,0,0,7,3,0,2,5,7,0,0,1,15,5,8,38.5,misc
+FRA-Ligue 1,2020,Paris S-G,Xavi Simons,NED,MF,17,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Paris S-G,Ángel Di María,ARG,"FW,MF",32,1988,20.6,1,0,0,11,26,8,188,6,17,1,0,0,59,0,1,0.0,misc
+FRA-Ligue 1,2020,Reims,Alexis Flips,FRA,"MF,FW",20,2000,0.5,0,0,0,1,1,0,5,0,0,0,0,0,3,0,0,,misc
+FRA-Ligue 1,2020,Reims,Anastasios Donis,GRE,MF,23,1996,1.1,0,1,0,3,0,3,5,0,1,0,0,0,3,2,0,100.0,misc
+FRA-Ligue 1,2020,Reims,Arber Zeneli,KVX,"MF,FW",25,1995,14.3,1,0,0,13,24,5,53,3,10,0,0,0,72,7,19,26.9,misc
+FRA-Ligue 1,2020,Reims,Boulaye Dia,SEN,"FW,MF",23,1996,32.6,2,0,0,31,36,14,14,12,12,1,0,0,109,31,92,25.2,misc
+FRA-Ligue 1,2020,Reims,Dario Maresic,AUT,DF,20,1999,5.7,0,0,0,8,1,0,3,10,7,0,0,0,23,10,5,66.7,misc
+FRA-Ligue 1,2020,Reims,Dereck Kutesa,SUI,"MF,FW",22,1997,7.6,2,0,0,12,16,5,16,7,7,0,0,0,28,9,13,40.9,misc
+FRA-Ligue 1,2020,Reims,Dion Lopy,SEN,MF,18,2002,2.8,0,0,0,0,2,0,1,2,1,0,0,0,14,3,5,37.5,misc
+FRA-Ligue 1,2020,Reims,El Bilal Touré,MLI,FW,18,2001,13.8,4,0,0,42,13,11,1,6,12,0,0,0,38,69,90,43.4,misc
+FRA-Ligue 1,2020,Reims,Fodé Doucouré,MLI,DF,19,2001,3.7,0,0,0,4,1,0,8,4,8,0,0,0,18,3,2,60.0,misc
+FRA-Ligue 1,2020,Reims,Fraser Hornby,SCO,"FW,MF",20,1999,0.4,1,0,0,1,0,0,0,1,0,0,0,0,2,2,2,50.0,misc
+FRA-Ligue 1,2020,Reims,Ghislain Konan,CIV,DF,24,1995,29.0,5,0,0,24,24,3,64,30,32,0,2,0,174,25,27,48.1,misc
+FRA-Ligue 1,2020,Reims,Hugo Ekitike,FRA,"FW,MF",18,2002,1.0,1,0,0,3,1,0,0,0,1,0,0,0,1,3,4,42.9,misc
+FRA-Ligue 1,2020,Reims,Kaj Sierhuis,NED,"FW,MF",22,1998,7.2,2,0,0,17,4,1,6,2,2,0,0,0,25,13,18,41.9,misc
+FRA-Ligue 1,2020,Reims,Marshall Munetsi,ZIM,"MF,DF",24,1996,21.4,7,1,0,30,20,1,5,57,19,0,0,0,119,54,32,62.8,misc
+FRA-Ligue 1,2020,Reims,Mathieu Cafaro,FRA,"MF,FW",23,1997,23.0,3,0,0,29,37,5,110,17,17,0,0,0,111,8,17,32.0,misc
+FRA-Ligue 1,2020,Reims,Moreto Cassamã,GNB,MF,22,1998,22.6,8,3,0,30,27,0,19,36,36,0,0,0,172,6,13,31.6,misc
+FRA-Ligue 1,2020,Reims,Mouhamadou Drammeh,FRA,MF,21,1999,1.9,1,0,0,1,4,0,0,2,0,0,0,0,7,4,6,40.0,misc
+FRA-Ligue 1,2020,Reims,Moussa Doumbia,MLI,"MF,FW",25,1994,10.0,1,0,0,8,32,2,34,10,6,0,0,0,78,3,17,15.0,misc
+FRA-Ligue 1,2020,Reims,Moïse Sakava,CMR,MF,19,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Reims,Nathanael Mbuku,COD,"MF,FW",18,2002,24.6,3,0,0,26,59,3,43,14,19,1,1,0,105,26,43,37.7,misc
+FRA-Ligue 1,2020,Reims,Predrag Rajković,SRB,GK,24,1995,36.5,2,0,0,1,12,0,0,2,1,0,1,0,45,7,0,100.0,misc
+FRA-Ligue 1,2020,Reims,Thibault De Smet,BEL,DF,22,1998,5.5,3,0,0,11,6,0,11,6,6,0,1,0,32,8,10,44.4,misc
+FRA-Ligue 1,2020,Reims,Thomas Foket,BEL,DF,25,1994,36.9,4,0,0,33,34,4,59,69,43,1,0,1,181,28,42,40.0,misc
+FRA-Ligue 1,2020,Reims,Tristan Dingomé,CMR,MF,29,1991,0.2,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Reims,Valon Berisha,KVX,MF,27,1993,18.3,2,0,0,15,16,1,62,25,23,0,0,0,84,9,13,40.9,misc
+FRA-Ligue 1,2020,Reims,Wout Faes,BEL,DF,22,1998,32.2,13,2,1,23,15,0,0,68,22,0,2,0,163,57,39,59.4,misc
+FRA-Ligue 1,2020,Reims,Xavier Chavalerin,FRA,MF,29,1991,28.3,8,0,0,38,6,3,20,43,50,0,0,0,120,15,16,48.4,misc
+FRA-Ligue 1,2020,Reims,Yehvann Diouf,FRA,GK,20,1999,1.5,0,0,0,0,1,0,0,0,0,0,0,0,6,0,0,,misc
+FRA-Ligue 1,2020,Reims,Yunis Abdelhamid,MAR,DF,32,1987,32.1,4,1,0,37,22,0,0,61,37,0,1,0,200,92,53,63.4,misc
+FRA-Ligue 1,2020,Rennes,Adrien Hunou,FRA,"FW,MF",26,1994,6.5,1,0,0,7,8,1,1,1,3,0,0,0,14,9,13,40.9,misc
+FRA-Ligue 1,2020,Rennes,Adrien Truffert,FRA,"DF,MF",18,2001,21.7,3,0,0,23,25,0,66,18,18,1,0,0,89,18,24,42.9,misc
+FRA-Ligue 1,2020,Rennes,Alfred Gomis,SEN,GK,26,1993,22.0,1,0,0,1,3,0,0,3,1,0,1,0,39,7,0,100.0,misc
+FRA-Ligue 1,2020,Rennes,Andy Diouf,FRA,FW,17,2003,0.1,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Rennes,Benjamin Bourigeaud,FRA,"MF,FW",26,1994,28.4,8,0,0,26,10,3,226,19,23,0,0,0,167,18,45,28.6,misc
+FRA-Ligue 1,2020,Rennes,Brandon Soppy,FRA,DF,18,2002,6.2,1,0,0,12,15,0,16,6,15,0,0,0,34,5,8,38.5,misc
+FRA-Ligue 1,2020,Rennes,Clément Grenier,FRA,"MF,FW",29,1991,12.0,3,0,0,28,15,0,56,5,8,0,0,0,63,8,12,40.0,misc
+FRA-Ligue 1,2020,Rennes,Dalbert Henrique,BRA,DF,26,1993,4.1,3,0,0,9,3,0,12,5,6,0,0,0,22,7,4,63.6,misc
+FRA-Ligue 1,2020,Rennes,Damien Da Silva,FRA,DF,32,1988,29.6,7,1,0,30,22,0,9,44,13,0,1,1,162,75,38,66.4,misc
+FRA-Ligue 1,2020,Rennes,Daniele Rugani,ITA,DF,26,1994,1.0,1,0,0,2,2,0,0,1,0,0,0,0,4,5,3,62.5,misc
+FRA-Ligue 1,2020,Rennes,Edouard Mendy,SEN,GK,28,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Rennes,Eduardo Camavinga,FRA,MF,17,2002,26.7,6,0,0,55,53,0,4,23,58,0,0,0,162,19,26,42.2,misc
+FRA-Ligue 1,2020,Rennes,Faitout Maouassa,FRA,DF,22,1998,13.0,4,0,0,13,18,0,60,17,11,0,0,0,47,14,8,63.6,misc
+FRA-Ligue 1,2020,Rennes,Flavien Tait,FRA,"MF,FW",27,1993,15.2,6,0,0,18,31,0,28,13,11,0,0,0,114,9,10,47.4,misc
+FRA-Ligue 1,2020,Rennes,Georginio Rutter,FRA,"FW,MF",18,2002,0.5,0,0,0,4,2,2,0,0,2,0,0,0,4,2,1,66.7,misc
+FRA-Ligue 1,2020,Rennes,Gerzino Nyamsi,FRA,DF,23,1997,9.7,2,0,0,10,0,0,1,10,10,0,0,0,55,21,15,58.3,misc
+FRA-Ligue 1,2020,Rennes,Hamari Traoré,MLI,DF,28,1992,33.3,4,0,0,40,24,2,133,76,38,1,1,0,204,38,53,41.8,misc
+FRA-Ligue 1,2020,Rennes,James Lea Siliki,CMR,MF,24,1996,2.8,0,0,0,3,0,0,8,1,2,0,0,0,10,2,1,66.7,misc
+FRA-Ligue 1,2020,Rennes,Jeremy Doku,BEL,"MF,FW",18,2002,25.7,1,1,0,37,69,6,57,11,25,0,0,0,140,9,14,39.1,misc
+FRA-Ligue 1,2020,Rennes,Jonas Martin,FRA,MF,30,1990,5.4,3,0,0,10,4,0,2,13,9,0,0,0,40,6,6,50.0,misc
+FRA-Ligue 1,2020,Rennes,Lesley Ugochukwu,FRA,MF,16,2004,0.7,1,0,0,1,1,0,0,0,1,0,0,0,5,0,0,,misc
+FRA-Ligue 1,2020,Rennes,M'Baye Niang,SEN,FW,25,1994,4.7,0,0,0,13,11,0,1,1,2,0,0,0,12,13,16,44.8,misc
+FRA-Ligue 1,2020,Rennes,Martin Terrier,FRA,"FW,MF",23,1997,27.1,2,1,0,34,39,9,17,16,15,0,0,0,84,49,65,43.0,misc
+FRA-Ligue 1,2020,Rennes,Matthis Abline,FRA,FW,17,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Rennes,Nayef Aguerd,MAR,DF,24,1996,35.0,6,0,0,22,29,2,1,47,30,0,1,0,197,121,71,63.0,misc
+FRA-Ligue 1,2020,Rennes,Raphinha,BRA,"FW,MF",23,1996,4.5,0,0,0,6,12,0,16,3,2,0,0,0,14,5,7,41.7,misc
+FRA-Ligue 1,2020,Rennes,Romain Del Castillo,FRA,"MF,FW",24,1996,7.2,2,0,0,12,13,2,35,3,11,0,0,0,48,11,12,47.8,misc
+FRA-Ligue 1,2020,Rennes,Romain Salin,FRA,GK,36,1984,15.0,2,0,0,0,2,0,0,1,0,0,0,0,32,0,3,0.0,misc
+FRA-Ligue 1,2020,Rennes,Sacha Boey,FRA,DF,19,2000,1.4,0,1,0,2,0,0,3,2,3,0,0,0,6,2,1,66.7,misc
+FRA-Ligue 1,2020,Rennes,Serhou Guirassy,GUI,FW,24,1996,19.6,3,0,0,38,55,6,4,5,1,1,0,0,37,69,56,55.2,misc
+FRA-Ligue 1,2020,Rennes,Steven Nzonzi,FRA,MF,31,1988,32.3,8,1,0,36,13,0,5,16,16,0,0,0,182,81,37,68.6,misc
+FRA-Ligue 1,2020,Rennes,Yann Gboho,FRA,"MF,FW",19,2001,3.4,0,0,0,8,6,1,3,1,3,0,0,0,15,4,5,44.4,misc
+FRA-Ligue 1,2020,Saint-Étienne,Abdoulaye Sidibé,FRA,MF,18,2002,0.1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,2,33.3,misc
+FRA-Ligue 1,2020,Saint-Étienne,Adil Aouchiche,FRA,"MF,FW",18,2002,19.2,2,0,0,20,31,0,130,10,20,0,0,0,100,13,28,31.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Aimen Moueffek,FRA,"DF,MF",19,2001,8.3,3,0,0,20,15,0,6,9,15,1,0,0,63,16,8,66.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Anthony Modeste,FRA,"FW,MF",32,1988,3.3,1,0,0,5,2,0,2,0,1,0,0,0,1,12,14,46.2,misc
+FRA-Ligue 1,2020,Saint-Étienne,Arnaud Nordin,FRA,"MF,FW",22,1998,19.7,1,0,0,12,60,3,74,9,8,0,0,0,81,7,24,22.6,misc
+FRA-Ligue 1,2020,Saint-Étienne,Assane Dioussé,SEN,DF,22,1997,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+FRA-Ligue 1,2020,Saint-Étienne,Baptiste Gabard,FRA,MF,20,2000,1.5,1,0,0,2,3,0,0,1,3,0,0,0,3,3,4,42.9,misc
+FRA-Ligue 1,2020,Saint-Étienne,Bilal Benkhedim,FRA,FW,19,2001,0.8,0,0,0,1,1,0,11,0,0,0,0,0,6,0,2,0.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Charles Abi,FRA,"FW,MF",20,2000,10.1,1,0,0,18,7,7,3,4,2,0,0,0,26,37,59,38.5,misc
+FRA-Ligue 1,2020,Saint-Étienne,Denis Bouanga,GAB,"MF,FW",25,1994,30.2,7,0,0,60,35,11,64,20,28,1,0,1,121,65,91,41.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Etienne Green,ENG,GK,20,2000,8.0,0,0,0,2,1,0,0,0,0,0,2,0,8,1,1,50.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Gabriel Silva,BRA,DF,29,1991,3.9,1,0,0,5,7,0,10,6,6,0,1,0,18,5,6,45.5,misc
+FRA-Ligue 1,2020,Saint-Étienne,Harold Moukoudi,CMR,DF,22,1997,25.3,6,0,0,23,14,0,0,42,27,0,2,0,132,52,31,62.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Jean-Philippe Krasso,CIV,FW,23,1997,2.5,0,0,0,2,4,5,2,1,3,0,0,0,11,3,5,37.5,misc
+FRA-Ligue 1,2020,Saint-Étienne,Jessy Moulin,FRA,GK,34,1986,29.0,1,0,0,0,3,0,0,2,1,0,0,0,47,12,2,85.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Kévin Monnet-Paquet,FRA,"MF,FW",31,1988,6.3,0,0,0,7,9,0,15,6,7,0,0,0,41,4,19,17.4,misc
+FRA-Ligue 1,2020,Saint-Étienne,Lucas Gourna-Douath,FRA,MF,16,2003,14.7,8,0,0,35,28,0,3,24,22,0,0,0,113,14,12,53.8,misc
+FRA-Ligue 1,2020,Saint-Étienne,Mahdi Camara,FRA,"MF,DF",22,1998,36.6,4,0,0,48,41,0,34,78,67,0,0,0,191,45,29,60.8,misc
+FRA-Ligue 1,2020,Saint-Étienne,Marvin Tshibuabua,FRA,DF,18,2002,0.5,0,0,0,0,0,0,0,1,0,0,0,0,5,2,3,40.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Mathieu Debuchy,FRA,DF,35,1985,23.4,5,0,0,40,18,4,96,45,33,0,3,0,116,70,31,69.3,misc
+FRA-Ligue 1,2020,Saint-Étienne,Mathys Saban,FRA,FW,18,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Saint-Étienne,Maxence Rivera,FRA,"MF,FW",18,2002,2.7,0,0,0,2,2,0,10,1,10,0,0,0,18,1,5,16.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Miguel Trauco,PER,DF,27,1992,22.6,1,0,0,29,12,0,75,30,29,0,0,0,135,22,18,55.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Nelson Sissoko,FRA,DF,23,1997,5.3,0,0,0,2,4,0,15,12,6,0,0,1,26,8,11,42.1,misc
+FRA-Ligue 1,2020,Saint-Étienne,Panagiotis Retsos,GRE,DF,21,1998,3.0,2,0,0,6,1,0,0,3,3,0,0,0,25,15,6,71.4,misc
+FRA-Ligue 1,2020,Saint-Étienne,Pape Abou Cissé,SEN,DF,24,1995,14.0,1,0,0,10,9,1,1,27,13,0,0,0,97,55,15,78.6,misc
+FRA-Ligue 1,2020,Saint-Étienne,Rayan Souici,FRA,DF,22,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Romain Hamouma,FRA,"FW,MF",33,1987,19.7,5,0,0,31,36,9,96,7,7,1,0,0,69,18,47,27.7,misc
+FRA-Ligue 1,2020,Saint-Étienne,Ryad Boudebouz,ALG,"MF,FW",30,1990,7.2,2,0,0,7,9,0,51,5,4,0,0,0,47,4,13,23.5,misc
+FRA-Ligue 1,2020,Saint-Étienne,Saidou Sow,GUI,DF,18,2002,11.1,0,0,0,7,5,0,0,14,12,0,0,0,75,24,22,52.2,misc
+FRA-Ligue 1,2020,Saint-Étienne,Stefan Bajic,FRA,GK,18,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Saint-Étienne,Timothée Kolodziejczak,FRA,DF,28,1991,22.6,4,1,0,28,6,0,10,36,15,0,1,0,149,45,44,50.6,misc
+FRA-Ligue 1,2020,Saint-Étienne,Tyron Tormin,FRA,"FW,MF",19,2001,0.2,0,0,0,1,1,0,0,0,0,0,0,0,3,1,0,100.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Wahbi Khazri,TUN,FW,29,1991,13.1,5,1,0,25,31,7,29,4,15,2,0,0,58,4,23,14.8,misc
+FRA-Ligue 1,2020,Saint-Étienne,Wesley Fofana,FRA,DF,19,2000,3.5,1,0,0,6,5,1,0,8,4,0,0,0,23,7,7,50.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Yanis Lhery,FRA,MF,17,2003,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,75.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Yann M'Vila,FRA,MF,30,1990,0.2,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,,misc
+FRA-Ligue 1,2020,Saint-Étienne,Yvan Neyou,CMR,MF,23,1997,27.1,9,0,0,45,45,0,10,31,31,0,0,0,179,26,14,65.0,misc
+FRA-Ligue 1,2020,Saint-Étienne,Yvann Macon,FRA,DF,21,1998,6.0,2,0,0,11,7,0,12,9,20,0,0,0,47,10,11,47.6,misc
+FRA-Ligue 1,2020,Saint-Étienne,Zaydou Youssouf,COM,MF,21,1999,13.7,2,0,0,18,38,1,20,25,15,0,0,0,79,7,15,31.8,misc
+FRA-Ligue 1,2020,Strasbourg,Abdul Majeed Waris,GHA,"FW,MF",28,1991,6.1,0,0,0,8,19,2,10,2,1,0,0,0,20,3,7,30.0,misc
+FRA-Ligue 1,2020,Strasbourg,Adrien Thomasson,FRA,"MF,FW",26,1993,29.2,8,1,1,52,43,6,38,22,17,1,0,0,150,24,65,27.0,misc
+FRA-Ligue 1,2020,Strasbourg,Alexander Djiku,GHA,"DF,MF",25,1994,28.4,8,0,0,50,36,2,8,91,41,0,2,0,152,53,36,59.6,misc
+FRA-Ligue 1,2020,Strasbourg,Anthony Caci,FRA,DF,23,1997,31.1,0,0,0,32,14,0,74,55,46,0,0,0,214,27,42,39.1,misc
+FRA-Ligue 1,2020,Strasbourg,Bingourou Kamara,SEN,GK,23,1996,8.0,0,0,0,1,1,0,0,1,1,0,0,1,15,0,0,,misc
+FRA-Ligue 1,2020,Strasbourg,Dimitri Liénard,FRA,MF,32,1988,20.3,2,0,0,19,14,0,173,18,27,0,0,0,125,15,26,36.6,misc
+FRA-Ligue 1,2020,Strasbourg,Dion Moise Sahi,CIV,"FW,MF",18,2001,1.0,0,0,0,0,3,0,0,0,0,1,0,0,6,2,3,40.0,misc
+FRA-Ligue 1,2020,Strasbourg,Eiji Kawashima,JPN,GK,37,1983,24.0,1,0,0,1,1,0,0,0,0,0,1,0,28,7,1,87.5,misc
+FRA-Ligue 1,2020,Strasbourg,Frederic Guilbert,FRA,DF,25,1994,12.4,2,1,0,18,13,0,67,33,19,0,0,0,83,16,18,47.1,misc
+FRA-Ligue 1,2020,Strasbourg,Habib Diallo,SEN,FW,25,1995,25.8,2,0,0,24,25,13,17,13,6,0,0,0,74,94,101,48.2,misc
+FRA-Ligue 1,2020,Strasbourg,Ibrahima Sissoko,MLI,MF,22,1997,28.7,6,0,0,66,22,0,27,48,48,0,1,0,173,55,23,70.5,misc
+FRA-Ligue 1,2020,Strasbourg,Idriss Saadi,ALG,"MF,FW",28,1992,1.4,0,0,0,1,0,0,4,0,0,0,0,0,2,2,7,22.2,misc
+FRA-Ligue 1,2020,Strasbourg,Ismael Aaneba,FRA,DF,21,1999,0.1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,,misc
+FRA-Ligue 1,2020,Strasbourg,Jean-Eudes Aholou,CIV,MF,26,1994,23.8,9,0,0,50,32,0,8,53,25,0,0,0,165,40,30,57.1,misc
+FRA-Ligue 1,2020,Strasbourg,Jean-Ricner Bellegarde,FRA,"MF,FW",22,1998,23.2,3,0,0,32,47,0,68,19,39,3,0,0,110,23,44,34.3,misc
+FRA-Ligue 1,2020,Strasbourg,Kenny Lala,MAD,DF,28,1991,20.4,1,0,0,18,15,0,106,23,13,0,0,0,112,19,15,55.9,misc
+FRA-Ligue 1,2020,Strasbourg,Kévin Zohi,MLI,"FW,MF",23,1996,4.8,0,0,0,6,2,0,16,6,5,0,0,0,26,7,4,63.6,misc
+FRA-Ligue 1,2020,Strasbourg,Lamine Koné,CIV,DF,31,1989,11.6,3,0,0,10,8,0,2,15,6,0,1,0,57,21,18,53.8,misc
+FRA-Ligue 1,2020,Strasbourg,Lionel Carole,FRA,DF,29,1991,14.9,2,0,0,17,18,1,40,38,25,0,0,0,107,25,10,71.4,misc
+FRA-Ligue 1,2020,Strasbourg,Ludovic Ajorque,FRA,FW,26,1994,33.0,5,0,0,38,46,12,27,11,18,2,0,0,67,166,133,55.5,misc
+FRA-Ligue 1,2020,Strasbourg,Mahame Siby,MLI,MF,24,1996,0.2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,,misc
+FRA-Ligue 1,2020,Strasbourg,Matz Sels,BEL,GK,28,1992,6.0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,100.0,misc
+FRA-Ligue 1,2020,Strasbourg,Mehdi Chahiri,MAR,"FW,MF",24,1996,8.9,0,0,0,4,9,2,10,6,8,0,0,0,51,11,12,47.8,misc
+FRA-Ligue 1,2020,Strasbourg,Mohamed Simakan,FRA,DF,20,2000,17.9,2,0,0,22,27,1,6,31,22,0,2,0,129,27,25,51.9,misc
+FRA-Ligue 1,2020,Strasbourg,Sanjin Prcić,BIH,MF,26,1993,3.9,1,0,0,8,3,0,12,4,2,0,0,0,25,4,0,100.0,misc
+FRA-Ligue 1,2020,Strasbourg,Stefan Mitrović,SRB,DF,30,1990,30.9,3,1,0,21,14,0,0,31,27,0,1,0,138,49,38,56.3,misc

@@ -1,0 +1,586 @@
+league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
+,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
+FRA-Ligue 1,2020,Angers,Abdoulaye Bamba,CIV,DF,30,1990,15.0,0,1,1,100.0,0.07,0.07,0.0,0.0,15.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Angers,Angelo Fulgini,FRA,MF,23,1996,30.3,7,65,28,43.1,2.15,0.92,0.09,0.21,20.4,7,1,1,5.4,4.6,0.07,1.6,1.4,shooting
+FRA-Ligue 1,2020,Angers,Antonin Bobichon,FRA,"MF,FW",24,1995,10.1,0,22,3,13.6,2.17,0.3,0.0,0.0,24.1,3,0,0,1.0,1.0,0.04,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Angers,Baptiste Santamaria,FRA,MF,25,1995,3.0,0,4,3,75.0,1.33,1.0,0.0,0.0,27.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Angers,Casimir Ninga,CHA,FW,27,1993,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Enzo Ebosse,CMR,DF,21,1999,2.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Farid El Melali,ALG,"FW,MF",23,1997,4.6,1,13,5,38.5,2.83,1.09,0.08,0.2,18.5,0,0,0,1.2,1.2,0.09,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Angers,Ibrahim Amadou,FRA,MF,27,1993,16.7,0,15,5,33.3,0.9,0.3,0.0,0.0,20.3,0,0,0,1.5,1.5,0.1,-1.5,-1.5,shooting
+FRA-Ligue 1,2020,Angers,Ismaël Traoré,CIV,DF,33,1986,33.3,3,13,5,38.5,0.39,0.15,0.23,0.6,9.8,0,0,0,1.5,1.5,0.12,1.5,1.5,shooting
+FRA-Ligue 1,2020,Angers,Jimmy Cabot,FRA,"FW,MF",26,1994,10.5,1,10,4,40.0,0.96,0.38,0.1,0.25,19.8,0,0,0,0.8,0.8,0.08,0.2,0.2,shooting
+FRA-Ligue 1,2020,Angers,Lassana Coulibaly,MLI,MF,24,1996,18.7,1,14,4,28.6,0.75,0.21,0.07,0.25,23.2,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Angers,Lois Diony,FRA,FW,27,1992,19.4,5,28,13,46.4,1.44,0.67,0.14,0.31,15.3,0,1,1,4.0,3.3,0.12,1.0,0.7,shooting
+FRA-Ligue 1,2020,Angers,Mateo Pavlović,BIH,DF,30,1990,12.3,0,4,0,0.0,0.33,0.0,0.0,,10.0,0,0,0,0.4,0.4,0.09,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Angers,Mathias Pereira Lage,POR,"FW,MF",23,1996,16.3,4,28,10,35.7,1.72,0.61,0.14,0.4,21.7,2,0,0,2.1,2.1,0.08,1.9,1.9,shooting
+FRA-Ligue 1,2020,Angers,Mohamed Ali Cho,FRA,"FW,MF",16,2004,3.9,0,10,0,0.0,2.59,0.0,0.0,,13.0,0,0,0,1.9,1.9,0.19,-1.9,-1.9,shooting
+FRA-Ligue 1,2020,Angers,Noah Fatar,FRA,"FW,MF",18,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Paul Bernardoni,FRA,GK,23,1997,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Pierrick Capelle,FRA,"MF,DF",33,1987,22.8,3,29,5,17.2,1.27,0.22,0.1,0.6,21.2,1,0,0,3.0,3.0,0.1,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Rachid Alioui,MAR,FW,28,1992,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Rayan Aït-Nouri,ALG,DF,19,2001,2.1,0,1,0,0.0,0.48,0.0,0.0,,14.3,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Angers,Romain Thomas,FRA,DF,32,1988,33.6,4,14,6,42.9,0.42,0.18,0.29,0.67,9.3,0,0,0,2.6,2.6,0.19,1.4,1.4,shooting
+FRA-Ligue 1,2020,Angers,Sada Thioub,SEN,"FW,MF",25,1995,14.0,1,23,6,26.1,1.65,0.43,0.04,0.17,19.0,0,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Angers,Sofiane Boufal,MAR,"FW,MF",26,1993,8.1,1,13,5,38.5,1.6,0.61,0.08,0.2,16.4,2,0,0,1.7,1.7,0.13,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Angers,Souleyman Doumbia,CIV,DF,23,1996,24.7,0,7,2,28.6,0.28,0.08,0.0,0.0,21.3,0,0,0,0.6,0.6,0.09,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Angers,Stéphane Bahoken,CMR,FW,28,1992,18.0,6,59,23,39.0,3.29,1.28,0.1,0.26,16.1,0,0,1,8.3,7.5,0.13,-2.3,-1.5,shooting
+FRA-Ligue 1,2020,Angers,Thomas Mangani,FRA,MF,33,1987,29.9,3,21,4,19.0,0.7,0.13,0.0,0.0,25.8,3,3,3,3.3,0.9,0.04,-0.3,-0.9,shooting
+FRA-Ligue 1,2020,Angers,Vincent Manceau,FRA,DF,31,1989,25.7,0,6,2,33.3,0.23,0.08,0.0,0.0,22.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Angers,Waniss Taibi,FRA,MF,18,2002,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Wilfried Kanga,CIV,FW,22,1998,1.5,0,1,1,100.0,0.68,0.68,0.0,0.0,17.8,0,0,0,0.2,0.2,0.24,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Angers,Yassin Fortune,FRA,FW,21,1999,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Angers,Zinédine Ould Khaled,FRA,MF,20,2000,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Bordeaux,Amadou Traore,FRA,"FW,MF",18,2002,3.4,0,3,1,33.3,0.89,0.3,0.0,0.0,18.0,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Bordeaux,Benoît Costil,FRA,GK,33,1987,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Bordeaux,Dilane Bakwa,FRA,"FW,MF",17,2002,0.6,0,3,2,66.7,4.82,3.21,0.0,0.0,21.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Bordeaux,Enock Kwateng,FRA,DF,23,1997,11.5,1,4,2,50.0,0.35,0.17,0.25,0.5,11.2,0,0,0,0.5,0.5,0.13,0.5,0.5,shooting
+FRA-Ligue 1,2020,Bordeaux,Hatem Ben Arfa,FRA,"MF,FW",33,1987,18.9,2,33,11,33.3,1.74,0.58,0.06,0.18,21.6,5,0,0,2.3,2.3,0.07,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Bordeaux,Hwang Ui-jo,KOR,"FW,MF",27,1992,27.8,12,73,27,37.0,2.62,0.97,0.12,0.33,14.8,0,3,3,12.6,10.3,0.14,-0.6,-1.3,shooting
+FRA-Ligue 1,2020,Bordeaux,Issouf Sissokho,MLI,"MF,DF",18,2002,0.9,1,2,1,50.0,2.31,1.15,0.5,1.0,26.4,0,0,0,0.1,0.1,0.03,0.9,0.9,shooting
+FRA-Ligue 1,2020,Bordeaux,Jean Seri,CIV,MF,29,1991,7.9,0,4,0,0.0,0.51,0.0,0.0,,24.1,2,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Bordeaux,Jimmy Briand,FRA,FW,34,1985,6.3,1,12,3,25.0,1.89,0.47,0.0,0.0,14.0,0,1,1,1.8,1.0,0.08,-0.8,-1.0,shooting
+FRA-Ligue 1,2020,Bordeaux,Josh Maja,NGA,FW,21,1998,8.9,2,19,9,47.4,2.13,1.01,0.11,0.22,15.1,0,0,0,2.4,2.4,0.12,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Bordeaux,Laurent Koscielny,FRA,DF,34,1985,24.6,0,6,1,16.7,0.24,0.04,0.0,0.0,8.4,0,0,0,1.6,1.6,0.29,-1.6,-1.6,shooting
+FRA-Ligue 1,2020,Bordeaux,Loris Benito,SUI,DF,28,1992,29.5,0,8,1,12.5,0.27,0.03,0.0,0.0,12.3,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Bordeaux,Loïc Bessile,TOG,DF,21,1999,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Bordeaux,Maxime Poundjé,FRA,DF,27,1992,5.5,0,1,0,0.0,0.18,0.0,0.0,,24.9,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+FRA-Ligue 1,2020,Bordeaux,Mehdi Zerkane,ALG,"MF,FW",21,1999,13.2,1,15,7,46.7,1.14,0.53,0.07,0.14,17.0,0,0,0,1.6,1.6,0.11,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Bordeaux,Mexer,MOZ,DF,31,1988,7.9,0,1,0,0.0,0.13,0.0,0.0,,10.7,0,0,0,0.1,0.1,0.13,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Bordeaux,Nicolas de Préville,FRA,"FW,MF",29,1991,17.9,1,38,11,28.9,2.12,0.61,0.03,0.09,16.8,3,0,0,3.8,3.8,0.1,-2.8,-2.8,shooting
+FRA-Ligue 1,2020,Bordeaux,Otávio,BRA,MF,26,1994,17.3,1,6,2,33.3,0.35,0.12,0.17,0.5,28.9,0,0,0,0.4,0.4,0.07,0.6,0.6,shooting
+FRA-Ligue 1,2020,Bordeaux,Pablo,BRA,DF,29,1991,12.0,1,9,1,11.1,0.75,0.08,0.11,1.0,9.4,0,0,0,1.1,1.1,0.12,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Bordeaux,Paul Baysse,FRA,DF,32,1988,29.0,2,11,2,18.2,0.38,0.07,0.18,1.0,10.3,0,0,0,1.5,1.5,0.13,0.5,0.5,shooting
+FRA-Ligue 1,2020,Bordeaux,Remi Oudin,FRA,"FW,MF",23,1996,26.9,4,55,16,29.1,2.05,0.6,0.07,0.25,17.2,1,0,0,3.9,3.9,0.07,0.1,0.1,shooting
+FRA-Ligue 1,2020,Bordeaux,Rubén Pardo,ESP,MF,27,1992,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Bordeaux,Samuel Kalu,NGA,"FW,MF",22,1997,10.7,4,25,8,32.0,2.33,0.75,0.16,0.5,17.4,1,0,0,1.8,1.8,0.07,2.2,2.2,shooting
+FRA-Ligue 1,2020,Bordeaux,Sekou Mara,FRA,"FW,MF",18,2002,2.5,1,4,4,100.0,1.57,1.57,0.25,0.25,15.4,0,0,0,0.5,0.5,0.13,0.5,0.5,shooting
+FRA-Ligue 1,2020,Bordeaux,Tom Lacoux,FRA,MF,18,2002,5.8,0,3,0,0.0,0.52,0.0,0.0,,25.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Bordeaux,Toma Bašić,CRO,MF,23,1996,28.9,4,45,17,37.8,1.56,0.59,0.09,0.24,21.8,7,0,0,4.6,4.6,0.1,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Bordeaux,Yacine Adli,FRA,MF,20,2000,26.9,2,24,9,37.5,0.89,0.33,0.08,0.22,20.0,1,0,0,1.9,1.9,0.08,0.1,0.1,shooting
+FRA-Ligue 1,2020,Bordeaux,Youssouf Sabaly,SEN,DF,27,1993,32.3,1,13,2,15.4,0.4,0.06,0.08,0.5,21.9,0,0,0,0.6,0.6,0.05,0.4,0.4,shooting
+FRA-Ligue 1,2020,Brest,Bandiougou Fadiga,FRA,"MF,FW",19,2001,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Brest,Brendan Chardonnet,FRA,DF,25,1994,30.2,3,21,9,42.9,0.7,0.3,0.14,0.33,13.5,0,0,0,2.3,2.3,0.11,0.7,0.7,shooting
+FRA-Ligue 1,2020,Brest,Christophe Hérelle,MTQ,DF,27,1992,15.3,0,6,0,0.0,0.39,0.0,0.0,,8.4,0,0,0,0.9,0.9,0.15,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Brest,Cristian Battocchio,ITA,MF,28,1992,3.9,0,5,1,20.0,1.27,0.25,0.0,0.0,24.1,1,0,0,0.4,0.4,0.09,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Brest,Franck Honorat,FRA,"MF,FW",23,1996,27.3,8,41,24,58.5,1.5,0.88,0.2,0.33,18.7,1,0,0,4.2,4.2,0.11,3.8,3.8,shooting
+FRA-Ligue 1,2020,Brest,Gautier Larsonneur,FRA,GK,23,1997,35.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Brest,Gaëtan Charbonnier,FRA,"MF,FW",31,1988,17.4,6,34,12,35.3,1.95,0.69,0.15,0.42,15.3,3,1,1,6.3,5.5,0.16,-0.3,-0.5,shooting
+FRA-Ligue 1,2020,Brest,Haris Belkebla,ALG,MF,26,1994,30.3,0,6,0,0.0,0.2,0.0,0.0,,26.3,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Brest,Heriberto Tavares,POR,"FW,MF",23,1997,0.5,0,1,1,100.0,2.09,2.09,0.0,0.0,9.9,0,0,0,0.3,0.3,0.29,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Brest,Hianga Mananga Mbock,FRA,"MF,FW",20,1999,5.1,0,4,1,25.0,0.79,0.2,0.0,0.0,25.3,1,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Brest,Hugo Magnetti,FRA,MF,22,1998,6.7,0,9,1,11.1,1.34,0.15,0.0,0.0,27.1,0,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Brest,Ibrahima Diallo,FRA,MF,21,1999,4.9,0,1,0,0.0,0.2,0.0,0.0,,36.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2020,Brest,Irvin Cardona,FRA,FW,22,1997,22.5,8,55,18,32.7,2.44,0.8,0.15,0.44,13.2,1,0,0,7.7,7.7,0.14,0.3,0.3,shooting
+FRA-Ligue 1,2020,Brest,Jean Lucas,BRA,"MF,FW",22,1998,11.2,0,20,5,25.0,1.78,0.45,0.0,0.0,25.4,5,0,0,1.2,1.2,0.06,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Brest,Jean-Kevin Duverne,HAI,DF,23,1997,22.5,1,10,1,10.0,0.44,0.04,0.1,1.0,13.2,0,0,0,0.6,0.6,0.06,0.4,0.4,shooting
+FRA-Ligue 1,2020,Brest,Julien Faussurier,FRA,DF,33,1987,10.6,0,5,2,40.0,0.47,0.19,0.0,0.0,14.6,0,0,0,0.4,0.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Brest,Jérémy Le Douaron,FRA,"FW,MF",22,1998,9.1,1,13,7,53.8,1.43,0.77,0.08,0.14,12.3,0,0,0,2.2,2.2,0.17,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Brest,Lilian Brassier,FRA,DF,20,1999,10.7,1,6,1,16.7,0.56,0.09,0.17,1.0,15.5,0,0,0,0.6,0.6,0.1,0.4,0.4,shooting
+FRA-Ligue 1,2020,Brest,Ludovic Baal,GUF,"DF,MF",34,1986,3.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Brest,Paul Lasne,FRA,MF,31,1989,18.7,0,5,1,20.0,0.27,0.05,0.0,0.0,16.7,0,0,0,0.8,0.8,0.15,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Brest,Romain Faivre,FRA,"MF,FW",22,1998,32.1,6,62,22,35.5,1.93,0.68,0.08,0.23,20.6,8,1,1,6.2,5.4,0.09,-0.2,-0.4,shooting
+FRA-Ligue 1,2020,Brest,Romain Perraud,FRA,DF,22,1997,34.9,3,45,12,26.7,1.29,0.34,0.07,0.25,21.9,6,0,0,2.7,2.7,0.06,0.3,0.3,shooting
+FRA-Ligue 1,2020,Brest,Romain Philippoteaux,FRA,"MF,FW",32,1988,6.5,1,10,2,20.0,1.55,0.31,0.1,0.5,19.9,0,0,0,0.7,0.7,0.07,0.3,0.3,shooting
+FRA-Ligue 1,2020,Brest,Ronaël Pierre-Gabriel,FRA,DF,22,1998,25.6,1,8,2,25.0,0.31,0.08,0.13,0.5,17.8,0,0,0,0.5,0.5,0.06,0.5,0.5,shooting
+FRA-Ligue 1,2020,Brest,Steve Mounié,BEN,FW,25,1994,29.8,9,78,33,42.3,2.62,1.11,0.1,0.24,12.9,0,1,2,12.1,10.5,0.13,-3.1,-2.5,shooting
+FRA-Ligue 1,2020,Brest,Sébastien Cibois,FRA,GK,22,1998,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Aboubakar Kamara,MTN,"FW,MF",25,1995,6.2,1,11,3,27.3,1.78,0.48,0.09,0.33,18.9,0,0,0,1.2,1.2,0.11,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Dijon,Ahmad Ngouyamsa,CHA,DF,19,2000,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Alfred Gomis,SEN,GK,26,1993,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Anthony Racioppi,SUI,GK,21,1998,21.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Aníbal Chalá,ECU,DF,24,1996,8.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Arthur Zagre,FRA,"DF,MF",18,2001,1.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Aurélien Scheidler,FRA,FW,22,1998,3.8,1,8,2,25.0,2.11,0.53,0.13,0.5,17.6,0,0,0,0.7,0.7,0.09,0.3,0.3,shooting
+FRA-Ligue 1,2020,Dijon,Bersant Celina,KVX,"MF,FW",23,1996,25.5,0,24,5,20.8,0.94,0.2,0.0,0.0,22.5,4,0,0,1.7,1.7,0.07,-1.7,-1.7,shooting
+FRA-Ligue 1,2020,Dijon,Bruno Ecuele Manga,GAB,DF,32,1988,38.0,2,31,8,25.8,0.82,0.21,0.06,0.25,11.2,0,0,0,2.4,2.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Dijon,Charles Costes,FRA,MF,17,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Didier Ibrahim Ndong,GAB,MF,26,1994,29.0,0,6,1,16.7,0.21,0.03,0.0,0.0,26.9,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Dijon,Erwan Belhadji,FRA,MF,19,2001,0.3,0,1,0,0.0,3.0,0.0,0.0,,23.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Fouad Chafik,MAR,DF,33,1986,18.0,1,5,1,20.0,0.28,0.06,0.2,1.0,25.1,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+FRA-Ligue 1,2020,Dijon,Frédéric Sammaritano,FRA,"FW,MF",34,1986,12.6,0,10,2,20.0,0.8,0.16,0.0,0.0,18.7,1,0,0,1.3,1.3,0.13,-1.3,-1.3,shooting
+FRA-Ligue 1,2020,Dijon,Jacques Siwe,FRA,FW,19,2001,1.9,0,3,0,0.0,1.6,0.0,0.0,,18.0,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Dijon,Jonathan Panzo,ENG,DF,19,2000,20.0,0,5,2,40.0,0.25,0.1,0.0,0.0,14.4,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Dijon,Jordan Marié,FRA,MF,28,1991,15.9,0,10,1,10.0,0.63,0.06,0.0,0.0,22.7,0,0,0,0.9,0.9,0.09,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Dijon,Junior Dina Ebimbe,FRA,"FW,MF",19,2000,23.8,1,45,13,28.9,1.89,0.55,0.02,0.08,18.3,0,0,0,3.4,3.4,0.08,-2.4,-2.4,shooting
+FRA-Ligue 1,2020,Dijon,Mama Samba Baldé,GNB,FW,24,1995,24.0,7,58,19,32.8,2.42,0.79,0.12,0.37,15.2,0,0,0,8.1,8.1,0.14,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Dijon,Mihai Dobre,ROU,FW,21,1998,5.9,0,9,1,11.1,1.53,0.17,0.0,0.0,16.8,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Dijon,Mounir Chouiar,FRA,"FW,MF",21,1999,14.3,0,23,5,21.7,1.61,0.35,0.0,0.0,21.3,4,0,1,2.0,1.2,0.05,-2.0,-1.2,shooting
+FRA-Ligue 1,2020,Dijon,Moussa Konaté,SEN,FW,27,1993,13.3,5,33,8,24.2,2.48,0.6,0.12,0.5,13.6,0,1,2,5.2,3.7,0.11,-0.2,0.3,shooting
+FRA-Ligue 1,2020,Dijon,Muzinga Ngonda,COD,DF,25,1994,25.6,2,11,4,36.4,0.43,0.16,0.18,0.5,26.1,0,0,0,0.3,0.3,0.03,1.7,1.7,shooting
+FRA-Ligue 1,2020,Dijon,Pape Cheikh Diop,SEN,MF,22,1997,12.1,0,6,0,0.0,0.5,0.0,0.0,,21.0,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Dijon,Rayan Philippe,FRA,FW,19,2000,1.0,0,3,2,66.7,2.9,1.94,0.0,0.0,16.8,0,0,0,0.5,0.5,0.16,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Dijon,Roger Assalé,CIV,"FW,MF",26,1993,9.2,1,11,3,27.3,1.2,0.33,0.09,0.33,16.8,0,0,0,1.2,1.2,0.11,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Dijon,Romain Amalfitano,FRA,"FW,DF",30,1989,1.3,0,2,0,0.0,1.55,0.0,0.0,,30.3,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Sacha Boey,FRA,DF,19,2000,20.7,0,10,1,10.0,0.48,0.05,0.0,0.0,25.4,0,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Dijon,Saturnin Allagbé,BEN,GK,26,1993,12.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Dijon,Senou Coulibaly,MLI,DF,25,1994,21.5,2,5,3,60.0,0.23,0.14,0.4,0.67,8.9,0,0,0,0.8,0.8,0.17,1.2,1.2,shooting
+FRA-Ligue 1,2020,Dijon,Wesley Lautoa,NCL,"MF,DF",32,1987,17.9,0,9,3,33.3,0.5,0.17,0.0,0.0,25.4,0,0,0,0.6,0.6,0.07,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Dijon,Wilitty Younoussa,CMR,MF,18,2001,0.9,0,2,0,0.0,2.34,0.0,0.0,,27.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Dijon,Yassine Benzia,ALG,"MF,FW",25,1994,4.5,2,4,0,0.0,0.88,0.0,0.0,,27.2,0,2,2,1.8,0.2,0.05,0.2,-0.2,shooting
+FRA-Ligue 1,2020,Lens,Adrien Louveau,FRA,MF,20,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Aleksandar Radovanović,SRB,DF,26,1993,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Ansou Sow,SEN,MF,20,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Arnaud Kalimuendo,FRA,"FW,MF",18,2002,13.5,7,32,17,53.1,2.36,1.26,0.22,0.41,13.9,0,0,0,5.8,5.8,0.19,1.2,1.2,shooting
+FRA-Ligue 1,2020,Lens,Cheick Doucouré,MLI,MF,20,2000,29.2,2,35,5,14.3,1.2,0.17,0.06,0.4,25.8,0,0,0,1.3,1.3,0.04,0.7,0.7,shooting
+FRA-Ligue 1,2020,Lens,Cheick Traoré,MLI,DF,25,1995,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Clément Michelin,FRA,DF,23,1997,12.8,0,11,2,18.2,0.86,0.16,0.0,0.0,28.9,5,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Lens,Corentin Jean,FRA,"FW,MF",25,1995,6.4,1,21,10,47.6,3.26,1.55,0.05,0.1,19.7,4,0,0,1.7,1.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Lens,David Costa,POR,"MF,FW",19,2001,1.7,1,2,1,50.0,1.2,0.6,0.5,1.0,19.4,0,0,0,0.4,0.4,0.22,0.6,0.6,shooting
+FRA-Ligue 1,2020,Lens,Facundo Medina,ARG,DF,21,1999,22.3,2,9,4,44.4,0.4,0.18,0.22,0.5,12.1,0,0,0,1.2,1.2,0.13,0.8,0.8,shooting
+FRA-Ligue 1,2020,Lens,Florian Sotoca,FRA,FW,29,1990,26.8,8,69,17,24.6,2.57,0.63,0.09,0.35,13.9,0,2,2,10.2,8.6,0.13,-2.2,-2.6,shooting
+FRA-Ligue 1,2020,Lens,Gaël Kakuta,COD,"MF,FW",29,1991,26.6,11,43,8,18.6,1.62,0.3,0.09,0.5,27.7,9,7,9,11.1,4.0,0.09,-0.1,0.0,shooting
+FRA-Ligue 1,2020,Lens,Ignatius Ganago,CMR,FW,21,1999,14.5,7,40,18,45.0,2.76,1.24,0.18,0.39,13.4,0,0,0,7.8,7.8,0.19,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Lens,Ismaël Boura,COM,DF,19,2000,9.2,0,2,0,0.0,0.22,0.0,0.0,,19.0,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lens,Issiaga Sylla,GUI,"DF,MF",26,1994,12.4,1,10,2,20.0,0.81,0.16,0.1,0.5,10.4,0,0,0,1.6,1.6,0.16,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Lens,Jean-Louis Leca,FRA,GK,34,1985,36.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Jonathan Clauss,FRA,DF,27,1992,28.0,3,34,13,38.2,1.21,0.46,0.09,0.23,22.6,3,0,0,1.7,1.7,0.05,1.3,1.3,shooting
+FRA-Ligue 1,2020,Lens,Jonathan Gradit,FRA,DF,27,1992,31.4,0,2,0,0.0,0.06,0.0,0.0,,30.3,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Loïc Bade,FRA,DF,20,2000,29.0,0,11,3,27.3,0.38,0.1,0.0,0.0,15.2,0,0,0,1.0,1.0,0.09,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Lens,Manuel Perez,FRA,"MF,FW",29,1991,1.4,0,1,0,0.0,0.7,0.0,0.0,,26.0,1,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lens,Massadio Haïdara,MLI,DF,27,1992,23.7,2,12,4,33.3,0.51,0.17,0.17,0.5,12.2,0,0,0,2.1,2.1,0.18,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lens,Seko Fofana,CIV,MF,25,1995,25.7,2,40,12,30.0,1.56,0.47,0.05,0.17,20.3,0,0,0,2.9,2.9,0.07,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Lens,Simon Banza,COD,FW,23,1996,15.2,5,34,12,35.3,2.23,0.79,0.12,0.33,13.8,0,1,1,6.0,5.2,0.15,-1.0,-1.2,shooting
+FRA-Ligue 1,2020,Lens,Steven Fortes,CPV,DF,28,1992,15.9,0,5,1,20.0,0.31,0.06,0.0,0.0,17.4,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Lens,Tony Mauricio,FRA,MF,26,1994,5.6,0,13,2,15.4,2.33,0.36,0.0,0.0,27.4,0,0,0,0.4,0.4,0.03,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Lens,Wuilker Faríñez,VEN,GK,22,1998,1.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lens,Yannick Cahuzac,FRA,MF,35,1985,25.0,1,8,2,25.0,0.32,0.08,0.13,0.5,9.8,0,0,0,1.4,1.4,0.18,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Lille,Adama Soumaoro,FRA,DF,28,1992,1.6,0,2,0,0.0,1.24,0.0,0.0,,17.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lille,Benjamin André,FRA,MF,29,1990,32.1,0,19,7,36.8,0.59,0.22,0.0,0.0,15.2,0,0,0,1.6,1.6,0.08,-1.6,-1.6,shooting
+FRA-Ligue 1,2020,Lille,Boubakary Soumaré,FRA,MF,21,1999,21.3,0,8,3,37.5,0.38,0.14,0.0,0.0,25.7,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Lille,Burak Yılmaz,TUR,FW,35,1985,22.8,16,62,29,46.8,2.72,1.27,0.19,0.41,20.2,11,4,4,10.0,6.8,0.11,6.0,5.2,shooting
+FRA-Ligue 1,2020,Lille,Domagoj Bradarić,CRO,DF,20,1999,14.0,1,4,3,75.0,0.29,0.21,0.25,0.33,20.5,0,0,0,0.2,0.2,0.05,0.8,0.8,shooting
+FRA-Ligue 1,2020,Lille,Isaac Lihadji,FRA,"MF,FW",18,2002,2.2,0,4,2,50.0,1.84,0.92,0.0,0.0,13.5,0,0,0,0.7,0.7,0.18,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Lille,Jonathan Bamba,CIV,MF,24,1996,33.2,6,60,20,33.3,1.81,0.6,0.1,0.3,22.8,1,0,0,4.2,4.2,0.07,1.8,1.8,shooting
+FRA-Ligue 1,2020,Lille,Jonathan David,CAN,FW,20,2000,26.2,13,55,33,60.0,2.1,1.26,0.24,0.39,15.2,0,0,0,9.1,9.1,0.17,3.9,3.9,shooting
+FRA-Ligue 1,2020,Lille,Jonathan Ikone,FRA,"MF,FW",22,1998,24.2,4,46,11,23.9,1.9,0.45,0.07,0.27,20.0,2,1,1,4.3,3.5,0.08,-0.3,-0.5,shooting
+FRA-Ligue 1,2020,Lille,José Fonte,POR,DF,36,1983,35.4,3,27,10,37.0,0.76,0.28,0.11,0.3,12.7,0,0,0,2.1,2.1,0.08,0.9,0.9,shooting
+FRA-Ligue 1,2020,Lille,Jérémy Pied,FRA,DF,31,1989,3.5,0,1,1,100.0,0.28,0.28,0.0,0.0,22.0,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lille,Luiz Araújo,BRA,MF,24,1996,16.6,4,49,10,20.4,2.95,0.6,0.08,0.4,23.2,1,0,0,3.7,3.7,0.07,0.3,0.3,shooting
+FRA-Ligue 1,2020,Lille,Mike Maignan,FRA,GK,25,1995,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lille,Reinildo Mandava,MOZ,DF,26,1994,24.2,0,4,0,0.0,0.17,0.0,0.0,,24.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lille,Renato Sanches,POR,MF,22,1997,14.1,1,21,3,14.3,1.49,0.21,0.05,0.33,24.1,2,0,0,2.4,2.4,0.12,-1.4,-1.4,shooting
+FRA-Ligue 1,2020,Lille,Sven Botman,NED,DF,20,2000,36.8,0,16,5,31.3,0.44,0.14,0.0,0.0,14.9,1,0,0,1.2,1.2,0.08,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Lille,Tiago Djaló,POR,DF,20,2000,9.7,0,2,0,0.0,0.21,0.0,0.0,,28.5,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lille,Timothy Weah,USA,"FW,MF",20,2000,9.8,3,24,9,37.5,2.46,0.92,0.13,0.33,16.6,0,0,0,3.0,3.0,0.12,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lille,Xeka,POR,MF,25,1994,13.3,1,18,5,27.8,1.35,0.37,0.06,0.2,22.3,0,0,0,0.9,0.9,0.05,0.1,0.1,shooting
+FRA-Ligue 1,2020,Lille,Yusuf Yazıcı,TUR,"FW,MF",23,1997,12.1,7,44,21,47.7,3.65,1.74,0.16,0.33,19.5,4,0,0,4.2,4.2,0.1,2.8,2.8,shooting
+FRA-Ligue 1,2020,Lille,Zeki Çelik,TUR,DF,23,1997,26.5,3,15,6,40.0,0.57,0.23,0.2,0.5,21.2,0,0,0,0.6,0.6,0.04,2.4,2.4,shooting
+FRA-Ligue 1,2020,Lorient,Adrian Grbić,AUT,FW,23,1996,10.7,4,31,11,35.5,2.9,1.03,0.03,0.09,19.2,4,3,3,6.5,4.1,0.13,-2.5,-3.1,shooting
+FRA-Ligue 1,2020,Lorient,Andrew Gravillon,GLP,DF,22,1998,25.2,2,14,4,28.6,0.55,0.16,0.14,0.5,16.3,1,0,0,1.6,1.6,0.11,0.4,0.4,shooting
+FRA-Ligue 1,2020,Lorient,Armand Lauriente,FRA,"MF,FW",21,1998,18.0,3,59,20,33.9,3.27,1.11,0.05,0.15,23.8,14,0,0,3.7,3.7,0.06,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Lorient,Enzo Le Fée,FRA,MF,20,2000,20.2,0,31,5,16.1,1.54,0.25,0.0,0.0,26.4,5,0,0,1.2,1.2,0.04,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Lorient,Fabien Lemoine,FRA,MF,33,1987,21.5,1,16,2,12.5,0.74,0.09,0.06,0.5,23.0,1,0,0,0.9,0.9,0.05,0.1,0.1,shooting
+FRA-Ligue 1,2020,Lorient,Franklin Wadja,CMR,"MF,FW",25,1995,0.4,0,1,0,0.0,2.73,0.0,0.0,,32.4,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lorient,Houboulang Mendes,GNB,DF,22,1998,14.4,0,4,0,0.0,0.28,0.0,0.0,,26.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lorient,Jonathan Delaplace,FRA,DF,34,1986,10.1,0,5,0,0.0,0.5,0.0,0.0,,21.3,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Lorient,Julien Laporte,FRA,DF,26,1993,29.5,0,8,1,12.5,0.27,0.03,0.0,0.0,13.5,0,0,0,0.8,0.8,0.1,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Lorient,Jérémy Morel,MAD,DF,36,1984,27.7,0,6,1,16.7,0.22,0.04,0.0,0.0,11.7,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Lorient,Jérôme Hergault,FRA,"DF,MF",34,1986,18.1,2,4,2,50.0,0.22,0.11,0.5,1.0,17.1,0,0,0,0.4,0.4,0.1,1.6,1.6,shooting
+FRA-Ligue 1,2020,Lorient,Laurent Abergel,FRA,MF,27,1993,32.9,3,29,10,34.5,0.88,0.3,0.1,0.3,26.8,0,0,0,1.5,1.5,0.05,1.5,1.5,shooting
+FRA-Ligue 1,2020,Lorient,Loris Mouyokolo,FRA,DF,19,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lorient,Matthieu Dreyer,FRA,GK,31,1989,15.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lorient,Paul Nardi,FRA,GK,26,1994,23.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lorient,Pierre-Yves Hamel,FRA,FW,26,1994,9.4,4,23,9,39.1,2.44,0.95,0.13,0.33,15.7,0,1,1,3.1,2.3,0.1,0.9,0.7,shooting
+FRA-Ligue 1,2020,Lorient,Quentin Boisgard,FRA,"MF,FW",23,1997,14.6,2,24,7,29.2,1.64,0.48,0.08,0.29,21.6,3,0,0,2.1,2.1,0.09,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lorient,Stéphane Diarra,FRA,"MF,FW",21,1998,2.2,0,2,2,100.0,0.91,0.91,0.0,0.0,23.6,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lorient,Sylvain Marveaux,FRA,"MF,FW",34,1986,2.2,0,5,1,20.0,2.25,0.45,0.0,0.0,17.3,0,0,0,0.9,0.9,0.19,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Lorient,Terem Moffi,NGA,FW,21,1999,23.0,14,55,24,43.6,2.39,1.04,0.24,0.54,15.0,0,1,1,10.3,9.5,0.17,3.7,3.5,shooting
+FRA-Ligue 1,2020,Lorient,Thomas Fontaine,MAD,DF,29,1991,3.6,0,2,1,50.0,0.56,0.28,0.0,0.0,19.2,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Lorient,Thomas Monconduit,FRA,MF,29,1991,12.8,2,22,4,18.2,1.72,0.31,0.09,0.5,27.5,2,0,0,1.2,1.2,0.05,0.8,0.8,shooting
+FRA-Ligue 1,2020,Lorient,Trevoh Chalobah,ENG,"DF,MF",21,1999,24.9,2,15,3,20.0,0.6,0.12,0.13,0.67,13.9,0,0,0,1.6,1.6,0.1,0.4,0.4,shooting
+FRA-Ligue 1,2020,Lorient,Umut Bozok,TUR,"MF,FW",23,1996,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lorient,Vincent Le Goff,FRA,DF,30,1989,25.6,0,8,4,50.0,0.31,0.16,0.0,0.0,19.8,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Lorient,Yoane Wissa,COD,"MF,FW",23,1996,29.7,10,52,19,36.5,1.75,0.64,0.12,0.32,16.9,0,4,5,12.1,8.8,0.17,-2.1,-2.8,shooting
+FRA-Ligue 1,2020,Lorient,Yoann Etienne,FRA,DF,23,1997,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Anthony Lopes,POR,GK,29,1990,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Bruno Guimarães,BRA,MF,22,1997,19.5,3,25,12,48.0,1.28,0.62,0.08,0.17,23.7,0,1,1,2.6,1.8,0.07,0.4,0.2,shooting
+FRA-Ligue 1,2020,Lyon,Djamel Benlamri,ALG,DF,30,1989,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Fernando Marçal,BRA,DF,31,1989,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Florent da Silva,FRA,FW,17,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Habib Keita,MLI,MF,18,2002,0.1,0,1,0,0.0,15.0,0.0,0.0,,9.5,0,0,0,0.5,0.5,0.48,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Lyon,Houssem Aouar,ALG,"MF,FW",22,1998,19.8,7,68,25,36.8,3.44,1.26,0.07,0.2,16.6,0,2,2,9.9,8.3,0.12,-2.9,-3.3,shooting
+FRA-Ligue 1,2020,Lyon,Islam Slimani,ALG,FW,32,1988,6.4,3,18,7,38.9,2.8,1.09,0.17,0.43,11.2,0,0,0,3.7,3.7,0.2,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Lyon,Jason Denayer,BEL,DF,25,1995,29.0,1,5,1,20.0,0.17,0.03,0.2,1.0,18.5,0,0,0,0.5,0.5,0.09,0.5,0.5,shooting
+FRA-Ligue 1,2020,Lyon,Jean Lucas,BRA,MF,22,1998,1.9,0,5,0,0.0,2.62,0.0,0.0,,26.9,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Lyon,Jeff Reine-Adélaïde,FRA,FW,22,1998,0.3,0,1,1,100.0,3.75,3.75,0.0,0.0,17.3,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Joachim Andersen,DEN,DF,24,1996,2.1,0,5,0,0.0,2.34,0.0,0.0,,21.9,1,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Lyon,Karl Toko Ekambi,CMR,FW,27,1992,31.2,14,90,39,43.3,2.88,1.25,0.16,0.36,13.6,0,0,0,17.3,17.3,0.19,-3.3,-3.3,shooting
+FRA-Ligue 1,2020,Lyon,Kenny Tete,NED,DF,24,1995,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Leo Dubois,FRA,DF,25,1994,32.3,2,20,3,15.0,0.62,0.09,0.1,0.67,21.1,0,0,0,1.1,1.1,0.06,0.9,0.9,shooting
+FRA-Ligue 1,2020,Lyon,Lucas Paquetá,BRA,MF,22,1997,25.3,9,55,22,40.0,2.18,0.87,0.16,0.41,18.6,4,0,0,7.0,7.0,0.13,2.0,2.0,shooting
+FRA-Ligue 1,2020,Lyon,Malo Gusto,FRA,"DF,MF",17,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Marcelo,BRA,DF,33,1987,32.3,3,24,7,29.2,0.74,0.22,0.13,0.43,12.3,1,0,0,1.8,1.8,0.07,1.2,1.2,shooting
+FRA-Ligue 1,2020,Lyon,Mattia De Sciglio,ITA,DF,27,1992,16.3,0,3,1,33.3,0.18,0.06,0.0,0.0,25.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lyon,Maxence Caqueret,FRA,MF,20,2000,19.6,0,10,1,10.0,0.51,0.05,0.0,0.0,21.6,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Lyon,Maxwel Cornet,CIV,"DF,FW",23,1996,27.2,2,21,11,52.4,0.77,0.4,0.1,0.18,17.6,2,0,0,2.1,2.1,0.1,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lyon,Melvin Bard,FRA,DF,19,2000,4.8,0,2,1,50.0,0.42,0.21,0.0,0.0,16.2,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Lyon,Memphis,NED,FW,26,1994,32.5,20,102,44,43.1,3.14,1.35,0.12,0.27,21.1,14,8,8,16.6,10.3,0.1,3.4,1.7,shooting
+FRA-Ligue 1,2020,Lyon,Moussa Dembélé,FRA,FW,24,1996,7.5,1,30,9,30.0,3.99,1.2,0.03,0.11,13.5,1,0,0,5.3,5.3,0.18,-4.3,-4.3,shooting
+FRA-Ligue 1,2020,Lyon,Rayan Cherki,FRA,"FW,MF",16,2003,7.8,1,18,5,27.8,2.32,0.64,0.06,0.2,18.0,0,0,0,1.0,1.0,0.06,0.0,0.0,shooting
+FRA-Ligue 1,2020,Lyon,Sinaly Diomande,CIV,DF,19,2001,12.6,0,16,3,18.8,1.27,0.24,0.0,0.0,15.4,0,0,0,1.3,1.3,0.08,-1.3,-1.3,shooting
+FRA-Ligue 1,2020,Lyon,Thiago Mendes,BRA,MF,28,1992,24.9,0,23,7,30.4,0.92,0.28,0.0,0.0,22.9,0,0,0,1.0,1.0,0.04,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Lyon,Tino Kadewere,ZIM,FW,24,1996,22.3,10,59,23,39.0,2.64,1.03,0.17,0.43,12.8,0,0,0,9.9,9.9,0.17,0.1,0.1,shooting
+FRA-Ligue 1,2020,Lyon,Yaya Soumaré,FRA,FW,20,2000,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Arkadiusz Milik,POL,FW,26,1994,13.6,9,43,18,41.9,3.17,1.33,0.14,0.33,18.1,1,3,3,7.4,5.1,0.12,1.6,0.9,shooting
+FRA-Ligue 1,2020,Marseille,Bamba Dieng,SEN,"FW,DF",20,2000,1.4,0,1,0,0.0,0.7,0.0,0.0,,4.3,0,0,0,0.2,0.2,0.25,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Marseille,Boubacar Kamara,FRA,MF,20,1999,32.2,0,19,7,36.8,0.59,0.22,0.0,0.0,23.8,0,0,0,0.8,0.8,0.04,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Marseille,Bouna Sarr,SEN,DF,28,1992,0.8,0,1,0,0.0,1.18,0.0,0.0,,27.8,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Cheick Souaré,FRA,MF,17,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Christopher Rocchia,FRA,"DF,FW",22,1998,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Darío Benedetto,ARG,FW,30,1990,17.5,5,37,14,37.8,2.11,0.8,0.11,0.29,15.4,0,1,1,7.6,6.8,0.18,-2.6,-2.8,shooting
+FRA-Ligue 1,2020,Marseille,Dimitri Payet,FRA,"FW,MF",33,1987,26.9,7,44,17,38.6,1.64,0.63,0.16,0.41,22.7,8,0,1,5.9,5.1,0.12,1.1,1.9,shooting
+FRA-Ligue 1,2020,Marseille,Duje Ćaleta-Car,CRO,DF,23,1996,31.3,2,10,3,30.0,0.32,0.1,0.2,0.67,9.9,0,0,0,1.2,1.2,0.12,0.8,0.8,shooting
+FRA-Ligue 1,2020,Marseille,Florian Thauvin,FRA,"FW,MF",27,1993,30.4,8,69,18,26.1,2.27,0.59,0.12,0.44,18.8,6,0,2,9.0,7.4,0.11,-1.0,0.6,shooting
+FRA-Ligue 1,2020,Marseille,Hiroki Sakai,JPN,DF,30,1990,26.5,0,3,1,33.3,0.11,0.04,0.0,0.0,7.9,0,0,0,0.6,0.6,0.21,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Marseille,Jordan Amavi,FRA,DF,26,1994,9.0,1,4,1,25.0,0.44,0.11,0.25,1.0,11.8,0,0,0,0.2,0.2,0.06,0.8,0.8,shooting
+FRA-Ligue 1,2020,Marseille,Kevin Strootman,NED,"MF,FW",30,1990,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Leonardo Balerdi,ARG,DF,21,1999,18.2,2,13,4,30.8,0.72,0.22,0.15,0.5,9.1,0,0,0,2.0,2.0,0.15,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Lucas Perrin,FRA,DF,21,1998,3.4,1,3,1,33.3,0.88,0.29,0.33,1.0,12.1,0,0,0,0.4,0.4,0.13,0.6,0.6,shooting
+FRA-Ligue 1,2020,Marseille,Luis Henrique,BRA,"FW,DF",18,2001,7.5,0,6,4,66.7,0.8,0.53,0.0,0.0,22.2,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Marseille,Marley Aké,FRA,FW,19,2001,1.6,0,4,0,0.0,2.47,0.0,0.0,,12.7,0,0,0,1.0,1.0,0.26,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Marseille,Maxime Lopez,FRA,"FW,MF",22,1997,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Mickaël Cuisance,FRA,MF,20,1999,11.4,2,9,3,33.3,0.79,0.26,0.22,0.67,18.1,1,0,0,0.8,0.8,0.09,1.2,1.2,shooting
+FRA-Ligue 1,2020,Marseille,Morgan Sanson,FRA,MF,25,1994,9.2,2,11,3,27.3,1.2,0.33,0.18,0.67,20.3,0,0,0,0.9,0.9,0.09,1.1,1.1,shooting
+FRA-Ligue 1,2020,Marseille,Nemanja Radonjić,SRB,FW,24,1996,4.4,2,12,7,58.3,2.73,1.59,0.17,0.29,16.4,0,0,0,1.6,1.6,0.13,0.4,0.4,shooting
+FRA-Ligue 1,2020,Marseille,Olivier Ntcham,CMR,MF,24,1996,1.3,0,1,0,0.0,0.75,0.0,0.0,,22.7,1,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Marseille,Pape Gueye,SEN,MF,21,1999,22.9,2,17,4,23.5,0.74,0.17,0.12,0.5,23.8,0,0,0,1.2,1.2,0.07,0.8,0.8,shooting
+FRA-Ligue 1,2020,Marseille,Pol Lirola,ESP,"DF,FW",22,1997,17.3,2,10,4,40.0,0.58,0.23,0.2,0.5,14.5,0,0,0,1.3,1.3,0.13,0.7,0.7,shooting
+FRA-Ligue 1,2020,Marseille,Saîf-Eddine Khaoui,TUN,"FW,DF",25,1995,6.7,2,11,6,54.5,1.63,0.89,0.18,0.33,18.4,0,0,0,0.9,0.9,0.08,1.1,1.1,shooting
+FRA-Ligue 1,2020,Marseille,Steve Mandanda,FRA,GK,35,1985,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Valentin Rongier,FRA,MF,25,1994,21.0,1,17,6,35.3,0.81,0.29,0.06,0.17,24.7,0,0,0,0.7,0.7,0.04,0.3,0.3,shooting
+FRA-Ligue 1,2020,Marseille,Valère Germain,FRA,"FW,MF",30,1990,9.5,3,9,4,44.4,0.95,0.42,0.33,0.75,10.1,0,0,0,2.2,2.2,0.24,0.8,0.8,shooting
+FRA-Ligue 1,2020,Marseille,Yohann Pelé,FRA,GK,37,1982,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Marseille,Yuto Nagatomo,JPN,DF,33,1986,17.7,0,4,0,0.0,0.23,0.0,0.0,,27.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Marseille,Álvaro González,ESP,DF,30,1990,31.5,2,16,3,18.8,0.51,0.1,0.13,0.67,10.6,0,0,0,1.3,1.3,0.08,0.7,0.7,shooting
+FRA-Ligue 1,2020,Metz,Aaron Leya Iseka,BEL,FW,22,1997,11.2,4,17,6,35.3,1.52,0.54,0.12,0.33,15.5,0,2,3,4.8,2.5,0.14,-0.8,-0.5,shooting
+FRA-Ligue 1,2020,Metz,Alexandre Oukidja,ALG,GK,32,1988,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Metz,Boubacar Traoré,MLI,MF,18,2001,0.6,1,2,1,50.0,3.33,1.67,0.5,1.0,32.9,0,0,0,0.0,0.0,0.02,1.0,1.0,shooting
+FRA-Ligue 1,2020,Metz,Boubakar Kouyaté,MLI,DF,23,1997,21.8,1,13,4,30.8,0.6,0.18,0.08,0.25,8.9,0,0,0,2.0,2.0,0.16,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Metz,Cheikh Tidiane Sabaly,SEN,FW,21,1999,0.1,0,1,0,0.0,7.5,0.0,0.0,,24.4,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Metz,Dylan Bronn,TUN,DF,25,1995,37.9,2,14,4,28.6,0.37,0.11,0.07,0.25,25.0,1,1,2,2.3,0.7,0.05,-0.3,0.3,shooting
+FRA-Ligue 1,2020,Metz,Fabien Centonze,FRA,DF,24,1996,35.8,1,24,6,25.0,0.67,0.17,0.04,0.17,22.1,0,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Metz,Farid Boulaya,ALG,"MF,FW",27,1993,31.3,6,78,26,33.3,2.49,0.83,0.06,0.19,26.4,26,1,2,5.2,3.7,0.05,0.8,1.3,shooting
+FRA-Ligue 1,2020,Metz,Habib Diallo,SEN,"FW,MF",25,1995,1.6,0,2,0,0.0,1.26,0.0,0.0,,9.2,0,0,0,0.4,0.4,0.2,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Metz,Habib Maïga,CIV,MF,24,1996,29.9,1,26,5,19.2,0.87,0.17,0.04,0.2,19.7,1,0,0,2.1,2.1,0.08,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Metz,Ibrahima Niane,SEN,FW,21,1999,7.4,6,22,8,36.4,2.99,1.09,0.23,0.63,15.7,1,1,1,3.5,2.7,0.12,2.5,2.3,shooting
+FRA-Ligue 1,2020,Metz,John Boye,GHA,DF,33,1987,33.8,1,13,2,15.4,0.38,0.06,0.08,0.5,9.0,0,0,0,2.3,2.3,0.18,-1.3,-1.3,shooting
+FRA-Ligue 1,2020,Metz,Kévin N'Doram,FRA,MF,24,1996,3.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Metz,Lamine Gueye,SEN,"FW,MF",22,1998,16.2,3,41,16,39.0,2.54,0.99,0.07,0.19,16.7,0,0,0,4.6,4.6,0.11,-1.6,-1.6,shooting
+FRA-Ligue 1,2020,Metz,Mamadou Fofana,MLI,"MF,DF",22,1998,11.9,0,3,0,0.0,0.25,0.0,0.0,,12.6,0,0,0,0.4,0.4,0.14,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Metz,Marc-Aurèle Caillard,FRA,GK,26,1994,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Metz,Matthieu Udol,FRA,DF,24,1996,19.2,0,13,4,30.8,0.68,0.21,0.0,0.0,21.5,0,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Metz,Opa Nguette,SEN,"FW,MF",26,1994,12.6,3,17,7,41.2,1.35,0.56,0.18,0.43,16.4,0,0,1,3.3,2.6,0.15,-0.3,0.4,shooting
+FRA-Ligue 1,2020,Metz,Papa Ndiaga Yade,MTN,"FW,MF",20,2000,11.1,3,28,6,21.4,2.52,0.54,0.11,0.5,23.4,1,0,0,1.4,1.4,0.05,1.6,1.6,shooting
+FRA-Ligue 1,2020,Metz,Pape Matar Sarr,SEN,MF,17,2002,17.7,3,31,8,25.8,1.75,0.45,0.1,0.38,27.7,1,0,0,1.1,1.1,0.04,1.9,1.9,shooting
+FRA-Ligue 1,2020,Metz,Thierry Ambrose,GLP,FW,23,1997,8.4,0,19,6,31.6,2.27,0.72,0.0,0.0,20.0,0,0,0,1.0,1.0,0.05,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Metz,Thomas Delaine,FRA,"DF,FW",28,1992,19.8,3,18,10,55.6,0.91,0.51,0.17,0.3,21.1,0,0,0,1.7,1.7,0.09,1.3,1.3,shooting
+FRA-Ligue 1,2020,Metz,Vagner Gonçalves,CPV,"FW,MF",24,1996,10.7,4,19,4,21.1,1.77,0.37,0.11,0.5,17.3,0,2,2,4.7,3.1,0.16,-0.7,-1.1,shooting
+FRA-Ligue 1,2020,Metz,Victorien Angban,CIV,MF,23,1996,18.6,0,6,1,16.7,0.32,0.05,0.0,0.0,22.1,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Metz,Vincent Pajot,FRA,MF,29,1990,10.2,0,6,2,33.3,0.59,0.2,0.0,0.0,11.4,0,0,0,0.6,0.6,0.1,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Metz,Warren Tchimbembé,CGO,"MF,FW",22,1998,5.5,0,6,1,16.7,1.09,0.18,0.0,0.0,19.8,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Metz,Youssef Maziz,FRA,"MF,FW",22,1998,2.9,0,6,0,0.0,2.1,0.0,0.0,,22.4,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Monaco,Aleksandr Golovin,RUS,"MF,FW",24,1996,11.9,5,27,12,44.4,2.27,1.01,0.19,0.42,19.2,1,0,0,2.9,2.9,0.11,2.1,2.1,shooting
+FRA-Ligue 1,2020,Monaco,Aurélien Tchouaméni,FRA,MF,20,2000,34.0,2,53,11,20.8,1.56,0.32,0.04,0.18,18.4,0,0,0,4.1,4.1,0.08,-2.1,-2.1,shooting
+FRA-Ligue 1,2020,Monaco,Axel Disasi,FRA,DF,22,1998,22.3,3,18,6,33.3,0.81,0.27,0.17,0.5,11.6,0,0,0,2.4,2.4,0.14,0.6,0.6,shooting
+FRA-Ligue 1,2020,Monaco,Benjamin Lecomte,FRA,GK,29,1991,28.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Monaco,Benoît Badiashile,FRA,DF,19,2001,31.9,2,24,4,16.7,0.75,0.13,0.08,0.5,14.9,0,0,0,2.3,2.3,0.1,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Monaco,Caio Henrique Oliveira Silva,BRA,DF,23,1997,26.3,0,5,1,20.0,0.19,0.04,0.0,0.0,15.9,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Monaco,Cesc Fàbregas,ESP,"MF,FW",33,1987,9.7,2,8,2,25.0,0.82,0.21,0.0,0.0,20.1,1,2,2,3.2,1.6,0.2,-1.2,-1.6,shooting
+FRA-Ligue 1,2020,Monaco,Chrislain Matsima,FRA,"DF,FW",18,2002,3.9,0,4,0,0.0,1.02,0.0,0.0,,18.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Monaco,Djibril Sidibé,FRA,DF,28,1992,22.0,0,5,1,20.0,0.23,0.05,0.0,0.0,30.6,3,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Monaco,Eliot Matazo,BEL,MF,18,2002,3.5,1,3,2,66.7,0.86,0.57,0.33,0.5,10.2,0,0,0,0.8,0.8,0.26,0.2,0.2,shooting
+FRA-Ligue 1,2020,Monaco,Enzo Millot,FRA,MF,18,2002,0.5,0,2,1,50.0,4.39,2.2,0.0,0.0,11.9,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Monaco,Florentino Luís,POR,MF,20,1999,2.7,0,1,0,0.0,0.37,0.0,0.0,,12.5,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Monaco,Fodé Ballo-Touré,SEN,DF,23,1997,7.4,0,2,1,50.0,0.27,0.14,0.0,0.0,13.6,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Monaco,Gelson Martins,POR,"MF,FW",25,1995,17.2,3,25,10,40.0,1.45,0.58,0.12,0.3,15.4,0,0,0,2.7,2.7,0.11,0.3,0.3,shooting
+FRA-Ligue 1,2020,Monaco,Giulian Biancone,FRA,"DF,MF",20,2000,1.0,0,1,0,0.0,0.98,0.0,0.0,,17.3,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+FRA-Ligue 1,2020,Monaco,Guillermo Maripán,CHI,DF,26,1994,23.2,5,15,6,40.0,0.65,0.26,0.33,0.83,11.0,0,0,0,2.2,2.2,0.15,2.8,2.8,shooting
+FRA-Ligue 1,2020,Monaco,Henry Onyekuru,NGA,FW,23,1997,1.6,0,2,1,50.0,1.29,0.64,0.0,0.0,11.1,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Monaco,Jean-Eudes Aholou,CIV,MF,26,1994,0.4,0,2,1,50.0,5.0,2.5,0.0,0.0,16.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Monaco,Kevin Volland,GER,"FW,MF",28,1992,30.8,16,56,30,53.6,1.82,0.98,0.29,0.53,12.6,2,0,0,11.6,11.6,0.21,4.4,4.4,shooting
+FRA-Ligue 1,2020,Monaco,Krépin Diatta,SEN,"MF,DF",21,1999,4.3,1,3,1,33.3,0.69,0.23,0.33,1.0,16.0,0,0,0,0.4,0.4,0.14,0.6,0.6,shooting
+FRA-Ligue 1,2020,Monaco,Pietro Pellegri,ITA,"FW,MF",19,2001,2.6,1,9,3,33.3,3.52,1.17,0.11,0.33,11.9,0,0,0,2.1,2.1,0.23,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Monaco,Radosław Majecki,POL,GK,20,1999,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Monaco,Ruben Aguilar,FRA,"DF,MF",27,1993,24.7,1,8,3,37.5,0.32,0.12,0.13,0.33,11.0,0,0,0,0.9,0.9,0.11,0.1,0.1,shooting
+FRA-Ligue 1,2020,Monaco,Sofiane Diop,FRA,"MF,FW",20,2000,22.5,7,44,17,38.6,1.96,0.76,0.16,0.41,19.8,1,0,0,4.8,4.8,0.11,2.2,2.2,shooting
+FRA-Ligue 1,2020,Monaco,Stevan Jovetić,MNE,"FW,MF",30,1989,8.9,6,44,20,45.5,4.94,2.24,0.14,0.3,19.2,5,0,1,5.5,4.3,0.1,0.5,1.7,shooting
+FRA-Ligue 1,2020,Monaco,Strahinja Pavlović,SRB,DF,19,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Monaco,Vito Mannone,ITA,GK,32,1988,9.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Monaco,Willem Geubbels,FRA,"MF,FW",18,2001,3.3,1,6,2,33.3,1.84,0.61,0.17,0.5,11.3,0,0,0,1.2,1.2,0.2,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Monaco,Wissam Ben Yedder,FRA,FW,29,1990,29.0,20,68,21,30.9,2.35,0.72,0.15,0.48,17.7,7,10,12,19.6,10.2,0.15,0.4,-0.2,shooting
+FRA-Ligue 1,2020,Monaco,Youssouf Fofana,FRA,MF,21,1999,31.9,0,36,4,11.1,1.13,0.13,0.0,0.0,25.5,1,0,0,1.5,1.5,0.04,-1.5,-1.5,shooting
+FRA-Ligue 1,2020,Montpellier,Ambroise Oyongo,CMR,DF,29,1991,6.2,1,1,1,100.0,0.16,0.16,1.0,1.0,10.6,0,0,0,0.3,0.3,0.3,0.7,0.7,shooting
+FRA-Ligue 1,2020,Montpellier,Andy Delort,ALG,FW,28,1991,27.6,15,90,35,38.9,3.26,1.27,0.17,0.43,16.7,2,0,1,12.8,12.0,0.14,2.2,3.0,shooting
+FRA-Ligue 1,2020,Montpellier,Arnaud Souquet,FRA,DF,28,1992,13.6,1,6,2,33.3,0.44,0.15,0.17,0.5,23.0,0,0,0,0.2,0.2,0.04,0.8,0.8,shooting
+FRA-Ligue 1,2020,Montpellier,Clément Vidal,FRA,DF,20,2000,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Montpellier,Damien Le Tallec,FRA,"MF,DF",30,1990,13.6,0,13,3,23.1,0.95,0.22,0.0,0.0,11.0,0,0,0,1.5,1.5,0.12,-1.5,-1.5,shooting
+FRA-Ligue 1,2020,Montpellier,Daniel Congré,FRA,DF,35,1985,36.6,2,13,3,23.1,0.36,0.08,0.15,0.67,8.5,0,0,0,1.3,1.3,0.1,0.7,0.7,shooting
+FRA-Ligue 1,2020,Montpellier,Dimitry Bertaud,COD,GK,22,1998,8.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Montpellier,Elye Wahi,FRA,FW,17,2003,6.2,3,12,7,58.3,1.95,1.14,0.25,0.43,9.3,0,0,0,2.5,2.5,0.2,0.5,0.5,shooting
+FRA-Ligue 1,2020,Montpellier,Florent Mollet,FRA,MF,28,1991,26.2,3,51,16,31.4,1.95,0.61,0.06,0.19,20.8,9,0,0,4.2,4.2,0.08,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Montpellier,Gaëtan Laborde,FRA,"FW,MF",26,1994,36.2,16,99,40,40.4,2.74,1.11,0.16,0.4,12.9,0,0,0,11.4,11.2,0.12,4.6,4.8,shooting
+FRA-Ligue 1,2020,Montpellier,Jonas Omlin,SUI,GK,26,1994,29.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Montpellier,Jordan Ferri,FRA,MF,28,1992,28.6,0,4,2,50.0,0.14,0.07,0.0,0.0,23.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Montpellier,Joris Chotard,FRA,MF,18,2001,12.9,0,8,2,25.0,0.62,0.15,0.0,0.0,17.7,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Montpellier,Junior Sambia,FRA,"DF,MF",23,1996,27.2,1,18,7,38.9,0.66,0.26,0.06,0.14,22.5,5,0,0,1.0,1.0,0.06,0.0,0.0,shooting
+FRA-Ligue 1,2020,Montpellier,Keagan Dolly,RSA,MF,27,1993,5.0,0,5,0,0.0,1.0,0.0,0.0,,26.6,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Montpellier,Mihailo Ristić,SRB,DF,24,1995,24.8,0,20,6,30.0,0.81,0.24,0.0,0.0,22.6,0,0,0,0.7,0.7,0.04,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Montpellier,Nicolas Cozza,FRA,DF,21,1999,15.2,0,1,0,0.0,0.07,0.0,0.0,,6.4,0,0,0,0.3,0.3,0.26,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Montpellier,Pedro Mendes,POR,DF,29,1990,18.1,2,7,2,28.6,0.39,0.11,0.29,1.0,14.5,0,0,0,1.3,1.3,0.19,0.7,0.7,shooting
+FRA-Ligue 1,2020,Montpellier,Petar Škuletić,SRB,"FW,MF",30,1990,2.6,2,11,5,45.5,4.23,1.92,0.18,0.4,15.3,0,0,0,1.4,1.4,0.13,0.6,0.6,shooting
+FRA-Ligue 1,2020,Montpellier,Sacha Delaye,FRA,MF,18,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Montpellier,Samy Benchamma,FRA,"DF,MF",20,2000,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Montpellier,Stephy Mavididi,ENG,"FW,MF",22,1998,22.6,9,30,17,56.7,1.33,0.75,0.3,0.53,13.9,0,0,0,5.6,5.6,0.2,3.4,3.4,shooting
+FRA-Ligue 1,2020,Montpellier,Téji Savanier,FRA,MF,28,1991,24.1,5,52,17,32.7,2.16,0.71,0.06,0.18,26.4,11,2,4,5.9,2.8,0.05,-0.9,0.2,shooting
+FRA-Ligue 1,2020,Montpellier,Vitorino Hilton,BRA,DF,42,1977,23.5,0,12,3,25.0,0.51,0.13,0.0,0.0,9.1,0,0,0,1.2,1.2,0.1,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Montpellier,Yun Il-lok,KOR,"MF,FW",28,1992,3.5,0,6,0,0.0,1.73,0.0,0.0,,18.4,0,0,0,0.6,0.6,0.09,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Nantes,Abdoul Kader Bamba,FRA,"FW,MF",26,1994,10.2,3,14,6,42.9,1.37,0.59,0.21,0.5,19.9,1,0,1,2.4,1.6,0.11,0.6,1.4,shooting
+FRA-Ligue 1,2020,Nantes,Abdoulaye Sylla,GUI,DF,20,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nantes,Abdoulaye Touré,GUI,MF,26,1994,18.7,2,26,4,15.4,1.39,0.21,0.04,0.25,24.2,0,1,1,2.6,1.8,0.07,-0.6,-0.8,shooting
+FRA-Ligue 1,2020,Nantes,Alban Lafont,FRA,GK,21,1999,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nantes,Andrei Girotto,BRA,"DF,MF",28,1992,29.6,1,29,6,20.7,0.98,0.2,0.03,0.17,21.3,5,0,0,1.5,1.5,0.05,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Nantes,Batista Mendy,FRA,MF,20,2000,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nantes,Bridge Ndilu,FRA,"FW,MF",20,2000,0.5,0,2,0,0.0,4.29,0.0,0.0,,17.2,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nantes,Charles Traore,MLI,DF,28,1992,18.9,1,3,2,66.7,0.16,0.11,0.33,0.5,23.3,0,0,0,0.2,0.2,0.05,0.8,0.8,shooting
+FRA-Ligue 1,2020,Nantes,Dennis Appiah,FRA,DF,28,1992,17.3,0,6,0,0.0,0.35,0.0,0.0,,18.0,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Nantes,Fábio,BRA,DF,30,1990,16.7,0,7,1,14.3,0.42,0.06,0.0,0.0,21.5,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Nantes,Imran Louza,MAR,MF,21,1999,26.4,7,31,9,29.0,1.17,0.34,0.06,0.22,28.6,4,5,5,5.8,1.9,0.06,1.2,0.1,shooting
+FRA-Ligue 1,2020,Nantes,Jean-Charles Castelletto,CMR,DF,25,1995,21.6,1,8,4,50.0,0.37,0.18,0.13,0.25,6.7,0,0,0,2.0,2.0,0.26,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Nantes,Jean-Kévin Augustin,FRA,FW,23,1997,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nantes,Kalifa Coulibaly,MLI,FW,28,1991,10.9,3,18,4,22.2,1.65,0.37,0.11,0.5,13.1,0,1,1,2.6,1.8,0.1,0.4,0.2,shooting
+FRA-Ligue 1,2020,Nantes,Ludovic Blas,FRA,"MF,FW",22,1997,31.0,10,71,24,33.8,2.29,0.78,0.14,0.42,19.8,0,0,0,8.1,8.1,0.11,1.9,1.9,shooting
+FRA-Ligue 1,2020,Nantes,Marcus Coco,FRA,"MF,FW",24,1996,16.4,0,13,2,15.4,0.79,0.12,0.0,0.0,15.7,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Nantes,Mehdi Abeid,ALG,MF,27,1992,14.7,0,20,0,0.0,1.36,0.0,0.0,,23.9,1,0,0,1.0,1.0,0.05,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Nantes,Moses Simon,NGA,"FW,MF",25,1995,25.8,6,37,17,45.9,1.43,0.66,0.14,0.29,14.5,1,1,1,7.7,7.0,0.19,-1.7,-2.0,shooting
+FRA-Ligue 1,2020,Nantes,Nicolas Pallois,FRA,DF,32,1987,30.8,2,14,4,28.6,0.45,0.13,0.14,0.5,13.9,0,0,0,1.9,1.9,0.13,0.1,0.1,shooting
+FRA-Ligue 1,2020,Nantes,Pedro Chirivella,ESP,MF,23,1997,25.3,0,8,1,12.5,0.32,0.04,0.0,0.0,21.1,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Nantes,Randal Kolo Muani,FRA,FW,21,1998,33.7,9,60,25,41.7,1.78,0.74,0.15,0.36,13.6,0,0,0,9.5,9.5,0.16,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Nantes,Renaud Emond,BEL,"FW,MF",28,1991,3.9,2,8,4,50.0,2.03,1.02,0.25,0.5,9.0,0,0,0,1.5,1.5,0.19,0.5,0.5,shooting
+FRA-Ligue 1,2020,Nantes,Roli Pereira de Sa,FRA,"FW,MF",23,1996,0.6,0,4,0,0.0,6.43,0.0,0.0,,24.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nantes,Samuel Moutoussamy,COD,FW,23,1996,0.9,0,2,0,0.0,2.2,0.0,0.0,,24.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nantes,Sébastien Corchia,FRA,DF,29,1990,23.0,0,21,7,33.3,0.91,0.3,0.0,0.0,24.1,5,0,0,0.9,0.9,0.04,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Nice,Alexis Claude-Maurice,FRA,"MF,FW",22,1998,21.2,4,34,15,44.1,1.6,0.71,0.12,0.27,18.9,3,0,0,3.8,3.8,0.12,0.2,0.2,shooting
+FRA-Ligue 1,2020,Nice,Alexis Trouillet,FRA,"MF,FW",19,2000,1.2,0,2,0,0.0,1.65,0.0,0.0,,22.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nice,Amine Gouiri,ALG,"FW,MF",20,2000,30.5,12,76,29,38.2,2.49,0.95,0.11,0.28,16.5,7,4,4,14.4,11.5,0.15,-2.4,-3.5,shooting
+FRA-Ligue 1,2020,Nice,Andy Pelmard,FRA,DF,20,2000,13.4,0,2,1,50.0,0.15,0.07,0.0,0.0,15.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nice,Dan Ndoye,SUI,"FW,MF",19,2000,6.1,1,12,4,33.3,1.96,0.65,0.08,0.25,16.3,0,0,0,0.7,0.7,0.06,0.3,0.3,shooting
+FRA-Ligue 1,2020,Nice,Danilo Barbosa,BRA,DF,24,1996,2.8,0,2,0,0.0,0.72,0.0,0.0,,19.3,1,0,0,0.2,0.2,0.1,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Nice,Dante,BRA,DF,36,1983,8.6,2,7,2,28.6,0.81,0.23,0.29,1.0,12.3,1,0,0,0.9,0.9,0.12,1.1,1.1,shooting
+FRA-Ligue 1,2020,Nice,Eddy Sylvestre,FRA,"FW,MF",20,1999,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nice,Evann Guessand,CIV,FW,19,2001,0.3,0,1,1,100.0,3.1,3.1,0.0,0.0,9.8,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nice,Flavius Daniliuc,AUT,DF,19,2001,16.4,1,9,2,22.2,0.55,0.12,0.11,0.5,17.7,0,0,0,0.6,0.6,0.07,0.4,0.4,shooting
+FRA-Ligue 1,2020,Nice,Hassane Kamara,CIV,"DF,FW",26,1994,32.9,2,27,4,14.8,0.82,0.12,0.07,0.5,21.6,0,0,0,1.4,1.4,0.05,0.6,0.6,shooting
+FRA-Ligue 1,2020,Nice,Hicham Boudaoui,ALG,MF,20,1999,19.3,3,16,9,56.3,0.83,0.47,0.19,0.33,19.4,0,0,0,2.2,2.2,0.13,0.8,0.8,shooting
+FRA-Ligue 1,2020,Nice,Hicham Mahou,FRA,FW,21,1999,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nice,Jean-Clair Todibo,FRA,DF,20,1999,14.8,1,7,1,14.3,0.47,0.07,0.14,1.0,11.3,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
+FRA-Ligue 1,2020,Nice,Jeff Reine-Adélaïde,FRA,"MF,FW",22,1998,11.8,1,15,5,33.3,1.28,0.43,0.07,0.2,21.0,0,0,0,1.7,1.7,0.11,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Nice,Jordan Lotomba,SUI,"DF,MF",21,1998,23.6,1,8,2,25.0,0.34,0.08,0.13,0.5,20.8,0,0,0,0.3,0.3,0.04,0.7,0.7,shooting
+FRA-Ligue 1,2020,Nice,Kasper Dolberg,DEN,FW,22,1997,21.4,6,35,16,45.7,1.63,0.75,0.11,0.25,13.5,1,2,2,8.4,6.8,0.19,-2.4,-2.8,shooting
+FRA-Ligue 1,2020,Nice,Khéphren Thuram,FRA,MF,19,2001,16.6,2,10,4,40.0,0.6,0.24,0.2,0.5,17.6,0,0,0,1.0,1.0,0.1,1.0,1.0,shooting
+FRA-Ligue 1,2020,Nice,Malik Sellouki,FRA,"FW,MF",20,2000,0.7,1,4,1,25.0,5.45,1.36,0.25,1.0,18.8,1,0,0,0.2,0.2,0.06,0.8,0.8,shooting
+FRA-Ligue 1,2020,Nice,Morgan Schneiderlin,FRA,MF,30,1989,24.4,0,10,3,30.0,0.41,0.12,0.0,0.0,18.0,0,0,0,0.7,0.7,0.07,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Nice,Myziane Maolida,COM,"FW,MF",21,1999,12.0,3,19,4,21.1,1.59,0.33,0.16,0.75,17.2,0,0,0,2.2,2.2,0.12,0.8,0.8,shooting
+FRA-Ligue 1,2020,Nice,Patrick Burner,MTQ,DF,24,1996,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nice,Pierre Lees-Melou,FRA,MF,27,1993,22.9,4,42,12,28.6,1.83,0.52,0.07,0.25,21.8,0,1,1,4.7,3.9,0.1,-0.7,-0.9,shooting
+FRA-Ligue 1,2020,Nice,Racine Coly,SEN,MF,24,1995,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nice,Robson Bambu,BRA,DF,22,1997,11.6,0,2,1,50.0,0.17,0.09,0.0,0.0,11.2,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nice,Rony Lopes,POR,"FW,MF",24,1995,19.8,3,41,16,39.0,2.07,0.81,0.07,0.19,19.1,3,0,0,2.9,2.9,0.07,0.1,0.1,shooting
+FRA-Ligue 1,2020,Nice,Salim Ben Seghir,FRA,DF,17,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nice,Stanley N'Soki,FRA,DF,21,1999,13.8,0,7,0,0.0,0.51,0.0,0.0,,9.7,0,0,0,0.7,0.7,0.1,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Nice,Walter Benítez,ARG,GK,27,1993,38.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nice,William Saliba,FRA,DF,19,2001,20.0,1,6,1,16.7,0.3,0.05,0.17,1.0,9.8,0,0,0,0.8,0.8,0.14,0.2,0.2,shooting
+FRA-Ligue 1,2020,Nice,Youcef Atal,ALG,"DF,FW",24,1996,10.6,1,8,5,62.5,0.75,0.47,0.13,0.2,18.1,0,0,0,0.4,0.4,0.05,0.6,0.6,shooting
+FRA-Ligue 1,2020,Nîmes,Andrés Cubas,PAR,MF,24,1996,24.9,1,11,5,45.5,0.44,0.2,0.09,0.2,23.7,0,0,0,0.4,0.4,0.04,0.6,0.6,shooting
+FRA-Ligue 1,2020,Nîmes,Anthony Briançon,FRA,DF,25,1994,13.6,0,5,3,60.0,0.37,0.22,0.0,0.0,16.0,0,0,0,0.4,0.4,0.08,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Nîmes,Antoine Valerio,FRA,MF,20,1999,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Baptiste Reynet,FRA,GK,29,1990,38.0,0,2,1,50.0,0.05,0.03,0.0,0.0,10.5,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nîmes,Birger Meling,NOR,DF,25,1994,25.9,2,13,6,46.2,0.5,0.23,0.15,0.33,17.0,0,0,0,0.6,0.6,0.05,1.4,1.4,shooting
+FRA-Ligue 1,2020,Nîmes,Clément Depres,FRA,FW,25,1994,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Florian Miguel,FRA,DF,23,1996,17.1,0,8,3,37.5,0.47,0.18,0.0,0.0,11.1,0,0,0,0.8,0.8,0.1,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Nîmes,Gaëtan Paquiez,FRA,DF,26,1994,11.6,0,5,0,0.0,0.43,0.0,0.0,,29.9,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Nîmes,Haris Duljević,BIH,"MF,FW",26,1993,8.6,0,15,5,33.3,1.75,0.58,0.0,0.0,22.1,0,0,0,1.2,1.2,0.08,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Nîmes,Karim Aribi,ALG,FW,26,1994,3.3,0,8,2,25.0,2.45,0.61,0.0,0.0,13.5,0,0,0,0.8,0.8,0.1,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Nîmes,Kelyan Guessoum,FRA,DF,21,1999,12.5,0,6,1,16.7,0.48,0.08,0.0,0.0,11.6,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Nîmes,Kévin Denkey,TOG,FW,19,2000,5.8,1,18,8,44.4,3.09,1.37,0.06,0.13,14.6,0,0,0,2.1,2.1,0.12,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Nîmes,Lamine Fomba,FRA,MF,22,1998,24.2,1,24,6,25.0,0.99,0.25,0.04,0.17,17.2,0,0,0,2.6,2.6,0.11,-1.6,-1.6,shooting
+FRA-Ligue 1,2020,Nîmes,Loïck Landre,FRA,DF,28,1992,18.1,1,9,2,22.2,0.5,0.11,0.11,0.5,9.3,0,0,0,2.1,2.1,0.23,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Nîmes,Lucas Buadés,FRA,MF,22,1997,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Lucas Deaux,FRA,"MF,DF",31,1988,19.5,1,13,4,30.8,0.67,0.21,0.08,0.25,18.9,0,0,0,1.2,1.2,0.09,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Nîmes,Mahamadou Doucouré,MLI,"FW,MF",20,2000,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Marco Majouga,CTA,"FW,MF",19,2001,1.4,0,5,1,20.0,3.63,0.73,0.0,0.0,25.0,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Nîmes,Matteo Ahlinvi,BEN,MF,21,1999,10.0,2,12,7,58.3,1.2,0.7,0.17,0.29,22.5,0,0,0,1.4,1.4,0.11,0.6,0.6,shooting
+FRA-Ligue 1,2020,Nîmes,Moussa Koné,SEN,FW,23,1996,19.5,9,31,16,51.6,1.59,0.82,0.29,0.56,15.3,0,0,0,6.4,6.4,0.21,2.6,2.6,shooting
+FRA-Ligue 1,2020,Nîmes,Naomichi Ueda,JPN,DF,25,1994,7.9,0,2,1,50.0,0.25,0.13,0.0,0.0,9.9,0,0,0,0.2,0.2,0.1,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Nîmes,Nassim Chadli,FRA,"FW,MF",19,2001,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Niclas Eliasson,SWE,"MF,FW",24,1995,20.0,4,25,10,40.0,1.25,0.5,0.16,0.4,16.8,6,0,0,3.6,3.6,0.15,0.4,0.4,shooting
+FRA-Ligue 1,2020,Nîmes,Nolan Roux,FRA,FW,32,1988,7.2,0,10,1,10.0,1.38,0.14,0.0,0.0,22.3,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Nîmes,Pablo Martinez,FRA,DF,31,1989,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Patrick Burner,MTQ,DF,24,1996,14.6,0,6,1,16.7,0.41,0.07,0.0,0.0,24.0,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Nîmes,Renaud Ripart,FRA,"MF,FW",27,1993,33.9,11,61,19,31.1,1.8,0.56,0.08,0.26,18.5,0,6,7,10.7,5.2,0.09,0.3,-0.2,shooting
+FRA-Ligue 1,2020,Nîmes,Romain Philippoteaux,FRA,"FW,MF",32,1988,2.4,1,2,2,100.0,0.84,0.84,0.5,0.5,13.1,0,0,0,0.4,0.4,0.2,0.6,0.6,shooting
+FRA-Ligue 1,2020,Nîmes,Sami Ben Amar,MAR,MF,22,1998,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Nîmes,Sidy Sarr,SEN,MF,24,1996,5.1,0,9,1,11.1,1.75,0.19,0.0,0.0,23.3,1,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Nîmes,Sofiane Alakouch,MAR,DF,22,1998,16.7,0,5,0,0.0,0.3,0.0,0.0,,21.4,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Nîmes,Yassine Benrahou,FRA,MF,21,1999,13.8,0,18,4,22.2,1.31,0.29,0.0,0.0,24.0,5,0,0,0.8,0.8,0.04,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Nîmes,Zinedine Ferhat,ALG,"FW,MF",27,1993,32.9,6,61,22,36.1,1.86,0.67,0.08,0.23,20.0,5,1,1,5.9,5.1,0.08,0.1,-0.1,shooting
+FRA-Ligue 1,2020,Paris S-G,Abdou Diallo,SEN,DF,24,1996,16.6,0,4,0,0.0,0.24,0.0,0.0,,14.6,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Paris S-G,Alessandro Florenzi,ITA,DF,29,1991,17.1,2,21,8,38.1,1.23,0.47,0.1,0.25,18.9,0,0,0,2.2,2.2,0.1,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Paris S-G,Ander Herrera,ESP,MF,30,1989,20.6,1,21,4,19.0,1.02,0.19,0.05,0.25,19.2,1,0,0,1.4,1.4,0.07,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Paris S-G,Arnaud Kalimuendo,FRA,FW,18,2002,0.8,0,2,1,50.0,2.47,1.23,0.0,0.0,18.9,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Paris S-G,Bandiougou Fadiga,FRA,"FW,MF",19,2001,0.7,0,1,1,100.0,1.43,1.43,0.0,0.0,31.1,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Colin Dagba,FRA,DF,21,1998,15.1,1,7,1,14.3,0.46,0.07,0.14,1.0,20.0,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
+FRA-Ligue 1,2020,Paris S-G,Danilo Pereira,POR,"MF,DF",28,1991,15.9,2,17,5,29.4,1.07,0.31,0.12,0.4,14.7,0,0,0,1.5,1.5,0.09,0.5,0.5,shooting
+FRA-Ligue 1,2020,Paris S-G,Edouard Michut,FRA,MF,17,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Idrissa Gana Gueye,SEN,MF,30,1989,17.6,2,19,7,36.8,1.08,0.4,0.11,0.29,23.4,0,0,0,0.8,0.8,0.04,1.2,1.2,shooting
+FRA-Ligue 1,2020,Paris S-G,Jesé,ESP,FW,27,1993,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Juan Bernat,ESP,DF,27,1993,2.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Julian Draxler,GER,"MF,FW",26,1993,11.8,4,11,4,36.4,0.93,0.34,0.36,1.0,17.0,0,0,0,1.6,1.6,0.15,2.4,2.4,shooting
+FRA-Ligue 1,2020,Paris S-G,Kays Ruiz,FRA,"FW,MF",17,2002,2.1,0,2,0,0.0,0.97,0.0,0.0,,23.3,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Paris S-G,Kenny Nagera,FRA,FW,18,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Keylor Navas,CRC,GK,33,1986,28.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Kylian Mbappé,FRA,FW,21,1998,26.4,27,98,47,48.0,3.71,1.78,0.21,0.45,15.4,2,6,6,22.1,17.4,0.18,4.9,3.6,shooting
+FRA-Ligue 1,2020,Paris S-G,Layvin Kurzawa,FRA,DF,27,1992,14.2,1,11,2,18.2,0.77,0.14,0.09,0.5,16.3,1,0,0,1.0,1.0,0.09,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Leandro Paredes,ARG,MF,26,1994,14.5,1,24,6,25.0,1.66,0.41,0.04,0.17,27.0,3,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Paris S-G,Marcin Bułka,POL,GK,20,1999,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Marco Verratti,ITA,MF,27,1992,16.6,0,10,4,40.0,0.6,0.24,0.0,0.0,16.8,0,0,0,1.3,1.3,0.13,-1.3,-1.3,shooting
+FRA-Ligue 1,2020,Paris S-G,Marquinhos,BRA,DF,26,1994,23.6,3,15,8,53.3,0.63,0.34,0.2,0.38,9.3,0,0,0,2.2,2.2,0.15,0.8,0.8,shooting
+FRA-Ligue 1,2020,Paris S-G,Mauro Icardi,ARG,FW,27,1993,12.0,7,38,13,34.2,3.17,1.08,0.16,0.46,9.8,0,1,1,8.6,7.8,0.21,-1.6,-1.8,shooting
+FRA-Ligue 1,2020,Paris S-G,Mitchel Bakker,NED,DF,20,2000,18.8,0,2,2,100.0,0.11,0.11,0.0,0.0,13.8,0,0,0,0.3,0.3,0.14,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Paris S-G,Moise Kean,ITA,FW,20,2000,18.9,13,52,24,46.2,2.76,1.27,0.25,0.54,12.1,0,0,0,10.2,10.2,0.2,2.8,2.8,shooting
+FRA-Ligue 1,2020,Paris S-G,Neymar,BRA,"MF,FW",28,1992,15.7,9,64,16,25.0,4.07,1.02,0.06,0.25,19.7,18,5,6,13.1,8.4,0.14,-4.1,-4.4,shooting
+FRA-Ligue 1,2020,Paris S-G,Pablo Sarabia,ESP,"FW,MF",28,1992,14.7,6,37,19,51.4,2.52,1.3,0.16,0.32,14.6,2,0,0,5.3,5.3,0.14,0.7,0.7,shooting
+FRA-Ligue 1,2020,Paris S-G,Presnel Kimpembe,FRA,DF,24,1995,25.6,0,5,1,20.0,0.2,0.04,0.0,0.0,18.2,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Paris S-G,Rafinha,BRA,"MF,FW",27,1993,15.1,0,24,8,33.3,1.59,0.53,0.0,0.0,18.8,0,0,0,1.4,1.4,0.06,-1.4,-1.4,shooting
+FRA-Ligue 1,2020,Paris S-G,Sergio Rico,ESP,GK,26,1993,9.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Thilo Kehrer,GER,DF,23,1996,18.0,0,7,0,0.0,0.39,0.0,0.0,,13.4,0,0,0,0.8,0.8,0.12,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Paris S-G,Timothee Pembele,FRA,DF,17,2002,4.3,1,4,2,50.0,0.94,0.47,0.25,0.5,11.4,0,0,0,0.9,0.9,0.22,0.1,0.1,shooting
+FRA-Ligue 1,2020,Paris S-G,Xavi Simons,NED,MF,17,2003,0.0,0,1,0,0.0,45.0,0.0,0.0,,23.4,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Paris S-G,Ángel Di María,ARG,"FW,MF",32,1988,20.6,4,60,17,28.3,2.91,0.83,0.07,0.24,21.5,6,0,0,4.7,4.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Reims,Alexis Flips,FRA,"MF,FW",20,2000,0.5,1,2,1,50.0,4.19,2.09,0.5,1.0,33.1,0,0,0,0.0,0.0,0.02,1.0,1.0,shooting
+FRA-Ligue 1,2020,Reims,Anastasios Donis,GRE,MF,23,1996,1.1,0,1,0,0.0,0.93,0.0,0.0,,29.3,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Arber Zeneli,KVX,"MF,FW",25,1995,14.3,3,21,10,47.6,1.47,0.7,0.14,0.3,20.4,1,0,0,1.5,1.5,0.07,1.5,1.5,shooting
+FRA-Ligue 1,2020,Reims,Boulaye Dia,SEN,"FW,MF",23,1996,32.6,14,58,22,37.9,1.78,0.68,0.16,0.41,16.2,0,5,5,12.5,8.6,0.15,1.5,0.4,shooting
+FRA-Ligue 1,2020,Reims,Dario Maresic,AUT,DF,20,1999,5.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Dereck Kutesa,SUI,"MF,FW",22,1997,7.6,1,10,4,40.0,1.31,0.52,0.1,0.25,16.9,0,0,0,1.0,1.0,0.1,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Dion Lopy,SEN,MF,18,2002,2.8,0,3,0,0.0,1.05,0.0,0.0,,20.9,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Reims,El Bilal Touré,MLI,FW,18,2001,13.8,4,19,9,47.4,1.37,0.65,0.21,0.44,11.2,0,0,0,3.1,3.1,0.16,0.9,0.9,shooting
+FRA-Ligue 1,2020,Reims,Fodé Doucouré,MLI,DF,19,2001,3.7,0,3,2,66.7,0.81,0.54,0.0,0.0,22.6,0,0,0,0.3,0.3,0.1,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Reims,Fraser Hornby,SCO,"FW,MF",20,1999,0.4,0,2,1,50.0,5.14,2.57,0.0,0.0,11.9,0,0,0,0.2,0.2,0.12,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Reims,Ghislain Konan,CIV,DF,24,1995,29.0,2,8,4,50.0,0.28,0.14,0.25,0.5,23.8,0,0,0,0.3,0.3,0.04,1.7,1.7,shooting
+FRA-Ligue 1,2020,Reims,Hugo Ekitike,FRA,"FW,MF",18,2002,1.0,0,3,1,33.3,3.07,1.02,0.0,0.0,14.4,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Reims,Kaj Sierhuis,NED,"FW,MF",22,1998,7.2,0,14,3,21.4,1.93,0.41,0.0,0.0,16.4,1,0,0,0.9,0.9,0.07,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Reims,Marshall Munetsi,ZIM,"MF,DF",24,1996,21.4,1,12,3,25.0,0.56,0.14,0.08,0.33,20.0,0,0,0,1.0,1.0,0.08,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Mathieu Cafaro,FRA,"MF,FW",23,1997,23.0,4,60,21,35.0,2.6,0.91,0.07,0.19,24.9,10,0,0,2.7,2.7,0.04,1.3,1.3,shooting
+FRA-Ligue 1,2020,Reims,Moreto Cassamã,GNB,MF,22,1998,22.6,1,11,2,18.2,0.49,0.09,0.09,0.5,27.8,0,0,0,0.3,0.3,0.03,0.7,0.7,shooting
+FRA-Ligue 1,2020,Reims,Mouhamadou Drammeh,FRA,MF,21,1999,1.9,0,1,0,0.0,0.52,0.0,0.0,,30.0,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Moussa Doumbia,MLI,"MF,FW",25,1994,10.0,0,15,3,20.0,1.5,0.3,0.0,0.0,22.8,0,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Reims,Moïse Sakava,CMR,MF,19,2000,0.1,0,1,0,0.0,11.25,0.0,0.0,,25.8,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Nathanael Mbuku,COD,"MF,FW",18,2002,24.6,4,39,18,46.2,1.59,0.73,0.1,0.22,18.2,0,0,0,2.6,2.6,0.07,1.4,1.4,shooting
+FRA-Ligue 1,2020,Reims,Predrag Rajković,SRB,GK,24,1995,36.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Thibault De Smet,BEL,DF,22,1998,5.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Thomas Foket,BEL,DF,25,1994,36.9,0,6,3,50.0,0.16,0.08,0.0,0.0,22.4,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Reims,Tristan Dingomé,CMR,MF,29,1991,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Valon Berisha,KVX,MF,27,1993,18.3,0,21,3,14.3,1.15,0.16,0.0,0.0,22.2,3,0,0,1.0,1.0,0.05,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Reims,Wout Faes,BEL,DF,22,1998,32.2,1,11,1,9.1,0.34,0.03,0.09,1.0,10.8,0,0,0,1.2,1.2,0.11,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Reims,Xavier Chavalerin,FRA,MF,29,1991,28.3,0,22,6,27.3,0.78,0.21,0.0,0.0,21.4,0,0,0,1.2,1.2,0.06,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Reims,Yehvann Diouf,FRA,GK,20,1999,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Reims,Yunis Abdelhamid,MAR,DF,32,1987,32.1,3,15,5,33.3,0.47,0.16,0.2,0.6,10.5,0,0,0,1.9,1.9,0.13,1.1,1.1,shooting
+FRA-Ligue 1,2020,Rennes,Adrien Hunou,FRA,"FW,MF",26,1994,6.5,4,21,10,47.6,3.21,1.53,0.19,0.4,12.8,0,0,0,4.6,4.6,0.22,-0.6,-0.6,shooting
+FRA-Ligue 1,2020,Rennes,Adrien Truffert,FRA,"DF,MF",18,2001,21.7,1,24,3,12.5,1.11,0.14,0.04,0.33,20.5,0,0,0,1.1,1.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Rennes,Alfred Gomis,SEN,GK,26,1993,22.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Andy Diouf,FRA,FW,17,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Benjamin Bourigeaud,FRA,"MF,FW",26,1994,28.4,6,64,24,37.5,2.26,0.85,0.09,0.25,22.2,11,0,0,4.3,4.3,0.07,1.7,1.7,shooting
+FRA-Ligue 1,2020,Rennes,Brandon Soppy,FRA,DF,18,2002,6.2,0,5,1,20.0,0.81,0.16,0.0,0.0,25.5,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Rennes,Clément Grenier,FRA,"MF,FW",29,1991,12.0,4,26,8,30.8,2.17,0.67,0.12,0.38,24.5,8,1,1,2.6,1.8,0.07,1.4,1.2,shooting
+FRA-Ligue 1,2020,Rennes,Dalbert Henrique,BRA,DF,26,1993,4.1,0,3,0,0.0,0.72,0.0,0.0,,28.0,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Rennes,Damien Da Silva,FRA,DF,32,1988,29.6,4,23,11,47.8,0.78,0.37,0.17,0.36,13.3,0,0,0,2.1,2.1,0.09,1.9,1.9,shooting
+FRA-Ligue 1,2020,Rennes,Daniele Rugani,ITA,DF,26,1994,1.0,0,1,1,100.0,1.0,1.0,0.0,0.0,9.2,0,0,0,0.1,0.1,0.13,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Rennes,Edouard Mendy,SEN,GK,28,1992,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Eduardo Camavinga,FRA,MF,17,2002,26.7,1,26,8,30.8,0.97,0.3,0.04,0.13,18.7,0,0,0,1.8,1.8,0.07,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Rennes,Faitout Maouassa,FRA,DF,22,1998,13.0,0,27,7,25.9,2.08,0.54,0.0,0.0,25.7,5,0,0,1.0,1.0,0.04,-1.0,-1.0,shooting
+FRA-Ligue 1,2020,Rennes,Flavien Tait,FRA,"MF,FW",27,1993,15.2,1,25,8,32.0,1.64,0.53,0.04,0.13,19.8,0,0,0,1.9,1.9,0.08,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Rennes,Georginio Rutter,FRA,"FW,MF",18,2002,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Gerzino Nyamsi,FRA,DF,23,1997,9.7,1,5,1,20.0,0.52,0.1,0.2,1.0,10.0,0,0,0,0.5,0.5,0.1,0.5,0.5,shooting
+FRA-Ligue 1,2020,Rennes,Hamari Traoré,MLI,DF,28,1992,33.3,1,23,5,21.7,0.69,0.15,0.04,0.2,20.0,0,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Rennes,James Lea Siliki,CMR,MF,24,1996,2.8,0,6,1,16.7,2.12,0.35,0.0,0.0,23.3,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Rennes,Jeremy Doku,BEL,"MF,FW",18,2002,25.7,2,36,7,19.4,1.4,0.27,0.06,0.29,18.2,0,0,0,2.8,2.8,0.08,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Rennes,Jonas Martin,FRA,MF,30,1990,5.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Lesley Ugochukwu,FRA,MF,16,2004,0.7,0,2,0,0.0,2.77,0.0,0.0,,16.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Rennes,M'Baye Niang,SEN,FW,25,1994,4.7,1,11,2,18.2,2.35,0.43,0.09,0.5,13.2,0,0,0,1.0,1.0,0.09,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Martin Terrier,FRA,"FW,MF",23,1997,27.1,9,46,17,37.0,1.7,0.63,0.17,0.47,16.1,0,1,1,5.3,4.6,0.1,3.7,3.4,shooting
+FRA-Ligue 1,2020,Rennes,Matthis Abline,FRA,FW,17,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Nayef Aguerd,MAR,DF,24,1996,35.0,3,28,6,21.4,0.8,0.17,0.11,0.5,10.1,0,0,0,3.2,3.2,0.12,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Rennes,Raphinha,BRA,"FW,MF",23,1996,4.5,1,11,3,27.3,2.45,0.67,0.09,0.33,19.2,3,0,0,0.9,0.9,0.08,0.1,0.1,shooting
+FRA-Ligue 1,2020,Rennes,Romain Del Castillo,FRA,"MF,FW",24,1996,7.2,0,16,5,31.3,2.21,0.69,0.0,0.0,19.7,1,0,0,1.1,1.1,0.07,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Rennes,Romain Salin,FRA,GK,36,1984,15.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Rennes,Sacha Boey,FRA,DF,19,2000,1.4,0,1,0,0.0,0.73,0.0,0.0,,11.9,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Rennes,Serhou Guirassy,GUI,FW,24,1996,19.6,10,51,24,47.1,2.6,1.22,0.18,0.38,16.2,4,1,1,9.2,8.4,0.17,0.8,0.6,shooting
+FRA-Ligue 1,2020,Rennes,Steven Nzonzi,FRA,MF,31,1988,32.3,1,20,4,20.0,0.62,0.12,0.05,0.25,16.7,0,0,0,1.7,1.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Rennes,Yann Gboho,FRA,"MF,FW",19,2001,3.4,0,9,3,33.3,2.67,0.89,0.0,0.0,13.6,0,0,0,0.9,0.9,0.1,-0.9,-0.9,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Abdoulaye Sidibé,FRA,MF,18,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Adil Aouchiche,FRA,"MF,FW",18,2002,19.2,2,26,12,46.2,1.35,0.62,0.08,0.17,20.8,2,0,0,3.4,3.4,0.13,-1.4,-1.4,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Aimen Moueffek,FRA,"DF,MF",19,2001,8.3,0,1,0,0.0,0.12,0.0,0.0,,15.4,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Anthony Modeste,FRA,"FW,MF",32,1988,3.3,0,9,1,11.1,2.76,0.31,0.0,0.0,16.8,0,0,0,0.7,0.7,0.08,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Arnaud Nordin,FRA,"MF,FW",22,1998,19.7,4,44,13,29.5,2.24,0.66,0.09,0.31,17.6,0,0,0,3.9,3.9,0.09,0.1,0.1,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Assane Dioussé,SEN,DF,22,1997,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Baptiste Gabard,FRA,MF,20,2000,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Bilal Benkhedim,FRA,FW,19,2001,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Charles Abi,FRA,"FW,MF",20,2000,10.1,3,19,4,21.1,1.87,0.39,0.16,0.75,12.5,0,0,0,2.1,2.1,0.11,0.9,0.9,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Denis Bouanga,GAB,"MF,FW",25,1994,30.2,7,97,35,36.1,3.21,1.16,0.04,0.11,18.7,4,3,4,12.8,9.6,0.1,-5.8,-5.6,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Etienne Green,ENG,GK,20,2000,8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Gabriel Silva,BRA,DF,29,1991,3.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Harold Moukoudi,CMR,DF,22,1997,25.3,3,13,4,30.8,0.51,0.16,0.23,0.75,8.0,0,0,0,2.2,2.2,0.17,0.8,0.8,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Jean-Philippe Krasso,CIV,FW,23,1997,2.5,0,4,3,75.0,1.61,1.21,0.0,0.0,11.8,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Jessy Moulin,FRA,GK,34,1986,29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Kévin Monnet-Paquet,FRA,"MF,FW",31,1988,6.3,0,6,0,0.0,0.96,0.0,0.0,,13.3,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Lucas Gourna-Douath,FRA,MF,16,2003,14.7,0,5,1,20.0,0.34,0.07,0.0,0.0,18.3,0,0,0,0.5,0.5,0.11,-0.5,-0.5,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Mahdi Camara,FRA,"MF,DF",22,1998,36.6,3,23,9,39.1,0.63,0.25,0.13,0.33,18.7,0,0,0,3.2,3.2,0.14,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Marvin Tshibuabua,FRA,DF,18,2002,0.5,0,2,0,0.0,4.19,0.0,0.0,,11.5,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Mathieu Debuchy,FRA,DF,35,1985,23.4,2,26,7,26.9,1.11,0.3,0.08,0.29,13.5,0,0,0,2.7,2.7,0.1,-0.7,-0.7,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Mathys Saban,FRA,FW,18,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Maxence Rivera,FRA,"MF,FW",18,2002,2.7,0,2,1,50.0,0.75,0.38,0.0,0.0,21.4,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Miguel Trauco,PER,DF,27,1992,22.6,0,6,1,16.7,0.27,0.04,0.0,0.0,24.9,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Nelson Sissoko,FRA,DF,23,1997,5.3,0,1,0,0.0,0.19,0.0,0.0,,35.6,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Panagiotis Retsos,GRE,DF,21,1998,3.0,0,1,0,0.0,0.33,0.0,0.0,,13.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Pape Abou Cissé,SEN,DF,24,1995,14.0,0,13,3,23.1,0.93,0.21,0.0,0.0,13.0,0,0,0,1.4,1.4,0.11,-1.4,-1.4,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Rayan Souici,FRA,DF,22,1998,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Romain Hamouma,FRA,"FW,MF",33,1987,19.7,6,33,17,51.5,1.68,0.86,0.18,0.35,15.7,2,0,0,4.8,4.7,0.14,1.2,1.3,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Ryad Boudebouz,ALG,"MF,FW",30,1990,7.2,0,11,3,27.3,1.52,0.41,0.0,0.0,24.9,2,0,2,2.1,0.5,0.05,-2.1,-0.5,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Saidou Sow,GUI,DF,18,2002,11.1,0,2,1,50.0,0.18,0.09,0.0,0.0,9.0,0,0,0,0.2,0.2,0.1,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Stefan Bajic,FRA,GK,18,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Timothée Kolodziejczak,FRA,DF,28,1991,22.6,0,10,2,20.0,0.44,0.09,0.0,0.0,9.7,0,0,0,0.8,0.8,0.08,-0.8,-0.8,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Tyron Tormin,FRA,"FW,MF",19,2001,0.2,0,1,0,0.0,4.29,0.0,0.0,,22.8,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Wahbi Khazri,TUN,FW,29,1991,13.1,7,29,10,34.5,2.21,0.76,0.14,0.4,22.9,4,3,3,4.8,2.4,0.08,2.2,1.6,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Wesley Fofana,FRA,DF,19,2000,3.5,0,1,0,0.0,0.29,0.0,0.0,,13.1,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Yanis Lhery,FRA,MF,17,2003,0.3,0,1,0,0.0,3.0,0.0,0.0,,26.0,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Yann M'Vila,FRA,MF,30,1990,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Yvan Neyou,CMR,MF,23,1997,27.1,1,29,7,24.1,1.07,0.26,0.03,0.14,26.2,1,0,0,1.3,1.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Yvann Macon,FRA,DF,21,1998,6.0,1,2,2,100.0,0.33,0.33,0.5,0.5,27.5,0,0,0,0.1,0.1,0.03,0.9,0.9,shooting
+FRA-Ligue 1,2020,Saint-Étienne,Zaydou Youssouf,COM,MF,21,1999,13.7,1,15,4,26.7,1.1,0.29,0.07,0.25,22.8,2,0,0,1.4,1.4,0.09,-0.4,-0.4,shooting
+FRA-Ligue 1,2020,Strasbourg,Abdul Majeed Waris,GHA,"FW,MF",28,1991,6.1,1,9,2,22.2,1.47,0.33,0.0,0.0,18.9,0,1,1,1.9,1.1,0.13,-0.9,-1.1,shooting
+FRA-Ligue 1,2020,Strasbourg,Adrien Thomasson,FRA,"MF,FW",26,1993,29.2,5,47,15,31.9,1.61,0.51,0.11,0.33,16.6,0,0,0,6.2,6.2,0.13,-1.2,-1.2,shooting
+FRA-Ligue 1,2020,Strasbourg,Alexander Djiku,GHA,"DF,MF",25,1994,28.4,0,16,3,18.8,0.56,0.11,0.0,0.0,17.1,1,0,0,2.0,2.0,0.14,-2.0,-2.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Anthony Caci,FRA,DF,23,1997,31.1,0,8,0,0.0,0.26,0.0,0.0,,24.3,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Strasbourg,Bingourou Kamara,SEN,GK,23,1996,8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Dimitri Liénard,FRA,MF,32,1988,20.3,2,28,8,28.6,1.38,0.39,0.04,0.13,28.1,8,1,2,2.8,1.1,0.04,-0.8,-0.1,shooting
+FRA-Ligue 1,2020,Strasbourg,Dion Moise Sahi,CIV,"FW,MF",18,2001,1.0,1,4,1,25.0,3.83,0.96,0.25,1.0,19.7,0,0,0,0.6,0.6,0.14,0.4,0.4,shooting
+FRA-Ligue 1,2020,Strasbourg,Eiji Kawashima,JPN,GK,37,1983,24.0,0,1,0,0.0,0.04,0.0,0.0,,73.6,1,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Frederic Guilbert,FRA,DF,25,1994,12.4,1,15,4,26.7,1.21,0.32,0.07,0.25,26.5,4,0,0,0.5,0.5,0.04,0.5,0.5,shooting
+FRA-Ligue 1,2020,Strasbourg,Habib Diallo,SEN,FW,25,1995,25.8,9,52,20,38.5,2.02,0.78,0.15,0.4,16.8,0,1,1,7.6,6.8,0.13,1.4,1.2,shooting
+FRA-Ligue 1,2020,Strasbourg,Ibrahima Sissoko,MLI,MF,22,1997,28.7,0,25,3,12.0,0.87,0.1,0.0,0.0,19.4,0,0,0,2.0,2.0,0.08,-2.0,-2.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Idriss Saadi,ALG,"MF,FW",28,1992,1.4,0,6,3,50.0,4.32,2.16,0.0,0.0,11.0,0,0,0,1.7,1.7,0.28,-1.7,-1.7,shooting
+FRA-Ligue 1,2020,Strasbourg,Ismael Aaneba,FRA,DF,21,1999,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Jean-Eudes Aholou,CIV,MF,26,1994,23.8,2,31,6,19.4,1.3,0.25,0.06,0.33,21.3,0,0,0,2.3,2.1,0.07,-0.3,-0.1,shooting
+FRA-Ligue 1,2020,Strasbourg,Jean-Ricner Bellegarde,FRA,"MF,FW",22,1998,23.2,1,23,5,21.7,0.99,0.22,0.04,0.2,17.9,0,0,0,2.1,2.1,0.09,-1.1,-1.1,shooting
+FRA-Ligue 1,2020,Strasbourg,Kenny Lala,MAD,DF,28,1991,20.4,3,8,2,25.0,0.39,0.1,0.0,0.0,30.6,3,3,3,2.7,0.4,0.05,0.3,-0.4,shooting
+FRA-Ligue 1,2020,Strasbourg,Kévin Zohi,MLI,"FW,MF",23,1996,4.8,2,15,8,53.3,3.1,1.65,0.13,0.25,17.5,0,0,0,0.9,0.9,0.06,1.1,1.1,shooting
+FRA-Ligue 1,2020,Strasbourg,Lamine Koné,CIV,DF,31,1989,11.6,1,8,1,12.5,0.69,0.09,0.13,1.0,12.8,0,0,0,0.8,0.8,0.1,0.2,0.2,shooting
+FRA-Ligue 1,2020,Strasbourg,Lionel Carole,FRA,DF,29,1991,14.9,0,3,1,33.3,0.2,0.07,0.0,0.0,23.4,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+FRA-Ligue 1,2020,Strasbourg,Ludovic Ajorque,FRA,FW,26,1994,33.0,16,66,30,45.5,2.0,0.91,0.18,0.4,15.0,0,4,5,15.7,11.8,0.18,0.3,0.2,shooting
+FRA-Ligue 1,2020,Strasbourg,Mahame Siby,MLI,MF,24,1996,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Matz Sels,BEL,GK,28,1992,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+FRA-Ligue 1,2020,Strasbourg,Mehdi Chahiri,MAR,"FW,MF",24,1996,8.9,2,21,7,33.3,2.36,0.79,0.1,0.29,19.9,0,0,0,1.6,1.6,0.08,0.4,0.4,shooting
+FRA-Ligue 1,2020,Strasbourg,Mohamed Simakan,FRA,DF,20,2000,17.9,1,14,4,28.6,0.78,0.22,0.07,0.25,14.8,0,0,0,1.3,1.3,0.1,-0.3,-0.3,shooting
+FRA-Ligue 1,2020,Strasbourg,Sanjin Prcić,BIH,MF,26,1993,3.9,0,7,2,28.6,1.78,0.51,0.0,0.0,27.4,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+FRA-Ligue 1,2020,Strasbourg,Stefan Mitrović,SRB,DF,30,1990,30.9,2,12,4,33.3,0.39,0.13,0.17,0.5,9.0,0,0,0,1.3,1.3,0.11,0.7,0.7,shooting

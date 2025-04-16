@@ -1,0 +1,622 @@
+league,season,team,player,nation,pos,age,born,90s,Tackles,Tackles,Tackles,Tackles,Tackles,Challenges,Challenges,Challenges,Challenges,Blocks,Blocks,Blocks,Int,Tkl+Int,Clr,Err,stat_type
+,,,,,,,,,Tkl,TklW,Def 3rd,Mid 3rd,Att 3rd,Tkl,Att,Tkl%,Lost,Blocks,Sh,Pass,,,,,
+ITA-Serie A,2024,Atalanta,Ademola Lookman,NGA,"FW,MF",27-173,1997,19.7,27,13,9,12,6,8,15,53.3,7,16,0,16,2,29,3,1,defense
+ITA-Serie A,2024,Atalanta,Alberto Manzoni,ITA,MF,19-290,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Atalanta,Ben Godfrey,ENG,DF,27-086,1998,0.3,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,0,0,defense
+ITA-Serie A,2024,Atalanta,Berat Djimsiti,ALB,DF,32-051,1993,23.9,45,28,23,21,1,25,34,73.5,9,26,16,10,35,80,91,2,defense
+ITA-Serie A,2024,Atalanta,Charles De Ketelaere,BEL,"MF,FW",24-032,2001,19.9,12,8,2,8,2,4,13,30.8,9,11,3,8,3,15,8,0,defense
+ITA-Serie A,2024,Atalanta,Daniel Maldini,ITA,"FW,MF",23-182,2001,1.1,1,1,0,0,1,1,1,100.0,0,1,0,1,0,1,0,0,defense
+ITA-Serie A,2024,Atalanta,Davide Zappacosta,ITA,DF,32-304,1992,18.2,22,14,12,4,6,17,30,56.7,13,22,5,17,10,32,21,2,defense
+ITA-Serie A,2024,Atalanta,Federico Cassa,ITA,"MF,FW",19-069,2006,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,defense
+ITA-Serie A,2024,Atalanta,Gianluca Scamacca,ITA,FW,26-100,1999,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Atalanta,Giorgio Scalvini,ITA,DF,21-121,2003,3.0,8,4,5,3,0,5,9,55.6,4,0,0,0,4,12,7,0,defense
+ITA-Serie A,2024,Atalanta,Ibrahim Sulemana,GHA,MF,21-324,2003,1.4,5,2,2,3,0,1,3,33.3,2,1,0,1,0,5,1,0,defense
+ITA-Serie A,2024,Atalanta,Isak Hien,SWE,DF,26-088,1999,20.9,45,26,24,21,0,24,39,61.5,15,25,14,11,22,67,65,2,defense
+ITA-Serie A,2024,Atalanta,Juan Cuadrado,COL,"DF,MF",36-320,1988,7.6,16,8,9,3,4,10,22,45.5,12,12,2,10,5,21,8,0,defense
+ITA-Serie A,2024,Atalanta,Juan Musso,ARG,GK,30-340,1994,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Atalanta,Lazar Samardzic,SRB,"MF,FW",23-046,2002,11.6,18,12,4,6,8,10,21,47.6,11,8,1,7,2,20,6,0,defense
+ITA-Serie A,2024,Atalanta,Marco Brescianini,ITA,MF,25-081,2000,9.3,15,9,4,7,4,7,9,77.8,2,13,1,12,2,17,4,0,defense
+ITA-Serie A,2024,Atalanta,Marco Carnesecchi,ITA,GK,24-284,2000,28.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,20,1,defense
+ITA-Serie A,2024,Atalanta,Marco Palestra,ITA,DF,20-039,2005,1.2,5,4,3,2,0,3,3,100.0,0,2,0,2,0,5,3,0,defense
+ITA-Serie A,2024,Atalanta,Mario Pašalić,CRO,MF,30-061,1995,17.7,22,14,8,12,2,9,22,40.9,13,18,4,14,12,34,24,1,defense
+ITA-Serie A,2024,Atalanta,Marten de Roon,NED,"MF,DF",34-013,1991,28.0,61,38,24,34,3,22,53,41.5,31,32,6,26,37,98,48,1,defense
+ITA-Serie A,2024,Atalanta,Mateo Retegui,ITA,FW,25-347,1999,19.9,12,7,0,7,5,2,11,18.2,9,3,0,3,2,14,15,0,defense
+ITA-Serie A,2024,Atalanta,Matteo Ruggeri,ITA,DF,22-274,2002,17.0,34,21,14,10,10,22,32,68.8,10,25,3,22,15,49,36,1,defense
+ITA-Serie A,2024,Atalanta,Mitchel Bakker,NED,MF,24-295,2000,0.2,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,defense
+ITA-Serie A,2024,Atalanta,Nicolò Zaniolo,ITA,"FW,MF",25-283,1999,4.0,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,0,0,defense
+ITA-Serie A,2024,Atalanta,Odilon Kossounou,CIV,DF,24-097,2001,8.0,11,7,7,4,0,4,7,57.1,3,10,2,8,7,18,14,0,defense
+ITA-Serie A,2024,Atalanta,Rafael Tolói,ITA,DF,34-183,1990,3.8,9,5,3,4,2,3,7,42.9,4,6,1,5,7,16,7,0,defense
+ITA-Serie A,2024,Atalanta,Raoul Bellanova,ITA,DF,24-329,2000,21.2,22,13,7,12,3,11,19,57.9,8,11,3,8,16,38,35,0,defense
+ITA-Serie A,2024,Atalanta,Rui Patrício,POR,GK,37-055,1988,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0,defense
+ITA-Serie A,2024,Atalanta,Sead Kolašinac,BIH,DF,31-295,1993,20.7,39,25,20,19,0,14,28,50.0,14,16,7,9,22,61,53,1,defense
+ITA-Serie A,2024,Atalanta,Stefan Posch,AUT,DF,27-332,1997,3.8,14,10,5,6,3,7,8,87.5,1,5,1,4,4,18,13,0,defense
+ITA-Serie A,2024,Atalanta,Vanja Vlahović,SRB,"FW,MF",21-019,2004,0.7,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0,defense
+ITA-Serie A,2024,Atalanta,Éderson,BRA,MF,25-278,1999,26.6,45,27,15,25,5,19,28,67.9,9,26,5,21,34,79,27,1,defense
+ITA-Serie A,2024,Bologna,Benjamín Domínguez,ARG,FW,21-204,2003,10.9,13,5,1,10,2,3,16,18.8,13,14,1,13,4,17,6,0,defense
+ITA-Serie A,2024,Bologna,Charalambos Lykogiannis,GRE,DF,31-171,1993,9.6,16,10,10,5,1,7,13,53.8,6,6,4,2,9,25,31,1,defense
+ITA-Serie A,2024,Bologna,Dan Ndoye,SUI,FW,24-168,2000,20.0,19,15,5,6,8,10,19,52.6,9,19,0,19,8,27,4,0,defense
+ITA-Serie A,2024,Bologna,Davide Calabria,ITA,DF,28-126,1996,4.9,10,6,3,5,2,4,7,57.1,3,2,0,2,0,10,14,1,defense
+ITA-Serie A,2024,Bologna,Emil Holm,SWE,DF,24-333,2000,10.8,32,20,15,14,3,20,30,66.7,10,17,4,13,10,42,43,1,defense
+ITA-Serie A,2024,Bologna,Estanis,ESP,FW,21-230,2003,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Bologna,Federico Ravaglia,ITA,GK,25-151,1999,8.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0,defense
+ITA-Serie A,2024,Bologna,Giovanni Fabbian,ITA,MF,22-087,2003,9.8,10,6,1,3,6,7,12,58.3,5,5,2,3,2,12,4,0,defense
+ITA-Serie A,2024,Bologna,Jens Odgaard,DEN,"MF,FW",26-011,1999,19.2,20,14,3,12,5,6,19,31.6,13,17,2,15,8,28,11,1,defense
+ITA-Serie A,2024,Bologna,Jesper Karlsson,SWE,FW,26-260,1998,3.3,1,0,0,0,1,0,2,0.0,2,4,0,4,0,1,3,0,defense
+ITA-Serie A,2024,Bologna,Jhon Lucumí,COL,DF,26-289,1998,22.9,35,20,18,17,0,18,28,64.3,10,26,13,13,19,54,71,3,defense
+ITA-Serie A,2024,Bologna,Juan Miranda,ESP,DF,25-082,2000,20.6,30,17,11,12,7,13,29,44.8,16,17,2,15,20,50,40,1,defense
+ITA-Serie A,2024,Bologna,Kacper Urbanski,POL,MF,20-216,2004,2.7,5,2,4,0,1,4,6,66.7,2,5,1,4,2,7,5,0,defense
+ITA-Serie A,2024,Bologna,Lewis Ferguson,SCO,MF,25-230,1999,7.9,18,9,3,10,5,7,13,53.8,6,6,2,4,3,21,9,0,defense
+ITA-Serie A,2024,Bologna,Lorenzo De Silvestri,ITA,DF,36-323,1988,8.5,10,6,6,1,3,6,13,46.2,7,8,2,6,7,17,24,0,defense
+ITA-Serie A,2024,Bologna,Martin Erlic,CRO,DF,27-077,1998,3.2,2,0,0,2,0,1,2,50.0,1,5,4,1,2,4,6,0,defense
+ITA-Serie A,2024,Bologna,Michel Aebischer,SUI,MF,28-095,1997,5.7,11,8,4,5,2,7,11,63.6,4,3,1,2,5,16,5,0,defense
+ITA-Serie A,2024,Bologna,Nicolò Cambiaghi,ITA,FW,24-104,2000,3.6,8,4,2,4,2,2,6,33.3,4,8,0,8,2,10,1,0,defense
+ITA-Serie A,2024,Bologna,Nicolò Casale,ITA,DF,27-056,1998,7.7,7,4,4,3,0,3,7,42.9,4,11,7,4,13,20,37,2,defense
+ITA-Serie A,2024,Bologna,Nikola Moro,CRO,MF,27-030,1998,12.3,34,26,6,21,7,21,32,65.6,11,18,7,11,13,47,16,0,defense
+ITA-Serie A,2024,Bologna,Oussama El Azzouzi,MAR,MF,23-317,2001,0.1,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0,defense
+ITA-Serie A,2024,Bologna,Remo Freuler,SUI,MF,32-361,1992,29.0,68,33,25,34,9,30,65,46.2,35,33,3,30,30,98,51,1,defense
+ITA-Serie A,2024,Bologna,Riccardo Orsolini,ITA,FW,28-077,1997,16.1,12,11,5,5,2,3,8,37.5,5,22,0,22,7,19,10,1,defense
+ITA-Serie A,2024,Bologna,Sam Beukema,NED,DF,26-145,1998,28.5,44,24,21,20,3,19,37,51.4,18,29,16,13,25,69,98,0,defense
+ITA-Serie A,2024,Bologna,Samuel Iling-Junior,ENG,"FW,MF",21-189,2003,1.3,3,2,1,1,1,0,1,0.0,1,1,0,1,2,5,2,0,defense
+ITA-Serie A,2024,Bologna,Santiago Castro,ARG,FW,20-194,2004,23.7,17,9,4,9,4,5,15,33.3,10,13,2,11,3,20,19,0,defense
+ITA-Serie A,2024,Bologna,Stefan Posch,AUT,DF,27-332,1997,7.9,26,15,12,9,5,15,25,60.0,10,19,4,15,5,31,22,0,defense
+ITA-Serie A,2024,Bologna,Thijs Dallinga,NED,"FW,MF",24-251,2000,7.9,10,5,0,4,6,3,3,100.0,0,9,1,8,1,11,8,1,defense
+ITA-Serie A,2024,Bologna,Tommaso Pobega,ITA,MF,25-270,1999,10.3,28,16,11,11,6,18,24,75.0,6,12,4,8,11,39,12,0,defense
+ITA-Serie A,2024,Bologna,Łukasz Skorupski,POL,GK,33-341,1991,22.3,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,10,2,defense
+ITA-Serie A,2024,Cagliari,Adam Obert,SVK,DF,22-231,2002,10.4,30,17,12,17,1,15,26,57.7,11,17,7,10,18,48,44,2,defense
+ITA-Serie A,2024,Cagliari,Alen Sherri,ALB,GK,27-117,1997,6.0,1,0,1,0,0,1,2,50.0,1,0,0,0,0,1,1,0,defense
+ITA-Serie A,2024,Cagliari,Alessandro Deiola,ITA,MF,29-253,1995,12.6,24,16,7,15,2,8,24,33.3,16,19,10,9,11,35,31,0,defense
+ITA-Serie A,2024,Cagliari,Antoine Makoumbou,CGO,MF,26-267,1998,18.9,34,18,24,8,2,18,23,78.3,5,23,4,19,12,46,21,0,defense
+ITA-Serie A,2024,Cagliari,Elia Caprile,ITA,GK,23-229,2001,12.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,7,1,defense
+ITA-Serie A,2024,Cagliari,Florinel Coman,ROU,"FW,MF",27-001,1998,1.8,5,3,3,1,1,2,2,100.0,0,1,0,1,1,6,1,0,defense
+ITA-Serie A,2024,Cagliari,Gabriele Zappa,ITA,DF,25-110,1999,27.5,33,19,17,14,2,16,26,61.5,10,37,20,17,19,52,72,1,defense
+ITA-Serie A,2024,Cagliari,Gianluca Gaetano,ITA,"MF,FW",24-341,2000,9.8,9,6,3,5,1,4,13,30.8,9,7,0,7,5,14,7,0,defense
+ITA-Serie A,2024,Cagliari,Gianluca Lapadula,PER,"FW,MF",35-063,1990,3.4,2,0,1,0,1,0,1,0.0,1,0,0,0,0,2,1,0,defense
+ITA-Serie A,2024,Cagliari,José Luis Palomino,ARG,DF,35-096,1990,7.1,13,7,7,4,2,8,12,66.7,4,10,5,5,12,25,25,0,defense
+ITA-Serie A,2024,Cagliari,Kingstone Mutandwa,ZAM,"MF,FW",22-096,2003,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Cagliari,Leonardo Pavoletti,ITA,"FW,MF",36-136,1988,3.8,0,0,0,0,0,0,0,,0,2,1,1,0,0,3,0,defense
+ITA-Serie A,2024,Cagliari,Mateusz Wieteska,POL,DF,28-059,1997,2.0,1,0,0,1,0,1,1,100.0,0,3,2,1,7,8,6,0,defense
+ITA-Serie A,2024,Cagliari,Matteo Prati,ITA,MF,21-104,2003,5.4,10,4,2,7,1,3,10,30.0,7,4,1,3,5,15,9,1,defense
+ITA-Serie A,2024,Cagliari,Mattia Felici,ITA,"MF,FW",23-359,2001,9.7,17,12,8,7,2,4,9,44.4,5,10,0,10,7,24,7,0,defense
+ITA-Serie A,2024,Cagliari,Michel Ndary Adopo,FRA,MF,24-266,2000,20.3,43,27,14,23,6,13,23,56.5,10,14,3,11,20,63,20,0,defense
+ITA-Serie A,2024,Cagliari,Nadir Zortea,ITA,"DF,FW",25-296,1999,24.0,26,11,13,11,2,12,28,42.9,16,6,0,6,14,40,37,2,defense
+ITA-Serie A,2024,Cagliari,Nicolas Viola,ITA,"MF,FW",35-181,1989,12.1,14,7,6,7,1,1,9,11.1,8,4,0,4,2,16,4,0,defense
+ITA-Serie A,2024,Cagliari,Paulo Azzi,BRA,DF,30-270,1994,4.7,11,9,3,6,2,5,9,55.6,4,5,2,3,5,16,11,0,defense
+ITA-Serie A,2024,Cagliari,Roberto Piccoli,ITA,FW,24-074,2001,28.8,13,9,2,6,5,3,8,37.5,5,12,4,8,2,15,27,0,defense
+ITA-Serie A,2024,Cagliari,Răzvan Marin,ROU,MF,28-323,1996,12.7,21,12,8,11,2,13,24,54.2,11,5,0,5,2,23,15,2,defense
+ITA-Serie A,2024,Cagliari,Sebastiano Luperto,ITA,DF,28-217,1996,31.0,42,22,28,13,1,15,25,60.0,10,26,13,13,27,69,133,1,defense
+ITA-Serie A,2024,Cagliari,Simone Scuffet,ITA,GK,28-315,1996,13.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,8,2,defense
+ITA-Serie A,2024,Cagliari,Tommaso Augello,ITA,"DF,FW",30-224,1994,23.5,44,25,25,15,4,26,35,74.3,9,19,5,14,15,59,79,0,defense
+ITA-Serie A,2024,Cagliari,Yerry Mina,COL,DF,30-200,1994,25.1,54,25,37,16,1,35,45,77.8,10,51,28,23,30,84,149,3,defense
+ITA-Serie A,2024,Cagliari,Zito Luvumbo,ANG,"FW,MF",23-033,2002,13.3,7,4,1,3,3,3,14,21.4,11,4,0,4,2,9,4,0,defense
+ITA-Serie A,2024,Como,Alberto Cerri,ITA,FW,28-360,1996,1.0,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0,defense
+ITA-Serie A,2024,Como,Alberto Dossena,ITA,DF,26-180,1998,20.3,33,20,23,8,2,16,28,57.1,12,22,11,11,22,55,89,1,defense
+ITA-Serie A,2024,Como,Alberto Moreno,ESP,DF,32-280,1992,15.7,23,10,15,8,0,11,19,57.9,8,10,2,8,12,35,28,2,defense
+ITA-Serie A,2024,Como,Alessandro Gabrielloni,ITA,"FW,MF",30-275,1994,1.2,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Como,Alessio Iovine,ITA,"DF,FW",34-069,1991,4.2,5,2,2,3,0,4,10,40.0,6,7,1,6,3,8,21,1,defense
+ITA-Serie A,2024,Como,Ali Jasim,IRQ,"FW,DF",21-081,2004,0.1,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,defense
+ITA-Serie A,2024,Como,Alieu Fadera,GAM,"FW,DF",23-159,2001,17.7,60,45,24,24,12,20,44,45.5,24,17,1,16,10,70,9,0,defense
+ITA-Serie A,2024,Como,Anastasios Douvikas,GRE,FW,25-252,1999,2.2,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,1,0,defense
+ITA-Serie A,2024,Como,Andrea Belotti,ITA,FW,31-112,1993,6.6,7,5,1,4,2,1,4,25.0,3,4,0,4,1,8,8,0,defense
+ITA-Serie A,2024,Como,Assane Diao,SEN,"FW,MF",19-216,2005,12.0,19,13,7,7,5,10,24,41.7,14,8,1,7,3,22,12,0,defense
+ITA-Serie A,2024,Como,Ben Lhassine Kone,CIV,MF,25-028,2000,0.6,2,2,1,0,1,2,3,66.7,1,0,0,0,1,3,1,0,defense
+ITA-Serie A,2024,Como,Daniele Baselli,ITA,MF,33-030,1992,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,defense
+ITA-Serie A,2024,Como,Dele Alli,ENG,MF,29-000,1996,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Como,Edoardo Goldaniga,ITA,DF,31-160,1993,22.1,26,16,16,5,5,11,14,78.6,3,15,7,8,23,49,76,3,defense
+ITA-Serie A,2024,Como,Emil Audero,IDN,GK,28-083,1997,8.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,1,defense
+ITA-Serie A,2024,Como,Federico Barba,ITA,DF,31-222,1993,4.8,2,2,1,1,0,1,4,25.0,3,2,2,0,4,6,15,0,defense
+ITA-Serie A,2024,Como,Fellipe Jack,BRA,DF,19-089,2006,1.9,9,4,8,1,0,3,5,60.0,2,2,2,0,4,13,5,0,defense
+ITA-Serie A,2024,Como,Gabriel Strefezza,BRA,"FW,MF",27-358,1997,24.7,49,36,19,16,14,19,49,38.8,30,23,2,21,12,61,22,0,defense
+ITA-Serie A,2024,Como,Ignace Van Der Brempt,BEL,DF,23-010,2002,11.8,38,30,26,10,2,22,30,73.3,8,11,5,6,12,50,30,0,defense
+ITA-Serie A,2024,Como,Ivan Smolčić,CRO,DF,24-237,2000,6.0,15,9,8,6,1,9,12,75.0,3,8,2,6,9,24,21,0,defense
+ITA-Serie A,2024,Como,Jean Butez,FRA,GK,29-307,1995,13.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,12,1,defense
+ITA-Serie A,2024,Como,Jonathan Ikone,FRA,FW,26-344,1998,2.3,9,6,1,1,7,2,4,50.0,2,4,1,3,0,9,0,1,defense
+ITA-Serie A,2024,Como,Luca Mazzitelli,ITA,MF,29-147,1995,3.7,9,6,4,5,0,5,7,71.4,2,5,2,3,3,12,10,0,defense
+ITA-Serie A,2024,Como,Lucas Da Cunha,FRA,MF,23-306,2001,22.4,32,17,13,12,7,14,28,50.0,14,10,2,8,12,44,22,1,defense
+ITA-Serie A,2024,Como,Marc-Oliver Kempf,GER,DF,30-073,1995,23.1,27,18,12,14,1,11,21,52.4,10,24,17,7,29,56,99,3,defense
+ITA-Serie A,2024,Como,Marco Sala,ITA,DF,25-311,1999,2.9,9,6,5,3,1,5,8,62.5,3,2,0,2,1,10,9,0,defense
+ITA-Serie A,2024,Como,Matthias Braunöder,AUT,MF,23-015,2002,3.0,10,4,6,3,1,7,11,63.6,4,3,0,3,2,12,4,1,defense
+ITA-Serie A,2024,Como,Maxence Caqueret,FRA,MF,25-055,2000,7.5,23,12,13,9,1,11,25,44.0,14,10,1,9,2,25,4,0,defense
+ITA-Serie A,2024,Como,Máximo Perrone,ARG,MF,22-094,2003,15.2,29,20,14,10,5,9,31,29.0,22,11,1,10,14,43,27,0,defense
+ITA-Serie A,2024,Como,Mërgim Vojvoda,KVX,DF,30-069,1995,2.0,0,0,0,0,0,0,0,,0,2,2,0,1,1,6,0,defense
+ITA-Serie A,2024,Como,Nicolás Paz,ARG,"MF,FW",20-215,2004,24.0,41,26,15,20,6,21,43,48.8,22,41,2,39,19,60,12,0,defense
+ITA-Serie A,2024,Como,Oliver Abildgaard,DEN,MF,28-305,1996,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,defense
+ITA-Serie A,2024,Como,Patrick Cutrone,ITA,FW,27-098,1998,20.3,14,10,0,9,5,5,10,50.0,5,11,0,11,3,17,7,0,defense
+ITA-Serie A,2024,Como,Pepe Reina,ESP,GK,42-223,1982,10.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,3,1,defense
+ITA-Serie A,2024,Como,Sergi Roberto,ESP,MF,33-063,1992,7.6,14,8,5,5,4,5,7,71.4,2,7,1,6,9,23,13,0,defense
+ITA-Serie A,2024,Como,Simone Verdi,ITA,"MF,FW",32-273,1992,1.3,2,2,0,1,1,0,2,0.0,2,2,0,2,0,2,2,0,defense
+ITA-Serie A,2024,Como,Yannik Engelhardt,GER,"MF,DF",24-063,2001,12.0,27,10,11,13,3,15,25,60.0,10,10,5,5,10,37,25,0,defense
+ITA-Serie A,2024,Como,Álex Valle,ESP,DF,20-351,2004,7.9,20,10,7,11,2,10,14,71.4,4,9,2,7,5,25,25,0,defense
+ITA-Serie A,2024,Empoli,Alberto Grassi,ITA,MF,30-035,1995,18.9,32,16,11,17,4,11,15,73.3,4,22,12,10,27,59,37,1,defense
+ITA-Serie A,2024,Empoli,Ardian Ismajli,ALB,DF,28-193,1996,22.9,23,19,16,7,0,12,15,80.0,3,29,22,7,46,69,205,3,defense
+ITA-Serie A,2024,Empoli,Christian Kouamé,CIV,"FW,MF",27-126,1997,5.6,5,4,0,3,2,2,4,50.0,2,4,2,2,0,5,4,0,defense
+ITA-Serie A,2024,Empoli,Devis Vásquez,COL,GK,26-334,1998,25.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,18,3,defense
+ITA-Serie A,2024,Empoli,Emmanuel Ekong,SWE,"MF,FW",22-290,2002,2.1,4,3,0,2,2,3,3,100.0,0,2,1,1,1,5,1,0,defense
+ITA-Serie A,2024,Empoli,Emmanuel Gyasi,GHA,"DF,FW",31-090,1994,29.1,51,28,31,14,6,24,34,70.6,10,20,7,13,8,59,70,0,defense
+ITA-Serie A,2024,Empoli,Faustino Anjorin,ENG,MF,23-139,2001,10.9,26,12,7,13,6,8,17,47.1,9,14,3,11,11,37,19,0,defense
+ITA-Serie A,2024,Empoli,Francesco Caputo,ITA,FW,37-248,1987,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Empoli,Giuseppe Pezzella,ITA,"DF,FW",27-133,1997,26.0,48,27,25,16,7,27,52,51.9,25,26,7,19,13,61,91,1,defense
+ITA-Serie A,2024,Empoli,Ismael Konate,CIV,"FW,MF",19-013,2006,0.7,3,1,3,0,0,2,2,100.0,0,2,1,1,0,3,1,0,defense
+ITA-Serie A,2024,Empoli,Jacopo Bacci,ITA,MF,19-296,2005,0.3,1,0,1,0,0,1,1,100.0,0,0,0,0,1,2,1,0,defense
+ITA-Serie A,2024,Empoli,Jacopo Fazzini,ITA,"MF,FW",22-026,2003,8.9,21,11,9,10,2,10,17,58.8,7,8,1,7,5,26,18,0,defense
+ITA-Serie A,2024,Empoli,Jacopo Seghetti,ITA,GK,20-053,2005,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Empoli,Junior Sambia,FRA,"DF,FW",28-216,1996,3.4,10,8,3,3,4,8,8,100.0,0,2,0,2,2,12,4,0,defense
+ITA-Serie A,2024,Empoli,Liam Henderson,SCO,MF,28-351,1996,21.6,37,17,14,21,2,19,47,40.4,28,16,5,11,13,50,38,0,defense
+ITA-Serie A,2024,Empoli,Liberato Cacace,NZL,"DF,MF",24-196,2000,19.4,29,21,17,11,1,17,26,65.4,9,22,7,15,18,47,54,0,defense
+ITA-Serie A,2024,Empoli,Lorenzo Colombo,ITA,"FW,MF",23-034,2002,21.9,24,12,5,12,7,6,20,30.0,14,31,2,29,2,26,14,1,defense
+ITA-Serie A,2024,Empoli,Lorenzo Tosto,ITA,DF,19-072,2006,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Empoli,Luca Marianucci,ITA,DF,20-262,2004,7.4,20,8,13,7,0,8,14,57.1,6,10,4,6,10,30,44,1,defense
+ITA-Serie A,2024,Empoli,Marco Silvestri,ITA,GK,34-040,1991,5.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,3,1,defense
+ITA-Serie A,2024,Empoli,Mattia De Sciglio,ITA,DF,32-173,1992,8.5,18,13,10,8,0,14,17,82.4,3,10,3,7,8,26,35,1,defense
+ITA-Serie A,2024,Empoli,Mattia Viti,ITA,DF,23-077,2002,21.8,52,37,36,14,2,30,43,69.8,13,32,15,17,40,92,95,3,defense
+ITA-Serie A,2024,Empoli,Nicolas Haas,SUI,MF,29-078,1996,3.2,11,8,4,5,2,5,9,55.6,4,2,1,1,4,15,6,0,defense
+ITA-Serie A,2024,Empoli,Ola Solbakken,NOR,"MF,FW",26-216,1998,6.9,5,3,0,5,0,2,4,50.0,2,0,0,0,2,7,8,0,defense
+ITA-Serie A,2024,Empoli,Petar Stojanović,SVN,MF,29-186,1995,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Empoli,Pietro Pellegri,ITA,FW,24-025,2001,4.6,7,2,0,6,1,2,4,50.0,2,2,0,2,0,7,3,0,defense
+ITA-Serie A,2024,Empoli,Saba Goglichidze,GEO,DF,20-290,2004,23.3,59,35,33,24,2,24,45,53.3,21,33,16,17,27,86,84,3,defense
+ITA-Serie A,2024,Empoli,Sebastian Walukiewicz,POL,DF,25-006,2000,2.0,1,0,1,0,0,0,1,0.0,1,3,3,0,1,2,15,0,defense
+ITA-Serie A,2024,Empoli,Sebastiano Esposito,ITA,"MF,FW",22-283,2002,20.3,43,24,12,23,8,13,27,48.1,14,17,2,15,11,54,12,0,defense
+ITA-Serie A,2024,Empoli,Szymon Żurkowski,POL,MF,27-198,1997,1.2,6,4,2,4,0,4,4,100.0,0,3,0,3,1,7,2,0,defense
+ITA-Serie A,2024,Empoli,Thomas Campaniello,ITA,FW,17-041,2008,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Empoli,Tyronne Ebuehi,NGA,DF,29-116,1995,0.3,1,1,0,1,0,0,0,,0,1,0,1,2,3,0,0,defense
+ITA-Serie A,2024,Empoli,Viktor Kovalenko,UKR,"MF,DF",29-056,1996,0.6,2,1,0,2,0,0,1,0.0,1,0,0,0,0,2,0,0,defense
+ITA-Serie A,2024,Empoli,Youssef Maleh,MAR,MF,26-232,1998,16.8,45,23,17,23,5,17,34,50.0,17,25,6,19,16,61,25,0,defense
+ITA-Serie A,2024,Fiorentina,Albert Guðmundsson,ISL,"MF,FW",27-300,1997,10.9,6,2,2,2,2,5,12,41.7,7,5,0,5,6,12,6,1,defense
+ITA-Serie A,2024,Fiorentina,Alessandro Bianco,ITA,MF,22-192,2002,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Fiorentina,Amir Richardson,MAR,MF,23-077,2002,8.1,23,10,11,10,2,8,18,44.4,10,10,1,9,4,27,25,1,defense
+ITA-Serie A,2024,Fiorentina,Andrea Colpani,ITA,"FW,MF",25-335,1999,15.7,15,9,5,7,3,4,12,33.3,8,6,0,6,9,24,10,0,defense
+ITA-Serie A,2024,Fiorentina,Antonín Barák,CZE,MF,30-129,1994,0.6,2,0,0,2,0,0,2,0.0,2,1,1,0,0,2,0,0,defense
+ITA-Serie A,2024,Fiorentina,Cher Ndour,ITA,MF,20-258,2004,2.8,3,0,2,1,0,1,6,16.7,5,4,1,3,2,5,4,1,defense
+ITA-Serie A,2024,Fiorentina,Christian Kouamé,CIV,"FW,MF",27-126,1997,6.9,13,8,4,4,5,0,3,0.0,3,3,1,2,2,15,10,0,defense
+ITA-Serie A,2024,Fiorentina,Cristiano Biraghi,ITA,DF,32-222,1992,4.8,4,4,1,3,0,2,7,28.6,5,2,0,2,4,8,11,0,defense
+ITA-Serie A,2024,Fiorentina,Danilo Cataldi,ITA,MF,30-248,1994,16.2,22,15,10,10,2,11,24,45.8,13,15,8,7,19,41,25,0,defense
+ITA-Serie A,2024,Fiorentina,David de Gea,ESP,GK,34-155,1990,28.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,8,0,defense
+ITA-Serie A,2024,Fiorentina,Dodô,BRA,DF,26-145,1998,29.6,40,27,23,10,7,23,45,51.1,22,21,5,16,32,72,53,2,defense
+ITA-Serie A,2024,Fiorentina,Edoardo Bove,ITA,"MF,FW",22-330,2002,9.5,24,17,7,14,3,14,28,50.0,14,12,0,12,6,30,8,0,defense
+ITA-Serie A,2024,Fiorentina,Fabiano Parisi,ITA,"DF,MF",24-153,2000,9.0,18,11,7,7,4,8,15,53.3,7,11,2,9,12,30,13,0,defense
+ITA-Serie A,2024,Fiorentina,Jonathan Ikone,FRA,"FW,MF",26-344,1998,3.7,5,2,3,2,0,2,4,50.0,2,3,0,3,1,6,1,0,defense
+ITA-Serie A,2024,Fiorentina,Luca Ranieri,ITA,DF,25-353,1999,28.6,30,16,23,6,1,14,18,77.8,4,41,29,12,24,54,122,1,defense
+ITA-Serie A,2024,Fiorentina,Lucas Beltrán,ARG,"MF,FW",24-013,2001,17.7,20,10,8,7,5,6,18,33.3,12,13,2,11,4,24,12,0,defense
+ITA-Serie A,2024,Fiorentina,Lucas Martínez Quarta,ARG,DF,28-336,1996,3.9,12,7,9,3,0,8,13,61.5,5,5,2,3,3,15,25,1,defense
+ITA-Serie A,2024,Fiorentina,Maat Daniel Caprini,ITA,FW,19-059,2006,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Fiorentina,Marin Pongračić,CRO,DF,27-212,1997,10.0,15,11,11,3,1,7,9,77.8,2,11,5,6,8,23,49,1,defense
+ITA-Serie A,2024,Fiorentina,Matias Moreno,ARG,DF,21-199,2003,1.6,8,8,5,3,0,4,4,100.0,0,5,1,4,1,9,9,0,defense
+ITA-Serie A,2024,Fiorentina,Michael Folorunsho,ITA,"FW,MF",27-063,1998,5.9,16,11,7,5,4,8,18,44.4,10,7,1,6,3,19,8,0,defense
+ITA-Serie A,2024,Fiorentina,Michael Kayode,ITA,"DF,FW",20-275,2004,1.4,1,1,1,0,0,0,0,,0,3,1,2,2,3,7,0,defense
+ITA-Serie A,2024,Fiorentina,Moise Kean,ITA,FW,25-042,2000,26.0,7,5,1,2,4,3,4,75.0,1,12,0,12,4,11,24,1,defense
+ITA-Serie A,2024,Fiorentina,Nicolò Fagioli,ITA,MF,24-058,2001,5.6,12,7,6,5,1,6,14,42.9,8,2,1,1,3,15,8,2,defense
+ITA-Serie A,2024,Fiorentina,Nicolò Zaniolo,ITA,FW,25-283,1999,2.9,2,1,1,1,0,0,2,0.0,2,2,1,1,0,2,1,0,defense
+ITA-Serie A,2024,Fiorentina,Pablo Marí,ESP,DF,31-223,1993,5.2,5,2,4,1,0,2,4,50.0,2,10,6,4,9,14,35,0,defense
+ITA-Serie A,2024,Fiorentina,Pietro Comuzzo,ITA,DF,20-050,2005,21.6,36,17,22,11,3,18,24,75.0,6,29,18,11,25,61,95,4,defense
+ITA-Serie A,2024,Fiorentina,Pietro Terracciano,ITA,GK,35-034,1990,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Fiorentina,Riccardo Sottil,ITA,"FW,MF",25-312,1999,9.3,5,4,3,1,1,3,4,75.0,1,1,0,1,4,9,3,0,defense
+ITA-Serie A,2024,Fiorentina,Robin Gosens,GER,DF,30-280,1994,22.9,49,29,27,14,8,23,40,57.5,17,27,7,20,15,64,75,0,defense
+ITA-Serie A,2024,Fiorentina,Rolando Mandragora,ITA,MF,27-286,1997,14.8,17,9,8,8,1,10,25,40.0,15,19,6,13,13,30,44,1,defense
+ITA-Serie A,2024,Fiorentina,Sofyan Amrabat,MAR,MF,28-233,1996,2.0,3,2,1,2,0,2,2,100.0,0,1,1,0,0,3,2,0,defense
+ITA-Serie A,2024,Fiorentina,Tommaso Rubino,ITA,MF,18-152,2006,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Fiorentina,Yacine Adli,FRA,MF,24-256,2000,12.5,31,18,11,15,5,17,38,44.7,21,11,1,10,6,37,18,0,defense
+ITA-Serie A,2024,Genoa,Aarón Martín,ESP,DF,27-354,1997,28.2,62,40,35,23,4,27,42,64.3,15,30,9,21,16,78,61,1,defense
+ITA-Serie A,2024,Genoa,Alan Matturro,URU,DF,20-182,2004,10.0,11,6,6,5,0,3,14,21.4,11,10,3,7,14,25,38,0,defense
+ITA-Serie A,2024,Genoa,Alessandro Marcandalli,ITA,DF,22-198,2002,0.5,1,0,1,0,0,0,0,,0,0,0,0,0,1,2,0,defense
+ITA-Serie A,2024,Genoa,Alessandro Vogliacco,ITA,DF,26-209,1998,7.9,15,3,7,7,1,10,12,83.3,2,11,7,4,9,24,20,0,defense
+ITA-Serie A,2024,Genoa,Alessandro Zanoli,ITA,"FW,DF",24-190,2000,17.3,26,18,11,12,3,9,20,45.0,11,16,2,14,11,37,39,0,defense
+ITA-Serie A,2024,Genoa,Andrea Pinamonti,ITA,FW,25-327,1999,26.8,9,5,0,7,2,1,6,16.7,5,14,4,10,1,10,23,2,defense
+ITA-Serie A,2024,Genoa,Brooke Norton-Cuffy,ENG,"DF,MF",21-089,2004,2.3,5,3,3,2,0,3,4,75.0,1,3,0,3,2,7,1,0,defense
+ITA-Serie A,2024,Genoa,Caleb Ekuban,GHA,FW,31-019,1994,5.4,3,3,1,1,1,1,1,100.0,0,3,0,3,1,4,4,0,defense
+ITA-Serie A,2024,Genoa,David Akpan Ankeye,NGA,"FW,MF",23-056,2002,0.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,defense
+ITA-Serie A,2024,Genoa,Emil Bohinen,NOR,MF,26-030,1999,1.8,4,4,3,0,1,2,5,40.0,3,2,0,2,1,5,6,0,defense
+ITA-Serie A,2024,Genoa,Fabio Miretti,ITA,"MF,FW",21-251,2003,17.8,28,15,6,14,8,18,33,54.5,15,19,1,18,7,35,12,2,defense
+ITA-Serie A,2024,Genoa,Federico Accornero,ITA,MF,21-065,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Genoa,Filippo Melegoni,ITA,"MF,FW",26-052,1999,1.0,1,1,1,0,0,0,4,0.0,4,0,0,0,0,1,2,0,defense
+ITA-Serie A,2024,Genoa,Gastón Pereiro,URU,MF,29-304,1995,0.3,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,1,0,defense
+ITA-Serie A,2024,Genoa,Honest Ahanor,ITA,DF,17-047,2008,0.9,2,1,0,2,0,2,4,50.0,2,0,0,0,0,2,2,0,defense
+ITA-Serie A,2024,Genoa,Jean Onana,CMR,MF,25-093,2000,1.8,7,4,2,5,0,3,6,50.0,3,2,0,2,2,9,4,1,defense
+ITA-Serie A,2024,Genoa,Jeff Ekhator,ITA,"FW,MF",18-151,2006,7.3,5,3,2,1,2,3,6,50.0,3,9,1,8,1,6,5,0,defense
+ITA-Serie A,2024,Genoa,Johan Vásquez,MEX,DF,26-171,1998,28.4,44,25,17,23,4,18,32,56.3,14,54,26,28,39,83,131,1,defense
+ITA-Serie A,2024,Genoa,Junior Messias,BRA,"MF,FW",33-333,1991,6.0,8,5,4,4,0,2,7,28.6,5,2,1,1,5,13,10,0,defense
+ITA-Serie A,2024,Genoa,Koni De Winter,BEL,DF,22-303,2002,18.1,26,16,16,7,3,14,20,70.0,6,6,4,2,16,42,87,2,defense
+ITA-Serie A,2024,Genoa,Lior Kasa,ISR,"MF,FW",19-196,2005,1.8,4,4,2,2,0,2,5,40.0,3,4,1,3,2,6,2,0,defense
+ITA-Serie A,2024,Genoa,Lorenzo Venturino,ITA,"FW,MF",18-293,2006,0.7,2,1,1,0,1,1,2,50.0,1,1,0,1,0,2,1,0,defense
+ITA-Serie A,2024,Genoa,Mario Balotelli,ITA,"FW,MF",34-242,1990,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,defense
+ITA-Serie A,2024,Genoa,Mattia Bani,ITA,DF,31-122,1993,14.8,18,9,11,5,2,7,11,63.6,4,9,5,4,19,37,77,2,defense
+ITA-Serie A,2024,Genoa,Maxwel Cornet,CIV,"FW,MF",28-196,1996,2.6,2,1,1,0,1,0,1,0.0,1,1,1,0,2,4,1,0,defense
+ITA-Serie A,2024,Genoa,Milan Badelj,CRO,MF,36-045,1989,14.9,25,12,14,6,5,13,33,39.4,20,18,6,12,18,43,41,0,defense
+ITA-Serie A,2024,Genoa,Morten Frendrup,DEN,MF,24-004,2001,29.5,97,58,22,48,27,32,70,45.7,38,52,15,37,40,137,51,0,defense
+ITA-Serie A,2024,Genoa,Morten Thorsby,NOR,MF,28-341,1996,18.1,40,29,17,15,8,13,24,54.2,11,19,1,18,5,45,23,0,defense
+ITA-Serie A,2024,Genoa,Nicola Leali,ITA,GK,32-053,1993,24.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,12,1,defense
+ITA-Serie A,2024,Genoa,Patrizio Masini,ITA,MF,24-074,2001,10.2,37,21,15,16,6,11,22,50.0,11,14,4,10,10,47,25,0,defense
+ITA-Serie A,2024,Genoa,Pierluigi Gollini,ITA,GK,30-024,1995,7.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,2,1,defense
+ITA-Serie A,2024,Genoa,Ruslan Malinovskyi,UKR,"MF,FW",31-342,1993,4.3,12,8,4,7,1,3,6,50.0,3,2,0,2,1,13,4,0,defense
+ITA-Serie A,2024,Genoa,Stefano Sabelli,ITA,DF,32-088,1993,19.3,52,29,24,24,4,19,46,41.3,27,27,7,20,20,72,55,0,defense
+ITA-Serie A,2024,Genoa,Vitinha,POR,"FW,MF",25-027,2000,10.5,15,5,6,4,5,8,23,34.8,15,11,1,10,11,26,15,0,defense
+ITA-Serie A,2024,Hellas Verona,Abdou Harroui,NED,"MF,FW",27-088,1998,5.1,9,6,6,3,0,4,4,100.0,0,5,0,5,2,11,5,0,defense
+ITA-Serie A,2024,Hellas Verona,Alphadjo Cissè,ITA,"FW,MF",18-171,2006,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Hellas Verona,Amin Sarr,SWE,FW,24-031,2001,15.5,18,11,3,7,8,5,8,62.5,3,12,3,9,2,20,11,0,defense
+ITA-Serie A,2024,Hellas Verona,Antoine Bernede,FRA,MF,25-320,1999,3.4,8,4,3,4,1,6,8,75.0,2,4,1,3,4,12,2,0,defense
+ITA-Serie A,2024,Hellas Verona,Casper Tengstedt,DEN,"FW,MF",24-314,2000,15.4,7,5,0,5,2,4,8,50.0,4,5,1,4,3,10,27,0,defense
+ITA-Serie A,2024,Hellas Verona,Cheikh Tidiane Niasse,SEN,MF,25-082,2000,6.4,13,10,4,9,0,7,12,58.3,5,14,4,10,16,29,16,2,defense
+ITA-Serie A,2024,Hellas Verona,Dailon Livramento,CPV,"FW,MF",23-342,2001,9.1,12,8,1,5,6,6,12,50.0,6,9,2,7,2,14,7,0,defense
+ITA-Serie A,2024,Hellas Verona,Daniel Bandeira,POR,MF,25-000,2000,4.5,4,0,1,3,0,3,6,50.0,3,2,1,1,6,10,8,0,defense
+ITA-Serie A,2024,Hellas Verona,Daniel Mosquera,COL,FW,25-173,1999,11.7,9,6,3,3,3,0,8,0.0,8,7,1,6,1,10,7,0,defense
+ITA-Serie A,2024,Hellas Verona,Daniel Oyegoke,ENG,DF,22-098,2003,1.1,2,2,1,0,1,1,1,100.0,0,1,0,1,1,3,7,0,defense
+ITA-Serie A,2024,Hellas Verona,Daniele Ghilardi,ITA,DF,22-095,2003,16.6,30,18,21,9,0,18,33,54.5,15,20,12,8,19,49,77,0,defense
+ITA-Serie A,2024,Hellas Verona,Darko Lazović,SRB,"DF,FW",34-208,1990,15.5,19,9,5,12,2,10,26,38.5,16,19,3,16,11,30,39,0,defense
+ITA-Serie A,2024,Hellas Verona,Davide Faraoni,ITA,DF,33-168,1991,2.9,10,9,5,5,0,3,9,33.3,6,7,3,4,2,12,12,1,defense
+ITA-Serie A,2024,Hellas Verona,Diego Coppola,ITA,DF,21-104,2003,26.5,59,32,41,14,4,23,34,67.6,11,40,24,16,59,118,146,1,defense
+ITA-Serie A,2024,Hellas Verona,Domagoj Bradarić,CRO,DF,25-122,1999,16.1,26,19,16,7,3,13,22,59.1,9,16,4,12,12,38,41,1,defense
+ITA-Serie A,2024,Hellas Verona,Faride Alidou,GER,"FW,MF",23-267,2001,0.8,0,0,0,0,0,0,0,,0,1,0,1,1,1,3,1,defense
+ITA-Serie A,2024,Hellas Verona,Flavius Daniliuc,AUT,DF,23-349,2001,10.0,23,18,13,7,3,13,22,59.1,9,8,2,6,7,30,25,0,defense
+ITA-Serie A,2024,Hellas Verona,Giangiacomo Magnani,ITA,DF,29-189,1995,11.8,20,15,14,6,0,7,7,100.0,0,16,9,7,17,37,73,1,defense
+ITA-Serie A,2024,Hellas Verona,Grigoris Kastanos,CYP,"MF,FW",27-071,1998,9.0,23,16,8,7,8,9,21,42.9,12,16,2,14,7,30,5,0,defense
+ITA-Serie A,2024,Hellas Verona,Jackson Tchatchoua,CMR,"DF,MF",23-209,2001,28.2,45,28,32,10,3,27,39,69.2,12,19,8,11,11,56,60,2,defense
+ITA-Serie A,2024,Hellas Verona,Junior Ajayi,CIV,FW,20-182,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Hellas Verona,Lorenzo Montipò,ITA,GK,29-050,1996,30.0,1,0,1,0,0,1,4,25.0,3,0,0,0,0,1,18,4,defense
+ITA-Serie A,2024,Hellas Verona,Martin Frese,DEN,DF,27-097,1998,3.7,13,7,6,7,0,5,8,62.5,3,2,1,1,6,19,14,1,defense
+ITA-Serie A,2024,Hellas Verona,Mathis Lambourde,FRA,"FW,MF",19-092,2006,0.6,3,1,2,1,0,1,3,33.3,2,2,0,2,0,3,1,0,defense
+ITA-Serie A,2024,Hellas Verona,Nicolás Valentini,ARG,DF,24-005,2001,6.0,20,14,12,7,1,12,16,75.0,4,9,5,4,8,28,43,0,defense
+ITA-Serie A,2024,Hellas Verona,Ondrej Duda,SVK,MF,30-127,1994,20.9,36,20,15,18,3,26,55,47.3,29,20,6,14,27,63,25,4,defense
+ITA-Serie A,2024,Hellas Verona,Paweł Dawidowicz,POL,"DF,MF",29-326,1995,17.0,39,20,18,19,2,17,26,65.4,9,15,5,10,19,58,60,2,defense
+ITA-Serie A,2024,Hellas Verona,Reda Belahyane,MAR,MF,20-314,2004,18.4,36,26,16,13,7,13,17,76.5,4,20,9,11,10,46,22,1,defense
+ITA-Serie A,2024,Hellas Verona,Simone Perilli,ITA,GK,30-094,1995,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,defense
+ITA-Serie A,2024,Hellas Verona,Suat Serdar,GER,MF,28-000,1997,10.7,20,13,7,13,0,4,17,23.5,13,12,3,9,6,26,13,0,defense
+ITA-Serie A,2024,Hellas Verona,Tomáš Suslov,SVK,"MF,FW",22-308,2002,20.5,52,36,21,24,7,21,65,32.3,44,26,2,24,18,70,12,1,defense
+ITA-Serie A,2024,Hellas Verona,Yllan Okou,FRA,DF,22-109,2002,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,defense
+ITA-Serie A,2024,Inter,Alessandro Bastoni,ITA,DF,25-363,1999,23.9,38,18,19,14,5,16,25,64.0,9,22,10,12,21,59,47,1,defense
+ITA-Serie A,2024,Inter,Benjamin Pavard,FRA,DF,29-014,1996,16.4,28,16,11,12,5,17,24,70.8,7,15,11,4,15,43,42,0,defense
+ITA-Serie A,2024,Inter,Carlos Augusto,BRA,"DF,FW",26-094,1999,13.0,22,10,10,8,4,9,14,64.3,5,13,5,8,6,28,29,0,defense
+ITA-Serie A,2024,Inter,Davide Frattesi,ITA,MF,25-171,1999,10.4,14,7,5,8,1,9,16,56.3,7,10,3,7,4,18,7,1,defense
+ITA-Serie A,2024,Inter,Denzel Dumfries,NED,"DF,FW",28-358,1996,19.6,25,18,12,9,4,14,24,58.3,10,25,5,20,6,31,21,1,defense
+ITA-Serie A,2024,Inter,Federico Dimarco,ITA,"DF,FW",27-152,1997,20.4,20,11,8,9,3,7,15,46.7,8,20,2,18,12,32,26,2,defense
+ITA-Serie A,2024,Inter,Francesco Acerbi,ITA,DF,37-060,1988,15.4,19,16,12,7,0,8,12,66.7,4,18,13,5,24,43,67,0,defense
+ITA-Serie A,2024,Inter,Hakan Çalhanoğlu,TUR,MF,31-062,1994,16.7,32,16,5,17,10,15,28,53.6,13,11,6,5,14,46,16,0,defense
+ITA-Serie A,2024,Inter,Henrikh Mkhitaryan,ARM,MF,36-080,1989,24.7,36,22,15,13,8,18,43,41.9,25,29,5,24,17,53,38,0,defense
+ITA-Serie A,2024,Inter,Joaquín Correa,ARG,"FW,MF",30-241,1994,3.5,5,1,2,3,0,1,6,16.7,5,2,0,2,0,5,2,0,defense
+ITA-Serie A,2024,Inter,Josep Martinez,ESP,GK,26-319,1998,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Inter,Kristjan Asllani,ALB,MF,23-033,2002,7.9,10,2,5,4,1,4,16,25.0,12,7,1,6,7,17,12,1,defense
+ITA-Serie A,2024,Inter,Lautaro Martínez,ARG,FW,27-232,1997,25.8,28,15,10,10,8,13,23,56.5,10,17,2,15,9,37,14,0,defense
+ITA-Serie A,2024,Inter,Marcus Thuram,FRA,FW,27-248,1997,24.2,17,10,6,5,6,3,14,21.4,11,15,3,12,3,20,14,0,defense
+ITA-Serie A,2024,Inter,Marko Arnautović,AUT,FW,35-357,1989,3.4,7,6,1,3,3,3,5,60.0,2,0,0,0,1,8,1,0,defense
+ITA-Serie A,2024,Inter,Matteo Darmian,ITA,DF,35-130,1989,14.8,23,13,10,10,3,13,23,56.5,10,12,5,7,3,26,28,0,defense
+ITA-Serie A,2024,Inter,Mehdi Taremi,IRN,FW,32-267,1992,6.3,3,1,0,1,2,0,2,0.0,2,8,1,7,0,3,10,0,defense
+ITA-Serie A,2024,Inter,Nicola Zalewski,POL,DF,23-078,2002,1.3,2,1,2,0,0,2,3,66.7,1,1,0,1,0,2,2,0,defense
+ITA-Serie A,2024,Inter,Nicolò Barella,ITA,MF,28-063,1997,23.2,41,26,14,17,10,21,50,42.0,29,23,3,20,10,51,12,1,defense
+ITA-Serie A,2024,Inter,Piotr Zieliński,POL,MF,30-326,1994,9.3,12,8,4,7,1,6,12,50.0,6,9,4,5,6,18,11,1,defense
+ITA-Serie A,2024,Inter,Stefan de Vrij,NED,DF,33-065,1992,15.2,16,10,11,4,1,8,11,72.7,3,16,9,7,19,35,58,0,defense
+ITA-Serie A,2024,Inter,Tajon Buchanan,CAN,"DF,FW",26-062,1999,1.1,3,0,2,0,1,1,2,50.0,1,0,0,0,0,3,3,0,defense
+ITA-Serie A,2024,Inter,Tomás Palacios,ARG,DF,21-348,2003,0.1,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,defense
+ITA-Serie A,2024,Inter,Yann Aurel Bisseck,GER,DF,24-133,2000,13.5,14,10,8,4,2,10,13,76.9,3,15,7,8,13,27,50,1,defense
+ITA-Serie A,2024,Inter,Yann Sommer,SUI,GK,36-115,1988,28.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,1,defense
+ITA-Serie A,2024,Juventus,Alberto costa,POR,DF,21-194,2003,1.1,6,4,5,1,0,2,2,100.0,0,4,0,4,0,6,2,0,defense
+ITA-Serie A,2024,Juventus,Andrea Cambiaso,ITA,"DF,FW",25-050,2000,20.4,38,23,23,9,6,24,39,61.5,15,20,3,17,14,52,27,4,defense
+ITA-Serie A,2024,Juventus,Danilo,BRA,DF,33-270,1991,6.5,10,4,7,2,1,5,10,50.0,5,4,3,1,9,19,21,1,defense
+ITA-Serie A,2024,Juventus,Diego Pugno,ITA,FW,18-278,2006,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Juventus,Douglas Luiz,BRA,MF,26-337,1998,5.4,12,8,7,4,1,6,9,66.7,3,4,1,3,2,14,4,0,defense
+ITA-Serie A,2024,Juventus,Dušan Vlahović,SRB,FW,25-073,2000,18.2,2,1,0,1,1,1,5,20.0,4,7,3,4,1,3,8,3,defense
+ITA-Serie A,2024,Juventus,Federico Gatti,ITA,DF,26-291,1998,24.3,28,23,18,8,2,14,24,58.3,10,27,18,9,18,46,73,2,defense
+ITA-Serie A,2024,Juventus,Francisco Conceição,POR,"FW,MF",22-118,2002,11.7,16,8,4,7,5,8,24,33.3,16,6,0,6,4,20,4,0,defense
+ITA-Serie A,2024,Juventus,Gleison Bremer,BRA,DF,28-024,1997,6.0,15,7,9,5,1,4,5,80.0,1,15,11,4,6,21,16,0,defense
+ITA-Serie A,2024,Juventus,Jonas Rouhi,SWE,DF,21-094,2004,2.3,4,1,1,3,0,0,1,0.0,1,2,0,2,3,7,2,0,defense
+ITA-Serie A,2024,Juventus,Juan David Cabal,COL,DF,24-093,2001,5.1,10,4,7,3,0,8,12,66.7,4,2,0,2,2,12,14,1,defense
+ITA-Serie A,2024,Juventus,Kenan Yıldız,TUR,"FW,MF",19-342,2005,22.8,51,28,11,25,15,16,25,64.0,9,24,0,24,5,56,11,3,defense
+ITA-Serie A,2024,Juventus,Khéphren Thuram,FRA,MF,24-016,2001,20.2,31,14,9,19,3,16,27,59.3,11,25,8,17,9,40,32,0,defense
+ITA-Serie A,2024,Juventus,Lloyd Kelly,ENG,DF,26-187,1998,6.3,9,7,3,5,1,7,8,87.5,1,7,5,2,1,10,21,2,defense
+ITA-Serie A,2024,Juventus,Lorenzo Anghelè,ITA,FW,20-044,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Juventus,Manuel Locatelli,ITA,MF,27-093,1998,24.6,51,33,21,26,4,19,35,54.3,16,44,13,31,21,72,55,0,defense
+ITA-Serie A,2024,Juventus,Mattia Perin,ITA,GK,32-152,1992,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,defense
+ITA-Serie A,2024,Juventus,Michele Di Gregorio,ITA,GK,27-258,1997,26.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,9,0,defense
+ITA-Serie A,2024,Juventus,Nicolás González,ARG,"FW,MF",27-005,1998,13.6,20,11,8,8,4,8,19,42.1,11,14,4,10,7,27,19,1,defense
+ITA-Serie A,2024,Juventus,Nicolò Fagioli,ITA,MF,24-058,2001,6.3,14,10,7,6,1,6,9,66.7,3,4,0,4,2,16,5,0,defense
+ITA-Serie A,2024,Juventus,Nicolò Savona,ITA,DF,22-023,2003,15.8,27,13,18,8,1,13,24,54.2,11,7,1,6,7,34,22,0,defense
+ITA-Serie A,2024,Juventus,Pierre Kalulu,FRA,DF,24-310,2000,21.3,35,21,25,8,2,18,23,78.3,5,24,15,9,15,50,56,1,defense
+ITA-Serie A,2024,Juventus,Randal Kolo Muani,FRA,FW,26-127,1998,7.2,6,3,1,3,2,1,2,50.0,1,3,0,3,0,6,2,0,defense
+ITA-Serie A,2024,Juventus,Renato Veiga,POR,DF,21-256,2003,5.6,9,8,4,5,0,3,7,42.9,4,7,5,2,9,18,29,0,defense
+ITA-Serie A,2024,Juventus,Samuel Mbangula,BEL,FW,21-085,2004,7.8,15,10,7,6,2,7,13,53.8,6,7,0,7,3,18,3,0,defense
+ITA-Serie A,2024,Juventus,Teun Koopmeiners,NED,"MF,FW",27-042,1998,21.4,32,16,6,19,7,10,30,33.3,20,34,14,20,8,40,26,2,defense
+ITA-Serie A,2024,Juventus,Timothy Weah,USA,"FW,DF",25-048,2000,15.2,29,17,11,12,6,11,18,61.1,7,22,4,18,11,40,20,1,defense
+ITA-Serie A,2024,Juventus,Vasilije Adžić,MNE,"MF,FW",18-334,2006,0.3,2,2,0,1,1,0,1,0.0,1,0,0,0,0,2,0,0,defense
+ITA-Serie A,2024,Juventus,Weston McKennie,USA,"MF,DF",26-226,1998,20.3,26,10,13,10,3,12,21,57.1,9,23,6,17,12,38,27,0,defense
+ITA-Serie A,2024,Lazio,Adam Marušić,MNE,DF,32-176,1992,20.3,27,17,15,10,2,14,26,53.8,12,13,6,7,14,41,49,0,defense
+ITA-Serie A,2024,Lazio,Alessio Romagnoli,ITA,DF,30-089,1995,22.7,36,21,16,18,2,18,23,78.3,5,25,12,13,22,58,90,1,defense
+ITA-Serie A,2024,Lazio,Arijon Ibrahimović,GER,MF,19-121,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Lazio,Boulaye Dia,SEN,"MF,FW",28-146,1996,19.6,20,8,5,10,5,6,15,40.0,9,9,1,8,5,25,13,1,defense
+ITA-Serie A,2024,Lazio,Christos Mandas,GRE,GK,23-206,2001,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0,defense
+ITA-Serie A,2024,Lazio,Elseid Hysaj,ALB,DF,31-050,1994,3.1,7,5,4,3,0,3,3,100.0,0,2,2,0,4,11,13,0,defense
+ITA-Serie A,2024,Lazio,Fisayo Dele-Bashiru,NGA,"MF,FW",24-064,2001,9.1,9,5,3,2,4,2,6,33.3,4,9,1,8,4,13,5,0,defense
+ITA-Serie A,2024,Lazio,Gaetano Castrovilli,ITA,"MF,FW",28-053,1997,1.6,5,2,3,1,1,2,4,50.0,2,3,0,3,3,8,1,0,defense
+ITA-Serie A,2024,Lazio,Gustav Isaksen,DEN,FW,23-357,2001,20.8,14,8,6,7,1,5,25,20.0,20,17,2,15,8,22,15,0,defense
+ITA-Serie A,2024,Lazio,Ivan Provedel,ITA,GK,31-025,1994,29.0,0,0,0,0,0,0,0,,0,1,0,1,1,1,12,3,defense
+ITA-Serie A,2024,Lazio,Loum Tchaouna,FRA,"FW,MF",21-215,2003,7.1,8,4,2,2,4,3,9,33.3,6,5,1,4,4,12,12,2,defense
+ITA-Serie A,2024,Lazio,Luca Pellegrini,ITA,DF,26-035,1999,6.9,16,8,8,7,1,11,18,61.1,7,8,2,6,14,30,18,0,defense
+ITA-Serie A,2024,Lazio,Manuel Lazzari,ITA,DF,31-133,1993,14.8,25,15,12,11,2,13,23,56.5,10,8,5,3,9,34,18,0,defense
+ITA-Serie A,2024,Lazio,Mario Gila,ESP,DF,24-225,2000,25.2,46,33,29,15,2,32,45,71.1,13,19,13,6,23,69,96,3,defense
+ITA-Serie A,2024,Lazio,Mattia Zaccagni,ITA,FW,29-299,1995,24.6,31,24,11,16,4,13,26,50.0,13,14,1,13,23,54,16,2,defense
+ITA-Serie A,2024,Lazio,Mattéo Guendouzi,FRA,MF,25-362,1999,29.3,29,15,9,15,5,15,36,41.7,21,30,9,21,27,56,41,1,defense
+ITA-Serie A,2024,Lazio,Matías Vecino,URU,MF,33-230,1991,7.5,12,6,3,8,1,4,17,23.5,13,7,3,4,5,17,9,0,defense
+ITA-Serie A,2024,Lazio,Nicolò Casale,ITA,DF,27-056,1998,1.5,5,3,4,1,0,0,0,,0,4,3,1,1,6,2,0,defense
+ITA-Serie A,2024,Lazio,Nicolò Rovella,ITA,MF,23-128,2001,24.3,67,38,29,31,7,30,61,49.2,31,17,4,13,41,108,37,3,defense
+ITA-Serie A,2024,Lazio,Nuno Tavares,POR,DF,25-075,2000,17.2,28,21,15,8,5,14,32,43.8,18,18,2,16,19,47,39,1,defense
+ITA-Serie A,2024,Lazio,Oliver Nielsen,DEN,DF,21-311,2003,0.3,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,defense
+ITA-Serie A,2024,Lazio,Patric,ESP,DF,31-359,1993,6.7,9,6,6,3,0,6,10,60.0,4,3,2,1,3,12,22,1,defense
+ITA-Serie A,2024,Lazio,Pedro,ESP,"FW,MF",37-257,1987,9.6,17,12,4,8,5,9,19,47.4,10,7,0,7,3,20,3,1,defense
+ITA-Serie A,2024,Lazio,Reda Belahyane,MAR,MF,20-314,2004,2.0,7,5,7,0,0,5,5,100.0,0,3,2,1,1,8,4,0,defense
+ITA-Serie A,2024,Lazio,Samuel Gigot,FRA,DF,31-181,1993,5.6,3,2,1,2,0,0,1,0.0,1,6,4,2,12,15,28,0,defense
+ITA-Serie A,2024,Lazio,Tijjani Noslin,NED,"FW,MF",25-278,1999,9.0,6,5,2,1,3,1,8,12.5,7,15,1,14,1,7,7,0,defense
+ITA-Serie A,2024,Lazio,Valentín Castellanos,ARG,FW,26-190,1998,19.7,9,4,1,3,5,1,9,11.1,8,15,2,13,5,14,19,0,defense
+ITA-Serie A,2024,Lecce,Andy Pelmard,FRA,DF,25-030,2000,1.4,6,6,5,1,0,4,4,100.0,0,1,0,1,0,6,5,0,defense
+ITA-Serie A,2024,Lecce,Ante Rebić,CRO,"FW,MF",31-202,1993,6.7,10,8,5,3,2,2,7,28.6,5,5,1,4,1,11,3,0,defense
+ITA-Serie A,2024,Lecce,Antonino Gallo,ITA,DF,25-096,2000,22.5,56,37,37,15,4,26,49,53.1,23,24,3,21,17,73,91,0,defense
+ITA-Serie A,2024,Lecce,Balthazar Pierret,FRA,MF,24-331,2000,14.9,41,25,20,18,3,8,24,33.3,16,17,4,13,16,57,31,1,defense
+ITA-Serie A,2024,Lecce,Danilo Veiga,POR,"DF,FW",22-198,2002,1.1,3,3,2,1,0,2,5,40.0,3,1,0,1,2,5,2,0,defense
+ITA-Serie A,2024,Lecce,Federico Baschirotto,ITA,DF,28-203,1996,31.0,33,21,26,5,2,18,24,75.0,6,39,28,11,20,53,175,1,defense
+ITA-Serie A,2024,Lecce,Filip Marchwiński,POL,MF,23-091,2002,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Lecce,Frederic Guilbert,FRA,DF,30-108,1994,22.9,61,33,26,29,6,32,50,64.0,18,22,8,14,40,101,95,3,defense
+ITA-Serie A,2024,Lecce,Gaby Jean,FRA,DF,25-051,2000,15.3,14,7,8,5,1,6,11,54.5,5,13,10,3,9,23,70,0,defense
+ITA-Serie A,2024,Lecce,Hamza Rafia,TUN,MF,26-009,1999,11.8,44,27,14,25,5,15,32,46.9,17,7,2,5,4,48,18,1,defense
+ITA-Serie A,2024,Lecce,Jesper Karlsson,SWE,FW,26-260,1998,3.6,2,1,2,0,0,2,6,33.3,4,1,0,1,0,2,1,0,defense
+ITA-Serie A,2024,Lecce,Kevin Bonifazi,ITA,DF,28-327,1996,0.7,1,1,1,0,0,1,1,100.0,0,1,1,0,2,3,3,0,defense
+ITA-Serie A,2024,Lecce,Kialonda,ANG,DF,27-196,1997,17.0,29,10,20,9,0,10,12,83.3,2,35,23,12,19,48,83,1,defense
+ITA-Serie A,2024,Lecce,Konan N'dri,CIV,FW,24-166,2000,1.4,1,1,0,0,1,1,2,50.0,1,2,0,2,0,1,0,0,defense
+ITA-Serie A,2024,Lecce,Lameck Banda,ZAM,"FW,MF",24-072,2001,6.1,8,5,4,2,2,3,11,27.3,8,6,0,6,2,10,6,0,defense
+ITA-Serie A,2024,Lecce,Lassana Coulibaly,MLI,MF,29-001,1996,23.1,37,22,15,20,2,19,50,38.0,31,39,11,28,16,53,35,0,defense
+ITA-Serie A,2024,Lecce,Marco Sala,ITA,DF,25-311,1999,0.3,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0,defense
+ITA-Serie A,2024,Lecce,Medon Berisha,ALB,MF,21-172,2003,6.2,10,6,7,2,1,3,7,42.9,4,4,0,4,9,19,4,2,defense
+ITA-Serie A,2024,Lecce,Mohamed Kaba,FRA,MF,23-166,2001,2.8,12,7,6,5,1,7,8,87.5,1,5,1,4,2,14,7,1,defense
+ITA-Serie A,2024,Lecce,Nicola Sansone,ITA,"MF,FW",33-213,1991,0.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Lecce,Nikola Krstović,MNE,FW,25-006,2000,28.9,15,7,4,5,6,5,12,41.7,7,10,6,4,7,22,21,0,defense
+ITA-Serie A,2024,Lecce,Patrick Dorgu,DEN,"DF,FW",20-167,2004,20.4,45,27,21,19,5,23,45,51.1,22,24,6,18,18,63,42,2,defense
+ITA-Serie A,2024,Lecce,Rareș-Cătălin Burnete,ROU,FW,21-070,2004,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Lecce,Remi Oudin,FRA,"MF,FW",28-144,1996,3.3,3,1,1,1,1,2,4,50.0,2,6,2,4,2,5,1,0,defense
+ITA-Serie A,2024,Lecce,Santiago Pierotti,ARG,FW,24-008,2001,17.2,35,21,15,16,4,17,39,43.6,22,20,5,15,12,47,25,0,defense
+ITA-Serie A,2024,Lecce,Tete Morente,ESP,FW,28-128,1996,18.6,22,13,8,9,5,8,31,25.8,23,15,1,14,12,34,28,1,defense
+ITA-Serie A,2024,Lecce,Valentin Gendrey,FRA,DF,24-294,2000,2.0,2,2,1,0,1,1,1,100.0,0,3,1,2,2,4,1,0,defense
+ITA-Serie A,2024,Lecce,Wladimiro Falcone,ITA,GK,29-364,1995,31.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,26,3,defense
+ITA-Serie A,2024,Lecce,Ylber Ramadani,ALB,MF,28-364,1996,17.8,48,26,22,26,0,32,48,66.7,16,26,9,17,22,70,23,3,defense
+ITA-Serie A,2024,Lecce,Þórir Jóhann Helgason,ISL,MF,24-195,2000,9.5,8,5,1,6,1,5,8,62.5,3,6,2,4,4,12,6,1,defense
+ITA-Serie A,2024,Milan,Alejandro Jiménez,ESP,"DF,FW",19-338,2005,9.1,17,9,6,10,1,7,15,46.7,8,17,2,15,9,26,18,0,defense
+ITA-Serie A,2024,Milan,Alexis Saelemaekers,BEL,"DF,FW",25-288,1999,1.0,1,1,0,0,1,1,1,100.0,0,0,0,0,1,2,0,0,defense
+ITA-Serie A,2024,Milan,Bob Murphy Omoregbe,ITA,MF,21-157,2003,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Milan,Christian Pulisic,USA,"FW,MF",26-205,1998,20.9,33,21,10,11,12,12,29,41.4,17,19,1,18,3,36,11,1,defense
+ITA-Serie A,2024,Milan,Davide Bartesaghi,ITA,DF,19-103,2005,0.6,2,1,1,1,0,2,2,100.0,0,1,1,0,1,3,0,0,defense
+ITA-Serie A,2024,Milan,Davide Calabria,ITA,DF,28-126,1996,3.5,10,7,10,0,0,4,7,57.1,3,1,0,1,8,18,8,0,defense
+ITA-Serie A,2024,Milan,Emerson,BRA,DF,26-087,1999,15.3,45,28,24,16,5,16,34,47.1,18,13,2,11,14,59,56,0,defense
+ITA-Serie A,2024,Milan,Fikayo Tomori,ENG,DF,27-113,1997,11.8,25,16,13,11,1,9,16,56.3,7,10,8,2,13,38,43,1,defense
+ITA-Serie A,2024,Milan,Filippo Terracciano,ITA,"DF,MF",22-062,2003,5.9,8,5,1,5,2,4,8,50.0,4,1,0,1,6,14,11,0,defense
+ITA-Serie A,2024,Milan,Francesco Camarda,ITA,"FW,MF",17-032,2008,1.8,5,2,0,2,3,2,6,33.3,4,1,1,0,0,5,3,0,defense
+ITA-Serie A,2024,Milan,Ismaël Bennacer,ALG,MF,27-131,1997,3.3,5,4,1,3,1,1,7,14.3,6,5,3,2,3,8,1,0,defense
+ITA-Serie A,2024,Milan,João Félix,POR,MF,25-152,1999,5.4,3,3,1,2,0,2,9,22.2,7,1,0,1,0,3,7,0,defense
+ITA-Serie A,2024,Milan,Kevin Zeroli,ITA,MF,20-090,2005,0.1,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0,defense
+ITA-Serie A,2024,Milan,Kyle Walker,ENG,DF,34-318,1990,6.7,15,8,11,4,0,12,15,80.0,3,9,5,4,8,23,12,1,defense
+ITA-Serie A,2024,Milan,Luka Jović,SRB,"FW,MF",27-109,1997,2.3,0,0,0,0,0,0,0,,0,1,1,0,1,1,2,0,defense
+ITA-Serie A,2024,Milan,Malick Thiaw,GER,DF,23-246,2001,19.2,24,17,15,6,3,6,10,60.0,4,14,12,2,15,39,73,1,defense
+ITA-Serie A,2024,Milan,Marco Sportiello,ITA,GK,32-336,1992,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,defense
+ITA-Serie A,2024,Milan,Matteo Gabbia,ITA,DF,25-172,1999,17.0,12,7,6,5,1,6,8,75.0,2,17,13,4,11,23,70,1,defense
+ITA-Serie A,2024,Milan,Mattia Liberali,ITA,MF,18-005,2007,0.7,2,1,0,1,1,2,2,100.0,0,0,0,0,0,2,0,0,defense
+ITA-Serie A,2024,Milan,Mike Maignan,FRA,GK,29-282,1995,30.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,16,3,defense
+ITA-Serie A,2024,Milan,Noah Okafor,SUI,FW,24-322,2000,4.6,2,1,0,0,2,0,1,0.0,1,1,0,1,2,4,1,0,defense
+ITA-Serie A,2024,Milan,Rafael Leão,POR,FW,25-305,1999,22.2,11,8,1,6,4,7,21,33.3,14,11,0,11,6,17,1,0,defense
+ITA-Serie A,2024,Milan,Riccardo Sottil,ITA,"FW,MF",25-312,1999,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Milan,Ruben Loftus-Cheek,ENG,MF,29-078,1996,7.7,15,7,4,7,4,4,8,50.0,4,1,0,1,2,17,10,0,defense
+ITA-Serie A,2024,Milan,Samuel Chukwueze,NGA,"FW,MF",25-324,1999,9.4,13,8,5,4,4,5,16,31.3,11,3,0,3,2,15,7,0,defense
+ITA-Serie A,2024,Milan,Santiago Giménez,MEX,FW,23-358,2001,6.3,4,3,0,3,1,3,3,100.0,0,3,1,2,1,5,11,0,defense
+ITA-Serie A,2024,Milan,Strahinja Pavlović,SRB,DF,23-322,2001,14.0,38,23,23,15,0,18,32,56.3,14,9,5,4,13,51,53,0,defense
+ITA-Serie A,2024,Milan,Tammy Abraham,ENG,FW,27-191,1997,12.1,15,10,1,10,4,5,7,71.4,2,10,0,10,2,17,12,0,defense
+ITA-Serie A,2024,Milan,Theo Hernández,FRA,DF,27-187,1997,25.0,29,22,22,4,3,17,32,53.1,15,22,9,13,14,43,60,3,defense
+ITA-Serie A,2024,Milan,Tijjani Reijnders,NED,MF,26-256,1998,27.8,23,13,6,12,5,9,23,39.1,14,17,4,13,30,53,21,2,defense
+ITA-Serie A,2024,Milan,Warren Bondo,FRA,MF,21-208,2003,1.8,5,3,4,1,0,3,3,100.0,0,1,0,1,0,5,2,0,defense
+ITA-Serie A,2024,Milan,Youssouf Fofana,FRA,MF,26-091,1999,24.1,50,32,16,29,5,23,43,53.5,20,23,5,18,18,68,20,2,defense
+ITA-Serie A,2024,Milan,Yunus Musah,USA,"MF,FW",22-133,2002,15.7,24,17,10,9,5,9,14,64.3,5,8,1,7,7,31,8,3,defense
+ITA-Serie A,2024,Milan,Álvaro Morata,ESP,"FW,MF",32-170,1992,12.2,16,10,5,8,3,5,8,62.5,3,7,2,5,5,21,5,0,defense
+ITA-Serie A,2024,Monza,Alessandro Bianco,ITA,MF,22-192,2002,22.4,44,24,20,16,8,24,35,68.6,11,36,13,23,17,61,39,4,defense
+ITA-Serie A,2024,Monza,Andrea Carboni,ITA,DF,24-066,2001,18.5,41,22,25,13,3,21,37,56.8,16,22,11,11,21,62,78,3,defense
+ITA-Serie A,2024,Monza,Andrea Petagna,ITA,FW,29-285,1995,3.0,1,0,0,1,0,1,2,50.0,1,0,0,0,1,2,2,0,defense
+ITA-Serie A,2024,Monza,Armando Izzo,ITA,DF,33-040,1992,26.4,40,15,30,9,1,18,36,50.0,18,38,28,10,43,83,98,0,defense
+ITA-Serie A,2024,Monza,Arvid Brorsson,SWE,DF,25-338,1999,1.2,2,2,1,1,0,2,2,100.0,0,5,4,1,0,2,13,1,defense
+ITA-Serie A,2024,Monza,Daniel Maldini,ITA,"MF,FW",23-182,2001,14.5,14,6,5,9,0,6,13,46.2,7,8,2,6,4,18,12,2,defense
+ITA-Serie A,2024,Monza,Danilo D'Ambrosio,ITA,DF,36-214,1988,12.2,28,15,17,10,1,14,23,60.9,9,12,8,4,15,43,36,2,defense
+ITA-Serie A,2024,Monza,Dany Mota,POR,"MF,FW",26-344,1998,19.1,12,2,2,2,8,3,7,42.9,4,17,1,16,9,21,22,3,defense
+ITA-Serie A,2024,Monza,Gaetano Castrovilli,ITA,MF,28-053,1997,3.4,7,4,5,2,0,3,9,33.3,6,6,2,4,2,9,5,0,defense
+ITA-Serie A,2024,Monza,Gianluca Caprari,ITA,"MF,FW",31-255,1993,12.4,15,9,6,7,2,6,12,50.0,6,11,0,11,3,18,2,1,defense
+ITA-Serie A,2024,Monza,Giorgos Kyriakopoulos,GRE,DF,29-065,1996,25.9,39,25,18,17,4,27,57,47.4,30,25,8,17,19,58,66,0,defense
+ITA-Serie A,2024,Monza,Jean-Daniel Akpa-Akpro,CIV,"MF,DF",32-182,1992,4.5,15,9,8,7,0,6,13,46.2,7,11,4,7,4,19,6,1,defense
+ITA-Serie A,2024,Monza,Kacper Urbanski,POL,MF,20-216,2004,4.6,4,2,1,1,2,4,7,57.1,3,7,2,5,2,6,8,0,defense
+ITA-Serie A,2024,Monza,Keita Baldé,SEN,FW,30-034,1995,4.9,1,1,0,1,0,1,2,50.0,1,3,0,3,1,2,0,0,defense
+ITA-Serie A,2024,Monza,Kevin Martins,ITA,"MF,DF",20-070,2005,2.0,5,4,3,2,0,3,6,50.0,3,1,0,1,1,6,4,1,defense
+ITA-Serie A,2024,Monza,Kevin Zeroli,ITA,MF,20-090,2005,3.5,5,1,2,3,0,0,1,0.0,1,6,1,5,2,7,7,0,defense
+ITA-Serie A,2024,Monza,Luca Caldirola,ITA,DF,34-069,1991,5.8,6,3,5,1,0,2,5,40.0,3,6,5,1,4,10,23,0,defense
+ITA-Serie A,2024,Monza,Matteo Pessina,ITA,MF,27-355,1997,9.5,15,4,3,11,1,9,14,64.3,5,6,0,6,12,27,7,0,defense
+ITA-Serie A,2024,Monza,Mattia Valoti,ITA,MF,31-217,1993,0.4,3,3,3,0,0,0,2,0.0,2,2,0,2,0,3,2,0,defense
+ITA-Serie A,2024,Monza,Milan Đurić,BIH,FW,34-324,1990,14.1,1,1,0,1,0,0,3,0.0,3,6,0,6,2,3,17,0,defense
+ITA-Serie A,2024,Monza,Mirko Marić,CRO,"FW,MF",29-330,1995,1.2,1,0,1,0,0,1,2,50.0,1,1,1,0,1,2,1,0,defense
+ITA-Serie A,2024,Monza,Omari Forson,ENG,"MF,FW",20-265,2004,0.8,2,2,1,1,0,1,2,50.0,1,2,0,2,0,2,0,0,defense
+ITA-Serie A,2024,Monza,Pablo Marí,ESP,DF,31-223,1993,18.1,26,15,14,12,0,11,21,52.4,10,24,21,3,37,63,85,2,defense
+ITA-Serie A,2024,Monza,Patrick Ciurria,ITA,"MF,DF",30-061,1995,9.9,18,10,10,5,3,4,9,44.4,5,12,3,9,6,24,17,0,defense
+ITA-Serie A,2024,Monza,Pedro Pereira,POR,DF,27-079,1998,24.1,38,24,19,15,4,25,41,61.0,16,19,8,11,16,54,63,3,defense
+ITA-Serie A,2024,Monza,Roberto Gagliardini,ITA,"MF,DF",31-004,1994,1.6,1,0,0,1,0,0,3,0.0,3,0,0,0,2,3,4,0,defense
+ITA-Serie A,2024,Monza,Samuele Birindelli,ITA,"DF,MF",25-266,1999,9.8,14,11,6,4,4,4,8,50.0,4,7,1,6,7,21,20,0,defense
+ITA-Serie A,2024,Monza,Samuele Vignato,ITA,MF,21-046,2004,4.9,6,3,0,4,2,3,6,50.0,3,1,0,1,0,6,6,0,defense
+ITA-Serie A,2024,Monza,Semuel Pizzignacco,ITA,GK,23-222,2001,4.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,3,0,defense
+ITA-Serie A,2024,Monza,Silvère Ganvoula M'Boussy,CGO,FW,28-293,1996,3.5,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,5,0,defense
+ITA-Serie A,2024,Monza,Stefan Lekovic,SRB,DF,21-092,2004,3.6,8,4,5,2,1,4,10,40.0,6,4,4,0,6,14,3,0,defense
+ITA-Serie A,2024,Monza,Stefano Sensi,ITA,MF,29-249,1995,2.3,6,4,2,4,0,5,6,83.3,1,3,2,1,3,9,2,1,defense
+ITA-Serie A,2024,Monza,Stefano Turati,ITA,GK,23-218,2001,26.7,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,19,1,defense
+ITA-Serie A,2024,Monza,Tomás Palacios,ARG,DF,21-348,2003,3.2,4,2,3,1,0,2,6,33.3,4,4,2,2,4,8,9,1,defense
+ITA-Serie A,2024,Monza,Warren Bondo,FRA,MF,21-208,2003,18.0,35,24,19,12,4,13,19,68.4,6,16,6,10,5,40,8,4,defense
+ITA-Serie A,2024,Napoli,Alessandro Buongiorno,ITA,DF,25-309,1999,20.7,37,22,25,11,1,24,31,77.4,7,27,15,12,34,71,71,2,defense
+ITA-Serie A,2024,Napoli,Alessio Zerbin,ITA,"FW,DF",26-039,1999,0.0,2,1,2,0,0,1,1,100.0,0,0,0,0,0,2,0,0,defense
+ITA-Serie A,2024,Napoli,Alex Meret,ITA,GK,28-020,1997,26.4,0,0,0,0,0,0,0,,0,1,0,1,0,0,14,0,defense
+ITA-Serie A,2024,Napoli,Amir Rrahmani,KVX,DF,31-046,1994,30.8,31,25,16,14,1,14,23,60.9,9,36,21,15,21,52,136,1,defense
+ITA-Serie A,2024,Napoli,Andre-Frank Zambo Anguissa,CMR,MF,29-146,1995,26.6,37,24,6,26,5,12,31,38.7,19,16,4,12,30,67,32,1,defense
+ITA-Serie A,2024,Napoli,Billy Gilmour,SCO,MF,23-304,2001,8.6,18,11,7,6,5,7,15,46.7,8,6,1,5,6,24,12,0,defense
+ITA-Serie A,2024,Napoli,Cyril Ngonge,BEL,"FW,DF",24-320,2000,2.0,8,5,4,4,0,4,6,66.7,2,2,0,2,1,9,4,0,defense
+ITA-Serie A,2024,Napoli,David Neres,BRA,FW,28-039,1997,12.6,17,9,6,4,7,7,12,58.3,5,6,0,6,7,24,4,0,defense
+ITA-Serie A,2024,Napoli,Elia Caprile,ITA,GK,23-229,2001,3.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,defense
+ITA-Serie A,2024,Napoli,Giacomo Raspadori,ITA,"FW,MF",25-052,2000,8.4,11,4,5,6,0,7,10,70.0,3,10,2,8,2,13,8,0,defense
+ITA-Serie A,2024,Napoli,Giovanni Di Lorenzo,ITA,DF,31-250,1993,31.0,58,41,31,21,6,36,56,64.3,20,15,6,9,27,85,72,1,defense
+ITA-Serie A,2024,Napoli,Giovanni Simeone,ARG,FW,29-280,1995,4.1,2,0,0,1,1,1,6,16.7,5,9,2,7,1,3,5,0,defense
+ITA-Serie A,2024,Napoli,Juan Jesus,BRA,DF,33-305,1991,11.1,24,13,15,9,0,11,18,61.1,7,12,1,11,9,33,38,0,defense
+ITA-Serie A,2024,Napoli,Khvicha Kvaratskhelia,GEO,"FW,MF",24-058,2001,13.1,15,9,4,10,1,4,15,26.7,11,13,0,13,4,19,7,0,defense
+ITA-Serie A,2024,Napoli,Leonardo Spinazzola,ITA,"DF,FW",32-017,1993,10.8,10,8,5,4,1,6,15,40.0,9,10,1,9,4,14,22,1,defense
+ITA-Serie A,2024,Napoli,Mathías Olivera,URU,DF,27-162,1997,19.7,56,32,28,23,5,28,45,62.2,17,29,8,21,24,80,53,0,defense
+ITA-Serie A,2024,Napoli,Matteo Politano,ITA,"FW,MF",31-251,1993,24.8,26,13,16,9,1,13,36,36.1,23,19,1,18,11,37,44,1,defense
+ITA-Serie A,2024,Napoli,Michael Folorunsho,ITA,"FW,MF",27-063,1998,0.4,3,2,0,3,0,2,4,50.0,2,0,0,0,1,4,1,1,defense
+ITA-Serie A,2024,Napoli,Noah Okafor,SUI,"FW,MF",24-322,2000,0.4,3,2,3,0,0,2,2,100.0,0,0,0,0,0,3,1,0,defense
+ITA-Serie A,2024,Napoli,Pasquale Mazzocchi,ITA,"DF,FW",29-258,1995,6.9,14,6,7,4,3,7,14,50.0,7,4,1,3,4,18,18,0,defense
+ITA-Serie A,2024,Napoli,Philip Billing,DEN,MF,28-304,1996,1.2,6,3,2,3,1,0,0,,0,2,1,1,3,9,4,0,defense
+ITA-Serie A,2024,Napoli,Rafa Marín,ESP,DF,22-327,2002,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Napoli,Romelu Lukaku,BEL,FW,31-333,1993,25.2,4,2,0,2,2,1,4,25.0,3,5,2,3,0,4,11,0,defense
+ITA-Serie A,2024,Napoli,Scott McTominay,SCO,MF,28-124,1996,25.6,36,20,11,22,3,17,33,51.5,16,15,4,11,20,56,41,0,defense
+ITA-Serie A,2024,Napoli,Simone Scuffet,ITA,GK,28-315,1996,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,defense
+ITA-Serie A,2024,Napoli,Stanislav Lobotka,SVK,MF,30-137,1994,25.6,40,26,12,18,10,17,28,60.7,11,26,9,17,20,60,50,1,defense
+ITA-Serie A,2024,Napoli,Walid Cheddira,MAR,FW,27-079,1998,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Parma,Adrian Benedyczak,POL,"FW,MF",24-138,2000,2.2,0,0,0,0,0,0,1,0.0,1,3,1,2,0,0,8,0,defense
+ITA-Serie A,2024,Parma,Adrian Bernabe,ESP,MF,23-320,2001,14.2,28,18,16,8,4,14,29,48.3,15,22,9,13,6,34,23,1,defense
+ITA-Serie A,2024,Parma,Alessandro Circati,AUS,DF,21-183,2003,4.0,4,2,3,1,0,1,1,100.0,0,5,4,1,2,6,29,1,defense
+ITA-Serie A,2024,Parma,Alessandro Vogliacco,ITA,DF,26-209,1998,7.5,3,1,3,0,0,1,2,50.0,1,14,10,4,2,5,30,0,defense
+ITA-Serie A,2024,Parma,Ange-Yoan Bonny,FRA,FW,21-168,2003,21.9,21,10,2,16,3,6,11,54.5,5,14,2,12,2,23,11,0,defense
+ITA-Serie A,2024,Parma,Antoine Hainaut,FRA,"DF,MF",23-052,2002,9.1,19,11,11,5,3,9,11,81.8,2,11,3,8,12,31,37,0,defense
+ITA-Serie A,2024,Parma,Botond Balogh,HUN,DF,22-309,2002,20.1,26,9,17,9,0,15,21,71.4,6,31,24,7,22,48,128,2,defense
+ITA-Serie A,2024,Parma,Dennis Man,ROU,"FW,MF",26-228,1998,21.6,13,6,7,3,3,6,23,26.1,17,15,3,12,8,21,10,0,defense
+ITA-Serie A,2024,Parma,Drissa Camara,CIV,"MF,FW",23-052,2002,4.4,9,7,2,6,1,1,9,11.1,8,6,0,6,2,11,1,0,defense
+ITA-Serie A,2024,Parma,Emanuele Valeri,ITA,DF,26-125,1998,25.5,39,23,26,10,3,24,46,52.2,22,23,8,15,23,62,85,3,defense
+ITA-Serie A,2024,Parma,Enrico Del Prato,ITA,DF,25-152,1999,25.7,26,14,19,6,1,16,21,76.2,5,54,28,26,18,44,110,1,defense
+ITA-Serie A,2024,Parma,Gabriel Charpentier,CGO,FW,25-329,1999,3.0,4,3,2,1,1,3,4,75.0,1,3,0,3,0,4,9,0,defense
+ITA-Serie A,2024,Parma,Giovanni Leoni,ITA,DF,18-111,2006,8.0,7,2,5,2,0,1,2,50.0,1,11,4,7,12,19,24,1,defense
+ITA-Serie A,2024,Parma,Hernani,BRA,MF,31-015,1994,11.9,35,20,18,13,4,18,37,48.6,19,20,4,16,16,51,9,1,defense
+ITA-Serie A,2024,Parma,Jacob Ondrejka,SWE,"FW,MF",22-221,2002,1.5,3,2,1,2,0,3,3,100.0,0,1,0,1,2,5,1,0,defense
+ITA-Serie A,2024,Parma,Lautaro Valenti,ARG,DF,26-087,1999,12.0,13,10,10,3,0,4,4,100.0,0,15,8,7,7,20,67,0,defense
+ITA-Serie A,2024,Parma,Leandro Chichizola,ARG,GK,35-015,1990,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,defense
+ITA-Serie A,2024,Parma,Mandela Keita,BEL,MF,22-336,2002,14.2,34,19,7,22,5,14,25,56.0,11,11,4,7,10,44,21,1,defense
+ITA-Serie A,2024,Parma,Mateo Pellegrino,ARG,FW,24-041,2001,2.4,1,0,1,0,0,1,2,50.0,1,3,1,2,0,1,0,0,defense
+ITA-Serie A,2024,Parma,Mateusz Kowalski,POL,MF,19-264,2005,0.6,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,defense
+ITA-Serie A,2024,Parma,Mathias Løvik,NOR,"DF,FW",21-126,2003,0.9,0,0,0,0,0,0,1,0.0,1,1,1,0,2,2,3,0,defense
+ITA-Serie A,2024,Parma,Matteo Cancellieri,ITA,"FW,MF",23-058,2002,15.8,26,16,15,9,2,11,32,34.4,21,15,1,14,13,39,30,0,defense
+ITA-Serie A,2024,Parma,Milan Đurić,BIH,FW,34-324,1990,2.1,0,0,0,0,0,0,2,0.0,2,2,0,2,0,0,0,0,defense
+ITA-Serie A,2024,Parma,Mohamed Haj,TUN,MF,20-016,2005,5.0,3,1,2,1,0,1,2,50.0,1,3,1,2,4,7,5,0,defense
+ITA-Serie A,2024,Parma,Nahuel Estévez,ARG,MF,29-148,1995,6.8,13,4,6,6,1,4,12,33.3,8,8,2,6,3,16,22,0,defense
+ITA-Serie A,2024,Parma,Pontus Almqvist,SWE,"FW,MF",25-275,1999,12.3,16,12,7,6,3,8,17,47.1,9,13,0,13,19,35,8,0,defense
+ITA-Serie A,2024,Parma,Simon Sohm,SUI,MF,24-000,2001,27.1,23,14,8,11,4,12,28,42.9,16,7,1,6,21,44,30,0,defense
+ITA-Serie A,2024,Parma,Valentin Mihaila,ROU,"FW,MF",25-068,2000,14.3,29,15,8,13,8,9,22,40.9,13,18,0,18,8,37,6,0,defense
+ITA-Serie A,2024,Parma,Woyo Coulibaly,FRA,DF,25-326,1999,12.0,13,10,9,2,2,5,11,45.5,6,19,2,17,8,21,25,0,defense
+ITA-Serie A,2024,Parma,Wylan Cyprien,FRA,MF,30-073,1995,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,1,1,0,0,defense
+ITA-Serie A,2024,Parma,Yordan Osorio,VEN,DF,30-336,1994,1.9,5,3,4,1,0,2,2,100.0,0,3,1,2,4,9,6,1,defense
+ITA-Serie A,2024,Parma,Zion Suzuki,JPN,GK,22-233,2002,29.8,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,24,4,defense
+ITA-Serie A,2024,Roma,Alexis Saelemaekers,BEL,"DF,FW",25-288,1999,11.7,29,16,20,6,3,15,26,57.7,11,11,1,10,7,36,6,0,defense
+ITA-Serie A,2024,Roma,Anass Salah-Eddine,NED,DF,23-083,2002,1.7,1,1,1,0,0,0,0,,0,0,0,0,1,2,2,2,defense
+ITA-Serie A,2024,Roma,Angeliño,ESP,DF,28-097,1997,28.3,40,21,18,20,2,15,29,51.7,14,30,9,21,25,65,74,0,defense
+ITA-Serie A,2024,Roma,Artem Dovbyk,UKR,FW,27-294,1997,23.0,4,2,0,1,3,0,4,0.0,4,7,3,4,2,6,10,0,defense
+ITA-Serie A,2024,Roma,Bryan Cristante,ITA,MF,30-039,1995,16.5,30,21,9,16,5,11,22,50.0,11,14,9,5,14,44,26,1,defense
+ITA-Serie A,2024,Roma,Devyne Rensch,NED,DF,22-083,2003,3.9,13,9,5,7,1,7,8,87.5,1,4,2,2,5,18,8,1,defense
+ITA-Serie A,2024,Roma,Eldor Shomurodov,UZB,FW,29-286,1995,6.9,9,2,2,4,3,2,4,50.0,2,8,0,8,1,10,2,0,defense
+ITA-Serie A,2024,Roma,Enzo Le Fée,FRA,MF,25-067,2000,3.5,7,4,5,2,0,2,6,33.3,4,9,3,6,5,12,2,0,defense
+ITA-Serie A,2024,Roma,Gianluca Mancini,ITA,DF,28-359,1996,27.9,34,21,19,13,2,16,28,57.1,12,17,12,5,32,66,72,0,defense
+ITA-Serie A,2024,Roma,Leandro Paredes,ARG,MF,30-286,1994,12.9,25,14,9,11,5,15,29,51.7,14,12,4,8,18,43,24,1,defense
+ITA-Serie A,2024,Roma,Lorenzo Pellegrini,ITA,MF,28-296,1996,16.2,22,15,4,12,6,6,15,40.0,9,8,1,7,5,27,21,0,defense
+ITA-Serie A,2024,Roma,Lucas Gourna-Douath,FRA,MF,21-249,2003,1.9,7,4,4,3,0,2,5,40.0,3,1,1,0,0,7,1,0,defense
+ITA-Serie A,2024,Roma,Manu Koné,FRA,MF,23-329,2001,21.9,32,21,13,13,6,16,36,44.4,20,20,3,17,15,47,16,0,defense
+ITA-Serie A,2024,Roma,Mario Hermoso,ESP,DF,29-297,1995,2.8,2,1,2,0,0,0,1,0.0,1,1,1,0,4,6,13,0,defense
+ITA-Serie A,2024,Roma,Mats Hummels,GER,DF,36-116,1988,10.2,30,15,16,14,0,11,18,61.1,7,12,4,8,26,56,43,0,defense
+ITA-Serie A,2024,Roma,Matìas Soulé,ARG,"MF,FW",21-361,2003,13.1,13,8,5,3,5,6,13,46.2,7,16,1,15,6,19,12,0,defense
+ITA-Serie A,2024,Roma,Mile Svilar,SRB,GK,25-227,1999,31.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,2,defense
+ITA-Serie A,2024,Roma,Niccolò Pisilli,ITA,MF,20-200,2004,12.4,20,9,10,6,4,11,19,57.9,8,11,3,8,9,29,15,0,defense
+ITA-Serie A,2024,Roma,Nicola Zalewski,POL,"DF,FW",23-078,2002,5.9,8,6,3,2,3,2,7,28.6,5,7,2,5,4,12,8,2,defense
+ITA-Serie A,2024,Roma,Obite N'Dicka,CIV,DF,25-234,1999,31.0,28,22,13,15,0,11,17,64.7,6,38,26,12,31,59,121,1,defense
+ITA-Serie A,2024,Roma,Paulo Dybala,ARG,"FW,MF",31-147,1993,15.7,17,7,3,9,5,8,19,42.1,11,12,1,11,2,19,2,0,defense
+ITA-Serie A,2024,Roma,Samuel Dahl,SWE,"DF,MF",25-038,2000,0.5,2,2,0,2,0,1,2,50.0,1,2,0,2,0,2,0,0,defense
+ITA-Serie A,2024,Roma,Saud Abdulhamid,KSA,DF,25-267,1999,2.3,3,2,2,0,1,1,1,100.0,0,2,0,2,2,5,0,0,defense
+ITA-Serie A,2024,Roma,Stephan El Shaarawy,ITA,"DF,MF",32-166,1992,11.5,15,12,3,6,6,5,11,45.5,6,3,0,3,9,24,11,0,defense
+ITA-Serie A,2024,Roma,Tammy Abraham,ENG,FW,27-191,1997,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Roma,Tommaso Baldanzi,ITA,"MF,FW",22-019,2003,7.7,12,4,5,4,3,4,9,44.4,5,4,0,4,5,17,7,0,defense
+ITA-Serie A,2024,Roma,Victor Nelsson,DEN,DF,26-179,1998,2.1,5,4,3,1,1,3,5,60.0,2,1,0,1,2,7,9,0,defense
+ITA-Serie A,2024,Roma,Zeki Çelik,TUR,DF,28-053,1997,18.2,41,24,13,21,7,17,31,54.8,14,21,5,16,11,52,59,1,defense
+ITA-Serie A,2024,Torino,Aaron Ciammaglichella,ITA,MF,20-075,2005,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Torino,Adam Masina,MAR,DF,31-099,1994,16.6,29,14,21,7,1,20,35,57.1,15,23,14,9,19,48,70,2,defense
+ITA-Serie A,2024,Torino,Adrien Tameze,CMR,"MF,DF",31-066,1994,6.7,5,2,2,3,0,1,9,11.1,8,8,5,3,10,15,7,1,defense
+ITA-Serie A,2024,Torino,Alberto Paleari,ITA,GK,32-225,1992,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,defense
+ITA-Serie A,2024,Torino,Ali Dembélé,FRA,DF,21-096,2004,1.4,4,2,3,1,0,3,3,100.0,0,1,1,0,0,4,4,1,defense
+ITA-Serie A,2024,Torino,Antonio Sanabria,PAR,FW,29-038,1996,12.9,2,2,1,0,1,1,4,25.0,3,6,1,5,1,3,10,0,defense
+ITA-Serie A,2024,Torino,Borna Sosa,CRO,DF,27-080,1998,13.1,26,19,14,7,5,16,25,64.0,9,13,6,7,14,40,33,0,defense
+ITA-Serie A,2024,Torino,Cesare Casadei,ITA,MF,22-091,2003,6.2,9,4,4,5,0,4,7,57.1,3,2,1,1,2,11,16,0,defense
+ITA-Serie A,2024,Torino,Che Adams,SCO,FW,28-272,1996,23.0,8,3,1,3,4,0,4,0.0,4,9,4,5,2,10,16,0,defense
+ITA-Serie A,2024,Torino,Cristiano Biraghi,ITA,DF,32-222,1992,6.2,10,8,7,1,2,5,7,71.4,2,6,2,4,5,15,21,0,defense
+ITA-Serie A,2024,Torino,Duván Zapata,COL,FW,34-010,1991,6.5,7,5,2,0,5,0,3,0.0,3,2,1,1,2,9,7,0,defense
+ITA-Serie A,2024,Torino,Elif Elmas,MKD,FW,25-199,1999,5.6,3,2,2,1,0,0,1,0.0,1,5,1,4,5,8,4,0,defense
+ITA-Serie A,2024,Torino,Eybi Nije,SWE,"FW,MF",19-332,2005,4.4,5,1,3,1,1,0,3,0.0,3,5,1,4,0,5,1,0,defense
+ITA-Serie A,2024,Torino,Guillermo Maripán,CHI,DF,30-340,1994,19.0,28,15,17,10,1,16,25,64.0,9,24,12,12,28,56,104,1,defense
+ITA-Serie A,2024,Torino,Gvidas Gineitis,LTU,MF,20-361,2004,11.3,16,8,6,6,4,8,20,40.0,12,14,6,8,12,28,24,0,defense
+ITA-Serie A,2024,Torino,Ivan Ilić,SRB,MF,24-025,2001,8.2,3,1,0,2,1,1,5,20.0,4,0,0,0,4,7,6,0,defense
+ITA-Serie A,2024,Torino,Karol Linetty,POL,MF,30-068,1995,14.3,33,21,14,17,2,16,32,50.0,16,14,5,9,12,45,22,1,defense
+ITA-Serie A,2024,Torino,Marcus Pedersen,NOR,DF,24-269,2000,13.2,9,5,4,4,1,7,12,58.3,5,10,2,8,12,21,33,1,defense
+ITA-Serie A,2024,Torino,Mërgim Vojvoda,KVX,DF,30-069,1995,12.3,18,10,5,9,4,7,14,50.0,7,13,3,10,7,25,24,1,defense
+ITA-Serie A,2024,Torino,Nikola Vlašić,CRO,"MF,FW",27-189,1997,19.4,32,16,10,14,8,11,28,39.3,17,12,3,9,9,41,12,0,defense
+ITA-Serie A,2024,Torino,Raoul Bellanova,ITA,DF,24-329,2000,1.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,0,defense
+ITA-Serie A,2024,Torino,Saba Sazonov,GEO,DF,23-069,2002,0.0,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,defense
+ITA-Serie A,2024,Torino,Samuele Ricci,ITA,MF,23-233,2001,28.3,32,18,15,12,5,18,26,69.2,8,21,9,12,24,56,49,2,defense
+ITA-Serie A,2024,Torino,Saúl Coco,EQG,DF,26-061,1999,29.0,41,21,29,11,1,16,25,64.0,9,44,28,16,37,78,144,4,defense
+ITA-Serie A,2024,Torino,Sebastian Walukiewicz,POL,DF,25-006,2000,16.5,28,15,14,11,3,15,22,68.2,7,19,6,13,17,45,55,0,defense
+ITA-Serie A,2024,Torino,Valentino Lazaro,AUT,"DF,FW",29-018,1996,22.6,25,11,10,12,3,15,28,53.6,13,28,5,23,10,35,38,1,defense
+ITA-Serie A,2024,Torino,Vanja Milinković-Savić,SRB,GK,28-050,1997,30.0,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,17,3,defense
+ITA-Serie A,2024,Torino,Yann Karamoh,FRA,"MF,FW",26-277,1998,10.8,5,2,2,1,2,4,9,44.4,5,8,2,6,3,8,5,0,defense
+ITA-Serie A,2024,Udinese,Alexis Sánchez,CHI,FW,36-113,1988,3.9,3,1,0,2,1,1,5,20.0,4,3,0,3,3,6,0,1,defense
+ITA-Serie A,2024,Udinese,Arthur Atta,FRA,MF,22-087,2003,8.3,19,11,9,9,1,10,13,76.9,3,5,3,2,3,22,8,1,defense
+ITA-Serie A,2024,Udinese,Brenner,BRA,"MF,FW",25-085,2000,4.3,6,4,2,3,1,3,8,37.5,5,4,0,4,1,7,6,0,defense
+ITA-Serie A,2024,Udinese,Christian Kabasele,BEL,DF,34-046,1991,10.2,12,7,5,7,0,6,8,75.0,2,9,3,6,10,22,44,1,defense
+ITA-Serie A,2024,Udinese,Daniele Padelli,ITA,GK,39-168,1985,1.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Udinese,Enzo Ebosse,CMR,DF,26-031,1999,1.0,0,0,0,0,0,0,2,0.0,2,3,3,0,1,1,1,0,defense
+ITA-Serie A,2024,Udinese,Florian Thauvin,FRA,"FW,MF",32-075,1993,21.7,20,14,9,8,3,10,25,40.0,15,6,0,6,7,27,10,0,defense
+ITA-Serie A,2024,Udinese,Hassane Kamara,CIV,DF,31-037,1994,17.2,28,22,15,10,3,12,23,52.2,11,18,5,13,22,50,40,1,defense
+ITA-Serie A,2024,Udinese,Iker Bravo,ESP,"FW,MF",20-088,2005,6.0,9,5,2,5,2,4,8,50.0,4,2,0,2,0,9,4,0,defense
+ITA-Serie A,2024,Udinese,Jaka Bijol,SVN,DF,26-065,1999,29.0,38,20,28,9,1,17,33,51.5,16,35,17,18,35,73,158,1,defense
+ITA-Serie A,2024,Udinese,James Abankwah,IRL,"DF,MF",21-085,2004,1.0,4,2,4,0,0,2,3,66.7,1,2,1,1,1,5,3,0,defense
+ITA-Serie A,2024,Udinese,Jesper Karlström,SWE,MF,29-294,1995,28.4,50,27,27,16,7,21,45,46.7,24,22,10,12,31,81,73,4,defense
+ITA-Serie A,2024,Udinese,Jordan Zemura,ZIM,DF,25-148,1999,14.0,25,13,13,9,3,13,24,54.2,11,16,3,13,15,40,37,0,defense
+ITA-Serie A,2024,Udinese,Jurgen Ekkelenkamp,NED,MF,25-006,2000,16.7,31,20,9,19,3,16,30,53.3,14,24,4,20,11,42,20,0,defense
+ITA-Serie A,2024,Udinese,Keinan Davis,ENG,FW,27-057,1998,7.9,7,3,1,3,3,2,3,66.7,1,2,1,1,1,8,4,0,defense
+ITA-Serie A,2024,Udinese,Kingsley Ehizibue,NED,DF,29-321,1995,23.1,48,31,26,18,4,25,37,67.6,12,33,9,24,19,67,57,5,defense
+ITA-Serie A,2024,Udinese,Lautaro Gianetti,ARG,DF,31-149,1993,9.3,22,10,16,5,1,14,20,70.0,6,19,10,9,15,37,44,1,defense
+ITA-Serie A,2024,Udinese,Lorenzo Lucca,ITA,FW,24-213,2000,23.9,9,6,2,2,5,4,10,40.0,6,17,1,16,6,15,24,0,defense
+ITA-Serie A,2024,Udinese,Maduka Okoye,NGA,GK,25-226,1999,18.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,1,defense
+ITA-Serie A,2024,Udinese,Martín Payero,ARG,MF,26-212,1998,12.6,20,12,3,11,6,8,16,50.0,8,11,2,9,10,30,11,0,defense
+ITA-Serie A,2024,Udinese,Nehuén Pérez,ARG,DF,24-291,2000,2.0,1,1,0,0,1,0,1,0.0,1,2,2,0,1,2,7,0,defense
+ITA-Serie A,2024,Udinese,Oier Zarraga,ESP,MF,26-097,1999,7.1,14,9,7,7,0,8,18,44.4,10,6,3,3,2,16,6,0,defense
+ITA-Serie A,2024,Udinese,Oumar Solet,FRA,DF,25-063,2000,11.6,18,12,13,4,1,8,15,53.3,7,23,14,9,11,29,45,1,defense
+ITA-Serie A,2024,Udinese,Razvan Sava,ROU,GK,22-294,2002,12.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,6,2,defense
+ITA-Serie A,2024,Udinese,Rui Modesto,ANG,"DF,MF",25-186,1999,3.3,9,6,1,6,2,5,6,83.3,1,4,0,4,6,15,9,0,defense
+ITA-Serie A,2024,Udinese,Sandi Lovrić,SVN,MF,27-014,1998,22.0,42,26,23,15,4,20,40,50.0,20,33,5,28,20,62,20,0,defense
+ITA-Serie A,2024,Udinese,Simone Pafundi,ITA,"MF,FW",19-056,2006,0.7,3,3,2,0,1,1,2,50.0,1,0,0,0,0,3,1,0,defense
+ITA-Serie A,2024,Udinese,Souleymane Touré,FRA,DF,22-014,2003,8.1,7,6,4,3,0,4,5,80.0,1,15,6,9,9,16,17,1,defense
+ITA-Serie A,2024,Udinese,Thomas Kristensen,DEN,DF,23-084,2002,14.7,22,16,13,8,1,15,22,68.2,7,13,10,3,14,36,60,1,defense
+ITA-Serie A,2024,Venezia,Alessandro Marcandalli,ITA,DF,22-198,2002,2.1,4,2,3,1,0,1,4,25.0,3,4,1,3,1,5,18,0,defense
+ITA-Serie A,2024,Venezia,Alessio Zerbin,ITA,DF,26-039,1999,10.0,32,17,19,8,5,18,33,54.5,15,20,3,17,10,42,16,0,defense
+ITA-Serie A,2024,Venezia,Alfred Duncan,GHA,MF,32-032,1993,10.4,17,8,4,11,2,5,14,35.7,9,6,2,4,8,25,7,0,defense
+ITA-Serie A,2024,Venezia,Antonio Candela,ITA,DF,24-349,2000,11.2,31,21,13,11,7,18,26,69.2,8,7,5,2,8,39,22,2,defense
+ITA-Serie A,2024,Venezia,Antonio Raimondo,ITA,"FW,DF",21-024,2004,1.0,2,1,1,1,0,0,0,,0,0,0,0,0,2,0,1,defense
+ITA-Serie A,2024,Venezia,Bjarki Bjarkason,ISL,"DF,MF",24-335,2000,1.8,3,2,2,1,0,1,2,50.0,1,1,0,1,2,5,4,0,defense
+ITA-Serie A,2024,Venezia,Cheick Oumar Conde,GUI,MF,24-259,2000,0.4,3,3,1,1,1,1,2,50.0,1,2,1,1,0,3,2,0,defense
+ITA-Serie A,2024,Venezia,Christian Gytkjær,DEN,FW,34-340,1990,4.8,5,3,2,1,2,1,2,50.0,1,1,1,0,0,5,6,0,defense
+ITA-Serie A,2024,Venezia,Daniel Fila,CZE,FW,22-233,2002,3.5,1,0,0,0,1,0,2,0.0,2,5,0,5,0,1,4,0,defense
+ITA-Serie A,2024,Venezia,Domen Črnigoj,SVN,MF,29-144,1995,1.5,4,2,0,1,3,1,2,50.0,1,5,2,3,4,8,4,0,defense
+ITA-Serie A,2024,Venezia,Fali Candé,GNB,DF,27-077,1998,10.0,19,16,12,6,1,11,15,73.3,4,12,7,5,7,26,51,1,defense
+ITA-Serie A,2024,Venezia,Filip Stankovic,SRB,GK,23-045,2002,15.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,11,2,defense
+ITA-Serie A,2024,Venezia,Francesco Zampano,ITA,DF,31-193,1993,17.8,29,20,18,9,2,14,28,50.0,14,20,0,20,6,35,28,2,defense
+ITA-Serie A,2024,Venezia,Franco Carboni,ITA,DF,22-007,2003,2.5,5,3,5,0,0,5,8,62.5,3,1,1,0,0,5,11,0,defense
+ITA-Serie A,2024,Venezia,Gaetano Oristanio,ITA,"MF,FW",22-195,2002,23.2,14,10,5,5,4,5,12,41.7,7,16,0,16,6,20,6,1,defense
+ITA-Serie A,2024,Venezia,Gianluca Busio,USA,MF,22-318,2002,22.4,39,27,21,10,8,19,43,44.2,24,29,8,21,14,53,45,0,defense
+ITA-Serie A,2024,Venezia,Giorgio Altare,ITA,DF,26-245,1998,8.4,13,12,8,3,2,8,15,53.3,7,21,11,10,17,30,49,0,defense
+ITA-Serie A,2024,Venezia,Hans Nicolussi Caviglia,ITA,MF,24-297,2000,24.8,38,21,11,20,7,24,55,43.6,31,30,8,22,21,59,44,2,defense
+ITA-Serie A,2024,Venezia,Ionuț Radu,ROU,GK,27-318,1997,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,defense
+ITA-Serie A,2024,Venezia,Issa Doumbia,CIV,MF,21-177,2003,8.3,10,7,2,7,1,7,13,53.8,6,15,4,11,7,17,10,0,defense
+ITA-Serie A,2024,Venezia,Jay Idzes,IDN,DF,24-313,2000,28.7,42,26,24,14,4,16,29,55.2,13,46,27,19,26,68,132,0,defense
+ITA-Serie A,2024,Venezia,Jesse Joronen,FIN,GK,32-021,1993,7.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,1,defense
+ITA-Serie A,2024,Venezia,Joel Pohjanpalo,FIN,FW,30-210,1994,17.8,3,3,1,2,0,0,4,0.0,4,7,4,3,4,7,24,0,defense
+ITA-Serie A,2024,Venezia,John Yeboah,ECU,"FW,MF",24-292,2000,8.6,4,3,1,2,1,0,8,0.0,8,4,0,4,3,7,1,0,defense
+ITA-Serie A,2024,Venezia,Joël Schingtienne,BEL,DF,22-242,2002,7.7,18,11,14,3,1,10,15,66.7,5,11,5,6,9,27,15,2,defense
+ITA-Serie A,2024,Venezia,Kike Pérez,ESP,MF,28-056,1997,8.0,29,17,13,8,8,14,33,42.4,19,10,1,9,7,36,10,0,defense
+ITA-Serie A,2024,Venezia,Magnus Kofod Andersen,DEN,MF,25-336,1999,7.7,13,4,3,9,1,4,10,40.0,6,7,2,5,6,19,12,0,defense
+ITA-Serie A,2024,Venezia,Marin Šverko,CRO,DF,27-066,1998,11.6,17,6,11,6,0,8,10,80.0,2,9,4,5,16,33,42,3,defense
+ITA-Serie A,2024,Venezia,Michael Svoboda,AUT,DF,26-178,1998,14.6,26,14,19,6,1,8,19,42.1,11,19,11,8,22,48,66,2,defense
+ITA-Serie A,2024,Venezia,Mikael Ellertsson,ISL,"DF,MF",23-031,2002,22.7,48,23,30,11,7,29,52,55.8,23,33,4,29,13,61,62,0,defense
+ITA-Serie A,2024,Venezia,Mirko Marić,CRO,FW,29-330,1995,3.5,2,2,2,0,0,0,3,0.0,3,2,0,2,1,3,10,0,defense
+ITA-Serie A,2024,Venezia,Nicholas Pierini,ITA,MF,26-248,1998,0.9,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0,defense
+ITA-Serie A,2024,Venezia,Nunzio Lella,ITA,MF,24-257,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense
+ITA-Serie A,2024,Venezia,Richie Sagrado,BEL,DF,21-071,2004,1.6,2,2,1,1,0,1,1,100.0,0,1,0,1,3,5,4,0,defense
+ITA-Serie A,2024,Venezia,Ridgeciano Haps,SUR,DF,31-303,1993,12.1,19,11,14,4,1,10,16,62.5,6,14,3,11,6,25,39,0,defense
+ITA-Serie A,2024,Venezia,Saad El Haddad,MAR,MF,19-261,2005,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,defense

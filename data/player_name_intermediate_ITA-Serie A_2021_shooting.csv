@@ -1,0 +1,621 @@
+league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
+,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
+ITA-Serie A,2021,Atalanta,Aleksei Miranchuk,RUS,"MF,FW",24,1995,7.5,4,15,6,40.0,2.0,0.8,0.27,0.67,16.3,1,0,0,1.2,1.2,0.08,2.8,2.8,shooting
+ITA-Serie A,2021,Atalanta,Amad Diallo,CIV,MF,18,2002,0.2,0,1,0,0.0,6.43,0.0,0.0,,23.3,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Berat Djimsiti,ALB,DF,27,1993,29.2,0,20,1,5.0,0.69,0.03,0.0,0.0,11.2,0,0,0,1.7,1.7,0.09,-1.7,-1.7,shooting
+ITA-Serie A,2021,Atalanta,Bosko Sutalo,CRO,DF,20,2000,2.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Cristian Romero,ARG,DF,22,1998,28.3,2,14,7,50.0,0.5,0.25,0.14,0.29,11.1,0,0,0,1.3,1.3,0.09,0.7,0.7,shooting
+ITA-Serie A,2021,Atalanta,Cristiano Piccini,ITA,DF,27,1992,0.7,0,1,0,0.0,1.53,0.0,0.0,,11.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Atalanta,Davide Angelo Ghislandi,ITA,DF,19,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Duván Zapata,COL,FW,29,1991,26.4,15,98,38,38.8,3.71,1.44,0.14,0.37,13.6,0,1,1,15.2,14.4,0.15,-0.2,-0.4,shooting
+ITA-Serie A,2021,Atalanta,Fabio Depaoli,ITA,DF,23,1997,2.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Hans Hateboer,NED,DF,26,1994,19.6,2,27,13,48.1,1.38,0.66,0.07,0.15,12.1,0,0,0,3.2,3.2,0.12,-1.2,-1.2,shooting
+ITA-Serie A,2021,Atalanta,Joakim Mæhle,DEN,DF,23,1997,13.5,0,21,6,28.6,1.55,0.44,0.0,0.0,18.8,0,0,0,1.6,1.6,0.07,-1.6,-1.6,shooting
+ITA-Serie A,2021,Atalanta,Johan Mojica,COL,DF,27,1992,3.3,0,4,0,0.0,1.2,0.0,0.0,,20.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Atalanta,Josip Iličić,SVN,"MF,FW",32,1988,17.0,6,57,17,29.8,3.36,1.0,0.07,0.24,20.8,4,2,2,4.9,3.3,0.06,1.1,0.7,shooting
+ITA-Serie A,2021,Atalanta,José Luis Palomino,ARG,DF,30,1990,27.0,1,4,1,25.0,0.15,0.04,0.25,1.0,25.9,0,0,0,0.3,0.3,0.07,0.7,0.7,shooting
+ITA-Serie A,2021,Atalanta,Luis Muriel,COL,FW,29,1991,16.0,22,84,36,42.9,5.26,2.26,0.24,0.56,18.0,8,2,3,15.5,13.1,0.16,6.5,6.9,shooting
+ITA-Serie A,2021,Atalanta,Manu Gyabuaa,ITA,MF,18,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Marco Sportiello,ITA,GK,28,1992,14.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Mario Pašalić,CRO,MF,25,1995,12.5,6,20,12,60.0,1.6,0.96,0.3,0.5,13.2,0,0,0,4.3,4.3,0.22,1.7,1.7,shooting
+ITA-Serie A,2021,Atalanta,Marten de Roon,NED,MF,29,1991,33.6,1,17,3,17.6,0.51,0.09,0.06,0.33,26.2,0,0,0,0.6,0.6,0.04,0.4,0.4,shooting
+ITA-Serie A,2021,Atalanta,Matteo Pessina,ITA,MF,23,1997,18.3,2,22,10,45.5,1.2,0.55,0.09,0.2,15.5,0,0,0,2.4,2.4,0.11,-0.4,-0.4,shooting
+ITA-Serie A,2021,Atalanta,Matteo Ruggeri,ITA,DF,18,2002,2.3,0,2,0,0.0,0.87,0.0,0.0,,14.4,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Atalanta,Mattia Caldara,ITA,DF,26,1994,1.2,0,2,0,0.0,1.62,0.0,0.0,,9.4,0,0,0,0.3,0.3,0.14,-0.3,-0.3,shooting
+ITA-Serie A,2021,Atalanta,Papu Gómez,ARG,"MF,FW",32,1988,7.4,4,29,12,41.4,3.92,1.62,0.14,0.33,20.2,3,0,0,2.5,2.5,0.09,1.5,1.5,shooting
+ITA-Serie A,2021,Atalanta,Pierluigi Gollini,ITA,GK,25,1995,24.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Atalanta,Rafael Tolói,ITA,DF,29,1990,28.2,2,29,8,27.6,1.03,0.28,0.07,0.25,12.9,0,0,0,3.3,3.3,0.11,-1.3,-1.3,shooting
+ITA-Serie A,2021,Atalanta,Remo Freuler,SUI,MF,28,1992,30.1,2,20,6,30.0,0.66,0.2,0.1,0.33,16.6,0,0,0,1.9,1.9,0.09,0.1,0.1,shooting
+ITA-Serie A,2021,Atalanta,Robin Gosens,GER,DF,26,1994,28.0,11,52,21,40.4,1.85,0.75,0.21,0.52,12.3,0,0,0,8.4,8.4,0.16,2.6,2.6,shooting
+ITA-Serie A,2021,Atalanta,Ruslan Malinovskyi,UKR,"MF,FW",27,1993,20.8,8,66,20,30.3,3.17,0.96,0.11,0.35,22.1,12,1,1,5.6,4.9,0.07,2.4,2.1,shooting
+ITA-Serie A,2021,Atalanta,Sam Lammers,NED,"FW,MF",23,1997,3.2,2,9,4,44.4,2.78,1.24,0.22,0.5,13.8,0,0,0,1.3,1.3,0.14,0.7,0.7,shooting
+ITA-Serie A,2021,Atalanta,Viktor Kovalenko,UKR,FW,24,1996,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Adolfo Gaich,ARG,FW,21,1999,8.5,2,23,6,26.1,2.7,0.7,0.09,0.33,14.1,0,0,0,2.8,2.8,0.12,-0.8,-0.8,shooting
+ITA-Serie A,2021,Benevento,Alessandro Tuia,ITA,DF,30,1990,19.6,1,8,1,12.5,0.41,0.05,0.13,1.0,12.0,1,0,0,0.8,0.8,0.1,0.2,0.2,shooting
+ITA-Serie A,2021,Benevento,Amadou Diambo,GHA,FW,19,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Andrés Tello,COL,"DF,MF",23,1996,4.6,1,7,3,42.9,1.53,0.65,0.14,0.33,15.9,0,0,0,0.3,0.3,0.04,0.7,0.7,shooting
+ITA-Serie A,2021,Benevento,Artur Ioniță,MDA,MF,29,1990,31.5,2,23,7,30.4,0.73,0.22,0.09,0.29,19.9,0,0,0,1.7,1.7,0.07,0.3,0.3,shooting
+ITA-Serie A,2021,Benevento,Bryan Dabo,BFA,MF,28,1992,12.4,0,12,2,16.7,0.97,0.16,0.0,0.0,19.4,0,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
+ITA-Serie A,2021,Benevento,Christian Maggio,ITA,DF,38,1982,3.3,0,2,0,0.0,0.61,0.0,0.0,,10.9,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Benevento,Christian Pastina,ITA,DF,19,2001,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Daam Foulon,BEL,DF,21,1999,11.3,0,1,0,0.0,0.09,0.0,0.0,,30.1,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Fabio Depaoli,ITA,DF,23,1997,12.4,0,8,2,25.0,0.64,0.16,0.0,0.0,20.3,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ITA-Serie A,2021,Benevento,Federico Barba,ITA,DF,26,1993,29.5,0,13,3,23.1,0.44,0.1,0.0,0.0,14.4,0,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+ITA-Serie A,2021,Benevento,Gabriele Moncini,ITA,"FW,MF",24,1996,4.0,0,8,1,12.5,2.02,0.25,0.0,0.0,13.8,0,0,0,0.7,0.7,0.09,-0.7,-0.7,shooting
+ITA-Serie A,2021,Benevento,Gaetano Letizia,ITA,DF,30,1990,17.4,3,13,7,53.8,0.75,0.4,0.23,0.43,22.7,0,0,0,0.4,0.4,0.03,2.6,2.6,shooting
+ITA-Serie A,2021,Benevento,Gianluca Caprari,ITA,"MF,FW",27,1993,20.7,5,47,15,31.9,2.27,0.72,0.11,0.33,21.7,8,0,1,4.0,3.2,0.07,1.0,1.8,shooting
+ITA-Serie A,2021,Benevento,Gianluca Lapadula,PER,FW,30,1990,28.5,8,75,28,37.3,2.63,0.98,0.11,0.29,16.1,5,0,1,9.7,8.8,0.12,-1.7,-0.8,shooting
+ITA-Serie A,2021,Benevento,Giuseppe Di Serio,ITA,"FW,MF",19,2001,3.2,0,4,2,50.0,1.23,0.62,0.0,0.0,16.6,0,0,0,0.6,0.6,0.16,-0.6,-0.6,shooting
+ITA-Serie A,2021,Benevento,Iago Falque,ESP,"MF,FW",30,1990,4.0,1,11,1,9.1,2.77,0.25,0.09,1.0,21.1,0,0,0,0.4,0.4,0.04,0.6,0.6,shooting
+ITA-Serie A,2021,Benevento,Kamil Glik,POL,DF,32,1988,35.6,2,29,11,37.9,0.81,0.31,0.07,0.18,11.6,0,0,0,3.4,3.4,0.12,-1.4,-1.4,shooting
+ITA-Serie A,2021,Benevento,Lorenzo Del Pinto,ITA,MF,30,1990,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Lorenzo Montipò,ITA,GK,24,1996,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Luca Caldirola,ITA,DF,29,1991,17.5,2,7,3,42.9,0.4,0.17,0.29,0.67,11.0,0,0,0,0.9,0.9,0.13,1.1,1.1,shooting
+ITA-Serie A,2021,Benevento,Marco Sau,ITA,"MF,FW",32,1987,8.7,4,10,5,50.0,1.15,0.57,0.3,0.6,17.3,1,1,1,2.4,1.6,0.16,1.6,1.4,shooting
+ITA-Serie A,2021,Benevento,Niccolò Manfredini,ITA,GK,32,1988,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Benevento,Nicolas Viola,ITA,MF,30,1989,11.5,5,14,4,28.6,1.22,0.35,0.07,0.25,29.1,2,4,4,3.8,0.6,0.05,1.2,0.4,shooting
+ITA-Serie A,2021,Benevento,Pasquale Schiattarella,ITA,MF,33,1987,25.0,1,11,6,54.5,0.44,0.24,0.09,0.17,15.6,0,0,0,0.7,0.7,0.07,0.3,0.3,shooting
+ITA-Serie A,2021,Benevento,Përparim Hetemaj,FIN,MF,33,1986,24.6,0,12,3,25.0,0.49,0.12,0.0,0.0,20.1,0,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+ITA-Serie A,2021,Benevento,Riccardo Improta,ITA,"DF,MF",26,1993,25.9,1,35,6,17.1,1.35,0.23,0.03,0.17,19.0,0,0,0,2.0,2.0,0.06,-1.0,-1.0,shooting
+ITA-Serie A,2021,Benevento,Roberto Insigne,ITA,"MF,FW",26,1994,17.8,2,38,12,31.6,2.14,0.68,0.05,0.17,16.7,0,0,0,3.9,3.9,0.1,-1.9,-1.9,shooting
+ITA-Serie A,2021,Benevento,Siriki Sanogo,CIV,MF,18,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Aaron Hickey,SCO,DF,18,2002,8.4,0,2,0,0.0,0.24,0.0,0.0,,29.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Bologna,Adama Soumaoro,FRA,DF,28,1992,19.5,1,8,2,25.0,0.41,0.1,0.13,0.5,9.5,0,0,0,1.4,1.4,0.17,-0.4,-0.4,shooting
+ITA-Serie A,2021,Bologna,Andrea Poli,ITA,MF,30,1989,4.3,1,3,2,66.7,0.7,0.47,0.33,0.5,10.8,0,0,0,1.0,1.0,0.33,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Andreas Skov Olsen,DEN,"FW,DF",20,1999,13.1,2,30,10,33.3,2.29,0.76,0.07,0.2,19.5,2,0,0,4.1,4.1,0.14,-2.1,-2.1,shooting
+ITA-Serie A,2021,Bologna,Andri Fannar Baldursson,ISL,MF,18,2002,2.4,0,2,0,0.0,0.83,0.0,0.0,,9.2,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+ITA-Serie A,2021,Bologna,Angelo da Costa Júnior,BRA,GK,36,1983,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Antonio Raimondo,ITA,FW,16,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Arturo Calabresi,ITA,"DF,FW",24,1996,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Danilo Larangeira,BRA,DF,36,1984,34.8,0,16,2,12.5,0.46,0.06,0.0,0.0,12.0,0,0,0,1.2,1.2,0.07,-1.2,-1.2,shooting
+ITA-Serie A,2021,Bologna,Edoardo Vergani,ITA,FW,19,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Emanuel Vignato,ITA,"FW,MF",19,2000,13.4,1,23,8,34.8,1.72,0.6,0.04,0.13,20.2,1,0,0,1.5,1.5,0.06,-0.5,-0.5,shooting
+ITA-Serie A,2021,Bologna,Federico Ravaglia,ITA,GK,20,1999,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Federico Santander,PAR,FW,29,1991,0.4,0,4,0,0.0,9.73,0.0,0.0,,17.2,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+ITA-Serie A,2021,Bologna,Gary Medel,CHI,"DF,MF",32,1987,5.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Ibrahima Mbaye,SEN,DF,25,1994,4.8,1,1,1,100.0,0.21,0.21,1.0,1.0,3.1,0,0,0,0.6,0.0,0.0,0.4,1.0,shooting
+ITA-Serie A,2021,Bologna,Jerdy Schouten,NED,MF,23,1997,27.9,1,9,4,44.4,0.32,0.14,0.11,0.25,28.7,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+ITA-Serie A,2021,Bologna,Kacper Urbanski,POL,FW,15,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Lorenzo De Silvestri,ITA,DF,32,1988,23.8,2,11,6,54.5,0.46,0.25,0.18,0.33,11.6,0,0,0,2.1,2.1,0.19,-0.1,-0.1,shooting
+ITA-Serie A,2021,Bologna,Mattia Pagliuca,ITA,MF,18,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Mattias Svanberg,SWE,MF,21,1999,20.6,5,58,17,29.3,2.82,0.83,0.09,0.29,22.3,1,0,0,4.6,4.6,0.08,0.4,0.4,shooting
+ITA-Serie A,2021,Bologna,Mitchell Dijks,NED,DF,27,1993,16.5,0,2,0,0.0,0.12,0.0,0.0,,13.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Bologna,Musa Barrow,GAM,"FW,MF",21,1998,32.5,8,88,38,43.2,2.71,1.17,0.09,0.21,20.9,6,0,1,7.0,6.2,0.07,1.0,1.8,shooting
+ITA-Serie A,2021,Bologna,Musa Juwara,GAM,"MF,DF",18,2001,0.5,0,1,1,100.0,1.96,1.96,0.0,0.0,22.9,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Nehuén Paz,ARG,DF,27,1993,4.0,1,2,1,50.0,0.5,0.25,0.5,1.0,6.4,0,0,0,0.4,0.4,0.18,0.6,0.6,shooting
+ITA-Serie A,2021,Bologna,Nicola Sansone,ITA,"FW,MF",28,1991,13.0,2,31,13,41.9,2.39,1.0,0.06,0.15,18.1,3,0,0,3.9,3.9,0.13,-1.9,-1.9,shooting
+ITA-Serie A,2021,Bologna,Nicolás Domínguez,ARG,MF,22,1998,13.9,1,18,5,27.8,1.29,0.36,0.06,0.2,19.7,0,0,0,1.2,1.2,0.06,-0.2,-0.2,shooting
+ITA-Serie A,2021,Bologna,Omar Khailoti,ITA,DF,18,2001,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Paolo Faragò,ITA,DF,27,1993,0.3,0,1,0,0.0,3.91,0.0,0.0,,10.4,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Bologna,Riccardo Orsolini,ITA,"FW,MF",23,1997,19.5,7,53,19,35.8,2.72,0.97,0.08,0.21,18.8,11,3,3,9.3,7.1,0.13,-2.3,-3.1,shooting
+ITA-Serie A,2021,Bologna,Roberto Soriano,ITA,MF,29,1991,36.1,9,61,19,31.1,1.69,0.53,0.15,0.47,18.3,0,0,0,6.9,6.9,0.11,2.1,2.1,shooting
+ITA-Serie A,2021,Bologna,Rodrigo Palacio,ARG,FW,38,1982,27.8,5,54,23,42.6,1.94,0.83,0.09,0.22,13.2,0,0,0,9.3,9.3,0.17,-4.3,-4.3,shooting
+ITA-Serie A,2021,Bologna,Simone Rabbi,ITA,"FW,DF",18,2001,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Stefano Denswil,SUR,DF,27,1993,1.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Takehiro Tomiyasu,JPN,DF,21,1998,30.2,2,16,4,25.0,0.53,0.13,0.13,0.5,17.2,0,0,0,2.1,2.1,0.13,-0.1,-0.1,shooting
+ITA-Serie A,2021,Bologna,Valentin Antov,BUL,DF,19,2000,2.6,0,1,0,0.0,0.39,0.0,0.0,,31.1,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Wisdom Amey,ITA,DF,14,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Bologna,Łukasz Skorupski,POL,GK,29,1991,28.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Adam Ounas,ALG,"MF,FW",23,1996,3.4,0,6,0,0.0,1.75,0.0,0.0,,19.1,0,0,0,0.9,0.9,0.14,-0.9,-0.9,shooting
+ITA-Serie A,2021,Cagliari,Alberto Cerri,ITA,FW,24,1996,4.1,1,16,6,37.5,3.9,1.46,0.06,0.17,11.5,0,0,0,3.0,3.0,0.19,-2.0,-2.0,shooting
+ITA-Serie A,2021,Cagliari,Alessandro Deiola,ITA,MF,24,1995,6.8,0,6,1,16.7,0.88,0.15,0.0,0.0,22.6,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ITA-Serie A,2021,Cagliari,Alessandro Tripaldelli,ITA,DF,21,1999,3.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Alessio Cragno,ITA,GK,26,1994,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Alfred Duncan,GHA,MF,27,1993,11.9,0,7,0,0.0,0.59,0.0,0.0,,26.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ITA-Serie A,2021,Cagliari,Andrea Carboni,ITA,DF,19,2001,12.1,0,5,0,0.0,0.41,0.0,0.0,,11.4,0,0,0,0.4,0.4,0.08,-0.4,-0.4,shooting
+ITA-Serie A,2021,Cagliari,Arturo Calabresi,ITA,DF,24,1996,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Charalambos Lykogiannis,GRE,DF,26,1993,26.9,4,28,7,25.0,1.04,0.26,0.14,0.57,21.0,9,0,0,2.1,2.1,0.08,1.9,1.9,shooting
+ITA-Serie A,2021,Cagliari,Christian Oliva,URU,MF,24,1996,4.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Daniele Rugani,ITA,DF,26,1994,11.1,1,3,1,33.3,0.27,0.09,0.33,1.0,8.3,0,0,0,0.4,0.4,0.14,0.6,0.6,shooting
+ITA-Serie A,2021,Cagliari,Diego Godín,URU,DF,34,1986,27.9,1,12,4,33.3,0.43,0.14,0.08,0.25,10.9,0,0,0,0.8,0.8,0.07,0.2,0.2,shooting
+ITA-Serie A,2021,Cagliari,Fabio Pisacane,ITA,DF,34,1986,2.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Fabrizio Caligara,ITA,"MF,FW",20,2000,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Gabriele Zappa,ITA,DF,20,1999,26.6,0,11,0,0.0,0.41,0.0,0.0,,17.9,0,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+ITA-Serie A,2021,Cagliari,Gastón Pereiro,URU,"MF,DF",25,1995,3.0,2,14,5,35.7,4.63,1.65,0.14,0.4,15.3,0,0,0,2.3,2.3,0.16,-0.3,-0.3,shooting
+ITA-Serie A,2021,Cagliari,Giovanni Simeone,ARG,FW,25,1995,19.3,6,43,13,30.2,2.22,0.67,0.14,0.46,13.8,0,0,0,7.7,7.7,0.18,-1.7,-1.7,shooting
+ITA-Serie A,2021,Cagliari,Guglielmo Vicario,ITA,GK,23,1996,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,João Pedro,ITA,"FW,MF",28,1992,36.1,16,71,29,40.8,1.96,0.8,0.17,0.41,15.1,3,4,5,12.5,8.7,0.12,3.5,3.3,shooting
+ITA-Serie A,2021,Cagliari,Kiril Despodov,BUL,FW,23,1996,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Kwadwo Asamoah,GHA,"DF,MF",31,1988,2.5,0,2,1,50.0,0.8,0.4,0.0,0.0,23.1,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Cagliari,Leonardo Pavoletti,ITA,FW,31,1988,17.6,4,44,11,25.0,2.5,0.62,0.09,0.36,10.7,0,0,0,7.2,7.2,0.17,-3.2,-3.2,shooting
+ITA-Serie A,2021,Cagliari,Luca Ceppitelli,ITA,DF,30,1989,16.3,0,7,1,14.3,0.43,0.06,0.0,0.0,11.4,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+ITA-Serie A,2021,Cagliari,Marko Rog,CRO,MF,25,1995,12.9,0,8,2,25.0,0.62,0.15,0.0,0.0,27.5,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ITA-Serie A,2021,Cagliari,Mattéo Tramoni,FRA,"MF,FW",20,2000,0.8,0,1,0,0.0,1.22,0.0,0.0,,23.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Cagliari,Nahitan Nández,URU,"MF,DF",24,1995,30.4,2,32,14,43.8,1.05,0.46,0.06,0.14,17.8,0,0,0,3.3,3.3,0.1,-1.3,-1.3,shooting
+ITA-Serie A,2021,Cagliari,Paolo Faragò,ITA,DF,27,1993,4.1,0,3,0,0.0,0.73,0.0,0.0,,17.2,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ITA-Serie A,2021,Cagliari,Radja Nainggolan,BEL,MF,32,1988,20.5,1,49,6,12.2,2.4,0.29,0.02,0.17,26.1,0,0,0,1.5,1.5,0.03,-0.5,-0.5,shooting
+ITA-Serie A,2021,Cagliari,Ragnar Klavan,EST,DF,34,1985,8.6,0,6,1,16.7,0.7,0.12,0.0,0.0,18.2,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+ITA-Serie A,2021,Cagliari,Riccardo Sottil,ITA,"FW,MF",21,1999,13.2,2,25,9,36.0,1.9,0.68,0.08,0.22,16.9,0,0,0,1.5,1.5,0.06,0.5,0.5,shooting
+ITA-Serie A,2021,Cagliari,Răzvan Marin,ROU,MF,24,1996,32.9,3,27,10,37.0,0.82,0.3,0.11,0.3,24.6,1,0,0,1.4,1.4,0.05,1.6,1.6,shooting
+ITA-Serie A,2021,Cagliari,Sebastian Walukiewicz,POL,DF,20,2000,18.0,0,3,1,33.3,0.17,0.06,0.0,0.0,7.0,0,0,0,0.7,0.7,0.22,-0.7,-0.7,shooting
+ITA-Serie A,2021,Crotone,Adam Ounas,ALG,"FW,MF",23,1996,13.3,4,25,10,40.0,1.88,0.75,0.16,0.4,17.4,0,0,0,2.3,2.3,0.09,1.7,1.7,shooting
+ITA-Serie A,2021,Crotone,Ahmad Benali,LBY,MF,28,1992,13.5,0,10,4,40.0,0.74,0.3,0.0,0.0,17.9,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
+ITA-Serie A,2021,Crotone,Alex Cordaz,ITA,GK,37,1983,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Andrea Rispoli,ITA,DF,31,1988,7.2,0,4,1,25.0,0.55,0.14,0.0,0.0,23.1,0,0,0,0.4,0.4,0.1,-0.4,-0.4,shooting
+ITA-Serie A,2021,Crotone,Antonio Mazzotta,ITA,DF,30,1989,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Arkadiusz Reca,POL,DF,25,1995,25.7,2,30,7,23.3,1.17,0.27,0.07,0.29,19.9,0,0,0,1.5,1.5,0.05,0.5,0.5,shooting
+ITA-Serie A,2021,Crotone,Augustus Kargbo,SLE,FW,20,1999,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Denis Drăguș,ROU,"FW,MF",21,1999,2.0,0,4,0,0.0,2.03,0.0,0.0,,25.2,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ITA-Serie A,2021,Crotone,Eduardo Henrique,BRA,MF,25,1995,10.3,1,9,1,11.1,0.88,0.1,0.11,1.0,18.3,0,0,0,0.9,0.9,0.1,0.1,0.1,shooting
+ITA-Serie A,2021,Crotone,Emmanuel Rivière,FRA,FW,30,1990,7.1,1,12,4,33.3,1.69,0.56,0.08,0.25,15.1,0,0,0,1.1,1.1,0.09,-0.1,-0.1,shooting
+ITA-Serie A,2021,Crotone,Gian Crespi,ITA,GK,19,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Giovanni Crociata,ITA,DF,22,1997,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Giuseppe Cuomo,ITA,DF,22,1998,8.9,0,2,0,0.0,0.22,0.0,0.0,,8.7,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
+ITA-Serie A,2021,Crotone,Jacopo Petriccione,ITA,MF,25,1995,10.6,0,3,1,33.3,0.28,0.09,0.0,0.0,27.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Crotone,Junior Messias,BRA,"MF,FW",29,1991,35.7,9,98,31,31.6,2.74,0.87,0.09,0.29,21.8,9,0,0,7.6,7.6,0.08,1.4,1.4,shooting
+ITA-Serie A,2021,Crotone,Koffi Djidji,CIV,DF,27,1992,16.9,1,4,2,50.0,0.24,0.12,0.25,0.5,10.8,0,0,0,0.3,0.3,0.07,0.7,0.7,shooting
+ITA-Serie A,2021,Crotone,Lisandro Magallán,ARG,DF,26,1993,24.2,1,8,2,25.0,0.33,0.08,0.13,0.5,8.5,0,0,0,1.2,1.2,0.15,-0.2,-0.2,shooting
+ITA-Serie A,2021,Crotone,Luca Cigarini,ITA,MF,34,1986,10.3,0,15,2,13.3,1.45,0.19,0.0,0.0,26.5,3,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+ITA-Serie A,2021,Crotone,Luca Marrone,ITA,DF,30,1990,17.6,0,4,2,50.0,0.23,0.11,0.0,0.0,7.2,0,0,0,0.4,0.4,0.11,-0.4,-0.4,shooting
+ITA-Serie A,2021,Crotone,Luca Siligardi,ITA,"MF,FW",32,1988,0.5,0,2,1,50.0,3.67,1.84,0.0,0.0,16.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Crotone,Luis Rojas,CHI,"MF,FW",18,2002,1.2,0,1,0,0.0,0.87,0.0,0.0,,23.0,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Marco Festa,ITA,GK,28,1992,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Miloš Vulić,SRB,MF,23,1996,14.5,1,17,4,23.5,1.17,0.28,0.06,0.25,23.4,1,0,0,0.6,0.6,0.04,0.4,0.4,shooting
+ITA-Serie A,2021,Crotone,Niccolò Zanellato,ITA,MF,22,1998,18.2,1,5,1,20.0,0.27,0.05,0.2,1.0,21.8,0,0,0,0.4,0.4,0.08,0.6,0.6,shooting
+ITA-Serie A,2021,Crotone,Pedro Pereira,POR,DF,22,1998,28.3,0,14,5,35.7,0.49,0.18,0.0,0.0,21.7,2,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+ITA-Serie A,2021,Crotone,Salvatore Molina,ITA,"MF,DF",28,1992,25.7,1,15,5,33.3,0.58,0.19,0.07,0.2,21.5,0,0,0,0.7,0.7,0.05,0.3,0.3,shooting
+ITA-Serie A,2021,Crotone,Samuel Di Carmine,ITA,FW,31,1988,5.3,0,6,1,16.7,1.14,0.19,0.0,0.0,12.1,0,0,0,0.5,0.5,0.09,-0.5,-0.5,shooting
+ITA-Serie A,2021,Crotone,Sebastiano Luperto,ITA,DF,23,1996,20.9,0,5,1,20.0,0.24,0.05,0.0,0.0,20.1,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+ITA-Serie A,2021,Crotone,Simeon Nwankwo,NGA,FW,28,1992,32.7,20,55,24,43.6,1.68,0.73,0.22,0.5,12.6,0,8,8,19.1,12.8,0.23,0.9,-0.8,shooting
+ITA-Serie A,2021,Crotone,Tomislav Gomelt,CRO,MF,25,1995,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Crotone,Vladimir Golemić,SVN,DF,29,1991,26.0,2,5,2,40.0,0.19,0.08,0.2,0.5,11.3,0,1,1,1.2,0.4,0.09,0.8,0.6,shooting
+ITA-Serie A,2021,Fiorentina,Aleksandr Kokorin,RUS,"FW,MF",29,1991,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Alfred Duncan,GHA,MF,27,1993,1.8,0,1,0,0.0,0.56,0.0,0.0,,26.5,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Antonio Barreca,ITA,DF,25,1995,0.9,0,2,1,50.0,2.12,1.06,0.0,0.0,14.8,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Fiorentina,Bartłomiej Drągowski,POL,GK,22,1997,35.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Borja Valero,ESP,"MF,FW",35,1985,5.5,0,5,0,0.0,0.92,0.0,0.0,,20.3,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ITA-Serie A,2021,Fiorentina,Christian Kouamé,CIV,FW,22,1997,11.1,1,17,6,35.3,1.54,0.54,0.06,0.17,10.6,0,0,0,3.2,3.2,0.19,-2.2,-2.2,shooting
+ITA-Serie A,2021,Fiorentina,Cristiano Biraghi,ITA,DF,27,1992,31.1,1,25,6,24.0,0.8,0.19,0.04,0.17,20.5,7,0,0,1.9,1.9,0.07,-0.9,-0.9,shooting
+ITA-Serie A,2021,Fiorentina,Cristóbal Montiel,ESP,"MF,FW",20,2000,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Dušan Vlahović,SRB,FW,20,2000,32.5,21,80,33,41.3,2.46,1.02,0.19,0.45,14.9,1,6,6,18.5,13.8,0.17,2.5,1.2,shooting
+ITA-Serie A,2021,Fiorentina,Erick Pulgar,CHI,MF,26,1994,22.2,1,16,3,18.8,0.72,0.13,0.06,0.33,24.6,4,0,0,0.8,0.8,0.05,0.2,0.2,shooting
+ITA-Serie A,2021,Fiorentina,Federico Ceccherini,ITA,DF,28,1992,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Federico Chiesa,ITA,DF,22,1997,2.7,1,10,1,10.0,3.75,0.37,0.1,1.0,18.3,0,0,0,0.8,0.8,0.08,0.2,0.2,shooting
+ITA-Serie A,2021,Fiorentina,Franck Ribéry,FRA,FW,37,1983,23.9,2,21,9,42.9,0.88,0.38,0.1,0.22,15.7,0,0,0,2.6,2.6,0.13,-0.6,-0.6,shooting
+ITA-Serie A,2021,Fiorentina,Gaetano Castrovilli,ITA,MF,23,1997,25.9,5,32,13,40.6,1.23,0.5,0.16,0.38,17.3,0,0,0,3.0,3.0,0.09,2.0,2.0,shooting
+ITA-Serie A,2021,Fiorentina,Germán Pezzella,ARG,DF,29,1991,30.5,1,16,2,12.5,0.52,0.07,0.06,0.5,10.8,0,0,0,1.3,1.3,0.08,-0.3,-0.3,shooting
+ITA-Serie A,2021,Fiorentina,Giacomo Bonaventura,ITA,MF,30,1989,25.1,3,44,11,25.0,1.76,0.44,0.07,0.27,20.9,1,0,0,2.7,2.7,0.06,0.3,0.3,shooting
+ITA-Serie A,2021,Fiorentina,Igor,BRA,DF,22,1998,13.0,0,1,1,100.0,0.08,0.08,0.0,0.0,7.2,0,0,0,0.3,0.3,0.26,-0.3,-0.3,shooting
+ITA-Serie A,2021,Fiorentina,José Callejón,ESP,"FW,MF",33,1987,7.4,0,10,1,10.0,1.36,0.14,0.0,0.0,17.4,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ITA-Serie A,2021,Fiorentina,Kévin Malcuit,MAR,DF,29,1991,2.3,0,2,0,0.0,0.87,0.0,0.0,,23.0,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Fiorentina,Lorenzo Venuti,ITA,DF,25,1995,19.5,0,4,0,0.0,0.2,0.0,0.0,,19.2,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ITA-Serie A,2021,Fiorentina,Lucas Martínez Quarta,ARG,DF,24,1996,16.5,1,16,4,25.0,0.97,0.24,0.06,0.25,16.7,0,0,0,1.5,1.5,0.09,-0.5,-0.5,shooting
+ITA-Serie A,2021,Fiorentina,Martín Cáceres,URU,DF,33,1987,24.9,2,15,6,40.0,0.6,0.24,0.13,0.33,15.7,0,0,0,1.7,1.7,0.12,0.3,0.3,shooting
+ITA-Serie A,2021,Fiorentina,Maximiliano Olivera,URU,DF,28,1992,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Nikola Milenković,SRB,DF,22,1997,33.7,3,21,9,42.9,0.62,0.27,0.14,0.33,12.9,0,0,0,3.9,3.9,0.21,-0.9,-0.9,shooting
+ITA-Serie A,2021,Fiorentina,Patrick Cutrone,ITA,FW,22,1998,2.2,0,3,1,33.3,1.38,0.46,0.0,0.0,13.5,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ITA-Serie A,2021,Fiorentina,Pietro Terracciano,ITA,GK,30,1990,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Pol Lirola,ESP,"DF,FW",22,1997,5.5,0,2,0,0.0,0.36,0.0,0.0,,11.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+ITA-Serie A,2021,Fiorentina,Riccardo Saponara,ITA,MF,28,1991,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Fiorentina,Sofyan Amrabat,MAR,MF,23,1996,27.1,0,10,3,30.0,0.37,0.11,0.0,0.0,21.0,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ITA-Serie A,2021,Fiorentina,Valentin Eysseric,FRA,"MF,FW",28,1992,8.1,2,13,5,38.5,1.6,0.62,0.15,0.4,17.4,1,0,0,1.3,1.3,0.1,0.7,0.7,shooting
+ITA-Serie A,2021,Genoa,Alberto Paleari,ITA,GK,27,1992,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Andrea Masiello,ITA,DF,34,1986,28.5,0,5,0,0.0,0.18,0.0,0.0,,16.4,0,0,0,0.5,0.5,0.09,-0.5,-0.5,shooting
+ITA-Serie A,2021,Genoa,Cristián Zapata,COL,DF,33,1986,10.8,0,3,2,66.7,0.28,0.19,0.0,0.0,15.4,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+ITA-Serie A,2021,Genoa,Davide Biraschi,ITA,DF,26,1994,10.2,0,2,0,0.0,0.2,0.0,0.0,,22.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Genoa,Davide Zappacosta,ITA,DF,28,1992,22.7,4,41,13,31.7,1.8,0.57,0.1,0.31,20.0,0,0,0,2.6,2.6,0.06,1.4,1.4,shooting
+ITA-Serie A,2021,Genoa,Domenico Criscito,ITA,DF,33,1986,19.2,1,5,1,20.0,0.26,0.05,0.0,0.0,29.2,0,1,1,0.9,0.1,0.03,0.1,-0.1,shooting
+ITA-Serie A,2021,Genoa,Edoardo Goldaniga,ITA,DF,26,1993,20.6,0,7,0,0.0,0.34,0.0,0.0,,13.4,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+ITA-Serie A,2021,Genoa,Eldor Shomurodov,UZB,FW,25,1995,18.6,8,39,17,43.6,2.09,0.91,0.21,0.47,14.5,0,0,0,5.7,5.7,0.15,2.3,2.3,shooting
+ITA-Serie A,2021,Genoa,Federico Marchetti,ITA,GK,37,1983,3.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Filippo Melegoni,ITA,"MF,DF",21,1999,4.3,0,4,1,25.0,0.93,0.23,0.0,0.0,23.1,2,0,0,0.4,0.4,0.09,-0.4,-0.4,shooting
+ITA-Serie A,2021,Genoa,Francesco Cassata,ITA,"DF,FW",23,1997,2.5,0,1,1,100.0,0.4,0.4,0.0,0.0,28.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Gianluca Scamacca,ITA,FW,21,1999,15.0,8,45,16,35.6,3.0,1.07,0.13,0.38,17.6,1,2,2,7.9,6.3,0.14,0.1,-0.3,shooting
+ITA-Serie A,2021,Genoa,Giuseppe Caso,ITA,"DF,FW",21,1998,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Goran Pandev,MKD,"FW,MF",37,1983,15.6,7,19,10,52.6,1.22,0.64,0.32,0.6,16.1,0,1,1,4.2,3.4,0.18,2.8,2.6,shooting
+ITA-Serie A,2021,Genoa,Ivan Radovanović,SRB,"DF,MF",31,1988,24.8,0,6,1,16.7,0.24,0.04,0.0,0.0,18.6,1,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ITA-Serie A,2021,Genoa,Jérôme Onguéné,CMR,DF,22,1997,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Kevin Strootman,NED,MF,30,1990,14.6,0,6,2,33.3,0.41,0.14,0.0,0.0,17.9,0,0,0,0.5,0.5,0.09,-0.5,-0.5,shooting
+ITA-Serie A,2021,Genoa,Lennart-Marten Czyborra,GER,DF,21,1999,13.0,1,5,2,40.0,0.38,0.15,0.2,0.5,19.2,0,0,0,0.2,0.2,0.04,0.8,0.8,shooting
+ITA-Serie A,2021,Genoa,Luca Pellegrini,ITA,"DF,MF",21,1999,7.1,0,5,0,0.0,0.7,0.0,0.0,,25.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Genoa,Lukas Lerager,DEN,MF,27,1993,12.9,0,4,2,50.0,0.31,0.16,0.0,0.0,17.0,0,0,0,0.6,0.6,0.16,-0.6,-0.6,shooting
+ITA-Serie A,2021,Genoa,Manolo Portanova,ITA,"MF,FW",20,2000,0.7,0,1,1,100.0,1.36,1.36,0.0,0.0,61.7,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Marko Pjaca,CRO,"FW,MF",25,1995,15.8,3,29,11,37.9,1.84,0.7,0.1,0.27,17.2,0,0,0,2.6,2.6,0.09,0.4,0.4,shooting
+ITA-Serie A,2021,Genoa,Mattia Bani,ITA,DF,26,1993,10.2,0,5,1,20.0,0.49,0.1,0.0,0.0,10.0,0,0,0,0.6,0.6,0.11,-0.6,-0.6,shooting
+ITA-Serie A,2021,Genoa,Mattia Destro,ITA,FW,29,1991,17.8,11,37,22,59.5,2.07,1.23,0.3,0.5,12.1,0,0,0,6.2,6.2,0.17,4.8,4.8,shooting
+ITA-Serie A,2021,Genoa,Mattia Perin,ITA,GK,27,1992,32.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Miha Zajc,SVN,MF,26,1994,20.7,1,19,4,21.1,0.92,0.19,0.05,0.25,18.9,3,0,0,1.8,1.8,0.09,-0.8,-0.8,shooting
+ITA-Serie A,2021,Genoa,Milan Badelj,CRO,MF,31,1989,26.8,1,17,4,23.5,0.64,0.15,0.06,0.25,25.3,0,0,0,0.8,0.8,0.05,0.2,0.2,shooting
+ITA-Serie A,2021,Genoa,Nicolò Rovella,ITA,MF,18,2001,13.2,0,11,2,18.2,0.83,0.15,0.0,0.0,22.7,2,0,0,0.9,0.9,0.08,-0.9,-0.9,shooting
+ITA-Serie A,2021,Genoa,Paolo Ghiglione,ITA,"DF,MF",23,1997,15.1,0,10,2,20.0,0.66,0.13,0.0,0.0,22.7,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+ITA-Serie A,2021,Genoa,Steeve-Mike Ebongue,FRA,MF,19,2001,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Stefano Sturaro,ITA,MF,27,1993,4.9,1,5,2,40.0,1.01,0.4,0.2,0.5,18.4,2,0,0,0.6,0.6,0.13,0.4,0.4,shooting
+ITA-Serie A,2021,Genoa,Valon Behrami,SUI,MF,35,1985,9.9,0,4,1,25.0,0.4,0.1,0.0,0.0,14.5,0,0,0,0.5,0.5,0.12,-0.5,-0.5,shooting
+ITA-Serie A,2021,Genoa,Vittorio Parigini,ITA,"MF,DF",24,1996,0.6,0,1,1,100.0,1.61,1.61,0.0,0.0,31.8,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ITA-Serie A,2021,Genoa,Yayah Kallon,SLE,FW,19,2001,0.5,0,2,1,50.0,4.0,2.0,0.0,0.0,17.6,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Hellas Verona,Adrien Tameze,CMR,MF,26,1994,25.6,1,18,3,16.7,0.7,0.12,0.06,0.33,21.4,0,0,0,1.2,1.2,0.07,-0.2,-0.2,shooting
+ITA-Serie A,2021,Hellas Verona,Alan Empereur,BRA,DF,26,1994,2.4,0,1,0,0.0,0.41,0.0,0.0,,7.3,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+ITA-Serie A,2021,Hellas Verona,Alessandro Berardi,ITA,GK,29,1991,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Andrea Danzi,ITA,DF,21,1999,1.2,0,1,0,0.0,0.87,0.0,0.0,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Andrea Favilli,ITA,FW,23,1997,3.8,2,13,4,30.8,3.45,1.06,0.15,0.5,13.3,0,0,0,1.6,1.6,0.12,0.4,0.4,shooting
+ITA-Serie A,2021,Hellas Verona,Antonín Barák,CZE,MF,25,1994,30.7,7,45,16,35.6,1.46,0.52,0.16,0.44,15.9,1,0,0,6.8,6.8,0.15,0.2,0.2,shooting
+ITA-Serie A,2021,Hellas Verona,Daniel Bessa,ITA,MF,27,1993,6.8,0,8,4,50.0,1.17,0.59,0.0,0.0,17.1,0,0,0,1.0,1.0,0.13,-1.0,-1.0,shooting
+ITA-Serie A,2021,Hellas Verona,Darko Lazović,SRB,"DF,MF",29,1990,27.8,3,32,11,34.4,1.15,0.4,0.09,0.27,17.8,2,0,0,3.4,3.4,0.11,-0.4,-0.4,shooting
+ITA-Serie A,2021,Hellas Verona,Davide Faraoni,ITA,DF,28,1991,32.1,4,34,9,26.5,1.06,0.28,0.12,0.44,13.8,0,0,0,3.1,3.1,0.09,0.9,0.9,shooting
+ITA-Serie A,2021,Hellas Verona,Destiny Udogie,ITA,"DF,MF",17,2002,1.9,0,1,0,0.0,0.53,0.0,0.0,,6.0,0,0,0,0.3,0.3,0.29,-0.3,-0.3,shooting
+ITA-Serie A,2021,Hellas Verona,Ebrima Colley,GAM,"MF,FW",20,2000,8.2,1,17,7,41.2,2.08,0.86,0.06,0.14,14.9,0,0,0,1.7,1.7,0.1,-0.7,-0.7,shooting
+ITA-Serie A,2021,Hellas Verona,Eddie Salcedo,ITA,"MF,FW",18,2001,8.4,2,22,10,45.5,2.62,1.19,0.09,0.2,15.0,0,0,0,3.9,3.9,0.18,-1.9,-1.9,shooting
+ITA-Serie A,2021,Hellas Verona,Federico Ceccherini,ITA,DF,28,1992,19.3,0,12,0,0.0,0.62,0.0,0.0,,9.5,0,0,0,1.3,1.3,0.11,-1.3,-1.3,shooting
+ITA-Serie A,2021,Hellas Verona,Federico Dimarco,ITA,DF,22,1997,29.0,5,38,12,31.6,1.31,0.41,0.13,0.42,21.0,6,0,0,2.8,2.8,0.08,2.2,2.2,shooting
+ITA-Serie A,2021,Hellas Verona,Giangiacomo Magnani,ITA,DF,24,1995,16.8,0,13,2,15.4,0.77,0.12,0.0,0.0,18.6,0,0,0,1.0,1.0,0.08,-1.0,-1.0,shooting
+ITA-Serie A,2021,Hellas Verona,Ivan Ilić,SRB,MF,19,2001,20.4,2,12,3,25.0,0.59,0.15,0.17,0.67,22.1,1,0,0,1.6,1.6,0.14,0.4,0.4,shooting
+ITA-Serie A,2021,Hellas Verona,Ivor Pandur,CRO,GK,20,2000,3.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Kevin Lasagna,ITA,FW,27,1992,14.1,2,30,6,20.0,2.13,0.43,0.07,0.33,15.0,0,0,0,3.2,3.2,0.11,-1.2,-1.2,shooting
+ITA-Serie A,2021,Hellas Verona,Kevin Rüegg,SUI,"DF,MF",21,1998,2.3,0,1,1,100.0,0.44,0.44,0.0,0.0,27.8,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Koray Günter,GER,DF,25,1994,19.6,0,6,2,33.3,0.31,0.1,0.0,0.0,18.0,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ITA-Serie A,2021,Hellas Verona,Marco Silvestri,ITA,GK,29,1991,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Matteo Lovato,ITA,DF,20,2000,15.4,0,1,0,0.0,0.06,0.0,0.0,,7.4,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+ITA-Serie A,2021,Hellas Verona,Mattia Zaccagni,ITA,MF,25,1995,29.0,5,30,12,40.0,1.03,0.41,0.13,0.33,19.2,1,1,1,3.2,2.4,0.08,1.8,1.6,shooting
+ITA-Serie A,2021,Hellas Verona,Miguel Veloso,POR,MF,34,1986,14.6,2,10,2,20.0,0.68,0.14,0.0,0.0,29.9,2,2,2,1.9,0.4,0.04,0.1,-0.4,shooting
+ITA-Serie A,2021,Hellas Verona,Nikola Kalinić,CRO,FW,32,1988,11.8,2,24,7,29.2,2.03,0.59,0.08,0.29,12.0,0,0,0,4.1,4.1,0.17,-2.1,-2.1,shooting
+ITA-Serie A,2021,Hellas Verona,Paweł Dawidowicz,POL,DF,25,1995,20.7,0,15,4,26.7,0.73,0.19,0.0,0.0,12.0,0,0,0,1.9,1.9,0.13,-1.9,-1.9,shooting
+ITA-Serie A,2021,Hellas Verona,Philip Ankhrah,GHA,MF,17,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Ronaldo Vieira,ENG,"MF,DF",22,1998,2.5,0,2,0,0.0,0.8,0.0,0.0,,23.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Hellas Verona,Samuel Di Carmine,ITA,FW,31,1988,5.6,0,9,2,22.2,1.62,0.36,0.0,0.0,7.3,0,0,0,1.4,1.4,0.23,-1.4,-1.4,shooting
+ITA-Serie A,2021,Hellas Verona,Stefano Sturaro,ITA,MF,27,1993,4.7,0,1,0,0.0,0.21,0.0,0.0,,23.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Hellas Verona,Yıldırım Mert Çetin,TUR,DF,23,1997,4.6,0,2,0,0.0,0.43,0.0,0.0,,10.6,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+ITA-Serie A,2021,Hellas Verona,Ľubomír Tupta,SVK,FW,22,1998,0.6,0,2,1,50.0,3.6,1.8,0.0,0.0,13.2,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+ITA-Serie A,2021,Inter,Achraf Hakimi,MAR,DF,21,1998,29.6,7,39,16,41.0,1.32,0.54,0.18,0.44,17.0,2,0,0,4.7,4.7,0.12,2.3,2.3,shooting
+ITA-Serie A,2021,Inter,Aleksandar Kolarov,SRB,DF,34,1985,4.3,0,6,2,33.3,1.38,0.46,0.0,0.0,29.4,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+ITA-Serie A,2021,Inter,Alessandro Bastoni,ITA,DF,21,1999,32.5,0,10,1,10.0,0.31,0.03,0.0,0.0,9.9,0,0,0,1.0,1.0,0.1,-1.0,-1.0,shooting
+ITA-Serie A,2021,Inter,Alexis Sánchez,CHI,FW,31,1988,12.7,7,28,15,53.6,2.2,1.18,0.25,0.47,16.5,4,0,1,6.4,5.6,0.2,0.6,1.4,shooting
+ITA-Serie A,2021,Inter,Andrea Pinamonti,ITA,FW,21,1999,1.9,1,4,2,50.0,2.13,1.07,0.25,0.5,14.3,0,0,0,0.7,0.7,0.16,0.3,0.3,shooting
+ITA-Serie A,2021,Inter,Andrea Ranocchia,ITA,DF,32,1988,7.8,0,9,2,22.2,1.15,0.26,0.0,0.0,7.6,0,0,0,1.6,1.6,0.17,-1.6,-1.6,shooting
+ITA-Serie A,2021,Inter,Arturo Vidal,CHI,MF,33,1987,12.6,1,21,3,14.3,1.66,0.24,0.05,0.33,15.2,0,0,0,2.4,2.4,0.12,-1.4,-1.4,shooting
+ITA-Serie A,2021,Inter,Ashley Young,ENG,DF,35,1985,15.8,1,15,5,33.3,0.95,0.32,0.07,0.2,17.7,1,0,0,1.3,1.2,0.08,-0.3,-0.2,shooting
+ITA-Serie A,2021,Inter,Christian Eriksen,DEN,MF,28,1992,15.4,3,30,12,40.0,1.95,0.78,0.1,0.25,23.5,7,0,0,1.4,1.4,0.05,1.6,1.6,shooting
+ITA-Serie A,2021,Inter,Daniele Padelli,ITA,GK,34,1985,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Inter,Danilo D'Ambrosio,ITA,DF,31,1988,7.8,3,8,6,75.0,1.03,0.77,0.38,0.5,11.2,0,0,0,1.3,1.3,0.16,1.7,1.7,shooting
+ITA-Serie A,2021,Inter,Ionuț Radu,ROU,GK,23,1997,1.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Inter,Ivan Perišić,CRO,"DF,FW",31,1989,19.9,4,35,10,28.6,1.75,0.5,0.11,0.4,13.1,0,0,0,5.2,5.2,0.15,-1.2,-1.2,shooting
+ITA-Serie A,2021,Inter,Lautaro Martínez,ARG,FW,22,1997,28.5,17,107,37,34.6,3.76,1.3,0.14,0.41,14.9,0,2,2,15.2,13.6,0.13,1.8,1.4,shooting
+ITA-Serie A,2021,Inter,Marcelo Brozović,CRO,MF,27,1992,28.7,2,25,4,16.0,0.87,0.14,0.08,0.5,23.7,1,0,0,1.0,1.0,0.04,1.0,1.0,shooting
+ITA-Serie A,2021,Inter,Matteo Darmian,ITA,DF,30,1989,12.9,3,9,4,44.4,0.7,0.31,0.33,0.75,12.8,0,0,0,1.5,1.5,0.17,1.5,1.5,shooting
+ITA-Serie A,2021,Inter,Matías Vecino,URU,MF,28,1991,3.1,1,6,3,50.0,1.91,0.95,0.17,0.33,15.8,0,0,0,0.8,0.8,0.13,0.2,0.2,shooting
+ITA-Serie A,2021,Inter,Milan Škriniar,SVK,DF,25,1995,30.9,3,15,6,40.0,0.49,0.19,0.2,0.5,10.3,0,0,0,2.3,2.3,0.15,0.7,0.7,shooting
+ITA-Serie A,2021,Inter,Nicolò Barella,ITA,MF,23,1997,32.2,3,36,8,22.2,1.12,0.25,0.08,0.38,21.2,0,0,0,2.4,2.4,0.07,0.6,0.6,shooting
+ITA-Serie A,2021,Inter,Radja Nainggolan,BEL,MF,32,1988,0.5,0,3,0,0.0,5.87,0.0,0.0,,22.5,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Inter,Roberto Gagliardini,ITA,MF,26,1994,13.7,3,17,5,29.4,1.24,0.37,0.18,0.6,16.8,0,0,0,1.2,1.2,0.07,1.8,1.8,shooting
+ITA-Serie A,2021,Inter,Romelu Lukaku,BEL,FW,27,1993,32.0,24,90,42,46.7,2.81,1.31,0.2,0.43,14.5,1,6,6,23.0,18.2,0.21,1.0,-0.2,shooting
+ITA-Serie A,2021,Inter,Samir Handanović,SVN,GK,36,1984,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Inter,Stefan de Vrij,NED,DF,28,1992,30.4,1,12,4,33.3,0.4,0.13,0.08,0.25,9.9,0,0,0,1.2,1.2,0.1,-0.2,-0.2,shooting
+ITA-Serie A,2021,Inter,Stefano Sensi,ITA,MF,24,1995,6.7,0,18,7,38.9,2.69,1.04,0.0,0.0,21.9,1,0,0,1.1,1.1,0.06,-1.1,-1.1,shooting
+ITA-Serie A,2021,Juventus,Aaron Ramsey,WAL,MF,29,1990,12.1,2,24,11,45.8,1.98,0.91,0.08,0.18,14.5,0,0,0,4.2,4.2,0.17,-2.2,-2.2,shooting
+ITA-Serie A,2021,Juventus,Adrien Rabiot,FRA,MF,25,1995,25.7,4,33,12,36.4,1.28,0.47,0.12,0.33,17.5,0,0,0,2.7,2.7,0.08,1.3,1.3,shooting
+ITA-Serie A,2021,Juventus,Alessandro Di Pardo,ITA,"FW,DF",21,1999,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Alex Sandro,BRA,DF,29,1991,20.6,2,13,3,23.1,0.63,0.15,0.15,0.67,13.4,0,0,0,1.6,1.6,0.13,0.4,0.4,shooting
+ITA-Serie A,2021,Juventus,Arthur Melo,BRA,MF,23,1996,12.9,1,3,1,33.3,0.23,0.08,0.33,1.0,25.0,0,0,0,0.1,0.1,0.05,0.9,0.9,shooting
+ITA-Serie A,2021,Juventus,Carlo Pinsoglio,ITA,GK,30,1990,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Cristiano Ronaldo,POR,FW,35,1985,31.1,29,160,61,38.1,5.14,1.96,0.14,0.38,18.5,17,6,8,27.7,21.4,0.13,1.3,1.6,shooting
+ITA-Serie A,2021,Juventus,Danilo,BRA,"DF,MF",29,1991,32.4,1,19,2,10.5,0.59,0.06,0.05,0.5,22.6,0,0,0,1.9,1.9,0.1,-0.9,-0.9,shooting
+ITA-Serie A,2021,Juventus,Dejan Kulusevski,SWE,"MF,FW",20,2000,21.4,4,34,7,20.6,1.59,0.33,0.12,0.57,15.1,0,0,0,3.0,3.0,0.09,1.0,1.0,shooting
+ITA-Serie A,2021,Juventus,Douglas Costa,BRA,"MF,FW",29,1990,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Federico Bernardeschi,ITA,"MF,DF",26,1994,10.8,0,13,6,46.2,1.2,0.56,0.0,0.0,18.3,0,0,0,1.3,1.3,0.1,-1.3,-1.3,shooting
+ITA-Serie A,2021,Juventus,Federico Chiesa,ITA,"MF,DF",22,1997,24.6,8,60,25,41.7,2.44,1.02,0.13,0.32,17.9,0,0,0,6.1,6.1,0.11,1.9,1.9,shooting
+ITA-Serie A,2021,Juventus,Félix Correia,POR,MF,19,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Giacomo Vrioni,ALB,FW,21,1998,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Gianluca Frabotta,ITA,"DF,MF",21,1999,7.7,0,5,2,40.0,0.65,0.26,0.0,0.0,15.5,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ITA-Serie A,2021,Juventus,Gianluigi Buffon,ITA,GK,42,1978,8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Giorgio Chiellini,ITA,DF,35,1984,15.4,0,6,0,0.0,0.39,0.0,0.0,,11.1,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+ITA-Serie A,2021,Juventus,Juan Cuadrado,COL,"DF,MF",32,1988,24.2,2,18,6,33.3,0.74,0.25,0.06,0.17,17.8,0,1,1,2.3,1.5,0.09,-0.3,-0.5,shooting
+ITA-Serie A,2021,Juventus,Leonardo Bonucci,ITA,DF,33,1987,22.5,2,16,3,18.8,0.71,0.13,0.13,0.67,13.7,0,0,0,2.5,2.5,0.16,-0.5,-0.5,shooting
+ITA-Serie A,2021,Juventus,Manolo Portanova,ITA,MF,20,2000,0.8,0,5,2,40.0,6.43,2.57,0.0,0.0,21.2,1,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
+ITA-Serie A,2021,Juventus,Matthijs de Ligt,NED,DF,20,1999,24.7,1,19,6,31.6,0.77,0.24,0.05,0.17,12.1,0,0,0,1.3,1.3,0.07,-0.3,-0.3,shooting
+ITA-Serie A,2021,Juventus,Mattia De Sciglio,ITA,DF,27,1992,0.3,0,1,0,0.0,3.75,0.0,0.0,,20.4,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Merih Demiral,TUR,DF,22,1998,10.4,0,6,2,33.3,0.57,0.19,0.0,0.0,11.1,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+ITA-Serie A,2021,Juventus,Nicolò Fagioli,ITA,MF,19,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Paulo Dybala,ARG,FW,26,1993,12.6,4,51,15,29.4,4.05,1.19,0.08,0.27,19.3,5,0,0,4.6,4.6,0.09,-0.6,-0.6,shooting
+ITA-Serie A,2021,Juventus,Radu Drăgușin,ROU,DF,18,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Rodrigo Bentancur,URU,MF,23,1997,25.8,0,15,5,33.3,0.58,0.19,0.0,0.0,25.1,0,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+ITA-Serie A,2021,Juventus,Weston McKennie,USA,MF,21,1998,18.9,5,29,14,48.3,1.53,0.74,0.17,0.36,10.7,0,0,0,4.9,4.9,0.17,0.1,0.1,shooting
+ITA-Serie A,2021,Juventus,Wojciech Szczęsny,POL,GK,30,1990,29.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Juventus,Álvaro Morata,ESP,FW,27,1992,22.4,11,55,23,41.8,2.46,1.03,0.18,0.43,11.7,0,1,1,10.7,9.9,0.18,0.3,0.1,shooting
+ITA-Serie A,2021,Lazio,Adam Marušić,MNE,DF,27,1992,33.0,2,27,12,44.4,0.82,0.36,0.07,0.17,15.4,0,0,0,2.2,2.2,0.08,-0.2,-0.2,shooting
+ITA-Serie A,2021,Lazio,Andreas Pereira,BRA,"FW,MF",24,1996,6.0,1,14,5,35.7,2.32,0.83,0.07,0.2,21.6,0,0,0,0.7,0.6,0.04,0.3,0.4,shooting
+ITA-Serie A,2021,Lazio,Bastos,ANG,DF,29,1991,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Ciro Immobile,ITA,FW,30,1990,31.7,20,112,44,39.3,3.54,1.39,0.14,0.36,16.5,0,4,8,19.8,13.6,0.12,0.2,2.4,shooting
+ITA-Serie A,2021,Lazio,Danilo Cataldi,ITA,MF,25,1994,6.3,0,6,2,33.3,0.95,0.32,0.0,0.0,20.9,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+ITA-Serie A,2021,Lazio,Denis Vavro,SVK,DF,24,1996,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Djavan Anderson,NED,DF,25,1995,0.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Felipe Caicedo,ECU,FW,31,1988,10.3,8,30,11,36.7,2.91,1.07,0.23,0.64,12.9,0,1,1,5.5,4.7,0.16,2.5,2.3,shooting
+ITA-Serie A,2021,Lazio,Francesco Acerbi,ITA,DF,32,1988,31.3,0,9,0,0.0,0.29,0.0,0.0,,13.1,0,0,0,1.1,1.1,0.12,-1.1,-1.1,shooting
+ITA-Serie A,2021,Lazio,Gonzalo Escalante,ARG,MF,27,1993,8.1,0,7,3,42.9,0.86,0.37,0.0,0.0,24.5,0,0,0,0.7,0.7,0.1,-0.7,-0.7,shooting
+ITA-Serie A,2021,Lazio,Jean-Daniel Akpa-Akpro,CIV,MF,27,1992,11.7,0,12,1,8.3,1.02,0.09,0.0,0.0,16.6,0,0,0,1.2,1.2,0.1,-1.2,-1.2,shooting
+ITA-Serie A,2021,Lazio,Joaquín Correa,ARG,FW,25,1994,21.5,8,53,22,41.5,2.47,1.02,0.13,0.32,13.9,0,1,1,6.9,6.3,0.12,1.1,0.7,shooting
+ITA-Serie A,2021,Lazio,Lucas Leiva,BRA,MF,33,1987,23.7,0,12,3,25.0,0.51,0.13,0.0,0.0,24.8,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ITA-Serie A,2021,Lazio,Luis Alberto,ESP,MF,27,1992,29.1,9,69,29,42.0,2.37,1.0,0.13,0.31,21.3,3,0,0,5.1,5.0,0.07,3.9,4.0,shooting
+ITA-Serie A,2021,Lazio,Luiz Felipe,ITA,DF,23,1997,10.1,0,4,0,0.0,0.4,0.0,0.0,,14.0,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+ITA-Serie A,2021,Lazio,Manuel Lazzari,ITA,DF,26,1993,29.0,2,24,6,25.0,0.83,0.21,0.08,0.33,19.3,0,0,0,2.1,2.1,0.09,-0.1,-0.1,shooting
+ITA-Serie A,2021,Lazio,Marco Bertini,ITA,MF,17,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Marco Parolo,ITA,"DF,MF",35,1985,7.3,0,6,1,16.7,0.83,0.14,0.0,0.0,15.2,0,0,0,0.5,0.5,0.09,-0.5,-0.5,shooting
+ITA-Serie A,2021,Lazio,Mateo Musacchio,ARG,DF,29,1990,2.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Mohamed Fares,ALG,DF,24,1996,12.7,0,14,4,28.6,1.11,0.32,0.0,0.0,18.7,0,0,0,0.7,0.5,0.04,-0.7,-0.5,shooting
+ITA-Serie A,2021,Lazio,Nicolò Armini,ITA,DF,19,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Patric,ESP,DF,27,1993,17.7,0,7,0,0.0,0.39,0.0,0.0,,21.2,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+ITA-Serie A,2021,Lazio,Pepe Reina,ESP,GK,37,1982,29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Raúl Moro,ESP,FW,17,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Senad Lulić,BIH,DF,34,1986,8.0,0,6,3,50.0,0.75,0.38,0.0,0.0,17.5,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ITA-Serie A,2021,Lazio,Sergej Milinković-Savić,SRB,MF,25,1995,30.5,8,63,21,33.3,2.06,0.69,0.13,0.38,18.7,11,0,0,6.9,6.9,0.11,1.1,1.1,shooting
+ITA-Serie A,2021,Lazio,Thomas Strakosha,ALB,GK,25,1995,9.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Lazio,Vedat Muriqi,KVX,FW,26,1994,9.2,1,31,8,25.8,3.35,0.87,0.03,0.13,13.4,0,0,0,3.2,3.2,0.1,-2.2,-2.2,shooting
+ITA-Serie A,2021,Lazio,Wesley Hoedt,NED,DF,26,1994,10.6,0,2,0,0.0,0.19,0.0,0.0,,15.7,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+ITA-Serie A,2021,Lazio,Ștefan Radu,ROU,DF,33,1986,27.3,0,6,0,0.0,0.22,0.0,0.0,,11.4,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ITA-Serie A,2021,Milan,Alessio Romagnoli,ITA,DF,25,1995,21.2,1,15,3,20.0,0.71,0.14,0.07,0.33,7.2,0,0,0,2.8,2.8,0.19,-1.8,-1.8,shooting
+ITA-Serie A,2021,Milan,Alexis Saelemaekers,BEL,FW,21,1999,22.4,2,28,7,25.0,1.25,0.31,0.07,0.29,18.4,0,0,0,2.4,2.4,0.09,-0.4,-0.4,shooting
+ITA-Serie A,2021,Milan,Andrea Conti,ITA,DF,26,1994,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Milan,Ante Rebić,CRO,FW,26,1993,19.7,11,43,23,53.5,2.18,1.17,0.26,0.48,14.5,0,0,0,5.9,5.6,0.13,5.1,5.4,shooting
+ITA-Serie A,2021,Milan,Brahim Díaz,MAR,"MF,FW",20,1999,13.6,4,26,8,30.8,1.91,0.59,0.15,0.5,16.8,0,0,0,3.4,3.4,0.13,0.6,0.6,shooting
+ITA-Serie A,2021,Milan,Ciprian Tătărușanu,ROU,GK,34,1986,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Milan,Daniel Maldini,ITA,"FW,DF",18,2001,0.3,0,1,1,100.0,3.1,3.1,0.0,0.0,17.1,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+ITA-Serie A,2021,Milan,Davide Calabria,ITA,DF,23,1996,29.4,2,24,7,29.2,0.82,0.24,0.08,0.29,22.1,0,0,0,1.3,1.3,0.05,0.7,0.7,shooting
+ITA-Serie A,2021,Milan,Diogo Dalot,POR,DF,21,1999,12.1,1,10,5,50.0,0.83,0.41,0.1,0.2,21.4,0,0,0,0.4,0.4,0.04,0.6,0.6,shooting
+ITA-Serie A,2021,Milan,Fikayo Tomori,ENG,DF,22,1997,16.3,1,5,4,80.0,0.31,0.25,0.2,0.25,9.6,0,0,0,0.8,0.8,0.15,0.2,0.2,shooting
+ITA-Serie A,2021,Milan,Franck Kessié,CIV,MF,23,1996,35.8,13,36,8,22.2,1.0,0.22,0.06,0.25,19.4,0,11,13,14.0,3.8,0.11,-1.0,-1.8,shooting
+ITA-Serie A,2021,Milan,Gianluigi Donnarumma,ITA,GK,21,1999,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Milan,Hakan Çalhanoğlu,TUR,"MF,FW",26,1994,29.0,4,82,22,26.8,2.82,0.76,0.04,0.14,24.1,16,1,1,4.8,4.0,0.05,-0.8,-1.0,shooting
+ITA-Serie A,2021,Milan,Ismaël Bennacer,ALG,MF,22,1997,14.7,0,12,1,8.3,0.81,0.07,0.0,0.0,26.7,0,0,0,0.9,0.9,0.08,-0.9,-0.9,shooting
+ITA-Serie A,2021,Milan,Jens Petter Hauge,NOR,FW,20,1999,5.9,2,7,3,42.9,1.18,0.51,0.29,0.67,14.8,0,0,0,0.9,0.9,0.13,1.1,1.1,shooting
+ITA-Serie A,2021,Milan,Lorenzo Colombo,ITA,FW,18,2002,1.0,0,4,1,25.0,3.83,0.96,0.0,0.0,12.3,0,0,0,0.6,0.6,0.15,-0.6,-0.6,shooting
+ITA-Serie A,2021,Milan,Léo Duarte,BRA,DF,24,1996,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Milan,Mario Mandžukić,CRO,FW,34,1986,2.4,0,5,3,60.0,2.12,1.27,0.0,0.0,9.4,0,0,0,1.0,1.0,0.2,-1.0,-1.0,shooting
+ITA-Serie A,2021,Milan,Mateo Musacchio,ARG,DF,29,1990,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Milan,Matteo Gabbia,ITA,DF,20,1999,6.2,0,5,0,0.0,0.81,0.0,0.0,,13.9,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+ITA-Serie A,2021,Milan,Pierre Kalulu,FRA,DF,20,2000,8.1,1,3,1,33.3,0.37,0.12,0.33,1.0,7.0,0,0,0,0.9,0.9,0.3,0.1,0.1,shooting
+ITA-Serie A,2021,Milan,Rade Krunić,BIH,"MF,FW",26,1993,8.0,1,8,5,62.5,1.0,0.62,0.13,0.2,20.8,1,0,0,0.7,0.7,0.09,0.3,0.3,shooting
+ITA-Serie A,2021,Milan,Rafael Leão,POR,FW,21,1999,21.4,6,43,20,46.5,2.01,0.94,0.14,0.3,16.4,0,0,0,6.0,6.0,0.14,0.0,0.0,shooting
+ITA-Serie A,2021,Milan,Samu Castillejo,ESP,FW,25,1995,13.1,1,25,7,28.0,1.91,0.53,0.04,0.14,17.8,1,0,0,2.5,2.5,0.1,-1.5,-1.5,shooting
+ITA-Serie A,2021,Milan,Sandro Tonali,ITA,MF,20,2000,14.8,0,10,3,30.0,0.68,0.2,0.0,0.0,24.1,1,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ITA-Serie A,2021,Milan,Simon Kjær,DEN,DF,31,1989,26.6,0,16,2,12.5,0.6,0.08,0.0,0.0,12.0,1,0,0,1.6,1.6,0.1,-1.6,-1.6,shooting
+ITA-Serie A,2021,Milan,Soualiho Meïté,FRA,MF,26,1994,6.5,0,7,3,42.9,1.07,0.46,0.0,0.0,24.9,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ITA-Serie A,2021,Milan,Theo Hernández,FRA,DF,22,1997,32.6,7,47,13,27.7,1.44,0.4,0.15,0.54,19.3,3,0,0,4.3,4.3,0.09,2.7,2.7,shooting
+ITA-Serie A,2021,Milan,Zlatan Ibrahimović,SWE,FW,38,1981,16.6,15,75,34,45.3,4.52,2.05,0.16,0.35,16.7,7,3,6,16.2,11.9,0.16,-1.2,0.1,shooting
+ITA-Serie A,2021,Napoli,Alex Meret,ITA,GK,23,1997,22.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Napoli,Amir Rrahmani,KVX,DF,26,1994,12.2,1,5,2,40.0,0.41,0.16,0.2,0.5,10.6,0,0,0,0.4,0.4,0.09,0.6,0.6,shooting
+ITA-Serie A,2021,Napoli,Andrea Petagna,ITA,FW,25,1995,10.7,4,24,10,41.7,2.24,0.93,0.17,0.4,11.2,0,0,0,4.1,4.1,0.17,-0.1,-0.1,shooting
+ITA-Serie A,2021,Napoli,Antonio Cioffi,ITA,FW,17,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Napoli,David Ospina,COL,GK,31,1988,16.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Napoli,Diego Demme,GER,MF,28,1991,17.7,2,14,6,42.9,0.79,0.34,0.14,0.33,16.3,0,0,0,1.2,1.2,0.08,0.8,0.8,shooting
+ITA-Serie A,2021,Napoli,Dries Mertens,BEL,"FW,MF",33,1987,16.2,9,54,19,35.2,3.33,1.17,0.17,0.47,18.1,6,0,0,5.0,5.0,0.09,4.0,4.0,shooting
+ITA-Serie A,2021,Napoli,Elif Elmas,MKD,"MF,FW",20,1999,8.2,2,13,6,46.2,1.58,0.73,0.15,0.33,16.8,0,0,0,1.4,1.4,0.11,0.6,0.6,shooting
+ITA-Serie A,2021,Napoli,Elseid Hysaj,ALB,DF,26,1994,19.6,0,8,0,0.0,0.41,0.0,0.0,,25.6,0,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
+ITA-Serie A,2021,Napoli,Fabián Ruiz Peña,ESP,MF,24,1996,28.5,3,43,15,34.9,1.51,0.53,0.07,0.2,22.5,1,0,0,2.0,2.0,0.05,1.0,1.0,shooting
+ITA-Serie A,2021,Napoli,Faouzi Ghoulam,ALG,"DF,FW",29,1991,3.2,0,3,0,0.0,0.93,0.0,0.0,,25.8,2,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Napoli,Fernando Llorente,ESP,"FW,MF",35,1985,0.6,0,2,0,0.0,3.46,0.0,0.0,,8.7,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+ITA-Serie A,2021,Napoli,Giovanni Di Lorenzo,ITA,DF,26,1993,36.0,3,28,12,42.9,0.78,0.33,0.11,0.25,12.4,0,0,0,3.8,3.8,0.14,-0.8,-0.8,shooting
+ITA-Serie A,2021,Napoli,Hirving Lozano,MEX,FW,25,1995,21.8,11,59,27,45.8,2.7,1.24,0.19,0.41,15.5,0,0,0,9.3,9.3,0.16,1.7,1.7,shooting
+ITA-Serie A,2021,Napoli,Kalidou Koulibaly,SEN,DF,29,1991,24.5,0,11,2,18.2,0.45,0.08,0.0,0.0,11.1,0,0,0,1.0,1.0,0.09,-1.0,-1.0,shooting
+ITA-Serie A,2021,Napoli,Kostas Manolas,GRE,DF,29,1991,25.5,0,8,3,37.5,0.31,0.12,0.0,0.0,12.9,0,0,0,0.9,0.9,0.11,-0.9,-0.9,shooting
+ITA-Serie A,2021,Napoli,Kévin Malcuit,MAR,"FW,MF",29,1991,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Napoli,Lorenzo Insigne,ITA,FW,29,1991,31.8,19,136,40,29.4,4.27,1.26,0.09,0.3,21.7,13,7,8,15.6,9.3,0.07,3.4,2.7,shooting
+ITA-Serie A,2021,Napoli,Matteo Politano,ITA,"FW,MF",26,1993,21.2,9,63,19,30.2,2.97,0.9,0.14,0.47,19.6,1,0,0,5.2,5.2,0.08,3.8,3.8,shooting
+ITA-Serie A,2021,Napoli,Mário Rui,POR,DF,29,1991,18.5,0,19,2,10.5,1.02,0.11,0.0,0.0,23.5,2,0,0,0.9,0.9,0.05,-0.9,-0.9,shooting
+ITA-Serie A,2021,Napoli,Nikola Maksimović,SRB,DF,28,1991,13.4,0,5,1,20.0,0.37,0.07,0.0,0.0,8.3,0,0,0,0.6,0.6,0.12,-0.6,-0.6,shooting
+ITA-Serie A,2021,Napoli,Piotr Zieliński,POL,MF,26,1994,28.0,8,60,25,41.7,2.14,0.89,0.13,0.32,19.5,0,0,0,5.3,5.3,0.09,2.7,2.7,shooting
+ITA-Serie A,2021,Napoli,Stanislav Lobotka,SVK,MF,25,1994,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Napoli,Tiemoué Bakayoko,FRA,MF,25,1994,21.8,2,16,4,25.0,0.73,0.18,0.13,0.5,18.0,0,0,0,1.1,1.1,0.07,0.9,0.9,shooting
+ITA-Serie A,2021,Napoli,Victor Osimhen,NGA,FW,21,1998,17.5,10,66,24,36.4,3.78,1.37,0.15,0.42,13.8,0,0,0,10.6,10.6,0.16,-0.6,-0.6,shooting
+ITA-Serie A,2021,Parma,Alberto Grassi,ITA,"MF,DF",25,1995,13.1,0,10,3,30.0,0.76,0.23,0.0,0.0,20.8,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+ITA-Serie A,2021,Parma,Andrea Adorante,ITA,FW,20,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Andrea Conti,ITA,DF,26,1994,9.0,0,5,2,40.0,0.56,0.22,0.0,0.0,12.8,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+ITA-Serie A,2021,Parma,Andreas Cornelius,DEN,FW,27,1993,21.1,1,30,7,23.3,1.42,0.33,0.03,0.14,12.3,0,0,0,2.9,2.9,0.1,-1.9,-1.9,shooting
+ITA-Serie A,2021,Parma,Botond Balogh,HUN,DF,18,2002,1.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Bruno Alves,POR,DF,38,1981,18.1,1,10,3,30.0,0.55,0.17,0.1,0.33,23.5,3,0,0,0.4,0.4,0.04,0.6,0.6,shooting
+ITA-Serie A,2021,Parma,Chaka Traorè,CIV,"FW,DF",15,2004,0.2,0,1,0,0.0,5.0,0.0,0.0,,8.6,0,0,0,0.3,0.3,0.26,-0.3,-0.3,shooting
+ITA-Serie A,2021,Parma,Daan Dierckx,BEL,DF,17,2003,5.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Dennis Man,ROU,"FW,MF",21,1998,7.8,2,19,6,31.6,2.45,0.77,0.11,0.33,15.5,0,0,0,2.5,2.5,0.13,-0.5,-0.5,shooting
+ITA-Serie A,2021,Parma,Drissa Camara,CIV,MF,18,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Gastón Brugman,URU,MF,27,1992,18.0,1,18,8,44.4,1.0,0.45,0.06,0.13,24.6,4,0,0,1.2,1.2,0.06,-0.2,-0.2,shooting
+ITA-Serie A,2021,Parma,Gervinho,CIV,FW,33,1987,22.5,5,32,12,37.5,1.43,0.53,0.16,0.42,15.3,0,0,0,3.5,3.5,0.11,1.5,1.5,shooting
+ITA-Serie A,2021,Parma,Giacomo Ricci,ITA,DF,23,1996,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Giuseppe Pezzella,ITA,DF,22,1997,20.3,1,7,2,28.6,0.34,0.1,0.14,0.5,24.6,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+ITA-Serie A,2021,Parma,Graziano Pellè,ITA,FW,35,1985,6.8,1,14,5,35.7,2.05,0.73,0.07,0.2,13.6,0,0,0,1.6,1.6,0.11,-0.6,-0.6,shooting
+ITA-Serie A,2021,Parma,Hernani,BRA,MF,26,1994,24.3,7,32,8,25.0,1.32,0.33,0.19,0.75,23.5,7,1,1,3.4,2.6,0.08,3.6,3.4,shooting
+ITA-Serie A,2021,Parma,Jacopo Dezi,ITA,"FW,MF",28,1992,0.9,0,1,0,0.0,1.14,0.0,0.0,,21.8,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+ITA-Serie A,2021,Parma,Jasmin Kurtić,SVN,MF,31,1989,30.4,4,35,10,28.6,1.15,0.33,0.11,0.4,18.9,0,0,0,3.7,3.7,0.11,0.3,0.3,shooting
+ITA-Serie A,2021,Parma,Joshua Zirkzee,NED,"FW,MF",19,2001,1.3,0,1,0,0.0,0.8,0.0,0.0,,9.2,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+ITA-Serie A,2021,Parma,Juan Brunetta,ARG,"FW,MF",23,1997,5.3,1,10,5,50.0,1.89,0.95,0.1,0.2,20.5,1,0,0,0.9,0.9,0.09,0.1,0.1,shooting
+ITA-Serie A,2021,Parma,Juraj Kucka,SVK,"MF,FW",33,1987,25.9,7,56,15,26.8,2.16,0.58,0.05,0.2,21.0,2,4,4,7.1,4.0,0.07,-0.1,-1.0,shooting
+ITA-Serie A,2021,Parma,Kastriot Dermaku,ALB,DF,28,1992,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Lautaro Valenti,ARG,DF,21,1999,5.5,0,4,0,0.0,0.72,0.0,0.0,,25.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Parma,Luca Siligardi,ITA,"FW,MF",32,1988,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Luigi Sepe,ITA,GK,29,1991,36.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Matteo Darmian,ITA,DF,30,1989,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Matteo Scozzarella,ITA,MF,32,1988,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Mattia Bani,ITA,DF,26,1993,12.7,0,8,2,25.0,0.63,0.16,0.0,0.0,8.6,0,0,0,0.6,0.6,0.08,-0.6,-0.6,shooting
+ITA-Serie A,2021,Parma,Mattia Sprocati,ITA,"MF,FW",27,1993,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Maxime Busi,BEL,DF,20,1999,13.3,0,8,2,25.0,0.6,0.15,0.0,0.0,18.0,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+ITA-Serie A,2021,Parma,Márk Kosznovszky,HUN,MF,18,2002,1.0,0,1,1,100.0,1.0,1.0,0.0,0.0,12.3,0,0,0,0.3,0.3,0.34,-0.3,-0.3,shooting
+ITA-Serie A,2021,Parma,Riccardo Gagliolo,SWE,DF,30,1990,21.7,2,19,3,15.8,0.87,0.14,0.11,0.67,13.5,0,0,0,3.2,3.2,0.17,-1.2,-1.2,shooting
+ITA-Serie A,2021,Parma,Roberto Inglese,ITA,FW,28,1991,6.4,0,8,5,62.5,1.25,0.78,0.0,0.0,18.0,0,0,0,0.8,0.8,0.1,-0.8,-0.8,shooting
+ITA-Serie A,2021,Parma,Simon Sohm,SUI,MF,19,2001,10.0,1,5,1,20.0,0.5,0.1,0.2,1.0,19.6,0,0,0,0.6,0.6,0.12,0.4,0.4,shooting
+ITA-Serie A,2021,Parma,Simone Colombi,ITA,GK,29,1991,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Simone Iacoponi,ITA,DF,33,1987,13.3,0,3,1,33.3,0.23,0.08,0.0,0.0,20.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Parma,Valentin Mihaila,ROU,"FW,MF",20,2000,7.8,3,19,10,52.6,2.45,1.29,0.16,0.3,17.1,0,0,0,2.7,2.7,0.14,0.3,0.3,shooting
+ITA-Serie A,2021,Parma,Vasilios Zagaritis,GRE,DF,19,2001,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Vincent Laurini,FRA,DF,31,1989,9.7,0,1,0,0.0,0.1,0.0,0.0,,32.4,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+ITA-Serie A,2021,Parma,Wylan Cyprien,FRA,MF,25,1995,4.6,0,6,1,16.7,1.32,0.22,0.0,0.0,27.8,3,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+ITA-Serie A,2021,Parma,Yann Karamoh,FRA,"FW,MF",22,1998,14.4,2,22,10,45.5,1.53,0.7,0.09,0.2,14.4,0,0,0,4.2,4.2,0.19,-2.2,-2.2,shooting
+ITA-Serie A,2021,Parma,Yordan Osorio,VEN,DF,26,1994,20.1,0,7,1,14.3,0.35,0.05,0.0,0.0,10.2,0,0,0,0.7,0.7,0.11,-0.7,-0.7,shooting
+ITA-Serie A,2021,Roma,Amadou Diawara,GUI,MF,23,1997,7.3,1,7,4,57.1,0.96,0.55,0.14,0.25,18.1,0,0,0,0.9,0.9,0.18,0.1,0.1,shooting
+ITA-Serie A,2021,Roma,Antonio Mirante,ITA,GK,37,1983,12.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Borja Mayoral,ESP,FW,23,1997,17.2,10,40,15,37.5,2.32,0.87,0.25,0.67,14.6,0,0,0,6.8,6.8,0.17,3.2,3.2,shooting
+ITA-Serie A,2021,Roma,Bruno Peres,BRA,DF,30,1990,15.9,1,12,6,50.0,0.76,0.38,0.08,0.17,17.8,0,0,0,0.9,0.9,0.08,0.1,0.1,shooting
+ITA-Serie A,2021,Roma,Bryan Cristante,ITA,"DF,MF",25,1995,23.9,1,28,8,28.6,1.17,0.33,0.04,0.13,19.0,1,0,0,2.4,2.4,0.08,-1.4,-1.4,shooting
+ITA-Serie A,2021,Roma,Bryan Reynolds,USA,DF,19,2001,3.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Carles Pérez,ESP,"MF,FW",22,1998,8.6,2,23,8,34.8,2.68,0.93,0.09,0.25,16.9,0,0,0,2.7,2.7,0.13,-0.7,-0.7,shooting
+ITA-Serie A,2021,Roma,Chris Smalling,ENG,DF,30,1989,12.3,0,7,1,14.3,0.57,0.08,0.0,0.0,10.5,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+ITA-Serie A,2021,Roma,Daniel Fuzato,BRA,GK,23,1997,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Davide Santon,ITA,DF,29,1991,6.5,0,5,0,0.0,0.77,0.0,0.0,,15.0,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ITA-Serie A,2021,Roma,Ebrima Darboe,GAM,MF,19,2001,3.6,0,3,0,0.0,0.84,0.0,0.0,,25.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Roma,Edin Džeko,BIH,FW,34,1986,20.3,7,69,24,34.8,3.4,1.18,0.1,0.29,13.1,0,0,1,13.2,12.4,0.18,-6.2,-5.4,shooting
+ITA-Serie A,2021,Roma,Edoardo Bove,ITA,MF,18,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Federico Fazio,ARG,DF,33,1987,4.5,1,3,2,66.7,0.67,0.44,0.33,0.5,11.4,0,0,0,0.2,0.2,0.05,0.8,0.8,shooting
+ITA-Serie A,2021,Roma,Gianluca Mancini,ITA,DF,24,1996,31.7,4,28,11,39.3,0.88,0.35,0.14,0.36,13.7,0,0,0,2.7,2.7,0.1,1.3,1.3,shooting
+ITA-Serie A,2021,Roma,Gonzalo Villar,ESP,MF,22,1998,20.7,0,10,1,10.0,0.48,0.05,0.0,0.0,22.3,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+ITA-Serie A,2021,Roma,Henrikh Mkhitaryan,ARM,"MF,FW",31,1989,30.5,13,81,33,40.7,2.66,1.08,0.15,0.36,17.3,1,1,1,10.9,10.1,0.13,2.1,1.9,shooting
+ITA-Serie A,2021,Roma,Javier Pastore,ARG,"MF,FW",31,1989,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Jordan Veretout,FRA,MF,27,1993,22.8,10,35,14,40.0,1.53,0.61,0.14,0.36,20.6,2,5,5,8.1,4.1,0.13,1.9,0.9,shooting
+ITA-Serie A,2021,Roma,Juan Jesus,BRA,DF,29,1991,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Justin Kluivert,NED,MF,21,1999,0.2,0,1,0,0.0,4.74,0.0,0.0,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Leonardo Spinazzola,ITA,DF,27,1993,23.6,2,22,6,27.3,0.93,0.25,0.09,0.33,17.6,0,0,0,1.7,1.7,0.09,0.3,0.3,shooting
+ITA-Serie A,2021,Roma,Lorenzo Pellegrini,ITA,MF,24,1996,28.9,7,69,26,37.7,2.39,0.9,0.09,0.23,20.6,10,1,1,5.6,4.8,0.07,1.4,1.2,shooting
+ITA-Serie A,2021,Roma,Marash Kumbulla,ALB,DF,20,2000,15.1,1,6,2,33.3,0.4,0.13,0.17,0.5,8.8,0,0,0,0.9,0.9,0.14,0.1,0.1,shooting
+ITA-Serie A,2021,Roma,Nicola Zalewski,POL,MF,18,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Pau López,ESP,GK,25,1994,20.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Pedro,ESP,"MF,FW",33,1987,17.7,5,43,15,34.9,2.43,0.85,0.12,0.33,19.0,0,0,0,4.2,4.2,0.11,0.8,0.8,shooting
+ITA-Serie A,2021,Roma,Riccardo Calafiori,ITA,DF,18,2002,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Rick Karsdorp,NED,DF,25,1995,28.3,1,13,4,30.8,0.46,0.14,0.08,0.25,15.4,0,0,0,1.0,1.0,0.08,0.0,0.0,shooting
+ITA-Serie A,2021,Roma,Roger Ibanez,BRA,DF,21,1998,26.6,0,16,4,25.0,0.6,0.15,0.0,0.0,15.7,0,0,0,1.2,1.2,0.08,-1.2,-1.2,shooting
+ITA-Serie A,2021,Roma,Stephan El Shaarawy,ITA,"MF,FW",27,1992,6.4,1,16,7,43.8,2.52,1.1,0.06,0.14,18.0,0,0,0,1.3,1.3,0.08,-0.3,-0.3,shooting
+ITA-Serie A,2021,Sampdoria,Adrien Silva,POR,MF,31,1989,17.8,1,6,1,16.7,0.34,0.06,0.17,1.0,23.5,0,0,0,0.5,0.5,0.08,0.5,0.5,shooting
+ITA-Serie A,2021,Sampdoria,Albin Ekdal,SWE,MF,31,1989,25.5,2,14,3,21.4,0.55,0.12,0.14,0.67,18.1,0,0,0,0.9,0.9,0.06,1.1,1.1,shooting
+ITA-Serie A,2021,Sampdoria,Alex Ferrari,ITA,DF,26,1994,9.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sampdoria,Antonino La Gumina,ITA,FW,24,1996,3.8,0,11,1,9.1,2.9,0.26,0.0,0.0,15.9,0,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
+ITA-Serie A,2021,Sampdoria,Antonio Candreva,ITA,MF,33,1987,27.8,5,55,18,32.7,1.98,0.65,0.05,0.17,22.8,4,2,2,4.9,3.4,0.06,0.1,-0.4,shooting
+ITA-Serie A,2021,Sampdoria,Antonio Palumbo,ITA,MF,23,1996,0.1,0,1,0,0.0,12.86,0.0,0.0,,20.9,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+ITA-Serie A,2021,Sampdoria,Bartosz Bereszyński,POL,DF,28,1992,29.0,1,3,1,33.3,0.1,0.03,0.33,1.0,17.1,0,0,0,0.2,0.2,0.05,0.8,0.8,shooting
+ITA-Serie A,2021,Sampdoria,Emil Audero,IDN,GK,23,1997,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sampdoria,Ernesto Torregrossa,VEN,FW,28,1992,1.9,1,4,2,50.0,2.12,1.06,0.25,0.5,10.6,0,0,0,0.4,0.4,0.1,0.6,0.6,shooting
+ITA-Serie A,2021,Sampdoria,Fabio Depaoli,ITA,MF,23,1997,0.9,0,2,1,50.0,2.34,1.17,0.0,0.0,16.5,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Sampdoria,Fabio Quagliarella,ITA,FW,37,1983,24.5,13,79,25,31.6,3.23,1.02,0.14,0.44,17.7,4,2,3,11.8,9.4,0.12,1.2,1.6,shooting
+ITA-Serie A,2021,Sampdoria,Federico Bonazzoli,ITA,FW,23,1997,1.5,0,4,0,0.0,2.75,0.0,0.0,,20.7,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ITA-Serie A,2021,Sampdoria,Gastón Ramírez,URU,"FW,MF",29,1990,10.8,0,13,5,38.5,1.21,0.46,0.0,0.0,21.1,2,0,0,0.8,0.8,0.06,-0.8,-0.8,shooting
+ITA-Serie A,2021,Sampdoria,Jakub Jankto,CZE,MF,24,1996,26.8,6,39,10,25.6,1.46,0.37,0.15,0.6,17.2,0,0,0,4.6,4.6,0.12,1.4,1.4,shooting
+ITA-Serie A,2021,Sampdoria,Karlo Letica,CRO,GK,23,1997,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sampdoria,Keita Baldé,SEN,FW,25,1995,13.3,7,44,19,43.2,3.31,1.43,0.16,0.37,13.9,0,0,0,5.7,5.7,0.13,1.3,1.3,shooting
+ITA-Serie A,2021,Sampdoria,Kristoffer Askildsen,NOR,MF,19,2001,1.1,0,1,0,0.0,0.95,0.0,0.0,,24.4,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Sampdoria,Lorenzo Tonelli,ITA,DF,30,1990,19.8,1,13,2,15.4,0.66,0.1,0.08,0.5,10.1,0,0,0,2.0,2.0,0.16,-1.0,-1.0,shooting
+ITA-Serie A,2021,Sampdoria,Manolo Gabbiadini,ITA,FW,28,1991,9.7,3,28,12,42.9,2.9,1.24,0.07,0.17,19.3,2,1,1,2.8,2.0,0.07,0.2,0.0,shooting
+ITA-Serie A,2021,Sampdoria,Maya Yoshida,JPN,DF,31,1988,25.3,1,11,1,9.1,0.44,0.04,0.09,1.0,9.9,0,0,0,1.8,1.8,0.17,-0.8,-0.8,shooting
+ITA-Serie A,2021,Sampdoria,Mehdi Léris,ALG,"DF,MF",22,1998,4.3,0,2,1,50.0,0.47,0.23,0.0,0.0,15.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Sampdoria,Mikkel Damsgaard,DEN,"MF,FW",20,2000,19.7,2,25,8,32.0,1.27,0.41,0.08,0.25,19.7,3,0,0,2.9,2.9,0.12,-0.9,-0.9,shooting
+ITA-Serie A,2021,Sampdoria,Morten Thorsby,NOR,MF,24,1996,29.4,3,23,9,39.1,0.78,0.31,0.13,0.33,10.2,0,0,0,2.9,2.9,0.12,0.1,0.1,shooting
+ITA-Serie A,2021,Sampdoria,Omar Colley,GAM,DF,27,1992,28.8,2,12,3,25.0,0.42,0.1,0.17,0.67,11.0,0,0,0,1.1,1.1,0.09,0.9,0.9,shooting
+ITA-Serie A,2021,Sampdoria,Tommaso Augello,ITA,DF,25,1994,35.7,1,8,2,25.0,0.22,0.06,0.13,0.5,19.3,0,0,0,0.3,0.3,0.04,0.7,0.7,shooting
+ITA-Serie A,2021,Sampdoria,Valerio Verre,ITA,"FW,MF",26,1994,11.1,3,24,10,41.7,2.16,0.9,0.13,0.3,22.2,0,0,0,1.9,1.9,0.08,1.1,1.1,shooting
+ITA-Serie A,2021,Sampdoria,Vasco Regini,ITA,DF,29,1990,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Andrea Consigli,ITA,GK,33,1987,37.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Brian Oddei,ITA,"FW,MF",17,2002,0.5,0,2,1,50.0,4.0,2.0,0.0,0.0,15.0,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Sassuolo,Domenico Berardi,ITA,FW,25,1994,27.5,17,105,32,30.5,3.82,1.16,0.1,0.31,21.7,10,7,8,15.0,8.7,0.08,2.0,1.3,shooting
+ITA-Serie A,2021,Sassuolo,Federico Peluso,ITA,DF,36,1984,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Federico Ricci,ITA,FW,26,1994,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Filip Đuričić,SRB,"MF,FW",28,1992,23.1,5,54,13,24.1,2.34,0.56,0.07,0.31,17.8,0,1,1,6.2,5.4,0.1,-1.2,-1.4,shooting
+ITA-Serie A,2021,Sassuolo,Francesco Caputo,ITA,FW,32,1987,18.9,11,40,16,40.0,2.12,0.85,0.2,0.5,14.2,0,3,3,9.9,7.6,0.19,1.1,0.4,shooting
+ITA-Serie A,2021,Sassuolo,Francesco Magnanelli,ITA,MF,35,1984,4.9,0,2,0,0.0,0.41,0.0,0.0,,28.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Sassuolo,Giacomo Raspadori,ITA,"FW,MF",20,2000,13.7,6,24,12,50.0,1.75,0.88,0.25,0.5,13.8,1,0,0,4.3,4.3,0.18,1.7,1.7,shooting
+ITA-Serie A,2021,Sassuolo,Gian Marco Ferrari,ITA,DF,28,1992,33.5,0,25,5,20.0,0.75,0.15,0.0,0.0,12.8,0,0,0,2.0,2.0,0.08,-2.0,-2.0,shooting
+ITA-Serie A,2021,Sassuolo,Gianluca Pegolo,ITA,GK,39,1981,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Giorgos Kyriakopoulos,GRE,DF,24,1996,16.2,1,24,13,54.2,1.48,0.8,0.04,0.08,21.9,1,0,0,1.6,1.6,0.07,-0.6,-0.6,shooting
+ITA-Serie A,2021,Sassuolo,Grégoire Defrel,MTQ,"MF,FW",29,1991,14.8,3,22,9,40.9,1.48,0.61,0.14,0.33,18.1,0,0,0,2.1,2.1,0.1,0.9,0.9,shooting
+ITA-Serie A,2021,Sassuolo,Hamed Junior Traorè,CIV,"MF,FW",20,2000,19.9,5,43,14,32.6,2.16,0.7,0.12,0.36,18.4,1,0,0,4.1,4.1,0.09,0.9,0.9,shooting
+ITA-Serie A,2021,Sassuolo,Isaac Karamoko,FRA,DF,18,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Jeremie Boga,CIV,"FW,MF",23,1997,19.8,4,32,15,46.9,1.61,0.76,0.13,0.27,15.6,0,0,0,3.6,3.6,0.11,0.4,0.4,shooting
+ITA-Serie A,2021,Sassuolo,Jeremy Toljan,GER,DF,25,1994,16.6,0,5,1,20.0,0.3,0.06,0.0,0.0,15.7,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ITA-Serie A,2021,Sassuolo,Kaan Ayhan,TUR,DF,25,1994,8.8,0,5,0,0.0,0.57,0.0,0.0,,16.6,2,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+ITA-Serie A,2021,Sassuolo,Lukáš Haraslín,SVK,"FW,MF",24,1996,3.7,0,12,5,41.7,3.24,1.35,0.0,0.0,18.1,1,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
+ITA-Serie A,2021,Sassuolo,Manuel Locatelli,ITA,MF,22,1998,32.0,4,39,7,17.9,1.22,0.22,0.05,0.29,23.2,6,2,2,3.7,2.1,0.05,0.3,-0.1,shooting
+ITA-Serie A,2021,Sassuolo,Marlon,BRA,DF,24,1995,19.4,0,4,2,50.0,0.21,0.1,0.0,0.0,10.6,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+ITA-Serie A,2021,Sassuolo,Maxime Lopez,FRA,MF,22,1997,20.7,2,10,4,40.0,0.48,0.19,0.2,0.5,19.4,0,0,0,1.2,1.2,0.12,0.8,0.8,shooting
+ITA-Serie A,2021,Sassuolo,Mehdi Bourabia,MAR,MF,28,1991,5.9,1,9,3,33.3,1.53,0.51,0.11,0.33,22.7,3,0,0,0.5,0.5,0.06,0.5,0.5,shooting
+ITA-Serie A,2021,Sassuolo,Mert Müldür,TUR,DF,21,1999,18.6,0,15,1,6.7,0.81,0.05,0.0,0.0,16.6,0,0,0,0.8,0.8,0.05,-0.8,-0.8,shooting
+ITA-Serie A,2021,Sassuolo,Nicolás Schiappacasse,URU,MF,21,1999,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Sassuolo,Pedro Obiang,EQG,MF,28,1992,16.3,0,16,5,31.3,0.98,0.31,0.0,0.0,24.3,0,0,0,0.7,0.7,0.04,-0.7,-0.7,shooting
+ITA-Serie A,2021,Sassuolo,Rogério,BRA,DF,22,1998,20.9,0,16,3,18.8,0.77,0.14,0.0,0.0,22.4,0,0,0,0.5,0.5,0.03,-0.5,-0.5,shooting
+ITA-Serie A,2021,Sassuolo,Vlad Chiricheș,ROU,DF,30,1989,20.4,2,12,3,25.0,0.59,0.15,0.17,0.67,13.7,0,0,0,1.3,1.3,0.11,0.7,0.7,shooting
+ITA-Serie A,2021,Spezia,Alessandro Deiola,ITA,MF,24,1995,4.0,0,5,1,20.0,1.25,0.25,0.0,0.0,24.1,1,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+ITA-Serie A,2021,Spezia,Andrey Galabinov,BUL,FW,31,1988,4.8,3,7,3,42.9,1.47,0.63,0.43,1.0,12.4,0,0,1,3.0,2.2,0.31,0.0,0.8,shooting
+ITA-Serie A,2021,Spezia,Ardian Ismajli,ALB,DF,23,1996,14.4,1,6,1,16.7,0.42,0.07,0.17,1.0,12.7,0,0,0,0.7,0.7,0.11,0.3,0.3,shooting
+ITA-Serie A,2021,Spezia,Claudio Terzi,ITA,DF,36,1984,20.8,1,5,2,40.0,0.24,0.1,0.2,0.5,10.0,0,0,0,0.4,0.4,0.09,0.6,0.6,shooting
+ITA-Serie A,2021,Spezia,Cristian Dell'Orco,ITA,DF,26,1994,2.9,0,1,0,0.0,0.34,0.0,0.0,,7.6,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,Daniele Verde,ITA,FW,24,1996,10.9,6,33,15,45.5,3.03,1.38,0.18,0.4,18.4,0,0,0,3.0,3.0,0.09,3.0,3.0,shooting
+ITA-Serie A,2021,Spezia,Diego Farias,BRA,FW,30,1990,16.8,4,32,10,31.3,1.9,0.59,0.13,0.4,16.9,2,0,0,3.2,3.2,0.1,0.8,0.8,shooting
+ITA-Serie A,2021,Spezia,Elio Capradossi,UGA,DF,24,1996,1.0,0,1,0,0.0,1.0,0.0,0.0,,5.0,0,0,0,0.3,0.3,0.29,-0.3,-0.3,shooting
+ITA-Serie A,2021,Spezia,Emmanuel Gyasi,GHA,FW,26,1994,31.7,4,29,15,51.7,0.92,0.47,0.14,0.27,12.3,0,0,0,5.1,5.1,0.18,-1.1,-1.1,shooting
+ITA-Serie A,2021,Spezia,Federico Mattiello,ITA,DF,25,1995,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Gennaro Acampora,ITA,"MF,FW",26,1994,4.9,0,9,0,0.0,1.84,0.0,0.0,,25.8,1,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
+ITA-Serie A,2021,Spezia,Giulio Maggiore,ITA,MF,22,1998,24.6,3,38,14,36.8,1.54,0.57,0.08,0.21,16.4,0,0,0,4.7,4.7,0.13,-1.7,-1.7,shooting
+ITA-Serie A,2021,Spezia,Giuseppe Mastinu,ITA,FW,28,1991,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Ivan Provedel,ITA,GK,26,1994,29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Jacopo Sala,ITA,DF,28,1991,4.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Jeroen Zoet,NED,GK,29,1991,6.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Juan Manuel Ramos,URU,DF,23,1996,3.3,0,1,0,0.0,0.31,0.0,0.0,,26.6,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Julian Chabot,GER,DF,22,1998,18.4,1,9,3,33.3,0.49,0.16,0.11,0.33,11.1,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
+ITA-Serie A,2021,Spezia,Kevin Agudelo,COL,FW,21,1998,15.1,1,19,4,21.1,1.26,0.27,0.05,0.25,17.2,0,0,0,1.5,1.5,0.08,-0.5,-0.5,shooting
+ITA-Serie A,2021,Spezia,Luca Mora,ITA,MF,32,1988,1.3,0,1,1,100.0,0.8,0.8,0.0,0.0,10.7,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,Luca Vignali,ITA,DF,24,1996,17.7,0,4,1,25.0,0.23,0.06,0.0,0.0,21.1,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,Lucien Agoume,FRA,MF,18,2002,8.9,0,2,0,0.0,0.23,0.0,0.0,,19.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,Léo Sena,BRA,MF,24,1995,9.8,0,2,0,0.0,0.2,0.0,0.0,,24.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,M'Bala Nzola,ANG,FW,23,1996,21.1,11,41,14,34.1,1.95,0.66,0.17,0.5,14.2,0,4,4,9.3,6.2,0.15,1.7,0.8,shooting
+ITA-Serie A,2021,Spezia,Martin Erlic,CRO,DF,22,1998,20.0,3,10,3,30.0,0.5,0.15,0.3,1.0,12.3,0,0,0,1.2,1.2,0.12,1.8,1.8,shooting
+ITA-Serie A,2021,Spezia,Matteo Ricci,ITA,MF,26,1994,24.8,0,21,5,23.8,0.85,0.2,0.0,0.0,27.1,3,0,0,1.0,1.0,0.05,-1.0,-1.0,shooting
+ITA-Serie A,2021,Spezia,Nahuel Estévez,ARG,MF,24,1995,19.6,0,24,8,33.3,1.22,0.41,0.0,0.0,19.7,2,0,0,1.9,1.9,0.08,-1.9,-1.9,shooting
+ITA-Serie A,2021,Spezia,Paolo Bartolomei,ITA,MF,30,1989,3.6,0,4,0,0.0,1.13,0.0,0.0,,25.2,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,Rafael,BRA,GK,38,1982,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Spezia,Riccardo Marchizza,ITA,DF,22,1998,17.3,0,7,0,0.0,0.4,0.0,0.0,,17.6,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+ITA-Serie A,2021,Spezia,Riccardo Saponara,ITA,"FW,MF",28,1991,4.3,2,10,4,40.0,2.31,0.93,0.2,0.5,14.1,0,0,0,1.0,1.0,0.1,1.0,1.0,shooting
+ITA-Serie A,2021,Spezia,Roberto Piccoli,ITA,FW,19,2001,7.8,5,15,11,73.3,1.92,1.41,0.33,0.45,9.6,0,0,0,5.6,5.6,0.37,-0.6,-0.6,shooting
+ITA-Serie A,2021,Spezia,Salvador Ferrer,ESP,DF,22,1998,13.2,0,3,1,33.3,0.23,0.08,0.0,0.0,19.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Spezia,Simone Bastoni,ITA,DF,23,1996,16.9,1,21,4,19.0,1.24,0.24,0.05,0.25,19.6,1,0,0,1.2,1.2,0.06,-0.2,-0.2,shooting
+ITA-Serie A,2021,Spezia,Tommaso Pobega,ITA,MF,21,1999,13.7,6,22,10,45.5,1.61,0.73,0.27,0.6,15.4,0,0,0,3.2,3.2,0.15,2.8,2.8,shooting
+ITA-Serie A,2021,Torino,Alessandro Buongiorno,ITA,DF,21,1999,9.5,0,3,0,0.0,0.31,0.0,0.0,,6.7,0,0,0,0.3,0.3,0.11,-0.3,-0.3,shooting
+ITA-Serie A,2021,Torino,Amer Gojak,BIH,"MF,FW",23,1997,5.3,1,8,3,37.5,1.52,0.57,0.13,0.33,19.5,0,0,0,0.8,0.8,0.1,0.2,0.2,shooting
+ITA-Serie A,2021,Torino,Andrea Belotti,ITA,FW,26,1993,32.1,13,102,35,34.3,3.18,1.09,0.09,0.26,17.7,8,4,5,13.7,9.8,0.1,-0.7,-0.8,shooting
+ITA-Serie A,2021,Torino,Antonio Sanabria,PAR,FW,24,1996,10.9,5,20,11,55.0,1.84,1.01,0.25,0.45,14.9,0,0,0,3.3,3.3,0.16,1.7,1.7,shooting
+ITA-Serie A,2021,Torino,Armando Izzo,ITA,DF,28,1992,22.3,2,17,3,17.6,0.76,0.13,0.12,0.67,9.4,0,0,0,1.5,1.5,0.09,0.5,0.5,shooting
+ITA-Serie A,2021,Torino,Cristian Ansaldi,ARG,"DF,FW",33,1986,21.6,1,17,6,35.3,0.79,0.28,0.0,0.0,23.5,4,1,1,1.9,1.1,0.07,-0.9,-1.1,shooting
+ITA-Serie A,2021,Torino,Daniele Baselli,ITA,MF,28,1992,4.4,0,5,2,40.0,1.14,0.45,0.0,0.0,24.7,2,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+ITA-Serie A,2021,Torino,Federico Bonazzoli,ITA,FW,23,1997,6.3,2,21,5,23.8,3.35,0.8,0.1,0.4,17.3,0,0,0,1.3,1.3,0.06,0.7,0.7,shooting
+ITA-Serie A,2021,Torino,Gleison Bremer,BRA,DF,23,1997,32.6,5,26,9,34.6,0.8,0.28,0.19,0.56,10.3,0,0,0,3.2,3.2,0.12,1.8,1.8,shooting
+ITA-Serie A,2021,Torino,Jacopo Segre,ITA,MF,23,1997,2.1,0,4,1,25.0,1.88,0.47,0.0,0.0,16.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+ITA-Serie A,2021,Torino,Karol Linetty,POL,MF,25,1995,20.4,1,7,3,42.9,0.34,0.15,0.14,0.33,18.5,0,0,0,1.1,1.1,0.15,-0.1,-0.1,shooting
+ITA-Serie A,2021,Torino,Lyanco,BRA,DF,23,1997,21.8,0,12,3,25.0,0.55,0.14,0.0,0.0,19.7,0,0,0,1.0,1.0,0.08,-1.0,-1.0,shooting
+ITA-Serie A,2021,Torino,Mërgim Vojvoda,KVX,"DF,FW",25,1995,15.1,2,6,3,50.0,0.4,0.2,0.33,0.67,12.3,0,0,0,1.1,1.1,0.18,0.9,0.9,shooting
+ITA-Serie A,2021,Torino,Nicola Murru,ITA,DF,25,1994,6.3,0,5,1,20.0,0.79,0.16,0.0,0.0,16.0,0,0,0,0.4,0.4,0.09,-0.4,-0.4,shooting
+ITA-Serie A,2021,Torino,Nicolas Nkoulou,CMR,DF,30,1990,15.1,1,3,1,33.3,0.2,0.07,0.33,1.0,9.9,0,0,0,0.5,0.5,0.16,0.5,0.5,shooting
+ITA-Serie A,2021,Torino,Ricardo Rodríguez,SUI,DF,27,1992,13.8,0,13,2,15.4,0.95,0.15,0.0,0.0,28.0,8,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+ITA-Serie A,2021,Torino,Rolando Mandragora,ITA,MF,23,1997,16.9,3,27,8,29.6,1.59,0.47,0.11,0.38,21.0,1,0,0,2.8,2.8,0.11,0.2,0.2,shooting
+ITA-Serie A,2021,Torino,Salvatore Sirigu,ITA,GK,33,1987,32.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Torino,Samir Ujkani,KVX,GK,32,1988,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Torino,Saša Lukić,SRB,MF,23,1996,23.4,3,19,7,36.8,0.81,0.3,0.16,0.43,16.8,0,0,0,1.8,1.8,0.1,1.2,1.2,shooting
+ITA-Serie A,2021,Torino,Simone Edera,ITA,"DF,MF",23,1997,0.6,0,3,1,33.3,5.19,1.73,0.0,0.0,29.5,2,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+ITA-Serie A,2021,Torino,Simone Verdi,ITA,"MF,FW",28,1992,18.0,1,40,13,32.5,2.22,0.72,0.03,0.08,22.7,13,0,0,3.5,3.5,0.09,-2.5,-2.5,shooting
+ITA-Serie A,2021,Torino,Simone Zaza,ITA,FW,29,1991,16.6,6,57,16,28.1,3.44,0.97,0.11,0.38,14.4,2,0,0,7.5,7.5,0.13,-1.5,-1.5,shooting
+ITA-Serie A,2021,Torino,Soualiho Meïté,FRA,MF,26,1994,10.2,1,8,4,50.0,0.78,0.39,0.13,0.25,17.4,0,0,0,0.7,0.7,0.1,0.3,0.3,shooting
+ITA-Serie A,2021,Torino,Tomás Rincón,VEN,MF,32,1988,31.6,1,22,4,18.2,0.7,0.13,0.05,0.25,18.8,0,0,0,1.3,1.3,0.06,-0.3,-0.3,shooting
+ITA-Serie A,2021,Torino,Vanja Milinković-Savić,SRB,GK,23,1997,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Torino,Vincenzo Millico,ITA,"FW,MF",19,2000,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Torino,Wilfried Singo,CIV,DF,19,2000,20.6,1,10,1,10.0,0.49,0.05,0.1,1.0,14.6,0,0,0,1.2,1.2,0.12,-0.2,-0.2,shooting
+ITA-Serie A,2021,Torino,Álex Berenguer,ESP,MF,25,1995,1.5,0,2,2,100.0,1.37,1.37,0.0,0.0,16.0,0,0,0,0.4,0.4,0.22,-0.4,-0.4,shooting
+ITA-Serie A,2021,Udinese,Bram Nuytinck,NED,DF,30,1990,18.2,1,4,2,50.0,0.22,0.11,0.25,0.5,16.8,0,0,0,0.4,0.4,0.09,0.6,0.6,shooting
+ITA-Serie A,2021,Udinese,Fernando Forestieri,ITA,"FW,MF",30,1990,6.1,1,11,3,27.3,1.79,0.49,0.09,0.33,17.7,0,0,0,1.5,1.5,0.14,-0.5,-0.5,shooting
+ITA-Serie A,2021,Udinese,Fernando Llorente,ESP,FW,35,1985,7.9,1,11,5,45.5,1.39,0.63,0.09,0.2,9.7,0,0,0,1.8,1.8,0.17,-0.8,-0.8,shooting
+ITA-Serie A,2021,Udinese,Gerard Deulofeu,ESP,"FW,MF",26,1994,6.6,1,17,9,52.9,2.56,1.35,0.06,0.11,16.1,1,0,0,1.4,1.4,0.08,-0.4,-0.4,shooting
+ITA-Serie A,2021,Udinese,Hidde ter Avest,NED,DF,23,1997,3.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Ignacio Pussetto,ARG,FW,24,1995,8.4,3,17,7,41.2,2.03,0.84,0.18,0.43,14.6,0,0,0,2.5,2.5,0.15,0.5,0.5,shooting
+ITA-Serie A,2021,Udinese,Ilija Nestorovski,MKD,"FW,MF",30,1990,7.8,2,25,9,36.0,3.21,1.16,0.08,0.22,11.7,0,0,0,4.7,4.7,0.19,-2.7,-2.7,shooting
+ITA-Serie A,2021,Udinese,Jayden Braaf,NED,FW,17,2002,1.3,1,2,2,100.0,1.55,1.55,0.5,0.5,10.4,0,0,0,0.1,0.1,0.05,0.9,0.9,shooting
+ITA-Serie A,2021,Udinese,Jean-Victor Makengo,FRA,MF,22,1998,5.8,0,4,0,0.0,0.69,0.0,0.0,,25.9,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+ITA-Serie A,2021,Udinese,Jens Stryger Larsen,DEN,DF,29,1991,29.3,2,23,12,52.2,0.78,0.41,0.09,0.17,18.5,0,0,0,3.0,3.0,0.13,-1.0,-1.0,shooting
+ITA-Serie A,2021,Udinese,Juan Musso,ARG,GK,26,1994,35.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Kevin Bonifazi,ITA,DF,24,1996,27.4,0,17,0,0.0,0.62,0.0,0.0,,14.8,0,0,0,1.4,1.4,0.08,-1.4,-1.4,shooting
+ITA-Serie A,2021,Udinese,Kevin Lasagna,ITA,FW,27,1992,12.3,2,41,12,29.3,3.35,0.98,0.05,0.17,14.9,1,0,0,7.4,7.4,0.18,-5.4,-5.4,shooting
+ITA-Serie A,2021,Udinese,Mamadou Coulibaly,SEN,MF,21,1999,2.0,0,2,0,0.0,0.98,0.0,0.0,,22.8,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+ITA-Serie A,2021,Udinese,Manuel Gasparini,ITA,GK,18,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Martin Palumbo,NOR,MF,18,2002,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Marvin Zeegelaar,NED,DF,29,1990,19.3,1,9,1,11.1,0.47,0.05,0.11,1.0,14.8,0,0,0,1.6,1.6,0.18,-0.6,-0.6,shooting
+ITA-Serie A,2021,Udinese,Mato Jajalo,BIH,MF,32,1988,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Nahuel Molina,ARG,DF,22,1998,20.3,2,16,6,37.5,0.79,0.3,0.13,0.33,18.4,0,0,0,1.4,1.4,0.09,0.6,0.6,shooting
+ITA-Serie A,2021,Udinese,Nícolas Andrade,BRA,GK,32,1988,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Petar Mićin,SRB,MF,21,1998,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Roberto Pereyra,ARG,"MF,FW",29,1991,32.5,5,27,6,22.2,0.83,0.18,0.15,0.67,17.8,0,1,1,4.0,3.2,0.12,1.0,0.8,shooting
+ITA-Serie A,2021,Udinese,Rodrigo Becão,BRA,DF,24,1996,30.9,1,10,3,30.0,0.32,0.1,0.1,0.33,10.3,0,0,0,1.3,1.3,0.13,-0.3,-0.3,shooting
+ITA-Serie A,2021,Udinese,Rodrigo De Paul,ARG,MF,26,1994,35.6,9,79,19,24.1,2.22,0.53,0.08,0.32,25.5,10,3,3,6.2,3.8,0.05,2.8,2.2,shooting
+ITA-Serie A,2021,Udinese,Rolando Mandragora,ITA,MF,23,1997,4.4,0,9,4,44.4,2.04,0.9,0.0,0.0,22.9,1,0,0,1.0,1.0,0.11,-1.0,-1.0,shooting
+ITA-Serie A,2021,Udinese,Ryder Matos,BRA,MF,27,1993,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Samir Santos,BRA,DF,25,1994,24.6,1,11,3,27.3,0.45,0.12,0.09,0.33,11.1,0,0,0,1.3,1.3,0.12,-0.3,-0.3,shooting
+ITA-Serie A,2021,Udinese,Sebastien De Maio,FRA,DF,33,1987,9.5,0,6,1,16.7,0.63,0.11,0.0,0.0,12.7,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+ITA-Serie A,2021,Udinese,Simone Scuffet,ITA,GK,24,1996,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+ITA-Serie A,2021,Udinese,Stefano Okaka,ITA,FW,30,1989,16.5,4,24,9,37.5,1.45,0.54,0.17,0.44,12.6,0,0,0,3.8,3.8,0.16,0.2,0.2,shooting
+ITA-Serie A,2021,Udinese,Thomas Ouwejan,NED,DF,23,1996,4.6,0,6,2,33.3,1.31,0.44,0.0,0.0,24.6,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+ITA-Serie A,2021,Udinese,Tolgay Arslan,GER,MF,29,1990,20.2,3,22,6,27.3,1.09,0.3,0.14,0.5,21.5,0,0,0,0.9,0.9,0.04,2.1,2.1,shooting
+ITA-Serie A,2021,Udinese,Walace,BRA,MF,25,1995,22.8,0,17,4,23.5,0.74,0.18,0.0,0.0,24.3,0,0,0,0.7,0.7,0.04,-0.7,-0.7,shooting

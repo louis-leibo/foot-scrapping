@@ -1,0 +1,611 @@
+league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
+,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
+ESP-La Liga,2023,Alavés,Abdel Abqar,MAR,DF,24,1999,25.7,10,0,0,33,23,1,2,23,19,0,2,1,109,39,36,52.0,misc
+ESP-La Liga,2023,Alavés,Abderrahman Rebbach,ALG,"FW,MF",24,1998,8.0,1,0,0,13,10,3,63,3,5,0,0,0,31,7,13,35.0,misc
+ESP-La Liga,2023,Alavés,Aleksandar Sedlar,SRB,DF,31,1991,10.5,2,0,0,14,4,1,0,13,10,0,1,0,49,17,18,48.6,misc
+ESP-La Liga,2023,Alavés,Alex Sola,ESP,"FW,MF",24,1999,14.0,2,0,0,11,28,10,84,11,15,0,1,0,79,16,18,47.1,misc
+ESP-La Liga,2023,Alavés,Ander Guevara,ESP,MF,26,1997,32.6,7,0,0,48,30,0,8,13,32,1,0,0,218,45,41,52.3,misc
+ESP-La Liga,2023,Alavés,Andoni Gorosabel,ESP,DF,26,1996,31.7,6,0,0,29,41,0,81,28,42,1,1,0,164,25,57,30.5,misc
+ESP-La Liga,2023,Alavés,Antonio Blanco,ESP,MF,23,2000,27.0,5,1,0,36,40,0,15,35,36,0,0,0,160,21,18,53.8,misc
+ESP-La Liga,2023,Alavés,Antonio Sivera,ESP,GK,26,1996,34.0,3,0,0,0,2,0,0,0,0,0,0,0,23,7,1,87.5,misc
+ESP-La Liga,2023,Alavés,Carlos Benavídez,URU,MF,25,1998,12.6,5,0,0,38,9,1,4,19,35,0,2,0,72,35,30,53.8,misc
+ESP-La Liga,2023,Alavés,Carlos Vicente,ESP,FW,24,1999,12.4,1,0,0,18,25,9,90,4,6,0,0,0,47,22,26,45.8,misc
+ESP-La Liga,2023,Alavés,Eneko Ortiz,ESP,DF,20,2003,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Alavés,Giuliano Simeone,ARG,FW,20,2002,7.0,1,0,0,11,6,2,14,5,5,1,0,0,37,2,10,16.7,misc
+ESP-La Liga,2023,Alavés,Ianis Hagi,ROU,"MF,FW",24,1998,8.9,3,0,0,13,19,1,54,5,12,0,0,0,33,13,11,54.2,misc
+ESP-La Liga,2023,Alavés,Javi López,ESP,DF,21,2002,26.5,3,0,0,25,29,1,105,10,12,0,1,0,123,28,22,56.0,misc
+ESP-La Liga,2023,Alavés,Jesús Owono,EQG,GK,22,2001,4.0,1,0,0,0,0,0,0,0,0,0,0,0,11,2,0,100.0,misc
+ESP-La Liga,2023,Alavés,Joaquín Panichelli,ARG,"FW,MF",20,2002,2.5,0,0,0,8,4,1,0,1,3,0,0,0,10,17,5,77.3,misc
+ESP-La Liga,2023,Alavés,Jon Guridi,ESP,MF,28,1995,29.8,2,0,0,21,30,2,21,22,24,0,0,0,131,45,47,48.9,misc
+ESP-La Liga,2023,Alavés,Jon Karrikaburu,ESP,"MF,FW",20,2002,0.2,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Alavés,Kiké,ESP,"FW,MF",33,1989,15.8,3,0,0,25,36,7,10,1,4,2,0,0,52,50,63,44.2,misc
+ESP-La Liga,2023,Alavés,Luis Rioja,ESP,"FW,MF",29,1993,27.8,4,0,0,22,18,10,174,16,19,1,0,0,128,10,23,30.3,misc
+ESP-La Liga,2023,Alavés,Mamadou Sylla,SEN,"FW,MF",29,1994,0.2,0,0,0,1,2,0,0,0,0,0,0,0,1,3,3,50.0,misc
+ESP-La Liga,2023,Alavés,Miguel,ESP,"FW,MF",23,1999,0.7,0,0,0,2,3,0,0,0,0,0,0,0,3,1,2,33.3,misc
+ESP-La Liga,2023,Alavés,Nahuel Tenaglia,ARG,DF,27,1996,12.7,5,0,0,13,14,2,17,12,19,0,0,0,47,25,18,58.1,misc
+ESP-La Liga,2023,Alavés,Rafa Marín,ESP,DF,21,2002,27.1,6,0,0,28,16,0,1,33,20,0,0,1,117,56,43,56.6,misc
+ESP-La Liga,2023,Alavés,Rubén Duarte,ESP,DF,27,1995,20.9,7,0,0,31,30,0,70,23,20,0,0,0,93,27,26,50.9,misc
+ESP-La Liga,2023,Alavés,Samu Omorodion,ESP,FW,19,2004,21.3,6,0,0,30,30,16,2,1,3,1,0,0,46,59,89,39.9,misc
+ESP-La Liga,2023,Alavés,Tomás Mendes,ESP,MF,18,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Alavés,Unai Ropero,ESP,MF,21,2001,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Alavés,Victor Parada,ESP,"FW,MF",21,2002,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Alavés,Xeber,ESP,"FW,MF",26,1997,3.4,1,0,0,9,0,1,14,1,5,0,0,0,19,2,5,28.6,misc
+ESP-La Liga,2023,Almería,Adri Embarba,ESP,"FW,MF",31,1992,27.5,5,0,0,37,40,16,171,15,37,0,0,0,141,25,43,36.8,misc
+ESP-La Liga,2023,Almería,Alejandro Pozo Pozo,ESP,"DF,MF",24,1999,10.8,3,0,0,16,6,0,41,7,12,0,0,0,50,5,9,35.7,misc
+ESP-La Liga,2023,Almería,Aleksandar Radovanović,SRB,DF,29,1993,6.3,2,0,0,7,2,0,0,11,7,0,0,0,13,14,9,60.9,misc
+ESP-La Liga,2023,Almería,Anthony Lozano,HON,FW,30,1993,8.6,1,0,0,22,20,5,4,2,5,1,0,0,20,21,44,32.3,misc
+ESP-La Liga,2023,Almería,Arnau Puigmal,ESP,"FW,DF",22,2001,2.8,3,0,0,7,4,0,14,3,1,0,1,0,16,1,3,25.0,misc
+ESP-La Liga,2023,Almería,Bruno Langa,MOZ,DF,25,1997,9.1,1,1,0,4,12,0,16,4,12,0,0,0,37,2,6,25.0,misc
+ESP-La Liga,2023,Almería,Chumi,ESP,DF,24,1999,27.0,4,0,0,23,8,0,2,14,22,0,1,0,93,43,31,58.1,misc
+ESP-La Liga,2023,Almería,César Montes,MEX,DF,26,1997,19.9,5,0,0,22,11,2,3,11,13,0,0,0,64,59,24,71.1,misc
+ESP-La Liga,2023,Almería,Diego Mariño,ESP,GK,33,1990,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Almería,Dion Lopy,SEN,MF,21,2002,21.3,5,0,0,30,40,0,7,15,37,0,0,0,149,31,12,72.1,misc
+ESP-La Liga,2023,Almería,Fernando,ESP,GK,33,1990,4.0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,100.0,misc
+ESP-La Liga,2023,Almería,Gonzalo Melero,ESP,"MF,FW",29,1994,12.3,3,0,0,21,17,1,4,4,8,0,0,0,41,19,22,46.3,misc
+ESP-La Liga,2023,Almería,Houboulang Mendes,GNB,DF,25,1998,4.4,0,0,0,6,10,1,4,1,13,0,0,0,23,7,5,58.3,misc
+ESP-La Liga,2023,Almería,Ibrahima Koné,MLI,FW,24,1999,3.1,0,0,0,3,4,6,2,0,0,0,0,0,7,9,10,47.4,misc
+ESP-La Liga,2023,Almería,Iddrisu Baba,GHA,MF,27,1996,15.9,5,0,0,29,34,0,4,11,26,0,1,0,123,30,17,63.8,misc
+ESP-La Liga,2023,Almería,Jonathan Viera,ESP,MF,33,1989,10.1,3,1,1,10,16,4,6,4,9,0,0,0,36,3,6,33.3,misc
+ESP-La Liga,2023,Almería,Kaiky,BRA,DF,19,2004,5.8,2,0,0,7,0,0,1,3,4,0,1,0,14,11,11,50.0,misc
+ESP-La Liga,2023,Almería,Largie Ramazani,BEL,"FW,MF",22,2001,17.3,11,2,2,27,24,9,32,34,7,1,0,0,81,5,25,16.7,misc
+ESP-La Liga,2023,Almería,Lucas Robertone,ARG,MF,26,1997,26.5,11,0,0,38,54,2,67,51,33,0,0,0,163,38,29,56.7,misc
+ESP-La Liga,2023,Almería,Luis Javier Suárez,COL,FW,25,1997,10.2,3,0,0,18,18,4,7,0,5,0,0,0,17,10,33,23.3,misc
+ESP-La Liga,2023,Almería,Luka Romero,ARG,FW,18,2004,4.9,2,0,0,8,11,0,2,1,1,0,0,0,22,2,6,25.0,misc
+ESP-La Liga,2023,Almería,Luís Maximiano,POR,GK,24,1999,33.0,1,0,0,1,3,0,0,0,0,0,1,0,42,4,0,100.0,misc
+ESP-La Liga,2023,Almería,Lázaro,BRA,"FW,MF",21,2002,3.2,0,0,0,3,7,2,12,1,1,0,0,0,13,4,11,26.7,misc
+ESP-La Liga,2023,Almería,Léo Baptistão,BRA,FW,30,1992,20.4,6,1,0,21,29,13,27,11,16,0,0,0,85,48,70,40.7,misc
+ESP-La Liga,2023,Almería,Marc Pubill,ESP,DF,20,2003,20.9,2,0,0,21,34,0,68,15,23,0,0,0,93,25,20,55.6,misc
+ESP-La Liga,2023,Almería,Marciano Tchami,GNB,"FW,MF",19,2004,0.5,0,0,0,0,0,0,1,0,0,0,0,0,2,4,4,50.0,misc
+ESP-La Liga,2023,Almería,Marcos Peña,ESP,MF,18,2005,4.9,3,0,0,8,4,0,0,13,14,0,0,0,26,3,4,42.9,misc
+ESP-La Liga,2023,Almería,Marko Milovanović,SRB,"FW,MF",19,2003,3.4,0,0,0,15,6,4,1,0,4,0,0,0,9,13,23,36.1,misc
+ESP-La Liga,2023,Almería,Paco Sanz,ESP,DF,18,2004,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2023,Almería,Rachad Fettal,MAR,FW,18,2005,0.2,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2023,Almería,Sergio Akieme,ESP,DF,25,1997,18.6,2,0,0,18,17,1,57,10,15,0,2,0,99,10,15,40.0,misc
+ESP-La Liga,2023,Almería,Sergio Arribas,ESP,"MF,FW",21,2001,22.7,1,0,0,14,42,1,60,16,17,0,0,0,91,19,24,44.2,misc
+ESP-La Liga,2023,Almería,Srđan Babić,SRB,DF,27,1996,1.0,0,0,0,2,0,0,0,0,2,0,0,0,4,3,1,75.0,misc
+ESP-La Liga,2023,Almería,Álex Centelles,ESP,DF,25,1997,10.9,2,0,0,10,13,1,44,18,6,0,1,0,42,15,11,57.7,misc
+ESP-La Liga,2023,Almería,Édgar González,ESP,"DF,MF",26,1997,28.0,7,1,1,29,7,3,2,38,21,0,1,0,93,70,59,54.3,misc
+ESP-La Liga,2023,Athletic Club,Adu Ares,ESP,FW,21,2001,2.9,2,0,0,5,12,1,11,1,4,0,0,0,15,1,3,25.0,misc
+ESP-La Liga,2023,Athletic Club,Aingeru Olabarrieta,ESP,FW,17,2005,0.1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Athletic Club,Aitor Paredes,ESP,DF,23,2000,30.0,9,1,1,37,11,0,1,33,11,0,0,0,137,60,37,61.9,misc
+ESP-La Liga,2023,Athletic Club,Ander Herrera,ESP,MF,33,1989,11.4,4,0,0,21,11,0,13,15,32,0,0,0,76,14,24,36.8,misc
+ESP-La Liga,2023,Athletic Club,Asier Villalibre,ESP,FW,25,1997,5.7,0,0,0,7,11,3,2,0,1,0,0,0,13,21,23,47.7,misc
+ESP-La Liga,2023,Athletic Club,Beñat Prados,ESP,"MF,DF",22,2001,16.1,1,0,0,29,23,0,10,23,28,0,1,0,102,28,30,48.3,misc
+ESP-La Liga,2023,Athletic Club,Dani García,ESP,MF,33,1990,8.3,4,0,0,11,7,0,0,8,11,0,0,0,40,7,8,46.7,misc
+ESP-La Liga,2023,Athletic Club,Daniel Vivian,ESP,DF,24,1999,32.0,6,0,0,37,26,1,4,31,28,0,0,0,213,34,46,42.5,misc
+ESP-La Liga,2023,Athletic Club,Gorka Guruzeta,ESP,FW,26,1996,24.6,2,0,0,45,23,11,11,17,23,1,1,0,78,70,91,43.5,misc
+ESP-La Liga,2023,Athletic Club,Iker Muniain,ESP,"MF,FW",30,1992,6.6,1,0,0,5,11,0,31,0,1,0,0,0,27,1,10,9.1,misc
+ESP-La Liga,2023,Athletic Club,Imanol,ESP,DF,23,2000,5.8,2,0,0,5,2,0,21,7,5,0,0,0,37,10,4,71.4,misc
+ESP-La Liga,2023,Athletic Club,Iñaki Williams,GHA,FW,29,1994,31.6,4,0,0,32,45,25,111,14,17,0,0,1,119,32,23,58.2,misc
+ESP-La Liga,2023,Athletic Club,Iñigo Lekue,ESP,DF,30,1993,22.2,4,0,0,15,7,0,37,15,22,0,0,0,139,15,9,62.5,misc
+ESP-La Liga,2023,Athletic Club,Iñigo Ruiz de Galarreta,ESP,MF,29,1993,23.2,7,0,0,54,41,0,57,12,31,0,0,1,152,22,23,48.9,misc
+ESP-La Liga,2023,Athletic Club,Julen Agirrezabala,ESP,GK,22,2000,2.6,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,100.0,misc
+ESP-La Liga,2023,Athletic Club,Mikel Jauregizar,ESP,MF,19,2003,1.7,0,0,0,4,1,0,6,0,0,0,0,0,9,1,8,11.1,misc
+ESP-La Liga,2023,Athletic Club,Mikel Vesga,ESP,MF,30,1993,17.0,2,0,0,28,6,0,13,32,20,0,0,0,112,31,31,50.0,misc
+ESP-La Liga,2023,Athletic Club,Nico Williams,ESP,FW,21,2002,25.1,6,1,1,19,37,12,153,3,12,3,1,0,131,8,9,47.1,misc
+ESP-La Liga,2023,Athletic Club,Oihan Sancet,ESP,MF,23,2000,21.9,5,2,1,30,35,3,30,10,11,0,0,0,107,24,18,57.1,misc
+ESP-La Liga,2023,Athletic Club,Peru Nolaskoain,ESP,"DF,MF",24,1998,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,2,0,100.0,misc
+ESP-La Liga,2023,Athletic Club,Raúl García,ESP,"FW,MF",37,1986,4.7,3,0,0,20,10,5,7,3,6,0,1,0,19,27,19,58.7,misc
+ESP-La Liga,2023,Athletic Club,Unai Gómez,ESP,MF,20,2003,9.7,1,0,0,11,20,0,21,2,10,0,0,0,45,13,15,46.4,misc
+ESP-La Liga,2023,Athletic Club,Unai Simón,ESP,GK,26,1997,35.4,2,0,0,0,8,0,0,1,1,0,0,1,58,10,1,90.9,misc
+ESP-La Liga,2023,Athletic Club,Yeray Álvarez,ESP,DF,28,1995,12.8,1,1,0,15,14,0,1,11,9,0,0,0,68,43,15,74.1,misc
+ESP-La Liga,2023,Athletic Club,Yuri Berchiche,ESP,DF,33,1990,21.4,5,0,0,29,33,0,44,20,25,0,1,1,119,33,20,62.3,misc
+ESP-La Liga,2023,Athletic Club,Álex Berenguer,ESP,FW,28,1995,17.7,4,0,0,30,22,12,138,5,14,0,0,0,63,20,42,32.3,misc
+ESP-La Liga,2023,Athletic Club,Óscar de Marcos,ESP,DF,34,1989,25.1,5,0,0,22,12,5,121,15,39,0,0,0,124,13,16,44.8,misc
+ESP-La Liga,2023,Atlético Madrid,Abdellah Raihani,MAR,FW,19,2004,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Atlético Madrid,Antoine Griezmann,FRA,"FW,MF",32,1991,29.4,5,0,0,16,26,14,123,10,19,0,0,0,100,14,27,34.1,misc
+ESP-La Liga,2023,Atlético Madrid,Arthur Vermeeren,BEL,MF,18,2005,1.8,2,0,0,7,1,0,0,6,0,0,0,0,14,1,6,14.3,misc
+ESP-La Liga,2023,Atlético Madrid,Axel Witsel,BEL,DF,34,1989,30.9,5,0,0,24,29,0,4,16,21,0,0,0,148,55,26,67.9,misc
+ESP-La Liga,2023,Atlético Madrid,César Azpilicueta,ESP,DF,33,1989,15.8,4,0,0,29,12,0,11,16,14,0,0,0,72,21,23,47.7,misc
+ESP-La Liga,2023,Atlético Madrid,Gabriel Paulista,BRA,DF,32,1990,4.5,1,0,0,4,0,0,0,4,5,0,0,0,19,13,6,68.4,misc
+ESP-La Liga,2023,Atlético Madrid,Jan Oblak,SVN,GK,30,1993,38.0,1,0,0,0,2,0,0,0,0,0,0,0,29,8,0,100.0,misc
+ESP-La Liga,2023,Atlético Madrid,Javi Galán,ESP,DF,28,1994,1.0,1,0,0,1,4,0,6,1,4,0,0,0,7,3,1,75.0,misc
+ESP-La Liga,2023,Atlético Madrid,José María Giménez,URU,DF,28,1995,14.7,5,0,0,17,2,0,1,10,10,0,0,0,49,31,18,63.3,misc
+ESP-La Liga,2023,Atlético Madrid,Koke,ESP,MF,31,1992,27.7,5,0,0,19,19,0,11,16,44,0,0,0,198,15,16,48.4,misc
+ESP-La Liga,2023,Atlético Madrid,Marcos Llorente,ESP,"MF,DF",28,1995,28.5,5,0,0,31,27,19,70,14,23,0,0,0,115,16,32,33.3,misc
+ESP-La Liga,2023,Atlético Madrid,Mario Hermoso,ESP,DF,28,1995,28.4,9,0,0,32,23,1,38,30,25,1,0,0,168,46,32,59.0,misc
+ESP-La Liga,2023,Atlético Madrid,Memphis,NED,FW,29,1994,9.9,2,0,0,14,16,8,12,1,2,0,0,0,26,4,12,25.0,misc
+ESP-La Liga,2023,Atlético Madrid,Nahuel Molina,ARG,DF,25,1998,20.6,4,1,0,20,17,7,87,9,22,0,0,0,122,7,11,38.9,misc
+ESP-La Liga,2023,Atlético Madrid,Pablo Barrios,ESP,MF,20,2003,17.3,5,0,0,23,24,0,16,28,25,0,0,0,94,14,21,40.0,misc
+ESP-La Liga,2023,Atlético Madrid,Reinildo Mandava,MOZ,DF,29,1994,8.1,2,0,0,14,8,0,6,15,22,0,0,0,53,12,10,54.5,misc
+ESP-La Liga,2023,Atlético Madrid,Rodrigo De Paul,ARG,MF,29,1994,23.1,7,0,0,27,59,1,46,11,21,0,0,0,145,5,4,55.6,misc
+ESP-La Liga,2023,Atlético Madrid,Rodrigo Riquelme,ESP,"DF,MF",23,2000,17.0,1,0,0,11,29,9,65,9,19,0,1,0,98,5,16,23.8,misc
+ESP-La Liga,2023,Atlético Madrid,Salim El Jebari,MAR,MF,19,2004,0.1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0.0,misc
+ESP-La Liga,2023,Atlético Madrid,Samuel Lino,BRA,"DF,MF",23,1999,23.1,1,0,0,26,56,9,41,14,34,1,0,0,144,9,17,34.6,misc
+ESP-La Liga,2023,Atlético Madrid,Saúl Ñíguez,ESP,MF,28,1994,15.3,10,1,1,41,14,2,16,14,39,0,0,0,72,47,32,59.5,misc
+ESP-La Liga,2023,Atlético Madrid,Stefan Savić,MNE,DF,32,1991,18.1,7,1,1,16,6,1,3,27,19,0,0,0,77,46,32,59.0,misc
+ESP-La Liga,2023,Atlético Madrid,Thomas Lemar,FRA,MF,27,1995,1.8,0,0,0,3,2,0,6,0,1,0,0,0,5,0,2,0.0,misc
+ESP-La Liga,2023,Atlético Madrid,Yannick Carrasco,BEL,DF,29,1993,2.5,0,0,0,2,2,1,8,1,4,0,0,0,15,0,1,0.0,misc
+ESP-La Liga,2023,Atlético Madrid,Álvaro Morata,ESP,FW,30,1992,21.2,4,1,1,33,35,33,10,1,10,2,0,0,54,44,32,57.9,misc
+ESP-La Liga,2023,Atlético Madrid,Ángel Correa,ARG,"FW,MF",28,1995,17.0,3,0,0,24,32,17,40,2,15,0,0,0,63,5,13,27.8,misc
+ESP-La Liga,2023,Atlético Madrid,Çağlar Söyüncü,TUR,DF,27,1996,1.3,0,1,0,3,1,1,0,1,1,0,1,0,9,1,0,100.0,misc
+ESP-La Liga,2023,Barcelona,Abde Ezzalzouli,MAR,"FW,MF",21,2001,0.8,0,0,0,1,3,0,7,0,1,0,0,0,2,1,2,33.3,misc
+ESP-La Liga,2023,Barcelona,Alejandro Balde,ESP,DF,19,2003,15.3,1,0,0,9,18,4,37,5,11,0,0,0,67,12,13,48.0,misc
+ESP-La Liga,2023,Barcelona,Andreas Christensen,DEN,"DF,MF",27,1996,22.0,4,0,0,26,10,0,0,21,14,0,0,0,107,54,22,71.1,misc
+ESP-La Liga,2023,Barcelona,Ansu Fati,ESP,"MF,FW",20,2002,0.6,0,0,0,0,4,1,0,0,0,0,0,0,2,1,1,50.0,misc
+ESP-La Liga,2023,Barcelona,Eric García,ESP,DF,22,2001,0.6,1,0,0,1,0,0,0,0,0,0,0,0,3,1,0,100.0,misc
+ESP-La Liga,2023,Barcelona,Fermin López,ESP,"MF,FW",20,2003,16.1,2,0,0,43,17,10,17,4,21,0,0,0,70,8,23,25.8,misc
+ESP-La Liga,2023,Barcelona,Ferrán Torres,ESP,FW,23,2000,13.5,2,0,0,8,16,16,21,5,6,1,0,0,40,4,11,26.7,misc
+ESP-La Liga,2023,Barcelona,Frenkie de Jong,NED,MF,26,1997,18.2,7,0,0,19,22,1,25,14,26,0,0,0,117,23,17,57.5,misc
+ESP-La Liga,2023,Barcelona,Gavi,ESP,"MF,FW",18,2004,10.5,5,0,0,31,23,4,8,8,21,0,0,0,44,13,26,33.3,misc
+ESP-La Liga,2023,Barcelona,Héctor Fort,ESP,DF,16,2006,3.5,0,0,0,8,1,1,6,2,5,0,0,0,16,0,3,0.0,misc
+ESP-La Liga,2023,Barcelona,Iñaki Peña,ESP,GK,24,1999,10.0,0,0,0,0,1,0,0,0,0,0,0,0,12,4,0,100.0,misc
+ESP-La Liga,2023,Barcelona,Iñigo Martínez,ESP,DF,32,1991,14.4,5,0,0,10,11,1,3,11,7,0,0,0,69,33,27,55.0,misc
+ESP-La Liga,2023,Barcelona,João Cancelo,POR,DF,29,1994,27.8,7,0,0,40,26,4,82,29,44,0,0,0,165,24,23,51.1,misc
+ESP-La Liga,2023,Barcelona,João Félix,POR,FW,23,1999,17.1,3,0,0,21,54,9,17,10,16,0,0,0,68,8,8,50.0,misc
+ESP-La Liga,2023,Barcelona,Jules Koundé,FRA,DF,24,1998,32.2,4,0,0,22,16,2,34,25,23,0,0,0,157,71,44,61.7,misc
+ESP-La Liga,2023,Barcelona,Lamine Yamal,ESP,FW,16,2007,24.5,3,0,0,23,52,4,87,19,37,2,0,0,102,2,11,15.4,misc
+ESP-La Liga,2023,Barcelona,Marc Casado,ESP,MF,19,2003,0.2,0,0,0,0,2,0,0,1,1,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Barcelona,Marc Guiu,ESP,"FW,MF",17,2006,0.8,1,0,0,1,2,1,0,0,0,0,0,0,1,1,3,25.0,misc
+ESP-La Liga,2023,Barcelona,Marc-André ter Stegen,GER,GK,31,1992,28.0,3,0,0,0,1,0,0,0,0,0,0,0,55,4,0,100.0,misc
+ESP-La Liga,2023,Barcelona,Marcos Alonso,ESP,DF,32,1990,2.8,0,0,0,7,6,0,15,4,3,0,0,0,14,2,4,33.3,misc
+ESP-La Liga,2023,Barcelona,Oriol Romeu,ESP,MF,31,1991,10.4,4,0,0,15,11,0,6,10,20,0,0,0,62,14,19,42.4,misc
+ESP-La Liga,2023,Barcelona,Pau Cubarsí,ESP,DF,16,2007,17.3,4,0,0,15,2,0,1,12,14,0,1,0,59,28,26,51.9,misc
+ESP-La Liga,2023,Barcelona,Pedri,ESP,"MF,FW",20,2002,16.4,3,0,0,11,22,1,9,14,24,0,0,0,82,3,5,37.5,misc
+ESP-La Liga,2023,Barcelona,Raphinha,BRA,"FW,MF",26,1996,15.2,4,1,0,17,25,7,82,13,8,1,0,0,74,9,5,64.3,misc
+ESP-La Liga,2023,Barcelona,Robert Lewandowski,POL,FW,34,1988,30.6,5,0,0,23,55,24,18,9,5,1,0,0,56,51,49,51.0,misc
+ESP-La Liga,2023,Barcelona,Ronald Araújo,URU,DF,24,1999,22.2,6,0,0,25,9,0,8,12,22,0,1,0,102,60,22,73.2,misc
+ESP-La Liga,2023,Barcelona,Sergi Roberto,ESP,"MF,DF",31,1992,9.6,4,0,0,8,7,1,9,8,10,0,0,0,44,12,11,52.2,misc
+ESP-La Liga,2023,Barcelona,Vitor Roque,BRA,FW,18,2005,3.6,4,1,1,13,11,2,2,0,2,0,0,0,8,3,6,33.3,misc
+ESP-La Liga,2023,Barcelona,İlkay Gündoğan,GER,MF,32,1990,33.3,5,0,0,15,42,6,157,21,22,1,0,0,189,7,18,28.0,misc
+ESP-La Liga,2023,Betis,Abde Ezzalzouli,MAR,FW,21,2001,9.6,1,0,0,9,16,4,33,5,14,0,0,0,44,23,23,50.0,misc
+ESP-La Liga,2023,Betis,Abner,BRA,DF,23,2000,15.6,3,0,0,16,2,2,26,15,19,0,1,0,79,14,10,58.3,misc
+ESP-La Liga,2023,Betis,Aitor Ruibal,ESP,"DF,FW",27,1996,11.3,5,0,0,16,13,1,28,14,27,0,1,0,78,4,9,30.8,misc
+ESP-La Liga,2023,Betis,Andrés Guardado,MEX,MF,36,1986,5.0,2,0,0,10,3,0,11,6,12,0,0,0,37,4,7,36.4,misc
+ESP-La Liga,2023,Betis,Assane Diao,SEN,FW,17,2005,11.6,4,0,0,12,22,1,9,7,12,0,0,0,47,14,22,38.9,misc
+ESP-La Liga,2023,Betis,Ayoze Pérez,ESP,FW,30,1993,25.5,4,0,0,36,48,11,19,22,32,0,0,0,121,20,34,37.0,misc
+ESP-La Liga,2023,Betis,Borja Iglesias,ESP,FW,30,1993,4.5,2,0,0,7,5,7,1,2,0,0,1,0,7,6,7,46.2,misc
+ESP-La Liga,2023,Betis,Chadi Riad,MAR,DF,20,2003,24.0,1,0,0,15,7,1,0,23,24,0,1,0,110,44,38,53.7,misc
+ESP-La Liga,2023,Betis,Claudio Bravo,CHI,GK,40,1983,7.0,0,0,0,0,1,0,0,0,0,0,0,0,14,2,0,100.0,misc
+ESP-La Liga,2023,Betis,Cédric Bakambu,COD,FW,32,1991,2.2,1,0,0,4,3,3,0,0,0,0,0,0,4,3,7,30.0,misc
+ESP-La Liga,2023,Betis,Ezequiel Ávila,ARG,FW,29,1994,3.3,4,1,1,3,12,0,12,1,1,0,0,0,9,4,5,44.4,misc
+ESP-La Liga,2023,Betis,Fran Vieites,ESP,GK,24,1999,3.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2023,Betis,Germán Pezzella,ARG,DF,32,1991,30.7,7,0,0,22,13,6,2,31,24,0,0,0,148,84,39,68.3,misc
+ESP-La Liga,2023,Betis,Guido Rodríguez,ARG,MF,29,1994,20.5,6,0,0,23,35,4,6,29,30,0,1,0,155,20,14,58.8,misc
+ESP-La Liga,2023,Betis,Héctor Bellerín,ESP,DF,28,1995,19.0,0,1,0,21,10,1,40,22,22,0,0,1,86,16,33,32.7,misc
+ESP-La Liga,2023,Betis,Isco,ESP,MF,31,1992,25.8,10,0,0,31,79,3,152,10,27,0,0,0,129,16,39,29.1,misc
+ESP-La Liga,2023,Betis,Johnny Cardoso,USA,MF,21,2001,14.8,3,0,0,21,19,0,3,32,29,1,0,0,91,38,25,60.3,misc
+ESP-La Liga,2023,Betis,Juan Cruz,ESP,FW,23,2000,0.8,0,0,0,2,2,0,0,0,0,0,0,0,4,1,0,100.0,misc
+ESP-La Liga,2023,Betis,Juan Miranda,ESP,DF,23,2000,20.6,8,0,0,21,34,3,62,19,24,0,1,0,83,26,27,49.1,misc
+ESP-La Liga,2023,Betis,Luiz Felipe,ITA,DF,26,1997,4.0,1,0,0,2,1,0,0,4,3,0,0,0,23,2,6,25.0,misc
+ESP-La Liga,2023,Betis,Luiz Henrique,BRA,FW,22,2001,6.8,1,0,0,7,15,0,24,5,11,0,0,0,29,15,14,51.7,misc
+ESP-La Liga,2023,Betis,Marc Bartra,ESP,DF,32,1991,2.5,1,0,0,4,1,0,0,3,3,0,0,0,15,4,4,50.0,misc
+ESP-La Liga,2023,Betis,Marc Roca,ESP,MF,26,1996,22.0,5,0,0,48,23,1,25,17,36,0,0,0,147,9,22,29.0,misc
+ESP-La Liga,2023,Betis,Nabil Fekir,FRA,"MF,FW",30,1993,11.7,1,0,0,22,35,8,56,7,10,0,0,0,42,10,11,47.6,misc
+ESP-La Liga,2023,Betis,Pablo Busto,ESP,DF,17,2005,0.5,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Betis,Pablo Fornals,ESP,"FW,MF",27,1996,12.8,2,0,0,13,14,4,51,22,16,0,0,0,72,11,9,55.0,misc
+ESP-La Liga,2023,Betis,Paul Akouokou,CIV,MF,25,1997,0.3,0,0,0,1,1,0,0,1,3,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Betis,Ricardo Visus,ESP,DF,22,2001,1.8,0,0,0,3,1,0,0,2,2,0,0,0,3,2,5,28.6,misc
+ESP-La Liga,2023,Betis,Rodri,ESP,"FW,MF",23,2000,11.7,0,0,0,6,29,4,36,8,10,0,0,0,58,0,9,0.0,misc
+ESP-La Liga,2023,Betis,Rui Silva,POR,GK,29,1994,27.5,4,0,0,2,7,0,0,1,0,0,2,1,41,10,3,76.9,misc
+ESP-La Liga,2023,Betis,Sergi Altimira,ESP,MF,21,2001,6.3,1,0,0,8,8,0,1,9,8,0,0,0,41,2,4,33.3,misc
+ESP-La Liga,2023,Betis,Sokratis Papastathopoulos,GRE,DF,35,1988,12.6,6,0,0,13,6,0,0,6,14,0,0,1,51,25,18,58.1,misc
+ESP-La Liga,2023,Betis,William Carvalho,POR,MF,31,1992,7.6,2,0,0,13,5,0,4,8,12,0,0,0,47,8,3,72.7,misc
+ESP-La Liga,2023,Betis,Willian José,BRA,FW,31,1991,21.9,0,1,0,9,20,9,7,2,3,0,0,0,41,31,40,43.7,misc
+ESP-La Liga,2023,Betis,Youssouf Sabaly,SEN,DF,30,1993,11.6,2,0,0,9,6,0,27,11,11,0,0,0,63,10,13,43.5,misc
+ESP-La Liga,2023,Celta Vigo,Anastasios Douvikas,GRE,FW,23,1999,10.1,2,0,0,18,30,6,2,2,7,0,0,0,22,35,28,55.6,misc
+ESP-La Liga,2023,Celta Vigo,Carl Starfelt,SWE,DF,28,1995,24.6,4,0,0,15,10,0,1,34,30,0,1,0,129,72,35,67.3,misc
+ESP-La Liga,2023,Celta Vigo,Carles Pérez,ESP,"MF,DF",25,1998,8.6,3,0,0,15,12,1,17,5,5,0,0,0,45,4,13,23.5,misc
+ESP-La Liga,2023,Celta Vigo,Carlos Dominguez,ESP,DF,22,2001,17.6,2,0,0,15,8,0,3,22,21,0,0,2,71,36,30,54.5,misc
+ESP-La Liga,2023,Celta Vigo,Carlos Dotor,ESP,MF,22,2001,7.9,2,0,0,14,10,0,9,4,7,0,0,0,49,5,8,38.5,misc
+ESP-La Liga,2023,Celta Vigo,Damián Rodríguez,ESP,MF,20,2003,2.9,1,0,0,4,1,0,9,1,3,0,0,0,8,0,2,0.0,misc
+ESP-La Liga,2023,Celta Vigo,Fran Beltrán,ESP,MF,24,1999,27.0,2,0,0,28,16,2,19,18,32,0,2,0,160,13,33,28.3,misc
+ESP-La Liga,2023,Celta Vigo,Franco Cervi,ARG,"MF,DF",29,1994,6.1,2,0,0,6,19,2,18,9,18,0,0,0,54,6,8,42.9,misc
+ESP-La Liga,2023,Celta Vigo,Gabriel Veiga,ESP,FW,21,2002,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2023,Celta Vigo,Hugo Sotelo,ESP,MF,19,2003,8.0,1,0,0,16,3,0,29,2,17,0,0,0,52,2,7,22.2,misc
+ESP-La Liga,2023,Celta Vigo,Hugo Álvarez,ESP,"MF,DF",20,2003,8.5,1,0,0,9,9,1,22,5,9,0,0,0,47,5,6,45.5,misc
+ESP-La Liga,2023,Celta Vigo,Iago Aspas,ESP,FW,35,1987,30.1,6,1,0,19,59,12,149,10,6,1,0,0,99,7,30,18.9,misc
+ESP-La Liga,2023,Celta Vigo,Iván Villar,ESP,GK,26,1997,11.3,0,2,0,2,2,0,0,0,0,0,2,0,19,1,0,100.0,misc
+ESP-La Liga,2023,Celta Vigo,Jailson Siqueira,BRA,"DF,MF",27,1995,10.0,1,0,0,13,13,0,4,12,18,0,0,0,61,17,25,40.5,misc
+ESP-La Liga,2023,Celta Vigo,Javier Manquillo,ESP,"DF,MF",29,1994,8.3,3,0,0,14,4,0,5,3,11,0,0,0,30,13,10,56.5,misc
+ESP-La Liga,2023,Celta Vigo,Javier Rueda Garcia,ESP,"MF,DF",21,2002,0.2,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Celta Vigo,Jonathan Bamba,CIV,"MF,FW",27,1996,22.0,0,0,0,15,65,7,50,18,9,0,0,0,101,7,22,24.1,misc
+ESP-La Liga,2023,Celta Vigo,Joseph Aidoo,GHA,DF,27,1995,4.5,0,0,0,4,0,0,0,4,3,0,0,0,22,14,9,60.9,misc
+ESP-La Liga,2023,Celta Vigo,Jørgen Strand Larsen,NOR,FW,23,2000,31.8,5,0,0,65,48,21,18,5,11,1,0,0,88,73,82,47.1,misc
+ESP-La Liga,2023,Celta Vigo,Kevin Vázquez,ESP,DF,30,1993,7.8,3,0,0,11,10,0,8,5,13,0,1,0,29,10,8,55.6,misc
+ESP-La Liga,2023,Celta Vigo,Luca de la Torre,USA,MF,25,1998,21.7,4,1,1,40,19,4,17,12,21,0,0,0,107,14,37,27.5,misc
+ESP-La Liga,2023,Celta Vigo,Manu Sánchez,ESP,"DF,MF",22,2000,19.7,3,0,0,21,5,0,57,19,28,0,0,0,95,9,21,30.0,misc
+ESP-La Liga,2023,Celta Vigo,Miguel Rodríguez,ESP,MF,20,2003,3.3,2,0,0,15,11,0,11,4,3,0,0,0,9,1,8,11.1,misc
+ESP-La Liga,2023,Celta Vigo,Mihailo Ristić,SRB,"DF,MF",27,1995,9.0,2,0,0,12,14,0,39,10,9,0,0,0,67,9,7,56.3,misc
+ESP-La Liga,2023,Celta Vigo,Renato Tapia,PER,"MF,DF",28,1995,14.9,5,1,1,24,27,1,9,21,29,0,0,0,112,43,33,56.6,misc
+ESP-La Liga,2023,Celta Vigo,Tadeo Allende,ARG,"MF,FW",24,1999,3.7,1,0,0,2,3,3,10,3,1,0,0,0,19,5,4,55.6,misc
+ESP-La Liga,2023,Celta Vigo,Unai Núñez,ESP,DF,26,1997,31.1,4,0,0,37,24,0,1,52,28,1,0,0,206,89,57,61.0,misc
+ESP-La Liga,2023,Celta Vigo,Vicente Guaita,ESP,GK,36,1987,26.7,2,0,0,1,5,0,0,0,1,0,1,1,21,11,1,91.7,misc
+ESP-La Liga,2023,Celta Vigo,Williot Swedberg,SWE,"FW,MF",19,2004,4.9,1,0,0,6,11,2,5,0,4,1,0,0,18,5,5,50.0,misc
+ESP-La Liga,2023,Celta Vigo,Yoel Lago,ESP,DF,19,2004,1.0,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Celta Vigo,Óscar Mingueza,ESP,"DF,MF",24,1999,33.3,4,0,0,21,44,1,148,17,38,0,1,0,164,16,18,47.1,misc
+ESP-La Liga,2023,Cádiz,Aiham Ousou,SYR,DF,23,2000,4.8,0,0,0,4,6,0,0,7,5,0,0,0,26,8,7,53.3,misc
+ESP-La Liga,2023,Cádiz,Borja Vázquez,ESP,FW,18,2005,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Cádiz,Brian Ocampo,URU,"MF,FW",24,1999,2.8,2,0,0,9,9,0,19,3,3,0,0,0,23,4,3,57.1,misc
+ESP-La Liga,2023,Cádiz,Chris Ramos,ESP,"FW,MF",26,1997,29.0,5,0,0,61,46,12,12,9,15,2,0,0,60,172,164,51.2,misc
+ESP-La Liga,2023,Cádiz,Darwin Machís,VEN,MF,30,1993,8.7,0,1,0,12,14,2,64,4,14,0,0,0,53,3,10,23.1,misc
+ESP-La Liga,2023,Cádiz,David Gil,ESP,GK,29,1994,4.1,1,0,0,0,2,0,0,0,0,0,0,0,2,4,0,100.0,misc
+ESP-La Liga,2023,Cádiz,Diadie Samassékou,MLI,MF,27,1996,1.0,0,0,0,2,0,0,0,3,3,0,0,0,6,3,2,60.0,misc
+ESP-La Liga,2023,Cádiz,Fali,ESP,DF,29,1993,28.3,12,0,0,23,19,0,10,27,26,0,0,0,127,39,39,50.0,misc
+ESP-La Liga,2023,Cádiz,Fede San Emeterio,ESP,MF,26,1997,1.7,1,1,0,8,3,0,1,2,2,0,0,0,5,3,4,42.9,misc
+ESP-La Liga,2023,Cádiz,Gonzalo Escalante,ARG,MF,30,1993,18.9,2,1,0,31,14,2,5,26,24,0,0,0,91,31,30,50.8,misc
+ESP-La Liga,2023,Cádiz,Isaac Carcelen,ESP,DF,30,1993,29.0,2,0,0,16,44,5,67,27,31,0,0,0,129,22,36,37.9,misc
+ESP-La Liga,2023,Cádiz,Iván Alejo,ESP,MF,28,1995,18.8,17,0,0,49,49,9,151,7,23,0,1,0,87,15,18,45.5,misc
+ESP-La Liga,2023,Cádiz,Javi Hernández,ESP,DF,25,1998,27.9,10,0,0,45,19,1,127,19,24,0,0,0,139,31,27,53.4,misc
+ESP-La Liga,2023,Cádiz,Jeremías Ledesma,ARG,GK,30,1993,33.9,0,0,0,1,5,0,0,0,1,0,0,0,54,6,3,66.7,misc
+ESP-La Liga,2023,Cádiz,Jorge Meré,ESP,DF,26,1997,7.5,0,0,0,1,4,0,1,8,7,0,0,0,38,8,11,42.1,misc
+ESP-La Liga,2023,Cádiz,Joseba Zaldúa,ESP,DF,31,1992,7.8,3,0,0,14,4,2,17,2,12,0,0,1,24,10,5,66.7,misc
+ESP-La Liga,2023,Cádiz,José Mari,ESP,"MF,FW",35,1987,0.2,1,0,0,1,1,0,0,0,1,0,0,0,3,0,0,,misc
+ESP-La Liga,2023,Cádiz,Juanmi,ESP,FW,30,1993,9.7,3,0,0,24,11,13,2,6,4,0,0,0,39,8,25,24.2,misc
+ESP-La Liga,2023,Cádiz,Karl Etta,CMR,FW,19,2003,0.2,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2023,Cádiz,Lucas,BRA,DF,22,2001,17.1,6,0,0,12,6,2,72,17,27,0,0,0,92,11,23,32.4,misc
+ESP-La Liga,2023,Cádiz,Luis Hernández,ESP,DF,34,1989,8.0,4,0,0,8,0,0,2,8,3,0,0,0,24,9,2,81.8,misc
+ESP-La Liga,2023,Cádiz,Mamadou Mbaye,SEN,DF,25,1998,3.2,2,0,0,6,0,0,0,5,3,0,1,0,10,9,5,64.3,misc
+ESP-La Liga,2023,Cádiz,Maxi Gómez,URU,FW,26,1996,12.9,2,0,0,20,32,13,20,3,4,0,0,0,15,71,69,50.7,misc
+ESP-La Liga,2023,Cádiz,Milutin Osmajić,MNE,MF,24,1999,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2023,Cádiz,Moussa Diakité,MLI,MF,19,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Cádiz,Roberto Navarro,ESP,"MF,FW",21,2002,21.0,0,1,0,15,27,4,96,19,29,0,0,0,125,12,19,38.7,misc
+ESP-La Liga,2023,Cádiz,Roger Martí,ESP,FW,32,1991,15.1,3,0,0,34,28,9,9,7,6,0,0,0,58,17,34,33.3,misc
+ESP-La Liga,2023,Cádiz,Rominigue Kouamé,MLI,MF,26,1996,9.1,2,0,0,11,9,1,1,13,9,0,0,0,60,19,13,59.4,misc
+ESP-La Liga,2023,Cádiz,Rubén Alcaraz,ESP,MF,32,1991,34.8,14,0,0,84,71,1,36,33,59,0,0,0,234,47,49,49.0,misc
+ESP-La Liga,2023,Cádiz,Rubén Sobrino,ESP,"MF,FW",31,1992,18.3,8,1,0,46,31,7,22,16,28,0,0,0,112,22,22,50.0,misc
+ESP-La Liga,2023,Cádiz,Sergi Guardiola,ESP,"FW,MF",32,1991,5.5,1,0,0,18,22,3,17,0,7,0,0,0,27,5,10,33.3,misc
+ESP-La Liga,2023,Cádiz,Víctor Chust,ESP,DF,23,2000,20.7,3,2,0,15,4,0,2,11,18,0,0,0,83,26,25,51.0,misc
+ESP-La Liga,2023,Cádiz,Álex Fernández,ESP,MF,30,1992,14.3,3,0,0,5,16,0,35,15,9,0,0,0,82,13,16,44.8,misc
+ESP-La Liga,2023,Cádiz,Álvaro Negredo,ESP,"FW,MF",37,1985,0.6,0,0,0,0,2,3,2,1,0,0,0,0,2,3,1,75.0,misc
+ESP-La Liga,2023,Getafe,Alberto Risco,ESP,MF,17,2005,1.5,0,0,0,1,1,0,1,0,2,0,0,0,3,0,1,0.0,misc
+ESP-La Liga,2023,Getafe,Anthony Lozano,HON,"MF,FW",30,1993,1.0,1,0,0,6,1,1,1,0,0,0,0,0,2,7,7,50.0,misc
+ESP-La Liga,2023,Getafe,Borja Mayoral,ESP,FW,26,1997,23.9,2,0,0,31,32,14,22,4,5,1,0,0,69,48,71,40.3,misc
+ESP-La Liga,2023,Getafe,Carles Aleñá,ESP,MF,25,1998,11.3,6,0,0,22,18,3,33,4,8,0,0,0,53,11,19,36.7,misc
+ESP-La Liga,2023,Getafe,Carmona,ESP,"DF,MF",21,2002,14.6,8,0,0,33,23,3,29,21,21,0,0,0,71,18,20,47.4,misc
+ESP-La Liga,2023,Getafe,Damián Suárez,URU,DF,35,1988,14.4,7,1,0,24,12,0,49,10,21,0,1,0,77,9,9,50.0,misc
+ESP-La Liga,2023,Getafe,Daniel Fuzato,BRA,GK,26,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Getafe,David Soria,ESP,GK,30,1993,37.9,3,0,0,1,2,0,0,0,0,0,1,0,52,3,0,100.0,misc
+ESP-La Liga,2023,Getafe,Diego Rico,ESP,DF,30,1993,28.2,10,0,0,32,55,2,130,41,48,0,0,0,164,29,20,59.2,misc
+ESP-La Liga,2023,Getafe,Djené,TOG,"DF,MF",31,1991,27.6,14,1,1,51,37,1,30,23,19,0,1,0,175,37,29,56.1,misc
+ESP-La Liga,2023,Getafe,Domingos Duarte,POR,DF,28,1995,10.1,5,2,1,8,8,0,1,8,4,0,0,0,45,14,10,58.3,misc
+ESP-La Liga,2023,Getafe,Enes Ünal,TUR,"FW,MF",26,1997,1.6,0,0,0,5,5,4,1,0,0,0,0,0,5,3,13,18.8,misc
+ESP-La Liga,2023,Getafe,Fabrizio Angileri,ARG,"DF,MF",29,1994,1.8,2,1,0,1,1,0,8,4,1,0,0,0,15,6,5,54.5,misc
+ESP-La Liga,2023,Getafe,Gastón Álvarez,URU,DF,23,2000,28.2,7,0,0,43,10,1,25,35,37,0,0,0,132,51,30,63.0,misc
+ESP-La Liga,2023,Getafe,Gorka Rivera Alonso,ESP,DF,18,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Getafe,Iglesias,ESP,"DF,FW",25,1998,15.7,4,0,0,16,10,1,58,16,22,0,0,0,71,12,10,54.5,misc
+ESP-La Liga,2023,Getafe,Ilaix Moriba,GUI,"MF,FW",20,2003,6.7,5,1,1,19,23,1,2,4,11,0,0,0,22,10,14,41.7,misc
+ESP-La Liga,2023,Getafe,Jaime Mata,ESP,"FW,MF",34,1988,19.9,10,1,1,63,25,31,39,17,15,0,0,0,58,49,65,43.0,misc
+ESP-La Liga,2023,Getafe,Jeremy Jorge,ESP,FW,20,2003,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Getafe,Jesús Santiago,ESP,MF,19,2004,7.3,4,0,0,17,11,0,4,0,8,0,0,0,29,6,7,46.2,misc
+ESP-La Liga,2023,Getafe,Jordi,ESP,"MF,DF",22,2001,6.4,1,0,0,19,6,1,22,8,11,0,1,0,36,11,21,34.4,misc
+ESP-La Liga,2023,Getafe,Juanmi Latasa,ESP,FW,22,2001,17.3,7,1,1,66,39,7,2,4,7,1,1,0,31,143,125,53.4,misc
+ESP-La Liga,2023,Getafe,Luis Milla,ESP,MF,28,1994,23.5,6,0,0,43,29,1,102,32,33,0,0,0,174,28,25,52.8,misc
+ESP-La Liga,2023,Getafe,Mason Greenwood,ENG,"MF,FW",21,2001,29.6,6,1,0,39,43,1,107,4,6,1,0,0,120,5,20,20.0,misc
+ESP-La Liga,2023,Getafe,Mauro Arambarri,URU,MF,27,1995,3.8,2,0,0,18,3,0,6,2,2,0,0,0,27,5,8,38.5,misc
+ESP-La Liga,2023,Getafe,Nabil Aberdin,FRA,DF,20,2002,2.0,0,0,0,1,1,0,0,0,0,0,0,0,10,4,6,40.0,misc
+ESP-La Liga,2023,Getafe,Nemanja Maksimović,SRB,MF,28,1995,36.3,4,0,0,20,13,1,5,46,43,0,1,0,140,70,61,53.4,misc
+ESP-La Liga,2023,Getafe,Omar Alderete,PAR,DF,26,1996,24.4,8,1,0,34,11,2,5,13,21,0,0,0,107,55,45,55.0,misc
+ESP-La Liga,2023,Getafe,Portu,ESP,FW,31,1992,1.1,1,0,0,0,0,1,2,0,3,0,0,0,4,1,3,25.0,misc
+ESP-La Liga,2023,Getafe,Santiago García,ESP,FW,21,2001,0.3,0,0,0,1,1,0,0,0,0,0,0,0,5,0,0,,misc
+ESP-La Liga,2023,Getafe,Stefan Mitrović,SRB,DF,33,1990,7.8,3,0,0,13,2,0,0,6,3,0,1,0,27,11,20,35.5,misc
+ESP-La Liga,2023,Getafe,Yassin Tallal,ESP,FW,18,2005,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,50.0,misc
+ESP-La Liga,2023,Getafe,Óscar Rodríguez Arnaiz,ESP,"MF,FW",25,1998,10.7,9,0,0,20,15,1,17,5,13,0,0,0,48,10,27,27.0,misc
+ESP-La Liga,2023,Girona,Aleix García,ESP,MF,26,1997,35.5,4,1,0,29,36,1,192,36,28,0,0,0,208,17,23,42.5,misc
+ESP-La Liga,2023,Girona,Antal Yaakobishvili,HUN,DF,19,2004,0.7,0,0,0,1,0,0,0,3,1,0,0,0,3,2,1,66.7,misc
+ESP-La Liga,2023,Girona,Arnau Martinez,ESP,DF,20,2003,13.8,5,0,0,14,22,1,7,10,16,0,0,0,65,10,13,43.5,misc
+ESP-La Liga,2023,Girona,Artem Dovbyk,UKR,FW,26,1997,28.7,2,0,0,27,13,33,1,0,3,0,0,0,24,39,40,49.4,misc
+ESP-La Liga,2023,Girona,Bernardo Espinosa,COL,DF,34,1989,0.0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,50.0,misc
+ESP-La Liga,2023,Girona,Cristhian Stuani,URU,FW,36,1986,8.9,6,0,0,28,7,4,1,5,11,0,0,0,13,25,23,52.1,misc
+ESP-La Liga,2023,Girona,Daley Blind,NED,DF,33,1990,33.0,6,0,0,19,12,0,17,21,21,0,1,0,147,39,32,54.9,misc
+ESP-La Liga,2023,Girona,David López,ESP,DF,33,1989,21.8,4,0,0,17,15,1,0,20,20,0,1,0,121,32,38,45.7,misc
+ESP-La Liga,2023,Girona,Eric García,ESP,DF,22,2001,29.3,4,0,0,24,26,3,10,30,37,1,0,0,128,49,37,57.0,misc
+ESP-La Liga,2023,Girona,Ibrahima Kebe,MLI,MF,22,2000,0.1,1,0,0,1,2,0,0,1,1,0,0,0,5,3,2,60.0,misc
+ESP-La Liga,2023,Girona,Iván Martín,ESP,MF,24,1999,30.3,5,0,0,27,34,4,10,21,25,0,1,0,146,8,24,25.0,misc
+ESP-La Liga,2023,Girona,Jastin García,ESP,FW,19,2004,0.4,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Girona,Jhon Solis,COL,MF,18,2004,4.3,0,0,0,10,5,0,0,8,8,0,0,0,22,6,12,33.3,misc
+ESP-La Liga,2023,Girona,Juanpe,ESP,DF,32,1991,8.3,4,0,0,5,0,1,1,7,8,0,0,0,27,21,13,61.8,misc
+ESP-La Liga,2023,Girona,Miguel Gutiérrez,ESP,DF,22,2001,33.7,4,0,0,27,26,6,97,22,18,0,2,0,203,22,18,55.0,misc
+ESP-La Liga,2023,Girona,Pablo Torre,ESP,"MF,FW",20,2003,7.8,1,0,0,8,21,0,7,4,2,0,0,0,42,0,7,0.0,misc
+ESP-La Liga,2023,Girona,Paulo Gazzaniga,ARG,GK,31,1992,38.0,2,0,0,0,8,0,0,0,2,0,0,0,46,8,0,100.0,misc
+ESP-La Liga,2023,Girona,Portu,ESP,"MF,FW",31,1992,13.2,3,0,0,18,16,9,19,4,13,1,0,0,37,7,19,26.9,misc
+ESP-La Liga,2023,Girona,Silvi Clúa,ESP,MF,18,2005,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Girona,Sávio,BRA,"FW,MF",19,2004,33.1,5,0,0,30,66,16,120,18,25,2,0,0,171,4,13,23.5,misc
+ESP-La Liga,2023,Girona,Toni Villa,ESP,FW,28,1995,0.1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Girona,Valery Fernández,ESP,"MF,FW",23,1999,5.6,1,0,0,6,13,3,13,1,9,0,0,0,30,2,3,40.0,misc
+ESP-La Liga,2023,Girona,Viktor Tsyhankov,UKR,"MF,FW",25,1997,22.8,0,0,0,14,41,4,62,12,20,0,1,0,88,13,14,48.1,misc
+ESP-La Liga,2023,Girona,Yan Couto,BRA,"DF,FW",21,2002,24.9,8,0,0,35,42,7,111,10,34,2,1,0,153,4,13,23.5,misc
+ESP-La Liga,2023,Girona,Yangel Herrera,VEN,MF,25,1998,23.4,9,0,0,65,62,2,29,24,37,1,0,0,125,61,44,58.1,misc
+ESP-La Liga,2023,Granada,Adri Bosch,ESP,DF,22,2001,0.3,0,0,0,0,0,0,0,0,1,0,0,1,2,0,1,0.0,misc
+ESP-La Liga,2023,Granada,Alberto Perea,ESP,"MF,FW",32,1990,0.0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Granada,Alberto Soro,ESP,MF,24,1999,0.1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2023,Granada,André Ferreira,POR,GK,27,1996,14.9,1,0,0,2,2,0,0,0,0,0,2,0,18,7,1,87.5,misc
+ESP-La Liga,2023,Granada,Antonio Puertas,ESP,"MF,FW",31,1992,8.1,3,1,0,21,12,6,20,6,8,1,0,0,30,13,23,36.1,misc
+ESP-La Liga,2023,Granada,Augusto Batalla,ARG,GK,27,1996,17.0,3,0,0,0,2,0,0,0,0,0,0,0,28,3,0,100.0,misc
+ESP-La Liga,2023,Granada,Brau,ESP,DF,21,2001,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Granada,Bruno Méndez,URU,DF,23,1999,14.8,4,0,0,14,0,0,8,26,17,0,0,0,65,20,17,54.1,misc
+ESP-La Liga,2023,Granada,Bryan Zaragoza,ESP,"MF,FW",22,2001,18.2,5,0,0,12,33,14,98,3,9,1,0,0,56,4,9,30.8,misc
+ESP-La Liga,2023,Granada,Carlos Neva,ESP,DF,27,1996,35.0,4,0,0,22,44,0,83,30,21,0,0,0,135,27,31,46.6,misc
+ESP-La Liga,2023,Granada,Facundo Pellistri,URU,"MF,FW",21,2001,13.7,2,1,1,22,21,5,30,4,19,1,0,0,57,9,22,29.0,misc
+ESP-La Liga,2023,Granada,Faitout Maouassa,FRA,"DF,MF",25,1998,2.5,0,0,0,3,3,0,20,1,5,0,0,0,11,3,1,75.0,misc
+ESP-La Liga,2023,Granada,Famara Diedhiou,SEN,"FW,MF",30,1992,1.0,1,0,0,6,3,0,2,0,1,1,0,0,5,12,6,66.7,misc
+ESP-La Liga,2023,Granada,Gerard Gumbau,ESP,MF,28,1994,29.7,12,0,0,62,26,0,150,25,34,0,0,0,126,23,24,48.9,misc
+ESP-La Liga,2023,Granada,Gonzalo Villar,ESP,MF,25,1998,20.0,7,0,0,44,66,2,24,6,33,1,0,0,131,31,17,64.6,misc
+ESP-La Liga,2023,Granada,Ignasi Miquel,ESP,DF,30,1992,33.2,5,0,0,32,26,0,3,45,30,0,0,0,136,56,55,50.5,misc
+ESP-La Liga,2023,Granada,Jesús Vallejo,ESP,DF,26,1997,1.2,1,0,0,2,1,0,0,0,1,0,0,0,8,0,1,0.0,misc
+ESP-La Liga,2023,Granada,José Callejón,ESP,"MF,FW",36,1987,8.9,2,0,0,11,21,3,34,5,6,0,0,0,48,7,10,41.2,misc
+ESP-La Liga,2023,Granada,Kamil Jóźwiak,POL,MF,25,1998,6.3,2,0,0,13,12,2,6,2,10,0,0,0,34,14,15,48.3,misc
+ESP-La Liga,2023,Granada,Kamil Piątkowski,POL,DF,23,2000,5.6,1,1,0,3,3,0,2,8,10,0,0,0,23,11,10,52.4,misc
+ESP-La Liga,2023,Granada,Lucas Boyé,ARG,FW,27,1996,28.2,8,1,0,72,43,8,14,10,25,0,0,0,113,58,77,43.0,misc
+ESP-La Liga,2023,Granada,Marc Martínez,ESP,GK,33,1990,3.0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,,misc
+ESP-La Liga,2023,Granada,Martin Hongla,CMR,"MF,DF",25,1998,6.2,0,0,0,7,1,0,2,6,3,0,0,0,37,3,12,20.0,misc
+ESP-La Liga,2023,Granada,Matias Arezo,URU,FW,20,2002,4.1,1,0,0,6,1,8,4,1,3,0,0,0,13,11,17,39.3,misc
+ESP-La Liga,2023,Granada,Miguel Ángel Rubio,ESP,DF,25,1998,17.3,5,0,0,20,11,1,0,28,12,0,0,0,77,58,30,65.9,misc
+ESP-La Liga,2023,Granada,Myrto Uzuni,ALB,FW,28,1995,27.2,3,0,0,26,19,18,11,4,14,0,0,0,59,11,59,15.7,misc
+ESP-La Liga,2023,Granada,Njegoš Petrović,SRB,"MF,FW",24,1999,1.7,0,0,0,0,1,0,1,1,2,0,0,0,11,2,1,66.7,misc
+ESP-La Liga,2023,Granada,Pablo Saenz,ESP,MF,22,2001,0.2,0,0,0,0,1,0,1,0,3,0,0,0,3,0,0,,misc
+ESP-La Liga,2023,Granada,Raúl Fernández,ESP,GK,35,1988,3.1,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,,misc
+ESP-La Liga,2023,Granada,Raúl Torrente,ESP,DF,21,2001,13.9,4,0,0,18,8,1,2,11,16,0,1,1,56,22,15,59.5,misc
+ESP-La Liga,2023,Granada,Ricard Sánchez,ESP,DF,23,2000,25.5,8,0,0,27,21,5,82,13,18,0,1,0,97,19,18,51.4,misc
+ESP-La Liga,2023,Granada,Samu Omorodion,ESP,FW,19,2004,0.9,0,0,0,1,3,0,0,0,1,0,0,0,2,2,5,28.6,misc
+ESP-La Liga,2023,Granada,Sergio Rodelas,ESP,"FW,DF",18,2004,1.4,0,0,0,2,1,0,4,0,2,0,0,0,7,0,2,0.0,misc
+ESP-La Liga,2023,Granada,Sergio Ruiz,ESP,MF,28,1994,27.7,9,0,0,42,66,0,17,28,46,0,1,0,177,32,30,51.6,misc
+ESP-La Liga,2023,Granada,Shon Weissman,ISR,FW,27,1996,0.9,0,0,0,1,1,0,1,0,1,0,0,0,2,1,5,16.7,misc
+ESP-La Liga,2023,Granada,Theo Corbeanu,CAN,"MF,FW",21,2002,2.0,2,0,0,2,1,0,12,3,2,0,0,0,13,4,1,80.0,misc
+ESP-La Liga,2023,Granada,Víctor Díaz,ESP,"DF,MF",35,1988,1.8,1,0,0,0,0,0,0,1,3,0,0,0,6,3,1,75.0,misc
+ESP-La Liga,2023,Granada,Wilson Manafá,POR,"DF,MF",29,1994,2.7,1,0,0,3,0,0,8,1,4,0,0,0,20,2,2,50.0,misc
+ESP-La Liga,2023,Granada,Álvaro Carreras,ESP,"MF,FW",20,2003,5.3,1,0,0,6,11,1,14,7,8,0,0,0,29,10,5,66.7,misc
+ESP-La Liga,2023,Granada,Óscar Melendo,ESP,"MF,FW",25,1997,12.5,2,0,0,12,37,1,9,5,6,0,1,0,56,6,16,27.3,misc
+ESP-La Liga,2023,Las Palmas,Aarón Escandell,ESP,GK,27,1995,1.7,0,1,0,0,0,0,0,0,0,0,0,0,5,0,0,,misc
+ESP-La Liga,2023,Las Palmas,Alberto Moleiro,ESP,"FW,MF",19,2003,20.0,1,0,0,17,18,2,27,7,6,1,0,0,67,1,16,5.9,misc
+ESP-La Liga,2023,Las Palmas,Benito Ramírez,ESP,"FW,MF",28,1995,4.3,0,0,0,4,4,2,33,3,3,0,0,0,22,2,11,15.4,misc
+ESP-La Liga,2023,Las Palmas,Cristian Herrera,ESP,"FW,MF",32,1991,1.8,1,0,0,3,3,2,1,0,1,0,0,0,9,0,2,0.0,misc
+ESP-La Liga,2023,Las Palmas,Daley Sinkgraven,NED,DF,28,1995,4.2,0,1,0,4,5,0,5,6,5,0,1,0,17,5,1,83.3,misc
+ESP-La Liga,2023,Las Palmas,Enzo Loiodice,FRA,MF,22,2000,19.9,2,0,0,32,38,1,23,12,35,0,0,0,123,27,27,50.0,misc
+ESP-La Liga,2023,Las Palmas,Eric Curbelo,ESP,"DF,MF",29,1994,1.1,0,0,0,0,0,0,0,2,3,0,0,0,11,0,1,0.0,misc
+ESP-La Liga,2023,Las Palmas,Fabio González,ESP,MF,26,1997,1.4,1,0,0,1,1,0,2,0,2,0,0,0,13,1,2,33.3,misc
+ESP-La Liga,2023,Las Palmas,Iñaki González,ESP,MF,19,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Las Palmas,Javier Muñoz,ESP,MF,28,1995,29.3,6,0,0,36,16,2,47,20,23,0,1,0,114,6,19,24.0,misc
+ESP-La Liga,2023,Las Palmas,Jonathan Viera,ESP,"MF,FW",33,1989,6.9,1,0,0,3,16,1,16,0,3,0,0,0,28,1,4,20.0,misc
+ESP-La Liga,2023,Las Palmas,José Campaña,ESP,MF,30,1993,1.9,0,0,0,0,5,0,4,2,2,0,0,0,16,2,0,100.0,misc
+ESP-La Liga,2023,Las Palmas,Juan Herzog,ESP,DF,20,2003,3.2,1,0,0,1,1,0,0,2,5,0,0,0,13,4,3,57.1,misc
+ESP-La Liga,2023,Las Palmas,Julian Araujo,MEX,DF,21,2001,16.2,5,0,0,13,9,2,23,10,22,0,0,0,81,29,21,58.0,misc
+ESP-La Liga,2023,Las Palmas,Kirian Rodríguez,ESP,MF,27,1996,35.7,8,0,0,23,37,1,26,28,32,0,2,0,231,22,46,32.4,misc
+ESP-La Liga,2023,Las Palmas,Marc Cardona,ESP,FW,28,1995,8.2,4,0,0,12,19,18,5,2,8,1,0,0,26,9,14,39.1,misc
+ESP-La Liga,2023,Las Palmas,Marvin,ESP,"FW,DF",23,2000,20.6,5,0,0,39,26,4,91,14,25,0,1,0,101,15,40,27.3,misc
+ESP-La Liga,2023,Las Palmas,Mika Màrmol,ESP,DF,21,2002,35.3,6,1,1,23,34,3,5,44,42,0,3,1,187,31,34,47.7,misc
+ESP-La Liga,2023,Las Palmas,Munir El Haddadi,MAR,FW,27,1995,27.2,3,0,0,30,73,21,41,11,27,0,0,0,91,19,42,31.1,misc
+ESP-La Liga,2023,Las Palmas,Máximo Perrone,ARG,MF,20,2003,18.0,6,0,0,27,16,0,0,24,21,0,0,0,113,6,28,17.6,misc
+ESP-La Liga,2023,Las Palmas,Omenuke Mfulu,COD,"MF,FW",29,1994,0.9,1,0,0,0,2,0,0,2,3,0,0,0,7,3,4,42.9,misc
+ESP-La Liga,2023,Las Palmas,Pejiño,ESP,FW,27,1996,5.6,1,0,0,6,4,0,31,2,8,0,0,0,21,4,2,66.7,misc
+ESP-La Liga,2023,Las Palmas,Sandro Ramírez,ESP,FW,28,1995,20.1,3,0,0,20,36,16,89,4,8,1,0,0,60,7,11,38.9,misc
+ESP-La Liga,2023,Las Palmas,Saúl Coco,EQG,DF,24,1999,25.5,6,1,0,19,24,0,1,20,19,0,0,1,104,58,37,61.1,misc
+ESP-La Liga,2023,Las Palmas,Sergi Cardona,ESP,DF,24,1999,31.3,11,0,0,52,60,5,89,46,55,0,0,0,188,52,37,58.4,misc
+ESP-La Liga,2023,Las Palmas,Sory Kaba,GUI,FW,28,1995,8.0,2,0,0,16,15,9,0,0,0,0,0,0,17,31,36,46.3,misc
+ESP-La Liga,2023,Las Palmas,Álex Suárez,ESP,DF,30,1993,28.5,7,0,0,27,28,3,15,18,36,0,1,1,98,47,47,50.0,misc
+ESP-La Liga,2023,Las Palmas,Álvaro Lemos,ESP,DF,30,1993,2.8,1,0,0,2,3,1,5,2,1,0,0,0,10,5,2,71.4,misc
+ESP-La Liga,2023,Las Palmas,Álvaro Vallés,ESP,GK,26,1997,36.3,2,1,0,1,6,0,1,0,2,0,0,0,73,8,2,80.0,misc
+ESP-La Liga,2023,Mallorca,Abdón Prats,ESP,"FW,MF",30,1992,14.1,4,0,0,18,18,5,8,2,4,0,0,0,30,39,60,39.4,misc
+ESP-La Liga,2023,Mallorca,Amath,SEN,"FW,MF",27,1996,4.4,2,0,0,10,7,4,7,3,6,1,0,0,21,6,5,54.5,misc
+ESP-La Liga,2023,Mallorca,Antonio Raillo,ESP,DF,31,1991,24.4,6,1,1,32,8,3,2,37,23,0,0,0,107,123,59,67.6,misc
+ESP-La Liga,2023,Mallorca,Antonio Sánchez,ESP,MF,26,1997,16.1,3,0,0,26,13,1,36,13,11,0,0,0,115,7,19,26.9,misc
+ESP-La Liga,2023,Mallorca,Copete,ESP,DF,23,1999,14.8,7,0,0,36,13,0,10,32,27,0,2,0,75,20,16,55.6,misc
+ESP-La Liga,2023,Mallorca,Cyle Larin,CAN,FW,28,1995,20.3,8,0,0,27,34,31,7,3,8,0,1,0,42,83,102,44.9,misc
+ESP-La Liga,2023,Mallorca,Dani Rodríguez,ESP,MF,35,1988,29.1,9,0,0,61,43,6,169,15,24,0,0,0,151,23,50,31.5,misc
+ESP-La Liga,2023,Mallorca,Dominik Greif,SVK,GK,26,1997,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Mallorca,Giovanni González,URU,DF,28,1994,27.4,6,0,0,38,20,3,62,31,45,0,1,0,154,37,36,50.7,misc
+ESP-La Liga,2023,Mallorca,Iván Cuéllar,ESP,GK,39,1984,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Mallorca,Jaume Costa,ESP,DF,35,1988,18.7,7,0,0,25,22,2,63,16,22,0,0,0,78,13,16,44.8,misc
+ESP-La Liga,2023,Mallorca,Javier Llabrés,ESP,"MF,FW",20,2002,2.7,1,0,0,5,1,0,20,3,1,0,0,0,15,2,3,40.0,misc
+ESP-La Liga,2023,Mallorca,Manu Morlanes,ESP,MF,24,1999,17.9,2,0,0,15,24,0,17,20,29,0,0,0,125,17,13,56.7,misc
+ESP-La Liga,2023,Mallorca,Martin Valjent,SVK,DF,27,1995,26.1,5,0,0,29,10,2,18,29,18,0,0,0,97,46,24,65.7,misc
+ESP-La Liga,2023,Mallorca,Matija Nastasić,SRB,DF,30,1993,25.1,8,0,0,33,7,2,5,29,17,0,0,0,91,44,27,62.0,misc
+ESP-La Liga,2023,Mallorca,Nacho Vidal,ESP,DF,28,1995,4.6,2,0,0,9,3,0,15,3,5,0,0,0,18,13,7,65.0,misc
+ESP-La Liga,2023,Mallorca,Nemanja Radonjić,SRB,"MF,DF",27,1996,3.9,0,0,0,1,5,0,20,3,2,0,0,0,13,3,1,75.0,misc
+ESP-La Liga,2023,Mallorca,Omar Mascarell,EQG,MF,30,1993,17.5,8,1,1,31,14,0,4,31,16,0,0,1,103,30,24,55.6,misc
+ESP-La Liga,2023,Mallorca,Pablo Maffeo,ESP,DF,26,1997,16.2,3,1,0,22,20,4,67,10,22,0,0,0,81,33,25,56.9,misc
+ESP-La Liga,2023,Mallorca,Predrag Rajković,SRB,GK,27,1995,36.0,2,0,0,1,4,0,0,0,1,0,0,0,42,5,2,71.4,misc
+ESP-La Liga,2023,Mallorca,Samu Costa,POR,MF,22,2000,25.6,8,0,0,62,49,6,24,39,50,0,1,0,164,61,31,66.3,misc
+ESP-La Liga,2023,Mallorca,Sergi Darder,ESP,MF,29,1993,24.0,4,0,0,19,35,1,149,16,26,0,0,0,124,8,14,36.4,misc
+ESP-La Liga,2023,Mallorca,Siebe Van Der Heyden,BEL,DF,25,1998,3.2,2,1,0,8,1,1,0,7,2,0,0,0,10,8,6,57.1,misc
+ESP-La Liga,2023,Mallorca,Toni Lato,ESP,DF,25,1997,17.2,3,0,0,19,18,2,49,17,23,1,0,0,83,10,19,34.5,misc
+ESP-La Liga,2023,Mallorca,Vedat Muriqi,KVX,FW,29,1994,25.9,5,0,0,40,43,31,11,6,6,0,0,0,75,142,127,52.8,misc
+ESP-La Liga,2023,Osasuna,Aimar Oroz,ESP,MF,21,2001,26.0,3,0,0,39,46,2,11,16,26,0,0,0,144,19,39,32.8,misc
+ESP-La Liga,2023,Osasuna,Aitor Fernández,ESP,GK,32,1991,6.1,2,0,0,0,0,0,0,0,0,0,0,0,11,0,1,0.0,misc
+ESP-La Liga,2023,Osasuna,Ante Budimir,CRO,FW,32,1991,27.1,4,0,0,40,26,27,10,5,15,3,0,0,55,158,124,56.0,misc
+ESP-La Liga,2023,Osasuna,Asier Osambela,ESP,MF,19,2004,0.1,0,0,0,1,0,0,0,0,1,0,0,0,1,2,2,50.0,misc
+ESP-La Liga,2023,Osasuna,Catena,ESP,DF,28,1994,28.2,8,1,0,47,15,1,0,15,18,0,1,0,129,59,30,66.3,misc
+ESP-La Liga,2023,Osasuna,Darko Brašanac,SRB,MF,31,1992,0.5,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,50.0,misc
+ESP-La Liga,2023,Osasuna,David García,ESP,DF,29,1994,25.9,5,0,0,33,13,1,2,18,18,0,1,0,129,93,35,72.7,misc
+ESP-La Liga,2023,Osasuna,Ezequiel Ávila,ARG,"FW,MF",29,1994,9.6,3,2,0,8,20,4,79,4,2,0,0,0,37,10,20,33.3,misc
+ESP-La Liga,2023,Osasuna,Iker Muñoz,ESP,MF,20,2002,20.6,5,0,0,37,55,0,13,11,18,0,0,0,100,56,37,60.2,misc
+ESP-La Liga,2023,Osasuna,Iñigo Arguibide,ESP,DF,18,2005,0.2,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2023,Osasuna,Jesús Areso,ESP,DF,24,1999,29.6,3,0,0,30,20,3,110,18,24,0,0,0,130,28,21,57.1,misc
+ESP-La Liga,2023,Osasuna,Johan Mojica,COL,DF,30,1992,22.7,1,0,0,22,18,0,116,21,22,0,0,0,168,15,14,51.7,misc
+ESP-La Liga,2023,Osasuna,Jon Moncayola,ESP,MF,25,1998,20.0,2,1,0,24,8,0,90,15,18,0,0,0,98,16,14,53.3,misc
+ESP-La Liga,2023,Osasuna,Jorge Herrando,ESP,DF,22,2001,18.3,4,0,0,26,10,0,0,15,19,0,0,0,49,26,25,51.0,misc
+ESP-La Liga,2023,Osasuna,Jorge Moreno,ESP,DF,22,2001,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,50.0,misc
+ESP-La Liga,2023,Osasuna,José Arnaiz,ESP,"FW,MF",28,1995,10.3,3,0,0,8,19,3,46,3,8,0,0,0,39,11,14,44.0,misc
+ESP-La Liga,2023,Osasuna,Juan Cruz Armada,ESP,DF,31,1992,18.5,3,0,0,20,4,1,21,12,15,0,0,0,89,21,17,55.3,misc
+ESP-La Liga,2023,Osasuna,Kike Barja,ESP,"FW,MF",26,1997,3.4,3,0,0,8,4,1,23,2,2,0,0,0,16,3,5,37.5,misc
+ESP-La Liga,2023,Osasuna,Lucas Torró,ESP,MF,29,1994,19.9,5,0,0,43,16,0,3,33,15,0,0,0,115,71,41,63.4,misc
+ESP-La Liga,2023,Osasuna,Max Svensson,ESP,FW,,,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Osasuna,Moi Gómez,ESP,"MF,FW",29,1994,22.3,3,0,0,29,30,2,52,11,19,0,0,0,118,13,18,41.9,misc
+ESP-La Liga,2023,Osasuna,Nacho Vidal,ESP,"DF,FW",28,1995,1.1,0,0,0,0,1,0,0,0,4,0,0,0,3,2,4,33.3,misc
+ESP-La Liga,2023,Osasuna,Pablo Ibáñez,ESP,MF,24,1998,12.8,5,0,0,26,16,2,12,9,9,1,0,0,74,36,38,48.6,misc
+ESP-La Liga,2023,Osasuna,Raúl,ESP,FW,22,2000,15.1,4,0,0,13,12,9,6,5,4,0,0,0,28,50,69,42.0,misc
+ESP-La Liga,2023,Osasuna,Rubén García,ESP,"FW,MF",30,1993,17.2,1,0,0,24,27,6,101,12,18,0,0,0,86,30,36,45.5,misc
+ESP-La Liga,2023,Osasuna,Rubén Peña,ESP,"DF,FW",32,1991,23.2,3,0,0,28,24,6,111,30,25,0,0,0,134,14,42,25.0,misc
+ESP-La Liga,2023,Osasuna,Sergio Herrera,ESP,GK,30,1993,31.9,2,0,0,0,7,0,0,0,2,0,0,0,26,10,0,100.0,misc
+ESP-La Liga,2023,Osasuna,Unai García,ESP,DF,31,1992,6.2,6,1,1,9,1,0,5,8,9,0,0,0,21,4,7,36.4,misc
+ESP-La Liga,2023,Osasuna,Xabier Huarte Armendáriz,ESP,MF,22,2001,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Rayo Vallecano,Abdul Mumin,GHA,DF,25,1998,18.8,5,1,0,15,16,0,2,22,10,0,0,0,79,39,31,55.7,misc
+ESP-La Liga,2023,Rayo Vallecano,Alfonso Espino,URU,DF,31,1992,27.9,9,0,0,45,41,0,50,40,45,0,1,1,171,13,26,33.3,misc
+ESP-La Liga,2023,Rayo Vallecano,Andrei Ratiu,ROU,"DF,MF",25,1998,7.0,1,0,0,2,4,0,18,0,4,0,0,0,39,6,7,46.2,misc
+ESP-La Liga,2023,Rayo Vallecano,Aridane Hernández,ESP,DF,34,1989,18.8,3,0,0,11,12,0,0,14,8,0,1,0,86,35,18,66.0,misc
+ESP-La Liga,2023,Rayo Vallecano,Bebé,CPV,"MF,FW",33,1990,2.4,1,0,0,0,2,3,28,0,2,0,0,0,12,1,4,20.0,misc
+ESP-La Liga,2023,Rayo Vallecano,Crespo,POR,MF,26,1996,5.9,4,0,0,19,22,0,3,10,9,0,0,0,31,9,5,64.3,misc
+ESP-La Liga,2023,Rayo Vallecano,Cárdenas,ESP,GK,26,1997,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Rayo Vallecano,Diego Méndez,ESP,MF,19,2003,0.1,0,0,0,1,0,0,0,1,1,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2023,Rayo Vallecano,Florian Lejeune,FRA,DF,32,1991,37.0,5,0,0,26,13,3,7,23,25,0,0,1,173,80,49,62.0,misc
+ESP-La Liga,2023,Rayo Vallecano,Isaac Palazón Camacho,ESP,"MF,FW",28,1994,31.0,8,0,0,32,76,10,131,16,25,0,0,0,156,40,69,36.7,misc
+ESP-La Liga,2023,Rayo Vallecano,Iván Balliu,ALB,DF,31,1992,31.9,4,0,0,41,30,8,68,29,31,0,0,0,127,30,27,52.6,misc
+ESP-La Liga,2023,Rayo Vallecano,Jorge de Frutos,ESP,"FW,MF",26,1997,17.2,1,0,0,15,25,4,53,7,8,0,0,0,81,14,18,43.8,misc
+ESP-La Liga,2023,Rayo Vallecano,José Pozo,ESP,MF,27,1996,0.2,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2023,Rayo Vallecano,Kike Pérez,ESP,"MF,FW",26,1997,9.3,7,0,0,42,34,0,18,8,11,0,0,0,57,11,26,29.7,misc
+ESP-La Liga,2023,Rayo Vallecano,Pathé Ciss,SEN,MF,29,1994,18.5,10,0,0,27,29,4,3,30,24,0,0,0,127,50,42,54.3,misc
+ESP-La Liga,2023,Rayo Vallecano,Pep Chavarría,ESP,"DF,MF",25,1998,13.0,6,1,1,8,22,3,70,6,18,0,0,0,68,13,10,56.5,misc
+ESP-La Liga,2023,Rayo Vallecano,Radamel Falcao,COL,"FW,DF",37,1986,4.5,4,0,0,15,10,6,1,3,5,0,0,0,20,14,24,36.8,misc
+ESP-La Liga,2023,Rayo Vallecano,Randy Nteka,ANG,"FW,MF",25,1997,6.4,3,0,0,19,14,6,3,2,4,1,0,0,23,27,24,52.9,misc
+ESP-La Liga,2023,Rayo Vallecano,Raúl de Tomás,ESP,FW,28,1994,14.1,5,0,0,24,26,12,9,1,5,0,0,0,35,24,41,36.9,misc
+ESP-La Liga,2023,Rayo Vallecano,Salvi,ESP,MF,32,1991,0.3,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Rayo Vallecano,Sergio Camello,ESP,FW,22,2001,18.5,3,0,0,18,11,6,2,3,5,0,0,0,60,16,40,28.6,misc
+ESP-La Liga,2023,Rayo Vallecano,Stole Dimitrievski,MKD,GK,29,1993,37.0,2,0,0,0,3,0,0,0,1,0,0,0,37,6,1,85.7,misc
+ESP-La Liga,2023,Rayo Vallecano,Unai López,ESP,MF,27,1995,23.4,8,0,0,60,22,3,73,16,24,0,0,0,160,16,19,45.7,misc
+ESP-La Liga,2023,Rayo Vallecano,Álvaro García,ESP,"FW,MF",30,1992,27.5,8,1,1,25,23,25,121,36,25,1,0,0,111,14,27,34.1,misc
+ESP-La Liga,2023,Rayo Vallecano,Óscar Trejo,ARG,"FW,MF",35,1988,15.3,4,1,0,40,40,3,23,5,15,1,0,0,92,14,19,42.4,misc
+ESP-La Liga,2023,Rayo Vallecano,Óscar Valentín,ESP,MF,28,1994,29.9,7,1,1,77,41,0,5,35,66,0,0,0,160,33,50,39.8,misc
+ESP-La Liga,2023,Real Madrid,Andriy Lunin,UKR,GK,24,1999,21.0,2,0,0,0,3,0,0,0,0,0,0,0,17,8,0,100.0,misc
+ESP-La Liga,2023,Real Madrid,Antonio Rüdiger,GER,DF,30,1993,30.1,7,0,0,26,5,1,4,11,15,0,0,0,124,49,23,68.1,misc
+ESP-La Liga,2023,Real Madrid,Arda Güler,TUR,"FW,MF",18,2005,4.2,1,0,0,11,8,1,13,2,4,1,0,0,21,0,0,,misc
+ESP-La Liga,2023,Real Madrid,Aurélien Tchouaméni,FRA,"MF,DF",23,2000,22.1,7,0,0,20,22,0,22,28,23,0,0,0,99,51,24,68.0,misc
+ESP-La Liga,2023,Real Madrid,Brahim Díaz,MAR,"FW,MF",23,1999,17.2,0,0,0,22,41,5,31,5,19,0,0,0,74,3,9,25.0,misc
+ESP-La Liga,2023,Real Madrid,Dani Carvajal,ESP,DF,31,1992,24.1,5,1,1,23,19,2,49,22,32,0,0,0,120,21,19,52.5,misc
+ESP-La Liga,2023,Real Madrid,Dani Ceballos,ESP,"MF,FW",26,1996,6.6,2,0,0,5,19,0,8,0,5,0,0,0,38,2,5,28.6,misc
+ESP-La Liga,2023,Real Madrid,David Alaba,AUT,DF,31,1992,12.8,2,0,0,4,0,0,17,15,9,0,0,1,63,10,9,52.6,misc
+ESP-La Liga,2023,Real Madrid,Eduardo Camavinga,FRA,"MF,DF",20,2002,20.2,9,0,0,49,68,1,4,29,47,0,1,0,146,18,17,51.4,misc
+ESP-La Liga,2023,Real Madrid,Federico Valverde,URU,MF,25,1998,32.3,2,0,0,19,15,0,30,43,34,0,0,0,160,21,10,67.7,misc
+ESP-La Liga,2023,Real Madrid,Ferland Mendy,FRA,DF,28,1995,19.1,5,0,0,17,15,0,5,13,10,0,0,0,97,6,5,54.5,misc
+ESP-La Liga,2023,Real Madrid,Fran Garcia,ESP,DF,23,1999,15.5,2,0,0,10,15,10,60,19,17,0,0,0,104,7,15,31.8,misc
+ESP-La Liga,2023,Real Madrid,Gonzalo García,ESP,"FW,MF",19,2004,0.2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Real Madrid,Joselu,ESP,FW,33,1990,18.7,1,0,0,10,14,18,6,6,3,0,0,0,36,41,34,54.7,misc
+ESP-La Liga,2023,Real Madrid,Jude Bellingham,ENG,MF,20,2003,25.7,5,1,0,32,72,4,21,21,34,0,0,0,118,24,25,49.0,misc
+ESP-La Liga,2023,Real Madrid,Kepa Arrizabalaga,ESP,GK,28,1994,13.3,1,0,0,0,2,0,0,0,0,0,0,0,17,2,0,100.0,misc
+ESP-La Liga,2023,Real Madrid,Lucas Vázquez,ESP,DF,32,1991,15.8,0,0,0,22,25,5,47,12,25,1,0,0,78,4,6,40.0,misc
+ESP-La Liga,2023,Real Madrid,Luka Modrić,CRO,MF,37,1985,18.8,2,0,0,19,21,2,90,21,15,0,0,0,92,8,8,50.0,misc
+ESP-La Liga,2023,Real Madrid,Mario Martín,ESP,MF,19,2004,0.2,0,0,0,1,1,0,0,0,1,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Real Madrid,Nacho,ESP,DF,33,1990,19.4,4,2,0,21,13,2,3,18,10,0,0,0,82,27,18,60.0,misc
+ESP-La Liga,2023,Real Madrid,Nicolás Paz,ARG,"MF,FW",18,2004,0.3,0,0,0,1,0,0,1,1,0,0,0,0,2,1,0,100.0,misc
+ESP-La Liga,2023,Real Madrid,Rodrygo,BRA,FW,22,2001,26.4,2,0,0,10,46,13,32,8,15,1,0,0,61,5,21,19.2,misc
+ESP-La Liga,2023,Real Madrid,Thibaut Courtois,BEL,GK,31,1992,3.7,0,0,0,0,1,0,0,0,0,0,0,0,6,1,0,100.0,misc
+ESP-La Liga,2023,Real Madrid,Toni Kroos,GER,MF,33,1990,23.6,3,0,0,17,38,3,118,17,34,0,0,0,144,8,4,66.7,misc
+ESP-La Liga,2023,Real Madrid,Vinicius Júnior,BRA,FW,23,2000,20.7,7,0,0,24,54,10,56,1,13,0,0,0,44,1,7,12.5,misc
+ESP-La Liga,2023,Real Madrid,Álvaro Rodríguez,URU,FW,19,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Real Madrid,Éder Militão,BRA,DF,25,1998,5.5,0,0,0,5,5,2,1,4,3,0,0,0,19,11,13,45.8,misc
+ESP-La Liga,2023,Real Sociedad,Aihen Muñoz,ESP,DF,25,1997,12.5,2,0,0,17,8,0,29,9,21,0,0,0,66,23,17,57.5,misc
+ESP-La Liga,2023,Real Sociedad,Alberto Dadie,ESP,MF,21,2002,0.3,0,0,0,4,0,0,1,0,1,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Real Sociedad,Alex Sola,ESP,"DF,MF",24,1999,0.3,0,0,0,2,2,0,0,1,0,0,0,0,2,2,0,100.0,misc
+ESP-La Liga,2023,Real Sociedad,Ander Barrenetxea,ESP,"FW,MF",21,2001,15.9,1,0,0,27,22,3,47,6,21,0,0,0,83,14,24,36.8,misc
+ESP-La Liga,2023,Real Sociedad,André Silva,POR,FW,27,1995,8.1,1,0,0,14,8,4,0,1,2,0,0,0,22,12,18,40.0,misc
+ESP-La Liga,2023,Real Sociedad,Aritz Elustondo,ESP,DF,29,1994,9.0,2,0,0,9,10,0,1,7,7,0,0,0,38,29,13,69.0,misc
+ESP-La Liga,2023,Real Sociedad,Arsen Zakharyan,RUS,"MF,FW",20,2003,13.6,1,0,0,21,11,3,75,4,15,0,0,0,52,11,21,34.4,misc
+ESP-La Liga,2023,Real Sociedad,Beñat Turrientes,ESP,MF,21,2002,18.7,4,0,0,36,36,0,19,6,17,0,0,0,81,16,31,34.0,misc
+ESP-La Liga,2023,Real Sociedad,Brais Méndez,ESP,"MF,FW",26,1997,26.8,7,0,0,58,56,3,104,12,28,1,0,0,121,25,34,42.4,misc
+ESP-La Liga,2023,Real Sociedad,Carlos Fernández,ESP,FW,27,1996,4.5,3,0,0,15,3,2,1,0,7,0,1,0,18,16,17,48.5,misc
+ESP-La Liga,2023,Real Sociedad,Hamari Traoré,MLI,DF,31,1992,25.5,7,0,0,32,18,1,47,24,19,0,1,0,136,29,35,45.3,misc
+ESP-La Liga,2023,Real Sociedad,Igor Zubeldia,ESP,DF,26,1997,28.0,11,1,0,43,9,0,3,32,25,0,1,0,156,83,81,50.6,misc
+ESP-La Liga,2023,Real Sociedad,Javi Galán,ESP,DF,28,1994,11.9,3,0,0,21,19,3,46,14,22,0,1,0,61,7,6,53.8,misc
+ESP-La Liga,2023,Real Sociedad,Jon Aramburu,VEN,DF,21,2002,6.0,3,0,0,11,5,0,7,7,15,0,0,0,24,7,7,50.0,misc
+ESP-La Liga,2023,Real Sociedad,Jon Magunazelaia,ESP,"FW,MF",23,2000,1.3,0,0,0,2,3,0,3,0,3,0,0,0,7,1,4,20.0,misc
+ESP-La Liga,2023,Real Sociedad,Jon Martin,ESP,DF,17,2006,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2023,Real Sociedad,Jon Pacheco,ESP,DF,22,2001,17.0,8,0,0,29,1,1,1,10,15,0,0,0,49,57,33,63.3,misc
+ESP-La Liga,2023,Real Sociedad,Kieran Tierney,SCO,DF,26,1997,13.8,1,0,0,6,8,0,26,10,24,0,0,0,52,16,20,44.4,misc
+ESP-La Liga,2023,Real Sociedad,Martín Zubimendi,ESP,MF,24,1999,29.5,5,0,0,36,20,0,7,37,27,0,0,0,169,44,28,61.1,misc
+ESP-La Liga,2023,Real Sociedad,Mikel Merino,ESP,MF,27,1996,27.6,10,0,0,70,61,6,19,16,43,0,1,0,197,164,107,60.5,misc
+ESP-La Liga,2023,Real Sociedad,Mikel Oyarzabal,ESP,"FW,MF",26,1997,24.0,3,0,0,20,20,19,10,4,18,0,0,0,69,26,51,33.8,misc
+ESP-La Liga,2023,Real Sociedad,Mohamed Ali Cho,FRA,"FW,MF",19,2004,2.8,0,0,0,5,6,3,11,1,3,0,0,0,16,3,6,33.3,misc
+ESP-La Liga,2023,Real Sociedad,Olasagasti,ESP,MF,22,2000,4.0,3,0,0,7,7,1,1,3,13,0,0,0,36,6,10,37.5,misc
+ESP-La Liga,2023,Real Sociedad,Robin Le Normand,ESP,DF,26,1996,27.4,13,0,0,33,23,1,1,28,22,0,1,1,111,110,60,64.7,misc
+ESP-La Liga,2023,Real Sociedad,Sheraldo Becker,SUR,"FW,MF",28,1995,8.6,1,0,0,11,5,6,46,1,2,0,0,0,27,5,12,29.4,misc
+ESP-La Liga,2023,Real Sociedad,Takefusa Kubo,JPN,"FW,MF",22,2001,23.9,1,0,0,21,52,8,145,11,17,0,0,0,98,11,16,40.7,misc
+ESP-La Liga,2023,Real Sociedad,Umar Sadiq,NGA,FW,26,1997,12.0,4,0,0,45,19,27,12,0,10,0,0,0,34,29,51,36.3,misc
+ESP-La Liga,2023,Real Sociedad,Unai Marrero,ESP,GK,21,2001,1.6,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,misc
+ESP-La Liga,2023,Real Sociedad,Urko González,ESP,MF,22,2001,1.7,1,0,0,1,2,0,0,1,1,0,0,0,13,5,4,55.6,misc
+ESP-La Liga,2023,Real Sociedad,Álex Remiro,ESP,GK,28,1995,36.4,3,1,0,1,4,0,0,0,0,0,0,0,60,6,0,100.0,misc
+ESP-La Liga,2023,Real Sociedad,Álvaro Odriozola,ESP,DF,27,1995,4.4,0,0,0,7,4,1,10,8,7,0,1,0,13,1,8,11.1,misc
+ESP-La Liga,2023,Sevilla,Adnan Januzaj,BEL,"FW,MF",28,1995,2.1,0,0,0,3,9,0,8,1,3,0,0,0,9,3,1,75.0,misc
+ESP-La Liga,2023,Sevilla,Adrià Pedrosa,ESP,DF,25,1998,19.5,1,0,0,6,32,2,111,15,26,0,0,0,102,10,21,32.3,misc
+ESP-La Liga,2023,Sevilla,Alejo Véliz,ARG,FW,19,2003,0.4,0,0,0,4,1,0,0,0,0,0,0,0,0,3,1,75.0,misc
+ESP-La Liga,2023,Sevilla,Boubakary Soumaré,FRA,MF,24,1999,25.4,10,0,0,33,29,0,3,26,28,0,0,0,148,20,11,64.5,misc
+ESP-La Liga,2023,Sevilla,Diego Iturralde,ESP,DF,20,2003,0.4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Sevilla,Djibril Sow,SUI,MF,26,1997,16.2,6,0,0,27,19,2,5,17,21,0,0,0,73,14,18,43.8,misc
+ESP-La Liga,2023,Sevilla,Dodi Lukebakio,BEL,"FW,MF",25,1997,12.5,0,0,0,24,22,4,36,2,2,0,1,0,33,12,13,48.0,misc
+ESP-La Liga,2023,Sevilla,Federico Gattoni,ARG,"DF,FW",24,1999,0.1,0,0,0,2,0,0,0,0,0,0,0,0,1,2,1,66.7,misc
+ESP-La Liga,2023,Sevilla,Fernando,BRA,MF,36,1987,5.1,0,0,0,6,3,0,4,7,8,0,0,0,35,10,8,55.6,misc
+ESP-La Liga,2023,Sevilla,Hannibal Mejbri,TUN,MF,20,2003,1.2,2,0,0,4,4,0,2,0,3,0,0,0,6,0,1,0.0,misc
+ESP-La Liga,2023,Sevilla,Isaac Romero,ESP,FW,23,2000,11.5,2,0,0,28,17,6,12,0,3,0,0,0,36,16,19,45.7,misc
+ESP-La Liga,2023,Sevilla,Ivan Rakitić,CRO,MF,35,1988,15.8,6,0,0,16,19,1,131,14,16,0,0,0,117,12,13,48.0,misc
+ESP-La Liga,2023,Sevilla,Jesús Corona,MEX,"MF,DF",30,1993,0.2,0,0,0,1,0,0,2,1,0,0,0,0,2,0,0,,misc
+ESP-La Liga,2023,Sevilla,Jesús Navas,ESP,DF,37,1985,22.3,6,1,0,12,12,1,143,22,27,0,1,0,99,10,14,41.7,misc
+ESP-La Liga,2023,Sevilla,Joan Jordán,ESP,MF,29,1994,4.2,1,0,0,1,3,0,3,4,7,0,0,0,19,4,5,44.4,misc
+ESP-La Liga,2023,Sevilla,Juanlu Sánchez,ESP,DF,19,2003,13.1,2,0,0,11,23,1,61,12,35,0,2,0,67,14,15,48.3,misc
+ESP-La Liga,2023,Sevilla,Kike Salas,ESP,DF,21,2002,17.8,10,0,0,32,10,1,7,26,23,0,0,0,81,66,40,62.3,misc
+ESP-La Liga,2023,Sevilla,Loïc Bade,FRA,DF,23,2000,25.3,5,1,0,24,10,1,2,38,41,0,0,0,151,76,38,66.7,misc
+ESP-La Liga,2023,Sevilla,Lucas Ocampos,ARG,"FW,MF",29,1994,31.9,8,0,0,32,71,8,120,21,47,0,0,0,161,63,56,52.9,misc
+ESP-La Liga,2023,Sevilla,Lucien Agoume,FRA,MF,21,2002,8.6,3,0,0,19,2,0,2,7,18,0,0,0,48,9,7,56.3,misc
+ESP-La Liga,2023,Sevilla,Manu Bueno,ESP,MF,19,2004,1.3,1,0,0,1,2,0,0,0,2,0,0,0,6,0,1,0.0,misc
+ESP-La Liga,2023,Sevilla,Marcos Acuña,ARG,DF,31,1991,14.4,7,0,0,18,17,1,82,4,21,0,0,0,99,13,11,54.2,misc
+ESP-La Liga,2023,Sevilla,Marcão,BRA,DF,27,1996,3.9,2,0,0,5,6,0,0,4,6,0,0,0,18,5,3,62.5,misc
+ESP-La Liga,2023,Sevilla,Mariano,DOM,"FW,MF",29,1993,2.7,1,0,0,8,1,3,1,0,1,1,0,0,8,9,9,50.0,misc
+ESP-La Liga,2023,Sevilla,Marko Dmitrović,SRB,GK,31,1992,13.0,1,0,0,0,1,0,0,1,1,0,0,1,13,2,0,100.0,misc
+ESP-La Liga,2023,Sevilla,Nemanja Gudelj,SRB,"DF,MF",31,1991,19.4,7,0,0,30,11,0,3,27,24,0,0,0,85,41,21,66.1,misc
+ESP-La Liga,2023,Sevilla,Rafa Mir,ESP,"FW,MF",26,1997,4.3,1,0,0,9,5,3,2,1,2,0,0,0,12,12,19,38.7,misc
+ESP-La Liga,2023,Sevilla,Sergio Ramos,ESP,DF,37,1986,28.0,7,1,0,27,22,9,2,41,30,0,1,1,143,80,41,66.1,misc
+ESP-La Liga,2023,Sevilla,Suso,ESP,"MF,FW",29,1993,16.9,5,1,0,22,35,3,132,5,17,0,0,0,88,8,9,47.1,misc
+ESP-La Liga,2023,Sevilla,Tanguy Nianzou,FRA,DF,21,2002,3.5,3,0,0,6,4,0,0,3,8,0,0,0,18,4,5,44.4,misc
+ESP-La Liga,2023,Sevilla,Yassine Bounou,MAR,GK,32,1991,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Sevilla,Youssef En-Nesyri,MAR,FW,26,1997,28.6,4,0,0,21,22,22,4,7,7,0,0,0,43,68,91,42.8,misc
+ESP-La Liga,2023,Sevilla,Érik Lamela,ARG,"FW,MF",31,1992,5.1,3,0,0,18,6,3,12,1,14,0,0,0,24,3,5,37.5,misc
+ESP-La Liga,2023,Sevilla,Óliver Torres,ESP,MF,28,1994,18.0,3,0,0,26,23,6,44,6,22,0,0,0,127,11,28,28.2,misc
+ESP-La Liga,2023,Sevilla,Ørjan Nyland,NOR,GK,32,1990,24.0,1,0,0,0,2,0,0,0,0,0,0,0,28,10,0,100.0,misc
+ESP-La Liga,2023,Valencia,Alberto Marí,ESP,FW,22,2001,3.1,0,0,0,10,6,2,2,0,2,1,0,0,10,8,20,28.6,misc
+ESP-La Liga,2023,Valencia,Cenk Özkacar,TUR,DF,22,2000,17.8,3,0,0,13,8,1,6,18,15,0,1,1,70,31,31,50.0,misc
+ESP-La Liga,2023,Valencia,Cristhian Mosquera,ESP,DF,19,2004,34.2,2,0,0,25,28,0,1,36,34,0,1,0,147,52,66,44.1,misc
+ESP-La Liga,2023,Valencia,Cristian,ESP,GK,25,1998,0.6,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+ESP-La Liga,2023,Valencia,César Tárrega,ESP,DF,21,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Valencia,Diego López,ESP,"MF,FW",21,2002,29.5,2,0,0,26,31,8,65,20,25,1,0,0,121,40,56,41.7,misc
+ESP-La Liga,2023,Valencia,Dimitri Foulquier,FRA,"DF,MF",30,1993,20.5,3,0,0,24,28,2,42,16,22,0,0,0,111,10,17,37.0,misc
+ESP-La Liga,2023,Valencia,Domingos André Ribeiro Almeida,POR,"FW,MF",23,2000,10.7,0,0,0,12,20,1,18,6,15,0,0,0,43,4,15,21.1,misc
+ESP-La Liga,2023,Valencia,Francisco Perez,ESP,"MF,FW",20,2002,22.8,4,0,0,31,23,8,50,14,17,0,0,0,109,6,19,24.0,misc
+ESP-La Liga,2023,Valencia,Gabriel Paulista,BRA,DF,32,1990,15.5,6,1,1,11,4,0,0,24,7,0,0,0,70,29,19,60.4,misc
+ESP-La Liga,2023,Valencia,Giorgi Mamardashvili,GEO,GK,22,2000,36.5,3,1,0,3,4,0,0,2,3,0,1,0,34,9,1,90.0,misc
+ESP-La Liga,2023,Valencia,Hugo Duro,ESP,FW,23,1999,33.1,4,0,0,41,95,17,7,5,8,3,0,0,81,58,125,31.7,misc
+ESP-La Liga,2023,Valencia,Hugo González,ESP,"MF,FW",20,2003,1.0,0,0,0,3,2,2,9,0,1,0,0,0,8,0,4,0.0,misc
+ESP-La Liga,2023,Valencia,Hugo Guillamón,ESP,MF,23,2000,14.6,7,0,0,36,25,0,6,12,15,0,1,0,80,15,15,50.0,misc
+ESP-La Liga,2023,Valencia,Jaume Doménech,ESP,GK,32,1990,0.9,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2023,Valencia,Javier Guerra,ESP,MF,20,2003,27.8,3,1,0,40,30,2,24,18,24,0,0,0,177,25,32,43.9,misc
+ESP-La Liga,2023,Valencia,Jesus Vazquez,ESP,"DF,MF",20,2003,8.0,1,0,0,8,7,1,18,3,12,0,0,0,47,12,19,38.7,misc
+ESP-La Liga,2023,Valencia,José Luis García Vayá,ESP,MF,24,1998,36.7,4,0,0,51,40,1,147,49,53,0,1,0,244,57,42,57.6,misc
+ESP-La Liga,2023,Valencia,José Luis Gayà,ESP,DF,28,1995,19.9,2,0,0,24,12,1,82,11,36,0,0,0,112,11,9,55.0,misc
+ESP-La Liga,2023,Valencia,Mario Dominguez,ESP,FW,19,2004,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0.0,misc
+ESP-La Liga,2023,Valencia,Mouctar Diakhaby,GUI,"DF,MF",26,1996,11.9,6,0,0,9,2,0,0,11,11,0,0,0,67,25,13,65.8,misc
+ESP-La Liga,2023,Valencia,Pablo Gozalbez,ESP,"MF,FW",22,2001,1.1,0,0,0,6,2,1,1,1,0,0,0,0,6,1,5,16.7,misc
+ESP-La Liga,2023,Valencia,Peter González,DOM,"MF,FW",21,2002,7.2,1,0,0,11,11,1,18,7,3,1,0,0,27,10,10,50.0,misc
+ESP-La Liga,2023,Valencia,Roman Yaremchuk,UKR,FW,27,1995,10.3,2,0,0,7,13,16,3,1,2,0,0,0,28,26,46,36.1,misc
+ESP-La Liga,2023,Valencia,Ruben Lendinez,ESP,DF,20,2003,0.1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,,misc
+ESP-La Liga,2023,Valencia,Selim Amallah,MAR,"FW,MF",26,1996,6.7,5,1,1,21,24,1,4,11,12,0,0,0,36,11,15,42.3,misc
+ESP-La Liga,2023,Valencia,Sergi Canós,ESP,"MF,FW",26,1997,13.7,1,0,0,17,16,2,35,11,13,0,0,0,64,13,11,54.2,misc
+ESP-La Liga,2023,Valencia,Thierry Correia,POR,DF,24,1999,23.9,4,1,0,41,41,2,48,33,35,1,1,0,153,16,32,33.3,misc
+ESP-La Liga,2023,Valencia,Yarek Gasiorowski,ESP,DF,18,2005,8.2,1,0,0,11,2,0,6,15,12,0,0,1,15,15,4,78.9,misc
+ESP-La Liga,2023,Villarreal,Adrià Altimira,ESP,"DF,MF",22,2001,8.6,3,0,0,12,4,0,5,5,7,0,1,0,42,2,7,22.2,misc
+ESP-La Liga,2023,Villarreal,Alberto Moreno,ESP,DF,31,1992,16.5,5,2,2,24,14,5,49,24,21,1,0,0,76,10,13,43.5,misc
+ESP-La Liga,2023,Villarreal,Alex Baena,ESP,"MF,FW",22,2001,28.7,11,1,0,52,57,8,175,13,21,1,1,0,116,8,12,40.0,misc
+ESP-La Liga,2023,Villarreal,Alexander Sørloth,NOR,FW,27,1995,27.7,3,0,0,34,19,23,7,0,3,1,0,0,57,80,45,64.0,misc
+ESP-La Liga,2023,Villarreal,Alfonso Pedraza,ESP,DF,27,1996,12.4,4,1,0,14,17,4,58,13,9,0,0,0,54,6,8,42.9,misc
+ESP-La Liga,2023,Villarreal,Aïssa Mandi,ALG,DF,31,1991,12.4,3,0,0,7,5,0,0,8,8,0,1,0,49,12,11,52.2,misc
+ESP-La Liga,2023,Villarreal,Ben Brereton,CHI,"FW,MF",24,1999,3.0,2,0,0,5,4,2,4,0,2,0,0,0,13,1,2,33.3,misc
+ESP-La Liga,2023,Villarreal,Bertrand Traoré,BFA,MF,27,1995,6.3,4,0,0,7,21,2,9,1,4,1,0,0,22,4,3,57.1,misc
+ESP-La Liga,2023,Villarreal,Carlos Romero,ESP,DF,21,2001,2.9,1,0,0,2,6,0,11,1,5,0,0,0,27,1,2,33.3,misc
+ESP-La Liga,2023,Villarreal,Daniel Parejo,ESP,MF,34,1989,28.7,4,0,0,18,51,0,57,21,30,0,0,0,173,24,10,70.6,misc
+ESP-La Liga,2023,Villarreal,Denis Suárez,ESP,"MF,FW",29,1994,1.5,0,0,0,4,2,1,4,0,0,0,0,0,8,0,1,0.0,misc
+ESP-La Liga,2023,Villarreal,Eric Bailly,CIV,DF,29,1994,9.3,4,0,0,6,5,0,0,9,3,0,0,1,51,15,7,68.2,misc
+ESP-La Liga,2023,Villarreal,Filip Jørgensen,DEN,GK,21,2002,36.0,4,0,0,2,5,0,0,2,1,0,1,0,40,11,0,100.0,misc
+ESP-La Liga,2023,Villarreal,Francis Coquelin,FRA,MF,32,1991,10.1,4,0,0,18,8,1,2,16,12,0,0,0,60,11,10,52.4,misc
+ESP-La Liga,2023,Villarreal,Gerard Moreno,ESP,FW,31,1992,24.6,0,0,0,22,38,17,27,9,12,0,0,0,87,27,28,49.1,misc
+ESP-La Liga,2023,Villarreal,Gonçalo Guedes,POR,"FW,MF",26,1996,10.6,0,0,0,5,16,3,27,2,4,0,0,0,29,2,10,16.7,misc
+ESP-La Liga,2023,Villarreal,Ilias Akhomach,MAR,"MF,FW",19,2004,16.8,4,0,0,41,35,4,29,13,21,0,0,0,70,3,7,30.0,misc
+ESP-La Liga,2023,Villarreal,Jorge Cuenca,ESP,DF,23,1999,21.8,7,0,0,25,12,0,13,21,29,0,0,0,82,60,38,61.2,misc
+ESP-La Liga,2023,Villarreal,José Luis Morales,ESP,"FW,MF",36,1987,11.6,0,0,0,3,4,13,10,7,3,0,0,0,38,2,12,14.3,misc
+ESP-La Liga,2023,Villarreal,Juan Foyth,ARG,DF,25,1998,11.8,1,0,0,18,7,0,18,12,15,0,0,0,58,26,16,61.9,misc
+ESP-La Liga,2023,Villarreal,Kiko Femenía,ESP,DF,32,1991,17.6,8,1,1,25,3,0,28,31,25,0,1,0,106,10,11,47.6,misc
+ESP-La Liga,2023,Villarreal,Manu Trigueros,ESP,MF,31,1991,3.4,0,0,0,5,3,1,5,3,5,0,0,0,15,4,1,80.0,misc
+ESP-La Liga,2023,Villarreal,Matteo Gabbia,ITA,DF,23,1999,5.3,2,0,0,9,3,0,0,8,6,0,0,0,20,17,5,77.3,misc
+ESP-La Liga,2023,Villarreal,Pascu,ESP,FW,20,2003,0.2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,misc
+ESP-La Liga,2023,Villarreal,Pepe Reina,ESP,GK,40,1982,2.0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+ESP-La Liga,2023,Villarreal,Ramón Terrats,ESP,"MF,DF",22,2000,8.7,4,0,0,15,16,1,28,3,13,0,1,0,45,5,5,50.0,misc
+ESP-La Liga,2023,Villarreal,Raúl Albiol,ESP,DF,37,1985,22.6,6,0,0,21,8,1,0,16,14,0,0,0,75,46,29,61.3,misc
+ESP-La Liga,2023,Villarreal,Santi Comesaña,ESP,MF,26,1996,18.4,8,2,1,33,22,1,5,22,26,0,0,0,85,31,26,54.4,misc
+ESP-La Liga,2023,Villarreal,Stefan Lekovic,SRB,DF,19,2004,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+ESP-La Liga,2023,Villarreal,Yeremi Pino,ESP,"MF,FW",20,2002,5.3,4,0,0,22,9,3,7,5,18,0,0,0,29,8,10,44.4,misc
+ESP-La Liga,2023,Villarreal,Yerson Mosquera,COL,DF,22,2001,13.7,4,0,0,14,27,0,7,17,13,0,0,0,72,26,8,76.5,misc
+ESP-La Liga,2023,Villarreal,Étienne Capoue,FRA,MF,35,1988,16.2,8,0,0,25,41,2,7,22,18,1,0,0,97,21,19,52.5,misc

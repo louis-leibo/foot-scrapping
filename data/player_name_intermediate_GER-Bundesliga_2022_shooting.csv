@@ -1,0 +1,517 @@
+league,season,team,player,nation,pos,age,born,90s,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Standard,Expected,Expected,Expected,Expected,Expected,stat_type
+,,,,,,,,,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,FK,PK,PKatt,xG,npxG,npxG/Sh,G-xG,np:G-xG,
+GER-Bundesliga,2022,Augsburg,Aaron Zehnter,GER,DF,17,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,André Hahn,GER,"FW,MF",31,1990,4.3,2,7,2,28.6,1.61,0.46,0.29,1.0,21.4,0,0,0,0.4,0.4,0.06,1.6,1.6,shooting
+GER-Bundesliga,2022,Augsburg,Arne Engels,BEL,MF,18,2003,16.0,0,17,2,11.8,1.06,0.12,0.0,0.0,26.8,2,0,0,0.6,0.6,0.03,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Augsburg,Arne Maier,GER,MF,23,1999,21.8,5,28,10,35.7,1.29,0.46,0.18,0.5,21.1,3,0,0,1.6,1.6,0.06,3.4,3.4,shooting
+GER-Bundesliga,2022,Augsburg,Carlos Gruezo,ECU,MF,27,1995,10.7,0,2,0,0.0,0.19,0.0,0.0,,32.1,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Daniel Caligiuri,ITA,"DF,MF",34,1988,3.2,1,6,2,33.3,1.86,0.62,0.17,0.5,19.8,0,0,0,0.4,0.4,0.07,0.6,0.6,shooting
+GER-Bundesliga,2022,Augsburg,David Čolina,CRO,"DF,FW",22,2000,1.8,1,1,1,100.0,0.54,0.54,1.0,1.0,8.4,0,0,0,0.4,0.4,0.44,0.6,0.6,shooting
+GER-Bundesliga,2022,Augsburg,Dion Drena Beljo,CRO,FW,20,2002,12.5,3,13,5,38.5,1.04,0.4,0.23,0.6,15.2,0,0,0,1.6,1.6,0.12,1.4,1.4,shooting
+GER-Bundesliga,2022,Augsburg,Elvis Rexhbeçaj,KVX,MF,24,1997,28.0,0,16,5,31.3,0.57,0.18,0.0,0.0,27.0,0,0,0,0.3,0.3,0.02,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Augsburg,Ermedin Demirović,BIH,"FW,MF",24,1998,26.3,8,63,23,36.5,2.4,0.87,0.11,0.3,15.2,0,1,1,7.5,6.8,0.11,0.5,0.2,shooting
+GER-Bundesliga,2022,Augsburg,Florian Niederlechner,GER,"FW,MF",31,1990,10.1,4,28,15,53.6,2.77,1.48,0.14,0.27,15.7,0,0,0,2.9,2.9,0.1,1.1,1.1,shooting
+GER-Bundesliga,2022,Augsburg,Frederik Winther,DEN,DF,21,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Fredrik Jensen,FIN,"FW,MF",24,1997,10.3,2,11,3,27.3,1.07,0.29,0.18,0.67,16.6,0,0,0,1.8,1.8,0.16,0.2,0.2,shooting
+GER-Bundesliga,2022,Augsburg,Iago,BRA,"DF,MF",25,1997,17.8,0,9,0,0.0,0.51,0.0,0.0,,19.2,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Augsburg,Irvin Cardona,FRA,"MF,FW",24,1997,3.5,1,9,4,44.4,2.55,1.13,0.11,0.25,13.9,0,0,0,1.9,1.9,0.21,-0.9,-0.9,shooting
+GER-Bundesliga,2022,Augsburg,Jeffrey Gouweleeuw,NED,DF,31,1991,31.1,0,15,4,26.7,0.48,0.13,0.0,0.0,15.4,0,0,0,1.4,1.4,0.1,-1.4,-1.4,shooting
+GER-Bundesliga,2022,Augsburg,Julian Baumgartlinger,AUT,MF,34,1988,6.2,0,3,0,0.0,0.49,0.0,0.0,,18.2,0,0,0,0.3,0.3,0.09,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Augsburg,Kelvin Yeboah,ITA,"FW,MF",22,2000,3.9,1,13,2,15.4,3.31,0.51,0.08,0.5,12.8,0,0,0,1.4,1.4,0.11,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Augsburg,Lukas Petkov,BUL,"MF,FW",21,2000,1.6,0,2,0,0.0,1.23,0.0,0.0,,29.6,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Mads Pedersen,DEN,"DF,MF",25,1996,20.4,0,9,0,0.0,0.44,0.0,0.0,,23.3,1,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Augsburg,Maximilian Bauer,GER,DF,22,2000,20.5,0,8,0,0.0,0.39,0.0,0.0,,8.5,0,0,0,1.6,1.6,0.2,-1.6,-1.6,shooting
+GER-Bundesliga,2022,Augsburg,Mergim Berisha,GER,FW,24,1998,18.7,9,51,13,25.5,2.73,0.7,0.12,0.46,18.7,6,3,4,8.1,5.0,0.1,0.9,1.0,shooting
+GER-Bundesliga,2022,Augsburg,Nathanael Mbuku,COD,"MF,FW",20,2002,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Niklas Dorsch,GER,MF,24,1998,5.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Noah Joel Sarenren Bazee,NGA,"MF,FW",25,1996,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Ohis Felix Uduokhai,GER,DF,24,1997,16.1,0,4,1,25.0,0.25,0.06,0.0,0.0,9.5,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Augsburg,Rafał Gikiewicz,POL,GK,34,1987,23.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Raphael Framberger,GER,"DF,FW",26,1995,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Reece Oxford,ENG,DF,23,1998,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Augsburg,Renato Veiga,POR,DF,19,2003,7.1,0,8,0,0.0,1.13,0.0,0.0,,26.6,1,0,0,0.2,0.2,0.02,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Augsburg,Ricardo Pepi,USA,FW,19,2003,1.1,0,1,0,0.0,0.95,0.0,0.0,,14.6,0,0,0,0.1,0.1,0.09,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Augsburg,Robert Gumny,POL,DF,24,1998,22.4,1,9,3,33.3,0.4,0.13,0.11,0.33,13.2,0,0,0,0.7,0.7,0.08,0.3,0.3,shooting
+GER-Bundesliga,2022,Augsburg,Ruben Vargas,SUI,"MF,FW",23,1998,12.6,3,21,6,28.6,1.67,0.48,0.14,0.5,20.4,1,0,0,1.2,1.2,0.06,1.8,1.8,shooting
+GER-Bundesliga,2022,Augsburg,Tomáš Koubek,CZE,GK,29,1992,11.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Alphonso Davies,CAN,DF,21,2000,22.7,1,19,8,42.1,0.84,0.35,0.05,0.13,18.6,0,0,0,1.7,1.7,0.09,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Bayern Munich,Arijon Ibrahimović,GER,MF,16,2005,0.2,0,2,2,100.0,12.86,12.86,0.0,0.0,6.9,0,0,0,0.5,0.5,0.26,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Bayern Munich,Benjamin Pavard,FRA,DF,26,1996,27.0,4,34,12,35.3,1.26,0.44,0.12,0.33,18.3,0,0,0,2.5,2.5,0.07,1.5,1.5,shooting
+GER-Bundesliga,2022,Bayern Munich,Bouna Sarr,SEN,FW,30,1992,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Daley Blind,NED,"DF,MF",32,1990,1.5,0,1,1,100.0,0.67,0.67,0.0,0.0,24.8,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Bayern Munich,Dayot Upamecano,FRA,DF,23,1998,26.1,0,7,1,14.3,0.27,0.04,0.0,0.0,9.0,0,0,0,0.7,0.7,0.1,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Bayern Munich,Eric Maxim Choupo-Moting,CMR,FW,33,1989,12.4,10,30,15,50.0,2.43,1.21,0.33,0.67,12.6,0,0,1,6.1,5.3,0.18,3.9,4.7,shooting
+GER-Bundesliga,2022,Bayern Munich,Gabriel Vidovic,CRO,FW,18,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Jamal Musiala,GER,"MF,FW",19,2003,24.4,12,66,25,37.9,2.7,1.02,0.18,0.48,15.8,0,0,0,8.0,8.0,0.12,4.0,4.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Joshua Kimmich,GER,MF,27,1995,31.2,5,27,11,40.7,0.87,0.35,0.15,0.36,26.0,3,1,1,2.2,1.4,0.05,2.8,2.6,shooting
+GER-Bundesliga,2022,Bayern Munich,Josip Stanišić,CRO,DF,22,2000,6.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,João Cancelo,POR,"DF,FW",28,1994,11.2,1,12,4,33.3,1.07,0.36,0.08,0.25,18.5,0,0,0,0.7,0.7,0.06,0.3,0.3,shooting
+GER-Bundesliga,2022,Bayern Munich,Kingsley Coman,FRA,"FW,MF",26,1996,15.7,8,49,17,34.7,3.13,1.09,0.16,0.47,18.6,0,0,0,4.6,4.6,0.09,3.4,3.4,shooting
+GER-Bundesliga,2022,Bayern Munich,Leon Goretzka,GER,MF,27,1995,19.2,3,40,13,32.5,2.08,0.68,0.08,0.23,17.2,0,0,0,4.7,4.7,0.12,-1.7,-1.7,shooting
+GER-Bundesliga,2022,Bayern Munich,Leroy Sané,GER,"MF,FW",26,1996,22.3,8,78,29,37.2,3.49,1.3,0.1,0.28,19.7,6,0,0,8.5,8.5,0.11,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Bayern Munich,Lucas Hernández,FRA,DF,26,1996,5.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Manuel Neuer,GER,GK,36,1986,12.0,0,2,1,50.0,0.17,0.08,0.0,0.0,9.0,0,0,0,0.2,0.2,0.11,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Bayern Munich,Marcel Sabitzer,AUT,MF,28,1994,7.0,1,15,5,33.3,2.15,0.72,0.07,0.2,21.7,0,0,0,1.1,1.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Bayern Munich,Mathys Tel,FRA,FW,17,2005,4.6,5,20,11,55.0,4.32,2.37,0.25,0.45,15.0,0,0,0,2.7,2.7,0.13,2.3,2.3,shooting
+GER-Bundesliga,2022,Bayern Munich,Matthijs de Ligt,NED,DF,22,1999,26.7,3,23,8,34.8,0.86,0.3,0.13,0.38,16.0,0,0,0,1.1,1.1,0.05,1.9,1.9,shooting
+GER-Bundesliga,2022,Bayern Munich,Noussair Mazraoui,MAR,DF,24,1997,11.9,1,8,2,25.0,0.67,0.17,0.13,0.5,18.5,0,0,0,1.1,1.1,0.14,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Bayern Munich,Paul Wanner,GER,MF,16,2005,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Ryan Gravenberch,NED,MF,20,2002,6.4,0,11,3,27.3,1.72,0.47,0.0,0.0,20.6,0,0,0,0.9,0.9,0.08,-0.9,-0.9,shooting
+GER-Bundesliga,2022,Bayern Munich,Sadio Mané,SEN,"FW,MF",30,1992,15.8,7,53,20,37.7,3.35,1.26,0.11,0.3,12.8,0,1,2,8.9,7.2,0.14,-1.9,-1.2,shooting
+GER-Bundesliga,2022,Bayern Munich,Serge Gnabry,GER,"FW,MF",27,1995,21.6,14,81,40,49.4,3.76,1.85,0.16,0.33,15.5,1,1,1,11.2,10.4,0.13,2.8,2.6,shooting
+GER-Bundesliga,2022,Bayern Munich,Sven Ulreich,GER,GK,33,1988,3.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bayern Munich,Thomas Müller,GER,"FW,MF",32,1989,18.5,7,47,23,48.9,2.54,1.24,0.15,0.3,12.5,0,0,0,8.9,8.9,0.19,-1.9,-1.9,shooting
+GER-Bundesliga,2022,Bayern Munich,Yann Sommer,SUI,GK,33,1988,19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Anthony Losilla,FRA,MF,36,1986,30.2,2,27,8,29.6,0.89,0.26,0.07,0.25,17.2,0,0,0,1.9,1.9,0.07,0.1,0.1,shooting
+GER-Bundesliga,2022,Bochum,Christopher Antwi-Adjei,GHA,"FW,MF",28,1994,22.0,3,29,8,27.6,1.32,0.36,0.1,0.38,20.6,0,0,0,2.2,2.2,0.08,0.8,0.8,shooting
+GER-Bundesliga,2022,Bochum,Cristian Gamboa,CRC,DF,32,1989,16.4,0,8,1,12.5,0.49,0.06,0.0,0.0,29.6,0,0,0,0.2,0.2,0.02,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Bochum,Danilo Soares,BRA,DF,30,1991,19.6,0,2,0,0.0,0.1,0.0,0.0,,29.1,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Dominique Heintz,GER,DF,28,1993,8.8,0,4,1,25.0,0.45,0.11,0.0,0.0,17.4,0,0,0,0.3,0.3,0.08,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Bochum,Erhan Mašović,SRB,"DF,MF",23,1998,24.2,4,17,10,58.8,0.7,0.41,0.24,0.4,14.0,1,0,0,2.6,2.6,0.15,1.4,1.4,shooting
+GER-Bundesliga,2022,Bochum,Gerrit Holtmann,PHI,"FW,MF",27,1995,10.5,1,30,14,46.7,2.86,1.33,0.03,0.07,19.6,0,0,0,2.4,2.4,0.08,-1.4,-1.4,shooting
+GER-Bundesliga,2022,Bochum,Ivan Ordets,UKR,DF,30,1992,27.2,0,17,1,5.9,0.62,0.04,0.0,0.0,11.7,0,0,0,1.4,1.4,0.08,-1.4,-1.4,shooting
+GER-Bundesliga,2022,Bochum,Jacek Góralski,POL,MF,29,1992,1.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Jannes Horn,GER,"DF,FW",25,1997,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Jordi Osei-Tutu,ENG,"DF,FW",23,1998,8.3,0,12,5,41.7,1.44,0.6,0.0,0.0,19.9,0,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Bochum,Keven Schlotterbeck,GER,DF,25,1997,8.2,2,8,4,50.0,0.98,0.49,0.25,0.5,12.0,0,0,0,1.6,1.6,0.2,0.4,0.4,shooting
+GER-Bundesliga,2022,Bochum,Kevin Stöger,AUT,MF,28,1993,28.9,5,45,11,24.4,1.56,0.38,0.04,0.18,25.8,7,3,3,4.4,2.1,0.05,0.6,-0.1,shooting
+GER-Bundesliga,2022,Bochum,Kostas Stafylidis,GRE,"DF,MF",28,1993,11.6,0,14,2,14.3,1.21,0.17,0.0,0.0,29.5,1,0,0,0.4,0.4,0.03,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Bochum,Manuel Riemann,GER,GK,33,1988,34.0,0,1,0,0.0,0.03,0.0,0.0,,11.5,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Moritz Broschinski,GER,"FW,MF",21,2000,2.4,2,5,4,80.0,2.11,1.69,0.4,0.5,12.2,0,0,0,1.3,1.3,0.26,0.7,0.7,shooting
+GER-Bundesliga,2022,Bochum,Patrick Osterhage,GER,MF,22,2000,11.4,0,6,0,0.0,0.52,0.0,0.0,,21.1,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Bochum,Philipp Förster,GER,MF,27,1995,14.5,3,17,6,35.3,1.17,0.41,0.18,0.5,20.2,2,0,0,1.4,1.4,0.08,1.6,1.6,shooting
+GER-Bundesliga,2022,Bochum,Philipp Hofmann,GER,FW,29,1993,29.2,8,52,21,40.4,1.78,0.72,0.15,0.38,12.8,0,0,0,8.8,8.8,0.17,-0.8,-0.8,shooting
+GER-Bundesliga,2022,Bochum,Pierre Kunde,CMR,"MF,FW",27,1995,4.2,1,4,1,25.0,0.95,0.24,0.25,1.0,24.7,0,0,0,0.3,0.3,0.08,0.7,0.7,shooting
+GER-Bundesliga,2022,Bochum,Saidy Janko,GAM,DF,26,1995,12.6,0,1,0,0.0,0.08,0.0,0.0,,21.9,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Silvère Ganvoula M'Boussy,CGO,"FW,MF",26,1996,2.7,0,9,3,33.3,3.28,1.09,0.0,0.0,20.2,0,0,0,0.5,0.5,0.05,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Bochum,Simon Zoller,GER,FW,31,1991,16.2,3,30,9,30.0,1.85,0.56,0.1,0.33,12.6,0,0,0,4.1,4.1,0.14,-1.1,-1.1,shooting
+GER-Bundesliga,2022,Bochum,Takuma Asano,JPN,"FW,MF",27,1994,19.0,3,53,18,34.0,2.78,0.95,0.06,0.17,16.1,0,0,0,5.6,5.6,0.11,-2.6,-2.6,shooting
+GER-Bundesliga,2022,Bochum,Tim Oermann,GER,DF,18,2003,2.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Bochum,Vassilis Lambropoulos,GRE,DF,32,1990,7.0,0,6,0,0.0,0.86,0.0,0.0,,11.8,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Dortmund,Alexander Meyer,GER,GK,31,1991,7.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Anthony Modeste,FRA,FW,34,1988,9.0,2,23,10,43.5,2.55,1.11,0.09,0.2,11.1,0,0,0,4.3,4.3,0.19,-2.3,-2.3,shooting
+GER-Bundesliga,2022,Dortmund,Antonios Papadopoulos,GER,DF,22,1999,0.1,0,1,0,0.0,6.92,0.0,0.0,,12.0,0,0,0,0.0,0.0,0.01,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Donyell Malen,NED,FW,23,1999,19.0,9,64,30,46.9,3.38,1.58,0.14,0.3,15.9,3,0,0,9.1,9.1,0.15,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Dortmund,Emre Can,GER,MF,28,1994,21.1,2,15,2,13.3,0.71,0.09,0.07,0.5,22.3,0,1,1,1.6,0.8,0.06,0.4,0.2,shooting
+GER-Bundesliga,2022,Dortmund,Felix Passlack,GER,DF,24,1998,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Gio Reyna,USA,"FW,MF",19,2002,6.9,7,24,11,45.8,3.46,1.58,0.25,0.55,15.1,1,1,1,4.3,3.5,0.16,2.7,2.5,shooting
+GER-Bundesliga,2022,Dortmund,Gregor Kobel,SUI,GK,24,1997,27.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Jamie Gittens,ENG,"FW,MF",17,2004,5.9,3,24,11,45.8,4.05,1.86,0.13,0.27,17.6,0,0,0,2.4,2.4,0.1,0.6,0.6,shooting
+GER-Bundesliga,2022,Dortmund,Jude Bellingham,ENG,MF,19,2003,29.9,8,66,23,34.8,2.21,0.77,0.11,0.3,18.0,2,1,1,8.2,7.4,0.11,-0.2,-0.4,shooting
+GER-Bundesliga,2022,Dortmund,Julian Brandt,GER,"MF,FW",26,1996,26.6,9,42,26,61.9,1.58,0.98,0.21,0.35,18.0,1,0,0,5.2,5.2,0.12,3.8,3.8,shooting
+GER-Bundesliga,2022,Dortmund,Julian Ryerson,NOR,DF,24,1997,15.7,1,10,3,30.0,0.64,0.19,0.1,0.33,22.4,0,0,0,0.5,0.5,0.05,0.5,0.5,shooting
+GER-Bundesliga,2022,Dortmund,Julien Duranville,BEL,MF,16,2006,0.3,0,1,0,0.0,3.1,0.0,0.0,,25.4,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Justin Njinmah,GER,FW,21,2000,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Karim Adeyemi,GER,"FW,MF",20,2002,15.4,6,37,14,37.8,2.4,0.91,0.16,0.43,17.4,0,0,1,5.0,4.3,0.12,1.0,1.7,shooting
+GER-Bundesliga,2022,Dortmund,Mahmoud Dahoud,GER,MF,26,1996,3.7,0,6,1,16.7,1.6,0.27,0.0,0.0,26.2,1,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Dortmund,Marco Pašalić,CRO,MF,21,2000,0.1,0,1,0,0.0,8.18,0.0,0.0,,22.7,0,0,0,0.0,0.0,0.05,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Marco Reus,GER,"MF,FW",33,1989,15.0,6,36,10,27.8,2.39,0.67,0.14,0.5,16.6,6,1,1,5.1,4.3,0.12,0.9,0.7,shooting
+GER-Bundesliga,2022,Dortmund,Marius Wolf,GER,DF,27,1995,17.4,1,23,6,26.1,1.32,0.34,0.04,0.17,19.4,0,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Dortmund,Mats Hummels,GER,DF,33,1988,22.4,1,17,3,17.6,0.76,0.13,0.06,0.33,10.2,0,0,0,2.2,2.2,0.13,-1.2,-1.2,shooting
+GER-Bundesliga,2022,Dortmund,Nico Schlotterbeck,GER,DF,22,1999,25.0,4,18,6,33.3,0.72,0.24,0.22,0.67,16.9,0,0,0,1.6,1.6,0.09,2.4,2.4,shooting
+GER-Bundesliga,2022,Dortmund,Niklas Süle,GER,DF,26,1995,23.5,2,33,7,21.2,1.4,0.3,0.06,0.29,17.2,0,0,0,2.2,2.2,0.07,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Dortmund,Raphaël Guerreiro,POR,"DF,MF",28,1993,25.4,4,33,14,42.4,1.3,0.55,0.12,0.29,19.8,6,0,0,2.7,2.7,0.08,1.3,1.3,shooting
+GER-Bundesliga,2022,Dortmund,Salih Özcan,TUR,MF,24,1998,17.5,0,3,1,33.3,0.17,0.06,0.0,0.0,9.3,0,0,0,0.6,0.6,0.19,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Dortmund,Soumaïla Coulibaly,FRA,DF,18,2003,0.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Dortmund,Sébastien Haller,CIV,FW,28,1994,13.6,9,33,19,57.6,2.42,1.4,0.27,0.47,9.9,0,0,1,8.4,7.7,0.23,0.6,1.3,shooting
+GER-Bundesliga,2022,Dortmund,Thomas Meunier,BEL,DF,30,1991,6.5,0,4,0,0.0,0.62,0.0,0.0,,26.5,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Dortmund,Thorgan Hazard,BEL,"FW,DF",29,1993,5.2,0,8,3,37.5,1.55,0.58,0.0,0.0,14.2,0,0,0,1.3,1.3,0.17,-1.3,-1.3,shooting
+GER-Bundesliga,2022,Dortmund,Tom Rothe,GER,DF,17,2004,0.3,0,1,0,0.0,3.46,0.0,0.0,,7.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Dortmund,Youssoufa Moukoko,GER,FW,17,2004,12.7,7,35,19,54.3,2.76,1.5,0.2,0.37,14.9,0,0,0,6.4,6.4,0.18,0.6,0.6,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Almamy Touré,MLI,DF,26,1996,4.4,0,3,1,33.3,0.68,0.23,0.0,0.0,14.0,0,0,0,0.5,0.5,0.17,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Ansgar Knauff,GER,DF,20,2002,14.3,1,15,7,46.7,1.05,0.49,0.07,0.14,19.7,0,0,0,0.9,0.9,0.06,0.1,0.1,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Aurélio Buta,POR,DF,25,1997,14.6,3,9,4,44.4,0.61,0.27,0.33,0.75,16.7,0,0,0,0.6,0.6,0.07,2.4,2.4,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Christopher Lenz,GER,DF,27,1994,14.3,0,12,2,16.7,0.84,0.14,0.0,0.0,23.4,1,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Daichi Kamada,JPN,MF,25,1996,25.2,9,41,11,26.8,1.63,0.44,0.15,0.55,16.6,4,3,3,9.9,7.5,0.18,-0.9,-1.5,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Dario Gebuhr,GER,DF,19,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Diant Ramaj,GER,GK,20,2001,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Djibril Sow,SUI,MF,25,1997,29.4,4,28,10,35.7,0.95,0.34,0.14,0.4,24.8,0,0,0,1.7,1.7,0.06,2.3,2.3,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Faride Alidou,GER,"DF,MF",21,2001,2.0,0,2,0,0.0,0.99,0.0,0.0,,17.0,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Filip Kostić,SRB,"DF,MF",29,1992,0.8,0,1,0,0.0,1.22,0.0,0.0,,21.1,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Hrvoje Smolčić,CRO,DF,21,2000,5.2,0,3,0,0.0,0.57,0.0,0.0,,12.7,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Jesper Lindstrøm,DEN,"MF,FW",22,2000,18.7,7,45,19,42.2,2.41,1.02,0.16,0.37,18.3,4,0,0,5.9,5.9,0.13,1.1,1.1,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Junior Dina Ebimbe,FRA,"DF,MF",21,2000,11.8,3,26,10,38.5,2.2,0.85,0.12,0.3,14.6,0,0,0,3.7,3.7,0.14,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Kevin Trapp,GER,GK,32,1990,33.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Kristijan Jakić,CRO,"DF,MF",25,1997,16.2,1,8,4,50.0,0.49,0.25,0.13,0.25,17.5,0,0,0,0.7,0.7,0.09,0.3,0.3,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Luca Pellegrini,ITA,DF,23,1999,6.2,0,14,2,14.3,2.26,0.32,0.0,0.0,27.7,3,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Lucas Alario,ARG,"FW,MF",29,1992,3.7,1,11,4,36.4,2.99,1.09,0.09,0.25,14.7,0,0,0,1.4,1.4,0.13,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Makoto Hasebe,JPN,DF,38,1984,14.5,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Marcel Wenig,GER,MF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Mario Götze,GER,MF,30,1992,30.4,3,26,7,26.9,0.85,0.23,0.12,0.43,16.4,0,0,0,3.2,3.2,0.12,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Obite N'Dicka,CIV,DF,22,1999,29.9,1,17,3,17.6,0.57,0.1,0.06,0.33,12.7,0,0,0,1.4,1.4,0.08,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Paxten Aaronson,USA,"MF,DF",18,2003,1.9,0,4,1,25.0,2.08,0.52,0.0,0.0,18.7,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Philipp Max,GER,DF,28,1993,7.7,0,9,3,33.3,1.17,0.39,0.0,0.0,18.3,2,0,0,0.7,0.7,0.08,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Rafael Borré,COL,"MF,FW",26,1995,12.0,2,24,7,29.2,2.0,0.58,0.04,0.14,13.1,0,1,1,4.1,3.3,0.14,-2.1,-2.3,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Randal Kolo Muani,FRA,FW,23,1998,29.2,15,75,30,40.0,2.57,1.03,0.17,0.43,13.0,0,2,2,13.2,11.6,0.16,1.8,1.4,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Sebastian Rode,GER,MF,31,1990,15.7,4,9,4,44.4,0.57,0.25,0.44,1.0,18.7,0,0,0,0.9,0.9,0.1,3.1,3.1,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Timothy Chandler,USA,DF,32,1990,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Eint Frankfurt,Tuta,BRA,DF,23,1999,30.2,2,17,3,17.6,0.56,0.1,0.12,0.67,17.0,0,0,0,2.3,2.3,0.13,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Freiburg,Christian Günter,GER,"DF,MF",29,1993,30.5,1,27,7,25.9,0.88,0.23,0.04,0.14,21.8,0,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Freiburg,Daniel Kyereh,GHA,"MF,FW",26,1996,6.2,2,11,5,45.5,1.77,0.81,0.18,0.4,14.9,0,0,0,2.2,2.2,0.2,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Freiburg,Hugo Siquet,BEL,DF,20,2002,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Jeong Woo-yeong,KOR,"MF,FW",22,1999,7.3,1,13,4,30.8,1.79,0.55,0.08,0.25,16.6,0,0,0,2.1,2.1,0.16,-1.1,-1.1,shooting
+GER-Bundesliga,2022,Freiburg,Jonathan Schmid,FRA,DF,32,1990,0.5,0,1,1,100.0,2.2,2.2,0.0,0.0,13.9,0,0,0,0.3,0.3,0.3,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Freiburg,Kenneth Schmidt,GER,DF,20,2002,2.8,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Keven Schlotterbeck,GER,DF,25,1997,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Kevin Schade,GER,"FW,MF",20,2001,2.0,1,4,1,25.0,1.98,0.49,0.25,1.0,15.0,0,0,0,0.2,0.2,0.06,0.8,0.8,shooting
+GER-Bundesliga,2022,Freiburg,Kiliann Sildillia,FRA,"DF,MF",20,2002,22.0,0,10,0,0.0,0.46,0.0,0.0,,19.3,0,0,0,0.8,0.8,0.08,-0.8,-0.8,shooting
+GER-Bundesliga,2022,Freiburg,Kimberly Ezekwem,GER,DF,21,2001,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Lucas Höler,GER,"FW,MF",28,1994,16.7,5,30,15,50.0,1.8,0.9,0.17,0.33,14.2,0,0,0,3.3,3.3,0.11,1.7,1.7,shooting
+GER-Bundesliga,2022,Freiburg,Lukas Kübler,GER,DF,29,1992,18.2,2,9,4,44.4,0.49,0.22,0.22,0.5,12.2,0,0,0,0.9,0.9,0.1,1.1,1.1,shooting
+GER-Bundesliga,2022,Freiburg,Manuel Gulde,GER,DF,31,1991,7.1,1,2,1,50.0,0.28,0.14,0.5,1.0,6.1,0,0,0,0.7,0.7,0.35,0.3,0.3,shooting
+GER-Bundesliga,2022,Freiburg,Mark Flekken,NED,GK,29,1993,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Matthias Ginter,GER,DF,28,1994,34.0,4,21,11,52.4,0.62,0.32,0.19,0.36,11.1,0,0,0,1.9,1.9,0.09,2.1,2.1,shooting
+GER-Bundesliga,2022,Freiburg,Maximilian Eggestein,GER,MF,25,1996,27.2,1,16,4,25.0,0.59,0.15,0.06,0.25,21.6,0,0,0,0.9,0.9,0.06,0.1,0.1,shooting
+GER-Bundesliga,2022,Freiburg,Merlin Röhl,GER,"MF,FW",20,2002,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Michael Gregoritsch,AUT,FW,28,1994,23.9,10,67,38,56.7,2.8,1.59,0.15,0.26,14.6,1,0,0,10.0,10.0,0.15,0.0,0.0,shooting
+GER-Bundesliga,2022,Freiburg,Nicolas Höfler,GER,MF,32,1990,31.3,0,21,4,19.0,0.67,0.13,0.0,0.0,14.9,0,0,0,1.7,1.7,0.08,-1.7,-1.7,shooting
+GER-Bundesliga,2022,Freiburg,Nils Petersen,GER,FW,33,1988,3.1,1,9,2,22.2,2.92,0.65,0.11,0.5,17.7,0,0,0,1.2,1.2,0.13,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Freiburg,Noah Weißhaupt,GER,"MF,DF",20,2001,4.7,0,2,1,50.0,0.42,0.21,0.0,0.0,14.4,0,0,0,0.2,0.2,0.08,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Freiburg,Philipp Lienhart,AUT,DF,26,1996,27.8,1,17,3,17.6,0.61,0.11,0.06,0.33,16.4,0,0,0,1.4,1.4,0.08,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Freiburg,Ritsu Doan,JPN,"MF,FW",24,1998,26.9,5,57,27,47.4,2.12,1.0,0.09,0.19,17.3,0,0,0,7.0,7.0,0.12,-2.0,-2.0,shooting
+GER-Bundesliga,2022,Freiburg,Robert Wagner,GER,MF,19,2003,0.4,0,2,0,0.0,4.74,0.0,0.0,,17.2,0,0,0,0.2,0.2,0.12,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Freiburg,Roland Sallai,HUN,"MF,FW",25,1997,11.1,1,31,11,35.5,2.78,0.99,0.03,0.09,17.5,0,0,0,2.6,2.6,0.08,-1.6,-1.6,shooting
+GER-Bundesliga,2022,Freiburg,Vincenzo Grifo,ITA,"MF,FW",29,1993,26.8,15,58,25,43.1,2.17,0.93,0.14,0.32,22.6,15,7,8,10.3,3.9,0.07,4.7,4.1,shooting
+GER-Bundesliga,2022,Freiburg,Yannik Keitel,GER,MF,22,2000,7.6,0,4,3,75.0,0.53,0.4,0.0,0.0,16.8,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Gladbach,Alassane Pléa,FRA,FW,29,1993,19.7,2,27,11,40.7,1.37,0.56,0.04,0.09,18.6,1,1,2,5.0,3.4,0.13,-3.0,-2.4,shooting
+GER-Bundesliga,2022,Gladbach,Christoph Kramer,GER,MF,31,1991,24.7,0,6,1,16.7,0.24,0.04,0.0,0.0,22.1,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Gladbach,Florian Neuhaus,GER,MF,25,1997,15.6,1,28,6,21.4,1.79,0.38,0.04,0.17,21.6,0,0,0,2.0,2.0,0.07,-1.0,-1.0,shooting
+GER-Bundesliga,2022,Gladbach,Hannes Wolf,AUT,FW,23,1999,5.0,1,8,3,37.5,1.6,0.6,0.13,0.33,13.8,0,0,0,1.4,1.4,0.18,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Gladbach,Jan Olschowsky,GER,GK,20,2001,4.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Joe Scally,USA,DF,19,2002,24.5,0,7,1,14.3,0.29,0.04,0.0,0.0,17.6,0,0,0,0.5,0.5,0.07,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Gladbach,Jonas Hofmann,GER,"FW,MF",30,1992,29.8,12,44,22,50.0,1.48,0.74,0.27,0.55,19.0,5,0,1,7.2,6.6,0.15,4.8,5.4,shooting
+GER-Bundesliga,2022,Gladbach,Jonas Omlin,SUI,GK,28,1994,14.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Julian Weigl,GER,MF,26,1995,21.0,1,7,0,0.0,0.33,0.0,0.0,,16.7,0,1,1,1.1,0.3,0.04,-0.1,-0.3,shooting
+GER-Bundesliga,2022,Gladbach,Ko Itakura,JPN,DF,25,1997,22.0,0,11,4,36.4,0.5,0.18,0.0,0.0,14.8,0,0,0,0.6,0.6,0.06,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Gladbach,Lars Stindl,GER,"FW,MF",33,1988,19.3,8,50,22,44.0,2.6,1.14,0.16,0.36,20.7,3,0,0,5.0,5.0,0.1,3.0,3.0,shooting
+GER-Bundesliga,2022,Gladbach,Luca Netz,GER,DF,19,2003,7.8,1,4,2,50.0,0.51,0.26,0.25,0.5,14.8,0,0,0,1.0,1.0,0.26,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Manu Koné,FRA,MF,21,2001,29.0,1,26,14,53.8,0.9,0.48,0.04,0.07,25.1,0,0,0,1.2,1.2,0.05,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Gladbach,Marcus Thuram,FRA,FW,24,1997,27.9,13,92,44,47.8,3.29,1.58,0.14,0.3,12.7,0,0,0,16.5,16.5,0.18,-3.5,-3.5,shooting
+GER-Bundesliga,2022,Gladbach,Marvin Friedrich,GER,DF,26,1995,13.9,1,9,4,44.4,0.65,0.29,0.11,0.25,12.9,0,0,0,0.9,0.9,0.09,0.1,0.1,shooting
+GER-Bundesliga,2022,Gladbach,Nathan N'Goumou,CMR,FW,22,2000,7.7,1,13,4,30.8,1.68,0.52,0.08,0.25,18.1,0,0,0,0.8,0.8,0.06,0.2,0.2,shooting
+GER-Bundesliga,2022,Gladbach,Nico Elvedi,SUI,DF,25,1996,31.4,3,18,9,50.0,0.57,0.29,0.17,0.33,10.5,0,0,0,2.6,2.6,0.14,0.4,0.4,shooting
+GER-Bundesliga,2022,Gladbach,Oscar Fraulo,DEN,"FW,MF",18,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Patrick Herrmann,GER,"FW,MF",31,1991,1.8,1,6,2,33.3,3.29,1.1,0.17,0.5,19.7,0,0,0,0.4,0.4,0.06,0.6,0.6,shooting
+GER-Bundesliga,2022,Gladbach,Ramy Bensebaini,ALG,DF,27,1995,27.6,6,39,12,30.8,1.41,0.44,0.1,0.33,17.3,3,2,2,5.3,3.7,0.1,0.7,0.3,shooting
+GER-Bundesliga,2022,Gladbach,Rocco Reitz,GER,MF,20,2002,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Semir Telalovic,GER,"MF,FW",22,1999,0.1,0,1,1,100.0,9.0,9.0,0.0,0.0,25.0,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Gladbach,Stefan Lainer,AUT,DF,29,1992,9.1,0,6,4,66.7,0.66,0.44,0.0,0.0,13.1,0,0,0,0.8,0.8,0.13,-0.8,-0.8,shooting
+GER-Bundesliga,2022,Gladbach,Tobias Sippel,GER,GK,34,1988,5.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Tony Jantschke,GER,"DF,MF",32,1990,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Yann Sommer,SUI,GK,33,1988,10.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Gladbach,Yvandro Borges Sanches,LUX,"FW,MF",18,2004,0.3,0,1,0,0.0,3.21,0.0,0.0,,34.7,0,0,0,0.1,0.1,0.1,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Hertha BSC,Agustín Rogel,URU,DF,24,1997,15.8,0,5,0,0.0,0.32,0.0,0.0,,7.6,0,0,0,0.8,0.8,0.16,-0.8,-0.8,shooting
+GER-Bundesliga,2022,Hertha BSC,Chidera Ejuke,NGA,"FW,MF",24,1998,9.9,0,24,5,20.8,2.43,0.51,0.0,0.0,21.1,0,0,0,1.5,1.5,0.06,-1.5,-1.5,shooting
+GER-Bundesliga,2022,Hertha BSC,Davie Selke,GER,FW,27,1995,3.1,1,5,3,60.0,1.6,0.96,0.0,0.0,17.6,0,1,1,1.2,0.4,0.08,-0.2,-0.4,shooting
+GER-Bundesliga,2022,Hertha BSC,Derry Scherhant,GER,"FW,MF",19,2002,3.2,1,4,1,25.0,1.26,0.32,0.25,1.0,15.9,0,0,0,0.2,0.2,0.05,0.8,0.8,shooting
+GER-Bundesliga,2022,Hertha BSC,Dodi Lukebakio,BEL,"FW,MF",24,1997,26.6,11,59,22,37.3,2.22,0.83,0.1,0.27,20.3,1,5,5,8.6,4.7,0.08,2.4,1.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Filip Uremović,CRO,DF,25,1997,19.2,0,9,3,33.3,0.47,0.16,0.0,0.0,12.7,0,0,0,0.9,0.9,0.1,-0.9,-0.9,shooting
+GER-Bundesliga,2022,Hertha BSC,Florian Niederlechner,GER,FW,31,1990,8.7,1,21,7,33.3,2.42,0.81,0.05,0.14,15.1,0,0,0,2.3,2.3,0.11,-1.3,-1.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Ibrahim Maza,ALG,"MF,FW",16,2005,0.8,1,1,1,100.0,1.27,1.27,1.0,1.0,7.2,0,0,0,0.8,0.8,0.81,0.2,0.2,shooting
+GER-Bundesliga,2022,Hertha BSC,Ivan Šunjić,BIH,MF,25,1996,11.0,0,6,3,50.0,0.54,0.27,0.0,0.0,16.8,0,0,0,0.6,0.6,0.11,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Hertha BSC,Jean-Paul Boëtius,NED,MF,28,1994,11.7,0,5,3,60.0,0.43,0.26,0.0,0.0,20.6,0,0,0,0.5,0.5,0.11,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Hertha BSC,Jessic Ngankam,GER,"FW,MF",22,2000,9.2,4,18,7,38.9,1.96,0.76,0.17,0.43,13.8,0,1,1,4.1,3.3,0.19,-0.1,-0.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Jonjoe Kenny,ENG,DF,25,1997,24.9,0,6,1,16.7,0.24,0.04,0.0,0.0,24.9,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Julian Eitschberger,GER,FW,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Kevin-Prince Boateng,GHA,MF,35,1987,5.2,0,6,0,0.0,1.16,0.0,0.0,,19.2,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Lucas Tousart,FRA,MF,25,1997,32.7,5,43,16,37.2,1.31,0.49,0.12,0.31,16.7,0,0,0,3.6,3.6,0.08,1.4,1.4,shooting
+GER-Bundesliga,2022,Hertha BSC,Marc-Oliver Kempf,GER,DF,27,1995,30.1,1,16,5,31.3,0.53,0.17,0.06,0.2,11.5,0,0,0,1.5,1.5,0.1,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Hertha BSC,Marco Richter,GER,"MF,FW",24,1997,20.4,6,49,15,30.6,2.4,0.74,0.12,0.4,22.3,4,0,0,3.7,3.7,0.08,2.3,2.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Marvin Plattenhardt,GER,DF,30,1992,26.7,0,8,1,12.5,0.3,0.04,0.0,0.0,27.3,4,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Maximilian Mittelstädt,GER,"DF,MF",25,1997,9.4,0,6,2,33.3,0.64,0.21,0.0,0.0,23.4,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Myziane Maolida,COM,"FW,MF",23,1999,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Márton Dárdai,HUN,"DF,MF",20,2002,10.5,1,2,1,50.0,0.19,0.1,0.5,1.0,22.2,0,0,0,0.1,0.1,0.04,0.9,0.9,shooting
+GER-Bundesliga,2022,Hertha BSC,Oliver Christensen,DEN,GK,23,1999,33.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Pascal Klemens,GER,DF,17,2005,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Peter Pekarík,SVK,DF,35,1986,2.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Stevan Jovetić,MNE,"FW,MF",32,1989,9.9,4,27,6,22.2,2.72,0.61,0.15,0.67,18.4,1,0,0,2.7,2.7,0.1,1.3,1.3,shooting
+GER-Bundesliga,2022,Hertha BSC,Suat Serdar,GER,MF,25,1997,22.5,4,23,7,30.4,1.02,0.31,0.17,0.57,19.3,0,0,0,1.9,1.9,0.08,2.1,2.1,shooting
+GER-Bundesliga,2022,Hertha BSC,Tjark Ernst,GER,GK,19,2003,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Tolga Ciğerci,TUR,MF,30,1992,7.5,0,9,3,33.3,1.21,0.4,0.0,0.0,29.4,1,0,0,0.2,0.2,0.02,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Hertha BSC,Tony Rölke,GER,FW,19,2003,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Veit Stange,GER,MF,18,2004,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Vladimír Darida,CZE,MF,31,1990,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hertha BSC,Wilfried Kanga,CIV,FW,24,1998,15.7,2,25,9,36.0,1.59,0.57,0.08,0.22,11.7,0,0,0,3.3,3.3,0.13,-1.3,-1.3,shooting
+GER-Bundesliga,2022,Hoffenheim,Andrej Kramarić,CRO,"MF,FW",31,1991,26.5,12,57,21,36.8,2.15,0.79,0.14,0.38,18.0,4,4,6,13.2,8.5,0.15,-1.2,-0.5,shooting
+GER-Bundesliga,2022,Hoffenheim,Angeliño,ESP,DF,25,1997,29.1,0,21,4,19.0,0.72,0.14,0.0,0.0,20.5,4,0,0,1.1,1.1,0.05,-1.1,-1.1,shooting
+GER-Bundesliga,2022,Hoffenheim,Angelo Stiller,GER,MF,21,2001,7.8,1,7,3,42.9,0.89,0.38,0.14,0.33,22.1,0,0,0,0.3,0.3,0.04,0.7,0.7,shooting
+GER-Bundesliga,2022,Hoffenheim,Christoph Baumgartner,AUT,"MF,FW",22,1999,28.5,7,66,19,28.8,2.31,0.67,0.11,0.37,15.7,0,0,0,7.1,7.1,0.11,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Hoffenheim,Dennis Geiger,GER,MF,24,1998,21.7,1,5,3,60.0,0.23,0.14,0.2,0.33,24.7,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+GER-Bundesliga,2022,Hoffenheim,Diadie Samassékou,MLI,"MF,FW",26,1996,0.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Eduardo Quaresma,POR,DF,20,2002,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Ermin Bičakčić,BIH,DF,32,1990,2.9,0,2,1,50.0,0.68,0.34,0.0,0.0,11.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Hoffenheim,Finn Ole Becker,GER,MF,22,2000,5.7,0,6,2,33.3,1.05,0.35,0.0,0.0,24.0,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Hoffenheim,Fisnik Asllani,KVX,FW,19,2002,1.9,0,9,0,0.0,4.85,0.0,0.0,,11.1,0,0,0,1.7,1.7,0.19,-1.7,-1.7,shooting
+GER-Bundesliga,2022,Hoffenheim,Georginio Rutter,FRA,FW,20,2002,11.2,2,27,14,51.9,2.41,1.25,0.07,0.14,15.7,0,0,0,3.0,3.0,0.11,-1.0,-1.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Grischa Prömel,GER,MF,27,1995,16.2,1,24,5,20.8,1.49,0.31,0.04,0.2,16.2,0,0,0,2.5,2.5,0.11,-1.5,-1.5,shooting
+GER-Bundesliga,2022,Hoffenheim,Ihlas Bebou,TOG,"FW,DF",28,1994,15.7,7,28,13,46.4,1.78,0.83,0.21,0.46,15.0,0,1,1,4.6,3.8,0.14,2.4,2.2,shooting
+GER-Bundesliga,2022,Hoffenheim,Jacob Bruun Larsen,DEN,FW,23,1998,3.6,1,7,2,28.6,1.92,0.55,0.14,0.5,14.9,0,0,0,1.3,1.3,0.19,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Hoffenheim,John Brooks,USA,DF,29,1993,15.0,0,7,0,0.0,0.47,0.0,0.0,,11.4,0,0,0,0.4,0.4,0.05,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Hoffenheim,Joshua Quarshie,GER,MF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Kasper Dolberg,DEN,"FW,MF",24,1997,4.5,1,7,3,42.9,1.57,0.67,0.14,0.33,16.7,0,0,0,0.5,0.5,0.07,0.5,0.5,shooting
+GER-Bundesliga,2022,Hoffenheim,Kevin Akpoguma,NGA,DF,27,1995,21.7,0,8,1,12.5,0.37,0.05,0.0,0.0,19.3,0,0,0,0.6,0.6,0.08,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Hoffenheim,Kevin Vogt,GER,DF,30,1991,19.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Moanes Dabbur,ISR,FW,30,1992,10.4,6,22,14,63.6,2.12,1.35,0.27,0.43,15.0,0,0,0,3.5,3.5,0.16,2.5,2.5,shooting
+GER-Bundesliga,2022,Hoffenheim,Muhammed Damar,GER,MF,18,2004,1.8,0,1,0,0.0,0.57,0.0,0.0,,10.4,0,0,0,0.1,0.1,0.11,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Hoffenheim,Oliver Baumann,GER,GK,32,1990,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Ozan Kabak,TUR,DF,22,2000,26.5,2,24,6,25.0,0.9,0.23,0.08,0.33,13.8,0,0,0,1.3,1.3,0.05,0.7,0.7,shooting
+GER-Bundesliga,2022,Hoffenheim,Pavel Kadeřábek,CZE,DF,30,1992,18.5,1,8,1,12.5,0.43,0.05,0.13,1.0,10.5,0,0,0,1.3,1.3,0.17,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Hoffenheim,Robert Skov,DEN,DF,26,1996,15.0,3,39,12,30.8,2.6,0.8,0.03,0.08,22.5,8,2,2,3.4,1.8,0.05,-0.4,-0.8,shooting
+GER-Bundesliga,2022,Hoffenheim,Sebastian Rudy,GER,MF,32,1990,8.8,0,5,2,40.0,0.57,0.23,0.0,0.0,29.1,0,0,0,0.2,0.2,0.03,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Hoffenheim,Stanley N'Soki,FRA,DF,23,1999,14.3,1,6,2,33.3,0.42,0.14,0.17,0.5,17.2,0,0,0,0.5,0.5,0.09,0.5,0.5,shooting
+GER-Bundesliga,2022,Hoffenheim,Stefan Posch,AUT,DF,25,1997,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Thomas Delaney,DEN,MF,30,1991,3.3,0,1,0,0.0,0.3,0.0,0.0,,20.0,0,0,0,0.1,0.1,0.11,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Hoffenheim,Tom Bischof,GER,"MF,FW",17,2005,3.5,0,7,2,28.6,2.0,0.57,0.0,0.0,22.4,0,0,0,1.0,1.0,0.14,-1.0,-1.0,shooting
+GER-Bundesliga,2022,Hoffenheim,Umut Tohumcu,GER,"MF,DF",17,2004,3.0,0,4,0,0.0,1.33,0.0,0.0,,26.2,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Köln,Benno Schmitz,GER,DF,27,1994,26.9,1,10,2,20.0,0.37,0.07,0.1,0.5,19.5,0,0,0,0.4,0.4,0.04,0.6,0.6,shooting
+GER-Bundesliga,2022,Köln,Davie Selke,GER,FW,27,1995,9.7,5,28,15,53.6,2.9,1.55,0.18,0.33,11.5,0,0,0,3.4,3.4,0.12,1.6,1.6,shooting
+GER-Bundesliga,2022,Köln,Dejan Ljubicic,AUT,"MF,FW",24,1997,19.0,5,34,14,41.2,1.79,0.74,0.12,0.29,22.1,0,1,1,3.3,2.6,0.08,1.7,1.4,shooting
+GER-Bundesliga,2022,Köln,Denis Huseinbasic,BIH,"MF,FW",21,2001,8.8,4,16,4,25.0,1.82,0.46,0.25,1.0,14.1,0,0,0,2.4,2.4,0.15,1.6,1.6,shooting
+GER-Bundesliga,2022,Köln,Dimitris Limnios,GRE,FW,24,1998,0.4,0,1,0,0.0,2.31,0.0,0.0,,19.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Köln,Ellyes Skhiri,TUN,MF,27,1995,31.7,7,32,11,34.4,1.01,0.35,0.22,0.64,15.3,0,0,0,5.3,5.3,0.17,1.7,1.7,shooting
+GER-Bundesliga,2022,Köln,Eric Martel,GER,MF,20,2002,22.4,1,28,8,28.6,1.25,0.36,0.04,0.13,20.6,0,0,0,1.7,1.7,0.06,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Köln,Florian Dietz,GER,FW,23,1998,4.4,1,17,6,35.3,3.87,1.37,0.06,0.17,11.9,0,0,0,2.5,2.5,0.15,-1.5,-1.5,shooting
+GER-Bundesliga,2022,Köln,Florian Kainz,AUT,"MF,FW",29,1992,26.0,6,51,19,37.3,1.96,0.73,0.06,0.16,22.2,6,3,3,6.0,3.6,0.07,0.0,-0.6,shooting
+GER-Bundesliga,2022,Köln,Jan Thielmann,GER,FW,20,2002,9.7,2,13,7,53.8,1.35,0.72,0.15,0.29,18.1,0,0,0,1.1,1.1,0.08,0.9,0.9,shooting
+GER-Bundesliga,2022,Köln,Jonas Hector,GER,DF,32,1990,31.4,0,25,5,20.0,0.8,0.16,0.0,0.0,16.2,0,0,0,1.7,1.7,0.07,-1.7,-1.7,shooting
+GER-Bundesliga,2022,Köln,Julian Chabot,GER,DF,24,1998,20.0,0,14,3,21.4,0.7,0.15,0.0,0.0,9.1,0,0,0,1.6,1.6,0.11,-1.6,-1.6,shooting
+GER-Bundesliga,2022,Köln,Justin Diehl,GER,"MF,FW",17,2004,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Köln,Kingsley Ehizibue,NED,DF,27,1995,0.7,0,1,1,100.0,1.48,1.48,0.0,0.0,35.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Köln,Kingsley Schindler,GHA,"DF,MF",29,1993,12.1,0,11,4,36.4,0.91,0.33,0.0,0.0,12.8,0,0,0,2.2,2.2,0.2,-2.2,-2.2,shooting
+GER-Bundesliga,2022,Köln,Kristian Pedersen,DEN,DF,27,1994,3.1,0,1,0,0.0,0.33,0.0,0.0,,4.2,0,0,0,0.1,0.1,0.1,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Köln,Linton Maina,GER,"FW,MF",23,1999,24.9,3,35,13,37.1,1.41,0.52,0.09,0.23,15.3,0,0,0,4.6,4.6,0.13,-1.6,-1.6,shooting
+GER-Bundesliga,2022,Köln,Luca Kilian,GER,DF,22,1999,12.5,1,4,1,25.0,0.32,0.08,0.25,1.0,9.8,0,0,0,1.1,1.1,0.28,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Köln,Mark Uth,GER,"MF,FW",30,1991,0.5,0,1,1,100.0,1.96,1.96,0.0,0.0,13.2,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Köln,Marvin Schwäbe,GER,GK,27,1995,34.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Köln,Mathias Olesen,LUX,MF,21,2001,5.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Köln,Nikola Soldo,CRO,DF,21,2001,6.6,0,6,0,0.0,0.91,0.0,0.0,,15.2,0,0,0,0.6,0.6,0.11,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Köln,Ondrej Duda,SVK,MF,27,1994,7.7,0,12,3,25.0,1.57,0.39,0.0,0.0,18.6,0,0,0,0.7,0.7,0.06,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Köln,Sargis Adamyan,ARM,"FW,MF",29,1993,7.2,1,21,11,52.4,2.93,1.54,0.05,0.09,14.0,0,0,0,3.4,3.4,0.16,-2.4,-2.4,shooting
+GER-Bundesliga,2022,Köln,Steffen Tigges,GER,FW,24,1998,17.7,6,35,11,31.4,1.97,0.62,0.17,0.55,12.3,0,0,0,5.0,5.0,0.14,1.0,1.0,shooting
+GER-Bundesliga,2022,Köln,Tim Lemperle,GER,"FW,MF",20,2002,1.5,0,2,0,0.0,1.36,0.0,0.0,,12.6,0,0,0,0.1,0.1,0.06,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Köln,Timo Hübers,GER,DF,26,1996,28.4,3,15,7,46.7,0.53,0.25,0.2,0.43,10.9,0,0,0,1.8,1.8,0.12,1.2,1.2,shooting
+GER-Bundesliga,2022,Leverkusen,Adam Hložek,CZE,"FW,MF",20,2002,14.3,5,30,11,36.7,2.1,0.77,0.17,0.45,16.9,2,0,0,2.7,2.7,0.09,2.3,2.3,shooting
+GER-Bundesliga,2022,Leverkusen,Amine Adli,MAR,"FW,MF",22,2000,15.9,5,37,17,45.9,2.32,1.07,0.14,0.29,14.0,1,0,0,5.0,5.0,0.14,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Andrey Lunyov,RUS,GK,30,1991,1.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Ayman Azhil,MAR,MF,21,2001,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Callum Hudson-Odoi,ENG,"FW,MF",21,2000,6.7,0,4,1,25.0,0.6,0.15,0.0,0.0,20.4,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Leverkusen,Charles Aránguiz,CHI,MF,33,1989,5.5,1,5,2,40.0,0.91,0.37,0.2,0.5,18.5,0,0,0,0.3,0.3,0.06,0.7,0.7,shooting
+GER-Bundesliga,2022,Leverkusen,Daley Sinkgraven,NED,"DF,MF",27,1995,3.8,0,4,1,25.0,1.05,0.26,0.0,0.0,18.9,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Leverkusen,Edmond Tapsoba,BFA,DF,23,1999,31.9,1,13,1,7.7,0.41,0.03,0.0,0.0,14.9,0,1,2,2.8,1.2,0.09,-1.8,-1.2,shooting
+GER-Bundesliga,2022,Leverkusen,Exequiel Palacios,ARG,MF,23,1998,18.4,4,17,4,23.5,0.93,0.22,0.06,0.25,26.3,0,3,3,3.0,0.6,0.04,1.0,0.4,shooting
+GER-Bundesliga,2022,Leverkusen,Florian Wirtz,GER,"FW,MF",19,2003,12.1,1,7,4,57.1,0.58,0.33,0.14,0.25,18.6,0,0,0,0.8,0.8,0.11,0.2,0.2,shooting
+GER-Bundesliga,2022,Leverkusen,Jeremie Frimpong,NED,"DF,MF",21,2000,30.1,8,38,19,50.0,1.26,0.63,0.21,0.42,11.9,0,0,0,7.6,7.6,0.2,0.4,0.4,shooting
+GER-Bundesliga,2022,Leverkusen,Joel Pohjanpalo,FIN,"FW,MF",27,1994,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Jonathan Tah,GER,DF,26,1996,27.6,1,10,2,20.0,0.36,0.07,0.1,0.5,9.7,0,0,0,1.1,1.1,0.11,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Leverkusen,Karim Bellarabi,GER,"FW,MF",32,1990,0.9,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Kerem Demirbay,GER,MF,29,1993,17.2,4,31,6,19.4,1.81,0.35,0.13,0.67,24.3,8,0,0,2.2,2.2,0.07,1.8,1.8,shooting
+GER-Bundesliga,2022,Leverkusen,Lukáš Hrádecký,FIN,GK,32,1989,33.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Mitchel Bakker,NED,"DF,MF",22,2000,18.4,3,17,8,47.1,0.92,0.43,0.18,0.38,18.9,0,0,0,1.7,1.7,0.1,1.3,1.3,shooting
+GER-Bundesliga,2022,Leverkusen,Moussa Diaby,FRA,"FW,MF",23,1999,30.0,9,79,34,43.0,2.63,1.13,0.11,0.26,17.8,0,0,1,11.0,10.3,0.13,-2.0,-1.3,shooting
+GER-Bundesliga,2022,Leverkusen,Nadiem Amiri,GER,"MF,FW",25,1996,10.9,4,23,8,34.8,2.12,0.74,0.13,0.38,24.3,3,1,1,1.9,1.1,0.05,2.1,1.9,shooting
+GER-Bundesliga,2022,Leverkusen,Noah Mbamba,BEL,MF,17,2005,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Leverkusen,Odilon Kossounou,CIV,DF,21,2001,16.9,0,3,0,0.0,0.18,0.0,0.0,,23.8,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Leverkusen,Patrik Schick,CZE,FW,26,1996,10.5,3,34,14,41.2,3.25,1.34,0.09,0.21,12.8,1,0,0,4.6,4.6,0.14,-1.6,-1.6,shooting
+GER-Bundesliga,2022,Leverkusen,Paulinho,BRA,FW,22,2000,0.9,1,2,1,50.0,2.2,1.1,0.5,1.0,16.1,0,0,0,0.5,0.5,0.26,0.5,0.5,shooting
+GER-Bundesliga,2022,Leverkusen,Piero Hincapié,ECU,"DF,MF",20,2002,27.3,1,17,6,35.3,0.62,0.22,0.06,0.17,16.6,0,0,0,1.3,1.3,0.08,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Leverkusen,Robert Andrich,GER,MF,27,1994,26.7,2,30,9,30.0,1.12,0.34,0.07,0.22,21.6,1,0,0,1.6,1.6,0.05,0.4,0.4,shooting
+GER-Bundesliga,2022,Leverkusen,Sardar Azmoun,IRN,"FW,MF",27,1995,10.3,4,28,10,35.7,2.72,0.97,0.14,0.4,12.1,0,0,0,3.5,3.5,0.13,0.5,0.5,shooting
+GER-Bundesliga,2022,Leverkusen,Timothy Fosu-Mensah,NED,DF,24,1998,2.1,0,3,2,66.7,1.41,0.94,0.0,0.0,24.5,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Mainz 05,Aarón Martín,ESP,DF,25,1997,20.5,5,18,7,38.9,0.88,0.34,0.28,0.71,25.9,8,0,1,2.2,1.4,0.08,2.8,3.6,shooting
+GER-Bundesliga,2022,Mainz 05,Alexander Hack,GER,DF,28,1993,12.6,0,3,0,0.0,0.24,0.0,0.0,,12.7,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Mainz 05,Andreas Hanche-Olsen,NOR,DF,25,1997,16.6,1,7,2,28.6,0.42,0.12,0.14,0.5,13.5,0,0,0,0.4,0.4,0.06,0.6,0.6,shooting
+GER-Bundesliga,2022,Mainz 05,Angelo Fulgini,FRA,MF,25,1996,5.8,0,8,4,50.0,1.37,0.69,0.0,0.0,18.6,0,0,0,0.6,0.6,0.07,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Mainz 05,Anthony Caci,FRA,DF,25,1997,22.6,2,10,4,40.0,0.44,0.18,0.2,0.5,16.1,0,0,0,0.6,0.6,0.06,1.4,1.4,shooting
+GER-Bundesliga,2022,Mainz 05,Anton Stach,GER,MF,23,1998,23.0,1,36,10,27.8,1.57,0.43,0.03,0.1,22.6,4,0,0,2.2,2.2,0.06,-1.2,-1.2,shooting
+GER-Bundesliga,2022,Mainz 05,Aymen Barkok,MAR,MF,24,1998,6.5,0,11,2,18.2,1.7,0.31,0.0,0.0,23.3,0,0,0,0.5,0.5,0.04,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Mainz 05,Brajan Gruda,GER,MF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Mainz 05,Danny da Costa,GER,DF,29,1993,13.7,0,7,1,14.3,0.51,0.07,0.0,0.0,14.1,0,0,0,0.5,0.5,0.08,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Mainz 05,Delano Burgzorg,SUR,"FW,MF",23,1998,2.7,0,4,2,50.0,1.48,0.74,0.0,0.0,25.1,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Mainz 05,Dominik Kohr,GER,MF,28,1994,25.5,3,39,8,20.5,1.53,0.31,0.08,0.38,20.5,0,0,0,2.3,2.3,0.06,0.7,0.7,shooting
+GER-Bundesliga,2022,Mainz 05,Edimilson Fernandes,SUI,DF,26,1996,27.1,0,15,3,20.0,0.55,0.11,0.0,0.0,25.0,4,0,0,0.7,0.7,0.04,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Mainz 05,Eniss Shabani,ALB,MF,19,2003,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Mainz 05,Finn Dahmen,GER,GK,24,1998,8.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Mainz 05,Jonathan Burkardt,GER,"MF,FW",22,2000,5.9,1,20,6,30.0,3.38,1.01,0.05,0.17,12.6,0,0,1,3.0,2.2,0.11,-2.0,-1.2,shooting
+GER-Bundesliga,2022,Mainz 05,Karim Onisiwo,AUT,"FW,MF",30,1992,28.2,10,68,32,47.1,2.41,1.13,0.15,0.31,15.6,0,0,0,8.2,8.2,0.12,1.8,1.8,shooting
+GER-Bundesliga,2022,Mainz 05,Leandro Barreiro Martins,LUX,MF,22,2000,23.8,4,32,14,43.8,1.35,0.59,0.13,0.29,16.0,0,0,0,3.9,3.9,0.12,0.1,0.1,shooting
+GER-Bundesliga,2022,Mainz 05,Lee Jae-sung,KOR,MF,29,1992,21.0,7,35,17,48.6,1.66,0.81,0.2,0.41,14.7,0,0,0,4.3,4.3,0.12,2.7,2.7,shooting
+GER-Bundesliga,2022,Mainz 05,Ludovic Ajorque,FRA,"FW,MF",28,1994,13.5,6,32,14,43.8,2.38,1.04,0.19,0.43,14.8,0,0,0,4.6,4.6,0.14,1.4,1.4,shooting
+GER-Bundesliga,2022,Mainz 05,Marcus Ingvartsen,DEN,"FW,MF",26,1996,14.6,10,32,13,40.6,2.19,0.89,0.19,0.46,15.5,1,4,4,8.4,5.2,0.16,1.6,0.8,shooting
+GER-Bundesliga,2022,Mainz 05,Marlon Mustapha,AUT,"FW,MF",21,2001,0.8,0,3,0,0.0,3.91,0.0,0.0,,16.3,0,0,0,0.5,0.5,0.18,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Mainz 05,Maxim Leitsch,GER,DF,24,1998,7.4,0,2,1,50.0,0.27,0.14,0.0,0.0,19.1,0,0,0,0.2,0.2,0.09,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Mainz 05,Nelson Weiper,GER,"FW,DF",17,2005,1.1,2,5,4,80.0,4.55,3.64,0.4,0.5,7.3,0,0,0,1.7,1.7,0.33,0.3,0.3,shooting
+GER-Bundesliga,2022,Mainz 05,Niklas Tauer,GER,"DF,MF",21,2001,1.0,0,1,0,0.0,0.97,0.0,0.0,,9.7,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Mainz 05,Robin Zentner,GER,GK,27,1994,26.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Mainz 05,Silvan Widmer,SUI,DF,29,1993,18.8,2,19,6,31.6,1.01,0.32,0.11,0.33,10.8,0,0,0,2.5,2.5,0.13,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Mainz 05,Stefan Bell,GER,DF,30,1991,26.6,0,7,2,28.6,0.26,0.08,0.0,0.0,10.4,0,0,0,0.7,0.7,0.09,-0.7,-0.7,shooting
+GER-Bundesliga,2022,RB Leipzig,Abdou Diallo,SEN,"DF,MF",26,1996,5.3,1,4,1,25.0,0.75,0.19,0.25,1.0,8.0,0,0,0,0.4,0.4,0.1,0.6,0.6,shooting
+GER-Bundesliga,2022,RB Leipzig,Alexander Sørloth,NOR,FW,26,1995,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,RB Leipzig,Amadou Haidara,MLI,MF,24,1998,15.9,2,19,6,31.6,1.2,0.38,0.11,0.33,23.7,0,0,0,2.8,2.8,0.15,-0.8,-0.8,shooting
+GER-Bundesliga,2022,RB Leipzig,André Silva,POR,FW,26,1995,19.3,4,60,22,36.7,3.11,1.14,0.07,0.18,13.5,0,0,0,9.2,9.2,0.15,-5.2,-5.2,shooting
+GER-Bundesliga,2022,RB Leipzig,Benjamin Henrichs,GER,"DF,MF",25,1997,24.3,2,31,4,12.9,1.28,0.16,0.06,0.5,21.3,0,0,0,1.2,1.2,0.04,0.8,0.8,shooting
+GER-Bundesliga,2022,RB Leipzig,Christopher Nkunku,FRA,"FW,MF",24,1997,21.1,16,70,25,35.7,3.32,1.19,0.19,0.52,15.9,7,3,4,14.4,11.3,0.16,1.6,1.7,shooting
+GER-Bundesliga,2022,RB Leipzig,Dani Olmo,ESP,"MF,FW",24,1998,14.2,2,43,16,37.2,3.02,1.12,0.05,0.13,21.6,0,0,0,2.9,2.9,0.07,-0.9,-0.9,shooting
+GER-Bundesliga,2022,RB Leipzig,David Raum,GER,"DF,MF",24,1998,18.7,0,14,5,35.7,0.75,0.27,0.0,0.0,23.1,0,0,0,0.6,0.6,0.04,-0.6,-0.6,shooting
+GER-Bundesliga,2022,RB Leipzig,Dominik Szoboszlai,HUN,"MF,FW",21,2000,27.2,6,58,28,48.3,2.14,1.03,0.09,0.18,23.2,9,1,1,5.5,4.7,0.08,0.5,0.3,shooting
+GER-Bundesliga,2022,RB Leipzig,Emil Forsberg,SWE,"MF,FW",30,1991,16.5,6,21,9,42.9,1.28,0.55,0.19,0.44,18.1,1,2,2,4.9,3.3,0.16,1.1,0.7,shooting
+GER-Bundesliga,2022,RB Leipzig,Hugo Novoa,ESP,"DF,FW",19,2003,2.0,1,3,2,66.7,1.47,0.98,0.33,0.5,13.2,0,0,0,0.9,0.9,0.29,0.1,0.1,shooting
+GER-Bundesliga,2022,RB Leipzig,Janis Blaswich,GER,GK,31,1991,26.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,RB Leipzig,Joško Gvardiol,CRO,DF,20,2002,24.1,1,14,4,28.6,0.58,0.17,0.07,0.25,14.2,0,0,0,1.8,1.8,0.13,-0.8,-0.8,shooting
+GER-Bundesliga,2022,RB Leipzig,Kevin Kampl,SVN,MF,31,1990,15.2,2,7,2,28.6,0.46,0.13,0.29,1.0,19.4,0,0,0,1.1,1.1,0.16,0.9,0.9,shooting
+GER-Bundesliga,2022,RB Leipzig,Konrad Laimer,AUT,MF,25,1997,16.3,3,20,10,50.0,1.23,0.61,0.15,0.3,19.9,0,0,0,2.4,2.4,0.12,0.6,0.6,shooting
+GER-Bundesliga,2022,RB Leipzig,Lukas Klostermann,GER,DF,26,1996,10.1,0,6,1,16.7,0.6,0.1,0.0,0.0,17.9,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+GER-Bundesliga,2022,RB Leipzig,Marcel Halstenberg,GER,DF,30,1991,17.3,1,9,3,33.3,0.52,0.17,0.11,0.33,12.8,0,0,0,1.1,1.1,0.12,-0.1,-0.1,shooting
+GER-Bundesliga,2022,RB Leipzig,Mohamed Simakan,FRA,DF,22,2000,16.2,1,12,3,25.0,0.74,0.19,0.08,0.33,12.3,0,0,0,1.7,1.7,0.14,-0.7,-0.7,shooting
+GER-Bundesliga,2022,RB Leipzig,Péter Gulácsi,HUN,GK,32,1990,6.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,RB Leipzig,Sanoussy Ba,GER,DF,18,2004,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,RB Leipzig,Timo Werner,GER,"FW,MF",26,1996,21.5,9,61,24,39.3,2.83,1.12,0.15,0.38,15.0,0,0,0,9.1,9.1,0.15,-0.1,-0.1,shooting
+GER-Bundesliga,2022,RB Leipzig,Willi Orban,HUN,DF,29,1992,32.8,4,27,10,37.0,0.82,0.3,0.15,0.4,11.5,1,0,0,3.0,3.0,0.11,1.0,1.0,shooting
+GER-Bundesliga,2022,RB Leipzig,Xaver Schlager,AUT,MF,24,1997,16.7,1,5,1,20.0,0.3,0.06,0.2,1.0,23.6,0,0,0,0.3,0.3,0.06,0.7,0.7,shooting
+GER-Bundesliga,2022,RB Leipzig,Yussuf Poulsen,DEN,FW,28,1994,4.6,2,13,6,46.2,2.85,1.31,0.15,0.33,13.4,0,0,0,1.3,1.3,0.1,0.7,0.7,shooting
+GER-Bundesliga,2022,RB Leipzig,Ørjan Nyland,NOR,GK,31,1990,2.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Alex Král,CZE,MF,24,1998,26.2,0,32,2,6.3,1.22,0.08,0.0,0.0,20.1,0,0,0,1.5,1.5,0.05,-1.5,-1.5,shooting
+GER-Bundesliga,2022,Schalke 04,Alexander Schwolow,GER,GK,30,1992,22.6,0,1,0,0.0,0.04,0.0,0.0,,5.5,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Schalke 04,Andreas Ivan,ROU,MF,27,1995,0.5,0,1,0,0.0,1.96,0.0,0.0,,26.5,1,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Cédric Brunner,SUI,DF,28,1994,25.7,0,10,0,0.0,0.39,0.0,0.0,,24.4,0,0,0,0.3,0.3,0.03,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Schalke 04,Danny Latza,GER,MF,32,1989,9.5,0,16,2,12.5,1.69,0.21,0.0,0.0,19.0,1,0,0,0.9,0.9,0.06,-0.9,-0.9,shooting
+GER-Bundesliga,2022,Schalke 04,Dominick Drexler,GER,"MF,FW",32,1990,15.2,4,16,6,37.5,1.05,0.4,0.25,0.67,14.6,0,0,0,2.4,2.4,0.15,1.6,1.6,shooting
+GER-Bundesliga,2022,Schalke 04,Florent Mollet,FRA,MF,30,1991,4.6,1,11,1,9.1,2.41,0.22,0.09,1.0,22.1,2,0,0,0.4,0.4,0.03,0.6,0.6,shooting
+GER-Bundesliga,2022,Schalke 04,Florian Flick,GER,MF,22,2000,5.7,0,2,1,50.0,0.35,0.18,0.0,0.0,24.9,0,0,0,0.1,0.1,0.04,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Schalke 04,Henning Matriciani,GER,DF,22,2000,20.7,0,3,0,0.0,0.14,0.0,0.0,,19.4,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Schalke 04,Jere Uronen,FIN,DF,28,1994,7.5,0,4,0,0.0,0.53,0.0,0.0,,33.0,0,0,0,0.1,0.1,0.02,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Schalke 04,Jordan Larsson,SWE,"FW,MF",25,1997,5.1,0,10,0,0.0,1.94,0.0,0.0,,16.7,0,0,0,1.2,1.2,0.12,-1.2,-1.2,shooting
+GER-Bundesliga,2022,Schalke 04,Keke Maximilian Topp,GER,FW,18,2004,0.2,0,1,0,0.0,4.5,0.0,0.0,,11.5,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Kenan Karaman,TUR,FW,28,1994,10.8,1,22,8,36.4,2.03,0.74,0.05,0.13,13.8,0,0,0,2.5,2.5,0.11,-1.5,-1.5,shooting
+GER-Bundesliga,2022,Schalke 04,Kerim Calhanoglu,GER,DF,19,2002,0.7,0,1,0,0.0,1.43,0.0,0.0,,16.7,0,0,0,0.0,0.0,0.03,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Leo Greiml,AUT,DF,21,2001,4.0,0,1,1,100.0,0.25,0.25,0.0,0.0,10.8,0,0,0,0.1,0.1,0.11,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Schalke 04,Malick Thiaw,GER,DF,20,2001,3.0,0,2,1,50.0,0.67,0.33,0.0,0.0,8.8,0,0,0,0.2,0.2,0.12,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Schalke 04,Marcin Kamiński,POL,DF,30,1992,7.0,2,4,2,50.0,0.57,0.28,0.5,1.0,16.4,2,0,0,0.4,0.4,0.1,1.6,1.6,shooting
+GER-Bundesliga,2022,Schalke 04,Marius Bülter,GER,"FW,MF",29,1993,28.9,11,64,23,35.9,2.22,0.8,0.11,0.3,18.4,1,4,4,9.0,6.1,0.1,2.0,0.9,shooting
+GER-Bundesliga,2022,Schalke 04,Maya Yoshida,JPN,DF,33,1988,28.4,0,12,2,16.7,0.42,0.07,0.0,0.0,13.9,0,0,0,1.0,1.0,0.08,-1.0,-1.0,shooting
+GER-Bundesliga,2022,Schalke 04,Mehmet Aydin,GER,"DF,FW",20,2002,6.3,0,5,0,0.0,0.79,0.0,0.0,,23.3,0,0,0,0.2,0.2,0.04,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Schalke 04,Michael Frey,SUI,FW,28,1994,9.6,0,27,9,33.3,2.8,0.93,0.0,0.0,15.8,0,0,0,1.7,1.7,0.06,-1.7,-1.7,shooting
+GER-Bundesliga,2022,Schalke 04,Moritz Jenz,GER,DF,23,1999,10.5,0,10,3,30.0,0.95,0.29,0.0,0.0,9.7,0,0,0,1.0,1.0,0.1,-1.0,-1.0,shooting
+GER-Bundesliga,2022,Schalke 04,Ralf Fährmann,GER,GK,33,1988,11.4,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Rodrigo Zalazar,URU,"MF,FW",22,1999,14.7,1,38,13,34.2,2.59,0.89,0.03,0.08,21.6,10,0,0,3.1,3.1,0.08,-2.1,-2.1,shooting
+GER-Bundesliga,2022,Schalke 04,Sebastian Polter,GER,FW,31,1991,7.0,2,12,7,58.3,1.71,1.0,0.17,0.29,9.8,0,0,0,2.0,2.0,0.17,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Sepp van den Berg,NED,DF,20,2001,7.7,1,5,1,20.0,0.65,0.13,0.2,1.0,13.0,0,0,0,0.6,0.6,0.12,0.4,0.4,shooting
+GER-Bundesliga,2022,Schalke 04,Sidi Sané,GER,FW,19,2003,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Simon Terodde,GER,FW,34,1988,20.3,5,43,19,44.2,2.12,0.94,0.12,0.26,12.4,0,0,1,6.3,5.5,0.13,-1.3,-0.5,shooting
+GER-Bundesliga,2022,Schalke 04,Soichiro Kozuki,JPN,"FW,MF",21,2000,4.2,1,14,6,42.9,3.32,1.42,0.07,0.17,18.9,0,0,0,1.1,1.1,0.08,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Schalke 04,Thomas Ouwejan,NED,DF,25,1996,10.0,0,5,1,20.0,0.5,0.1,0.0,0.0,25.8,0,0,0,0.1,0.1,0.03,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Schalke 04,Tim Skarke,GER,"FW,MF",25,1996,4.9,1,11,4,36.4,2.25,0.82,0.09,0.25,23.7,1,0,0,0.5,0.5,0.05,0.5,0.5,shooting
+GER-Bundesliga,2022,Schalke 04,Timothée Kolodziejczak,FRA,DF,30,1991,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Schalke 04,Tobias Mohr,GER,"DF,MF",26,1995,9.3,0,12,1,8.3,1.29,0.11,0.0,0.0,19.3,1,0,0,0.6,0.6,0.05,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Schalke 04,Tom Krauß,GER,MF,21,2001,27.9,2,25,9,36.0,0.89,0.32,0.08,0.22,19.3,0,0,0,2.2,2.2,0.09,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Schalke 04,Éder Álvarez Balanta,COL,"MF,FW",29,1993,2.6,0,1,1,100.0,0.38,0.38,0.0,0.0,17.5,0,0,0,0.1,0.1,0.13,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Stuttgart,Alou Kuol,AUS,FW,21,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Atakan Karazor,,MF,25,1996,21.8,0,6,0,0.0,0.28,0.0,0.0,,20.9,0,0,0,0.3,0.3,0.05,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Stuttgart,Borna Sosa,CRO,DF,24,1998,21.7,2,15,6,40.0,0.69,0.28,0.13,0.33,20.7,6,0,0,1.0,1.0,0.07,1.0,1.0,shooting
+GER-Bundesliga,2022,Stuttgart,Chris Führich,GER,"FW,MF",24,1998,20.9,5,43,13,30.2,2.05,0.62,0.09,0.31,18.5,0,1,1,3.6,2.9,0.07,1.4,1.1,shooting
+GER-Bundesliga,2022,Stuttgart,Clinton Mola,ENG,DF,21,2001,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Dan-Axel Zagadou,FRA,DF,23,1999,14.1,0,13,3,23.1,0.92,0.21,0.0,0.0,11.1,0,0,0,1.7,1.7,0.13,-1.7,-1.7,shooting
+GER-Bundesliga,2022,Stuttgart,Darko Churlinov,MKD,FW,22,2000,0.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Enzo Millot,FRA,MF,20,2002,9.9,0,17,7,41.2,1.72,0.71,0.0,0.0,18.0,1,0,0,1.2,1.2,0.07,-1.2,-1.2,shooting
+GER-Bundesliga,2022,Stuttgart,Fabian Bredlow,GER,GK,27,1995,15.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Florian Müller,GER,GK,24,1997,19.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Genki Haraguchi,JPN,MF,31,1991,8.3,0,5,1,20.0,0.6,0.12,0.0,0.0,24.8,1,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Stuttgart,Gil Bastião Dias,POR,FW,25,1996,4.4,1,10,4,40.0,2.26,0.9,0.1,0.25,20.2,0,0,0,0.5,0.5,0.05,0.5,0.5,shooting
+GER-Bundesliga,2022,Stuttgart,Hiroki Ito,JPN,DF,23,1999,28.5,1,21,7,33.3,0.74,0.25,0.05,0.14,32.9,2,0,0,0.8,0.8,0.04,0.2,0.2,shooting
+GER-Bundesliga,2022,Stuttgart,Josha Vagnoman,GER,DF,21,2000,16.4,2,25,5,20.0,1.52,0.3,0.08,0.4,13.9,0,0,0,2.9,2.9,0.12,-0.9,-0.9,shooting
+GER-Bundesliga,2022,Stuttgart,Juan Perea,COL,FW,22,2000,4.6,1,2,1,50.0,0.43,0.22,0.5,1.0,10.6,0,0,0,0.2,0.2,0.09,0.8,0.8,shooting
+GER-Bundesliga,2022,Stuttgart,Konstantinos Mavropanos,GRE,DF,24,1997,25.4,2,48,12,25.0,1.89,0.47,0.04,0.17,15.5,0,0,0,4.0,4.0,0.08,-2.0,-2.0,shooting
+GER-Bundesliga,2022,Stuttgart,Lauren Ulrich,GER,MF,17,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Lilian Egloff,GER,"MF,FW",19,2002,2.7,0,8,0,0.0,2.99,0.0,0.0,,20.6,0,0,0,0.4,0.4,0.04,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Stuttgart,Luca Pfeiffer,GER,FW,25,1996,7.8,0,12,1,8.3,1.54,0.13,0.0,0.0,13.8,0,0,0,1.6,1.6,0.13,-1.6,-1.6,shooting
+GER-Bundesliga,2022,Stuttgart,Naouirou Ahamada,FRA,MF,20,2002,15.5,2,16,5,31.3,1.03,0.32,0.13,0.4,22.1,0,0,0,0.8,0.8,0.05,1.2,1.2,shooting
+GER-Bundesliga,2022,Stuttgart,Nikolas Nartey,DEN,"DF,MF",22,2000,5.3,0,4,0,0.0,0.76,0.0,0.0,,23.9,0,0,0,0.3,0.3,0.07,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Stuttgart,Pascal Stenzel,GER,DF,26,1996,3.7,0,2,0,0.0,0.54,0.0,0.0,,17.5,0,0,0,0.0,0.0,0.02,0.0,0.0,shooting
+GER-Bundesliga,2022,Stuttgart,Sasa Kalajdzic,AUT,FW,25,1997,2.6,0,5,1,20.0,1.93,0.39,0.0,0.0,10.8,0,0,0,0.5,0.5,0.1,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Stuttgart,Serhou Guirassy,GUI,FW,26,1996,18.3,11,47,18,38.3,2.57,0.98,0.19,0.5,15.7,4,2,2,10.8,9.2,0.2,0.2,-0.2,shooting
+GER-Bundesliga,2022,Stuttgart,Silas Katompa,COD,"FW,MF",23,1998,22.1,5,42,16,38.1,1.9,0.72,0.1,0.25,16.1,0,1,1,6.5,5.7,0.14,-1.5,-1.7,shooting
+GER-Bundesliga,2022,Stuttgart,Tanguy Coulibaly,FRA,"FW,DF",21,2001,3.6,4,11,6,54.5,3.04,1.66,0.27,0.5,19.4,0,1,1,2.3,1.5,0.14,1.7,1.5,shooting
+GER-Bundesliga,2022,Stuttgart,Thomas Kastanaras,GRE,"FW,DF",19,2003,0.8,0,2,1,50.0,2.5,1.25,0.0,0.0,13.7,0,0,0,0.3,0.3,0.13,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Stuttgart,Tiago Tomás,POR,"FW,MF",20,2002,14.3,3,34,13,38.2,2.37,0.91,0.09,0.23,19.1,0,0,0,2.9,2.9,0.09,0.1,0.1,shooting
+GER-Bundesliga,2022,Stuttgart,Waldemar Anton,GER,DF,26,1996,32.6,1,24,5,20.8,0.74,0.15,0.04,0.2,18.3,0,0,0,1.6,1.6,0.07,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Stuttgart,Wataru Endo,JPN,MF,29,1993,32.5,5,45,15,33.3,1.39,0.46,0.11,0.33,16.7,0,0,0,3.8,3.8,0.09,1.2,1.2,shooting
+GER-Bundesliga,2022,Union Berlin,András Schäfer,HUN,MF,23,1999,9.6,0,7,1,14.3,0.73,0.1,0.0,0.0,23.5,0,0,0,0.4,0.4,0.06,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Union Berlin,Aïssa Laïdouni,TUN,MF,25,1996,9.7,2,6,2,33.3,0.62,0.21,0.33,1.0,16.4,0,0,0,0.8,0.8,0.14,1.2,1.2,shooting
+GER-Bundesliga,2022,Union Berlin,Christopher Trimmel,AUT,DF,35,1987,20.1,0,14,3,21.4,0.7,0.15,0.0,0.0,17.8,1,0,0,0.7,0.7,0.05,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Union Berlin,Danilho Doekhi,NED,DF,24,1998,24.6,5,17,9,52.9,0.69,0.37,0.29,0.56,11.6,0,0,0,1.9,1.9,0.11,3.1,3.1,shooting
+GER-Bundesliga,2022,Union Berlin,Diogo Leite,POR,DF,23,1999,25.0,0,12,0,0.0,0.48,0.0,0.0,,14.8,0,0,0,0.8,0.8,0.07,-0.8,-0.8,shooting
+GER-Bundesliga,2022,Union Berlin,Frederik Rønnow,DEN,GK,29,1992,29.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Union Berlin,Genki Haraguchi,JPN,MF,31,1991,5.5,0,6,1,16.7,1.08,0.18,0.0,0.0,21.4,0,0,0,0.3,0.3,0.04,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Union Berlin,Jamie Leweling,GER,"FW,MF",21,2001,2.9,1,9,5,55.6,3.06,1.7,0.11,0.2,16.7,0,0,0,0.7,0.7,0.07,0.3,0.3,shooting
+GER-Bundesliga,2022,Union Berlin,Janik Haberer,GER,MF,28,1994,24.3,5,32,14,43.8,1.32,0.58,0.16,0.36,19.0,0,0,0,3.3,3.3,0.1,1.7,1.7,shooting
+GER-Bundesliga,2022,Union Berlin,Jordan Pefok,USA,FW,26,1996,15.1,4,32,6,18.8,2.12,0.4,0.13,0.67,12.2,0,0,2,4.5,2.9,0.09,-0.5,1.1,shooting
+GER-Bundesliga,2022,Union Berlin,Josip Juranović,CRO,DF,26,1995,10.4,2,6,1,16.7,0.58,0.1,0.17,1.0,29.6,2,1,1,1.6,0.8,0.14,0.4,0.2,shooting
+GER-Bundesliga,2022,Union Berlin,Julian Ryerson,NOR,DF,24,1997,11.5,0,16,5,31.3,1.39,0.43,0.0,0.0,24.0,0,0,0,0.7,0.7,0.04,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Union Berlin,Jérôme Roussillon,FRA,DF,29,1993,10.6,0,9,2,22.2,0.85,0.19,0.0,0.0,22.1,0,0,0,0.5,0.5,0.06,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Union Berlin,Kevin Behrens,GER,FW,31,1991,17.1,8,35,14,40.0,2.05,0.82,0.23,0.57,11.7,0,0,0,4.8,4.8,0.14,3.2,3.2,shooting
+GER-Bundesliga,2022,Union Berlin,Lennart Grill,GER,GK,23,1999,5.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Union Berlin,Levin Öztunalı,GER,MF,26,1996,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Union Berlin,Miloš Pantović,SRB,MF,26,1996,2.3,1,5,2,40.0,2.18,0.87,0.2,0.5,18.4,0,0,1,1.4,0.6,0.11,-0.4,0.4,shooting
+GER-Bundesliga,2022,Union Berlin,Morten Thorsby,NOR,MF,26,1996,9.3,1,9,3,33.3,0.97,0.32,0.11,0.33,13.7,0,0,0,0.8,0.8,0.09,0.2,0.2,shooting
+GER-Bundesliga,2022,Union Berlin,Niko Gießelmann,GER,DF,30,1991,14.5,0,20,3,15.0,1.38,0.21,0.0,0.0,20.2,2,0,0,1.1,1.1,0.06,-1.1,-1.1,shooting
+GER-Bundesliga,2022,Union Berlin,Paul Jaeckel,GER,DF,24,1998,13.3,1,2,2,100.0,0.15,0.15,0.5,0.5,11.3,0,0,0,0.1,0.1,0.07,0.9,0.9,shooting
+GER-Bundesliga,2022,Union Berlin,Paul Seguin,GER,MF,27,1995,7.7,1,15,4,26.7,1.95,0.52,0.07,0.25,23.1,0,0,0,1.2,1.2,0.08,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Union Berlin,Rani Khedira,GER,MF,28,1994,32.0,2,24,3,12.5,0.75,0.09,0.08,0.67,22.1,0,0,0,1.7,1.7,0.07,0.3,0.3,shooting
+GER-Bundesliga,2022,Union Berlin,Robin Knoche,GER,DF,30,1992,31.9,2,8,1,12.5,0.25,0.03,0.13,1.0,16.0,0,1,2,2.4,0.8,0.1,-0.4,0.2,shooting
+GER-Bundesliga,2022,Union Berlin,Sheraldo Becker,SUR,FW,27,1995,28.4,11,67,26,38.8,2.36,0.92,0.16,0.42,18.3,0,0,0,6.5,6.5,0.1,4.5,4.5,shooting
+GER-Bundesliga,2022,Union Berlin,Sven Michel,GER,"FW,MF",32,1990,5.5,3,15,2,13.3,2.73,0.36,0.13,1.0,24.2,0,1,1,1.7,0.9,0.06,1.3,1.1,shooting
+GER-Bundesliga,2022,Union Berlin,Tim Skarke,GER,"DF,MF",25,1996,0.6,0,4,2,50.0,6.79,3.4,0.0,0.0,22.6,0,0,0,0.2,0.2,0.06,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Union Berlin,Timo Baumgartl,GER,DF,26,1996,6.2,0,4,2,50.0,0.64,0.32,0.0,0.0,11.5,0,0,0,0.2,0.2,0.05,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Union Berlin,Tymoteusz Puchacz,POL,DF,23,1999,0.6,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Amos Pieper,GER,DF,24,1998,21.7,2,11,4,36.4,0.51,0.18,0.18,0.5,13.0,0,0,0,0.7,0.7,0.07,1.3,1.3,shooting
+GER-Bundesliga,2022,Werder Bremen,Anthony Jung,GER,"DF,FW",30,1991,29.1,2,17,6,35.3,0.58,0.21,0.12,0.33,17.0,0,0,0,1.3,1.3,0.08,0.7,0.7,shooting
+GER-Bundesliga,2022,Werder Bremen,Christian Groß,GER,MF,33,1989,21.0,1,5,1,20.0,0.24,0.05,0.2,1.0,26.0,0,0,0,0.2,0.2,0.03,0.8,0.8,shooting
+GER-Bundesliga,2022,Werder Bremen,Dikeni-Rafid Salifou,TOG,MF,19,2003,0.0,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Eren Dinkçi,GER,"FW,MF",20,2001,2.6,0,6,0,0.0,2.34,0.0,0.0,,15.4,0,0,0,0.4,0.4,0.07,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Werder Bremen,Fabio Chiarodia,ITA,DF,17,2005,0.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Felix Agu,GER,"DF,FW",22,1999,0.5,0,1,0,0.0,1.84,0.0,0.0,,15.9,0,0,0,0.0,0.0,0.04,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Ilia Gruev,BUL,MF,22,2000,17.6,0,6,1,16.7,0.34,0.06,0.0,0.0,22.5,0,0,0,0.3,0.3,0.06,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Werder Bremen,Jean-Manuel Mbom,GER,MF,22,2000,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Jens Stage,DEN,MF,25,1996,20.6,3,19,7,36.8,0.92,0.34,0.16,0.43,12.5,0,0,0,3.1,3.1,0.16,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Werder Bremen,Jiří Pavlenka,CZE,GK,30,1992,32.3,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Lee Buchanan,ENG,"DF,FW",21,2001,5.2,1,5,1,20.0,0.95,0.19,0.2,1.0,22.1,0,0,0,0.3,0.3,0.06,0.7,0.7,shooting
+GER-Bundesliga,2022,Werder Bremen,Leonardo Bittencourt,GER,"MF,DF",28,1993,18.1,3,25,9,36.0,1.38,0.5,0.12,0.33,22.3,2,0,0,1.4,1.4,0.05,1.6,1.6,shooting
+GER-Bundesliga,2022,Werder Bremen,Marco Friedl,AUT,DF,24,1998,28.8,0,6,1,16.7,0.21,0.03,0.0,0.0,20.8,0,0,0,0.5,0.5,0.09,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Werder Bremen,Marvin Ducksch,GER,FW,28,1994,31.7,12,94,43,45.7,2.97,1.36,0.13,0.28,19.1,14,0,1,11.3,10.5,0.11,0.7,1.5,shooting
+GER-Bundesliga,2022,Werder Bremen,Maximilian Philipp,GER,"FW,MF",28,1994,4.9,1,11,3,27.3,2.24,0.61,0.09,0.33,16.0,0,0,0,2.0,2.0,0.18,-1.0,-1.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Michael Zetterer,GER,GK,27,1995,1.7,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Miloš Veljković,SRB,DF,26,1995,25.2,1,4,2,50.0,0.16,0.08,0.25,0.5,8.7,0,0,0,0.5,0.5,0.12,0.5,0.5,shooting
+GER-Bundesliga,2022,Werder Bremen,Mitchell Weiser,GER,"DF,FW",28,1994,28.0,2,28,8,28.6,1.0,0.29,0.07,0.25,17.9,0,0,0,2.6,2.6,0.09,-0.6,-0.6,shooting
+GER-Bundesliga,2022,Werder Bremen,Niclas Füllkrug,GER,FW,29,1993,27.5,16,74,32,43.2,2.69,1.16,0.15,0.34,16.0,0,5,5,12.8,8.6,0.12,3.2,2.4,shooting
+GER-Bundesliga,2022,Werder Bremen,Nicolai Rapp,GER,"MF,DF",25,1996,0.8,0,1,0,0.0,1.27,0.0,0.0,,12.3,0,0,0,0.1,0.1,0.08,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Werder Bremen,Niklas Schmidt,GER,MF,24,1998,12.1,3,21,9,42.9,1.74,0.75,0.14,0.33,21.3,2,0,0,1.6,1.6,0.08,1.4,1.4,shooting
+GER-Bundesliga,2022,Werder Bremen,Niklas Stark,GER,DF,27,1995,23.1,0,3,1,33.3,0.13,0.04,0.0,0.0,10.1,0,0,0,0.2,0.2,0.07,-0.2,-0.2,shooting
+GER-Bundesliga,2022,Werder Bremen,Oliver Burke,SCO,"FW,MF",25,1997,3.0,2,8,5,62.5,2.69,1.68,0.25,0.4,14.0,0,0,0,1.0,1.0,0.13,1.0,1.0,shooting
+GER-Bundesliga,2022,Werder Bremen,Romano Schmid,AUT,"MF,FW",22,2000,16.9,1,18,3,16.7,1.07,0.18,0.06,0.33,21.4,0,0,0,1.5,1.5,0.08,-0.5,-0.5,shooting
+GER-Bundesliga,2022,Wolfsburg,Aster Vranckx,BEL,MF,19,2002,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Bartol Franjić,CRO,MF,22,2000,2.5,0,2,2,100.0,0.79,0.79,0.0,0.0,11.6,0,0,0,0.3,0.3,0.13,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Wolfsburg,Dženan Pejčinović,GER,FW,17,2005,0.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Felix Nmecha,GER,MF,21,2000,20.4,3,37,9,24.3,1.81,0.44,0.08,0.33,17.1,0,0,0,2.7,2.7,0.07,0.3,0.3,shooting
+GER-Bundesliga,2022,Wolfsburg,Jakub Kamiński,POL,"FW,DF",20,2002,22.9,4,39,14,35.9,1.71,0.61,0.1,0.29,15.9,0,0,0,5.0,4.8,0.12,-1.0,-0.8,shooting
+GER-Bundesliga,2022,Wolfsburg,Jonas Wind,DEN,FW,23,1999,14.3,6,29,10,34.5,2.02,0.7,0.21,0.6,13.4,0,0,1,5.2,4.4,0.15,0.8,1.6,shooting
+GER-Bundesliga,2022,Wolfsburg,Josip Brekalo,CRO,"MF,FW",24,1998,3.0,0,2,1,50.0,0.66,0.33,0.0,0.0,20.2,0,0,0,0.1,0.1,0.05,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Wolfsburg,Josuha Guilavogui,FRA,"DF,MF",31,1990,13.1,1,6,1,16.7,0.46,0.08,0.17,1.0,11.9,0,0,0,0.5,0.5,0.09,0.5,0.5,shooting
+GER-Bundesliga,2022,Wolfsburg,Jérôme Roussillon,FRA,"MF,DF",29,1993,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Kevin Paredes,USA,"FW,MF",19,2003,5.9,1,4,2,50.0,0.68,0.34,0.25,0.5,21.4,0,0,0,0.2,0.2,0.04,0.8,0.8,shooting
+GER-Bundesliga,2022,Wolfsburg,Kilian Fischer,GER,"DF,FW",21,2000,5.6,0,3,1,33.3,0.54,0.18,0.0,0.0,19.8,0,0,0,0.3,0.3,0.12,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Wolfsburg,Koen Casteels,BEL,GK,30,1992,34.0,0,1,0,0.0,0.03,0.0,0.0,,10.5,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Wolfsburg,Luca Waldschmidt,GER,"FW,MF",26,1996,5.8,4,10,5,50.0,1.72,0.86,0.3,0.6,14.2,0,1,1,3.5,1.9,0.19,0.5,1.1,shooting
+GER-Bundesliga,2022,Wolfsburg,Lukas Nmecha,GER,FW,23,1998,10.0,4,22,7,31.8,2.2,0.7,0.18,0.57,14.1,0,0,0,3.0,3.0,0.14,1.0,1.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Lukáš Ambros,CZE,MF,18,2004,0.2,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Mattias Svanberg,SWE,"MF,FW",23,1999,20.4,4,30,10,33.3,1.47,0.49,0.13,0.4,16.9,4,0,0,4.4,4.4,0.15,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Wolfsburg,Max Kruse,GER,"MF,FW",34,1988,3.0,0,9,2,22.2,2.98,0.66,0.0,0.0,13.9,0,0,0,0.7,0.7,0.08,-0.7,-0.7,shooting
+GER-Bundesliga,2022,Wolfsburg,Maxence Lacroix,FRA,DF,22,2000,18.1,1,4,1,25.0,0.22,0.06,0.25,1.0,8.6,0,0,0,0.5,0.5,0.13,0.5,0.5,shooting
+GER-Bundesliga,2022,Wolfsburg,Maximilian Arnold,GER,MF,28,1994,30.7,5,29,12,41.4,0.94,0.39,0.07,0.17,31.4,6,3,5,5.0,1.0,0.04,0.0,1.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Maximilian Philipp,GER,FW,28,1994,1.3,0,1,1,100.0,0.78,0.78,0.0,0.0,18.2,0,0,0,0.1,0.1,0.07,-0.1,-0.1,shooting
+GER-Bundesliga,2022,Wolfsburg,Micky van de Ven,NED,DF,21,2001,33.0,1,16,1,6.3,0.48,0.03,0.06,1.0,17.5,0,0,0,1.3,1.3,0.08,-0.3,-0.3,shooting
+GER-Bundesliga,2022,Wolfsburg,Nicolas Cozza,FRA,DF,23,1999,1.1,0,0,0,,0.0,0.0,,,,0,0,0,0.0,0.0,,0.0,0.0,shooting
+GER-Bundesliga,2022,Wolfsburg,Omar Marmoush,EGY,FW,23,1999,16.4,5,48,16,33.3,2.93,0.98,0.1,0.31,15.0,1,0,0,6.1,6.1,0.13,-1.1,-1.1,shooting
+GER-Bundesliga,2022,Wolfsburg,Patrick Wimmer,AUT,"FW,MF",21,2001,18.3,4,31,14,45.2,1.69,0.76,0.13,0.29,13.9,0,0,0,4.4,4.4,0.14,-0.4,-0.4,shooting
+GER-Bundesliga,2022,Wolfsburg,Paulo Otávio,BRA,DF,27,1994,22.7,0,19,1,5.3,0.84,0.04,0.0,0.0,23.9,0,0,0,0.8,0.8,0.04,-0.8,-0.8,shooting
+GER-Bundesliga,2022,Wolfsburg,Ridle Baku,GER,"DF,FW",24,1998,28.7,5,28,12,42.9,0.98,0.42,0.18,0.42,19.1,0,0,0,2.9,2.9,0.1,2.1,2.1,shooting
+GER-Bundesliga,2022,Wolfsburg,Sebastiaan Bornauw,BEL,DF,23,1999,21.4,1,4,3,75.0,0.19,0.14,0.25,0.33,11.3,0,0,0,0.4,0.4,0.1,0.6,0.6,shooting
+GER-Bundesliga,2022,Wolfsburg,Yannick Gerhardt,GER,MF,28,1994,20.7,6,27,13,48.1,1.3,0.63,0.22,0.46,12.0,0,0,0,5.7,5.7,0.21,0.3,0.3,shooting

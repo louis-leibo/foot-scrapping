@@ -1,0 +1,509 @@
+league,season,team,player,nation,pos,age,born,90s,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,stat_type
+,,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,
+GER-Bundesliga,2023,Augsburg,Arne Engels,BEL,"MF,DF",19,2003,15.6,1,1,0,24,15,1,80,15,18,2,0,0,61,12,19,38.7,misc
+GER-Bundesliga,2023,Augsburg,Arne Maier,GER,MF,24,1999,11.1,0,0,0,4,4,0,85,6,9,0,1,0,58,6,4,60.0,misc
+GER-Bundesliga,2023,Augsburg,Dion Drena Beljo,CRO,"FW,MF",21,2002,6.5,2,0,0,9,7,6,3,1,0,0,0,0,12,18,15,54.5,misc
+GER-Bundesliga,2023,Augsburg,Elvis Rexhbeçaj,KVX,MF,25,1997,22.1,4,0,0,20,42,2,21,20,19,0,0,0,125,27,26,50.9,misc
+GER-Bundesliga,2023,Augsburg,Ermedin Demirović,BIH,"FW,MF",25,1998,31.9,7,0,0,60,35,16,10,11,14,1,0,0,107,51,89,36.4,misc
+GER-Bundesliga,2023,Augsburg,Finn Dahmen,GER,GK,25,1998,31.0,4,0,0,2,4,0,0,0,0,0,2,1,64,6,3,66.7,misc
+GER-Bundesliga,2023,Augsburg,Fredrik Jensen,FIN,"MF,FW",25,1997,14.9,1,0,0,14,2,5,91,12,11,0,1,0,60,24,21,53.3,misc
+GER-Bundesliga,2023,Augsburg,Iago,BRA,DF,26,1997,18.0,4,0,0,14,23,4,44,18,17,0,2,0,117,20,18,52.6,misc
+GER-Bundesliga,2023,Augsburg,Irvin Cardona,FRA,"MF,DF",25,1997,0.6,1,0,0,1,0,0,6,0,1,0,0,0,1,1,2,33.3,misc
+GER-Bundesliga,2023,Augsburg,Jeffrey Gouweleeuw,NED,DF,32,1991,28.8,7,0,0,25,9,4,18,35,23,0,0,0,156,52,39,57.1,misc
+GER-Bundesliga,2023,Augsburg,Kevin Mbabu,SUI,DF,28,1995,22.7,5,0,0,45,26,2,101,24,39,0,0,0,119,26,15,63.4,misc
+GER-Bundesliga,2023,Augsburg,Kristijan Jakić,CRO,MF,26,1997,11.7,4,0,0,18,17,0,6,20,14,0,0,0,79,13,12,52.0,misc
+GER-Bundesliga,2023,Augsburg,Mads Pedersen,DEN,DF,26,1996,19.8,5,1,0,34,26,2,53,19,39,0,0,0,100,10,23,30.3,misc
+GER-Bundesliga,2023,Augsburg,Mahmut Kücüksahin,,MF,19,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Augsburg,Masaya Okugawa,JPN,"FW,DF",27,1996,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+GER-Bundesliga,2023,Augsburg,Maximilian Bauer,GER,DF,23,2000,9.0,3,0,0,13,11,0,1,11,12,0,0,0,27,17,17,50.0,misc
+GER-Bundesliga,2023,Augsburg,Mergim Berisha,GER,FW,25,1998,1.4,0,0,0,0,3,1,1,0,0,0,0,0,1,2,1,66.7,misc
+GER-Bundesliga,2023,Augsburg,Mert Kömür,GER,"MF,DF",18,2005,1.3,0,0,0,2,2,0,1,0,3,0,0,0,3,0,1,0.0,misc
+GER-Bundesliga,2023,Augsburg,Nathanael Mbuku,COD,FW,21,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Augsburg,Niklas Dorsch,GER,MF,25,1998,15.4,5,0,0,19,27,0,3,16,24,0,2,0,113,9,18,33.3,misc
+GER-Bundesliga,2023,Augsburg,Ohis Felix Uduokhai,GER,DF,25,1997,32.5,5,1,1,29,23,0,3,46,21,1,0,1,150,111,68,62.0,misc
+GER-Bundesliga,2023,Augsburg,Patric Pfeiffer,GER,DF,23,1999,5.7,0,0,0,7,4,0,1,11,7,0,1,0,27,20,12,62.5,misc
+GER-Bundesliga,2023,Augsburg,Pep Biel,ESP,"MF,FW",26,1996,3.2,1,0,0,8,0,0,14,2,3,0,0,0,19,3,3,50.0,misc
+GER-Bundesliga,2023,Augsburg,Phillip Tietz,GER,FW,26,1997,26.5,1,0,0,42,17,16,6,6,14,0,0,0,88,105,125,45.7,misc
+GER-Bundesliga,2023,Augsburg,Robert Gumny,POL,DF,25,1998,5.3,3,0,0,7,5,0,8,7,5,0,0,0,22,3,2,60.0,misc
+GER-Bundesliga,2023,Augsburg,Ruben Vargas,SUI,"MF,FW",24,1998,21.8,3,0,0,33,28,18,63,7,10,1,1,0,84,21,32,39.6,misc
+GER-Bundesliga,2023,Augsburg,Sven Michel,GER,"FW,MF",33,1990,6.5,2,0,0,12,4,4,10,0,5,0,0,0,22,18,30,37.5,misc
+GER-Bundesliga,2023,Augsburg,Tim Breithaupt,GER,MF,21,2002,7.0,3,0,0,12,4,0,2,8,11,0,0,0,48,11,7,61.1,misc
+GER-Bundesliga,2023,Augsburg,Tomáš Koubek,CZE,GK,30,1992,3.0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,,misc
+GER-Bundesliga,2023,Bayern Munich,Aleksandar Pavlovic,GER,MF,19,2004,13.6,6,0,0,20,16,0,18,17,16,0,0,0,75,10,13,43.5,misc
+GER-Bundesliga,2023,Bayern Munich,Alphonso Davies,CAN,DF,22,2000,22.9,0,0,0,16,20,0,31,26,24,0,1,0,179,14,9,60.9,misc
+GER-Bundesliga,2023,Bayern Munich,Bouna Sarr,SEN,DF,31,1992,1.2,0,0,0,0,1,0,1,0,0,0,0,0,3,1,1,50.0,misc
+GER-Bundesliga,2023,Bayern Munich,Bryan Zaragoza,ESP,"FW,MF",22,2001,2.0,1,0,0,2,1,1,10,2,4,0,0,0,4,1,0,100.0,misc
+GER-Bundesliga,2023,Bayern Munich,Daniel Peretz,ISR,GK,23,2000,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Bayern Munich,Dayot Upamecano,FRA,DF,24,1998,19.6,3,1,1,22,8,2,3,19,21,0,1,0,156,42,25,62.7,misc
+GER-Bundesliga,2023,Bayern Munich,Eric Dier,ENG,DF,29,1994,13.0,1,0,0,12,9,1,7,10,8,0,0,0,66,34,15,69.4,misc
+GER-Bundesliga,2023,Bayern Munich,Eric Maxim Choupo-Moting,CMR,"MF,FW",34,1989,8.0,1,0,0,10,7,2,11,7,12,0,0,0,41,15,9,62.5,misc
+GER-Bundesliga,2023,Bayern Munich,Frans Krätzig,GER,DF,20,2003,0.6,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,,misc
+GER-Bundesliga,2023,Bayern Munich,Harry Kane,ENG,FW,30,1993,31.5,2,0,0,10,39,13,31,6,9,0,0,0,55,30,34,46.9,misc
+GER-Bundesliga,2023,Bayern Munich,Jamal Musiala,GER,"MF,FW",20,2003,19.5,2,0,0,26,39,2,11,16,25,0,0,0,91,7,11,38.9,misc
+GER-Bundesliga,2023,Bayern Munich,Jonathan Asp Jensen,DEN,FW,17,2006,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Bayern Munich,Joshua Kimmich,GER,"MF,DF",28,1995,24.2,1,1,0,11,24,2,195,14,33,0,0,0,140,5,14,26.3,misc
+GER-Bundesliga,2023,Bayern Munich,Kim Min-jae,KOR,DF,26,1996,21.9,3,0,0,19,2,1,2,45,24,0,0,0,143,75,29,72.1,misc
+GER-Bundesliga,2023,Bayern Munich,Kingsley Coman,FRA,FW,27,1996,12.4,1,0,0,6,19,1,60,2,7,0,0,0,50,6,5,54.5,misc
+GER-Bundesliga,2023,Bayern Munich,Konrad Laimer,AUT,"DF,MF",26,1997,19.7,3,0,0,28,15,2,31,18,36,0,0,0,114,12,19,38.7,misc
+GER-Bundesliga,2023,Bayern Munich,Leon Goretzka,GER,MF,28,1995,24.9,3,0,0,23,14,2,10,31,23,0,0,0,171,36,29,55.4,misc
+GER-Bundesliga,2023,Bayern Munich,Leroy Sané,GER,FW,27,1996,23.7,4,0,0,26,21,10,86,7,8,0,0,0,97,3,2,60.0,misc
+GER-Bundesliga,2023,Bayern Munich,Lovro Zvonarek,CRO,"FW,MF",18,2005,1.8,0,0,0,3,0,1,1,0,0,0,0,0,6,2,5,28.6,misc
+GER-Bundesliga,2023,Bayern Munich,Manuel Neuer,GER,GK,37,1986,22.8,1,0,0,1,2,0,0,0,1,0,1,0,31,6,3,66.7,misc
+GER-Bundesliga,2023,Bayern Munich,Mathys Tel,FRA,"FW,MF",18,2005,11.7,2,0,0,18,15,3,18,6,2,0,0,0,42,14,13,51.9,misc
+GER-Bundesliga,2023,Bayern Munich,Matteo Perez Vinlöf,SWE,FW,17,2005,0.2,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Bayern Munich,Matthijs de Ligt,NED,DF,23,1999,15.4,5,0,0,12,8,0,2,19,12,0,0,0,73,41,28,59.4,misc
+GER-Bundesliga,2023,Bayern Munich,Noussair Mazraoui,MAR,DF,25,1997,13.3,3,0,0,10,11,0,19,20,21,0,0,0,63,19,21,47.5,misc
+GER-Bundesliga,2023,Bayern Munich,Raphaël Guerreiro,POR,"DF,MF",29,1993,13.2,2,0,0,3,7,0,42,15,16,0,0,0,59,2,5,28.6,misc
+GER-Bundesliga,2023,Bayern Munich,Ryan Gravenberch,NED,FW,21,2002,0.1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Bayern Munich,Sacha Boey,FRA,DF,22,2000,1.2,1,0,0,6,3,0,0,1,0,0,0,0,6,1,2,33.3,misc
+GER-Bundesliga,2023,Bayern Munich,Serge Gnabry,GER,"FW,MF",28,1995,4.8,0,0,0,6,3,1,10,3,5,1,0,0,26,3,2,60.0,misc
+GER-Bundesliga,2023,Bayern Munich,Sven Ulreich,GER,GK,34,1988,11.0,1,0,0,0,0,0,0,0,0,0,0,0,17,1,0,100.0,misc
+GER-Bundesliga,2023,Bayern Munich,Thomas Müller,GER,"MF,FW",33,1989,18.4,0,0,0,12,21,15,55,3,16,1,1,0,55,30,25,54.5,misc
+GER-Bundesliga,2023,Bochum,Andreas Luthe,GER,GK,36,1987,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,misc
+GER-Bundesliga,2023,Bochum,Anthony Losilla,FRA,MF,37,1986,28.6,10,0,0,38,22,5,6,25,37,0,0,0,136,82,54,60.3,misc
+GER-Bundesliga,2023,Bochum,Bernardo,BRA,DF,28,1995,32.5,9,0,0,54,28,2,30,55,58,0,2,0,197,145,81,64.2,misc
+GER-Bundesliga,2023,Bochum,Christopher Antwi-Adjei,GHA,"FW,MF",29,1994,13.5,5,0,0,13,17,18,55,2,12,0,0,0,53,11,22,33.3,misc
+GER-Bundesliga,2023,Bochum,Cristian Gamboa,CRC,DF,33,1989,13.2,6,0,0,14,6,0,23,15,18,0,1,0,74,12,9,57.1,misc
+GER-Bundesliga,2023,Bochum,Danilo Soares,BRA,DF,31,1991,3.9,0,0,0,5,5,0,3,7,6,0,0,0,35,4,7,36.4,misc
+GER-Bundesliga,2023,Bochum,Erhan Mašović,SRB,"DF,MF",24,1998,24.7,7,0,0,22,15,0,5,25,40,0,0,1,117,35,53,39.8,misc
+GER-Bundesliga,2023,Bochum,Felix Passlack,GER,DF,25,1998,10.7,2,1,0,14,13,2,40,10,14,0,0,0,51,6,8,42.9,misc
+GER-Bundesliga,2023,Bochum,Gonçalo Paciência,POR,"FW,MF",28,1994,7.2,3,0,0,9,22,2,10,0,4,0,0,0,29,20,34,37.0,misc
+GER-Bundesliga,2023,Bochum,Ivan Ordets,UKR,DF,31,1992,20.9,4,0,0,29,20,3,1,31,14,1,4,1,89,133,55,70.7,misc
+GER-Bundesliga,2023,Bochum,Keven Schlotterbeck,GER,DF,26,1997,24.3,9,0,0,36,32,0,12,33,22,2,2,2,144,112,70,61.5,misc
+GER-Bundesliga,2023,Bochum,Kevin Stöger,AUT,MF,29,1993,29.6,8,0,0,36,63,1,258,19,30,0,0,0,210,8,33,19.5,misc
+GER-Bundesliga,2023,Bochum,Lukas Daschner,GER,"MF,FW",24,1998,6.0,2,0,0,4,9,0,20,2,4,0,0,0,24,5,12,29.4,misc
+GER-Bundesliga,2023,Bochum,Manuel Riemann,GER,GK,34,1988,33.0,5,0,0,2,4,0,4,1,1,0,2,0,81,14,3,82.4,misc
+GER-Bundesliga,2023,Bochum,Matúš Bero,SVK,"MF,FW",27,1995,18.5,6,0,0,38,20,5,16,12,22,1,0,0,97,12,37,24.5,misc
+GER-Bundesliga,2023,Bochum,Maximilian Wittek,GER,"DF,FW",27,1995,11.9,4,0,0,20,26,2,51,18,17,0,0,0,69,15,26,36.6,misc
+GER-Bundesliga,2023,Bochum,Moritz Broschinski,GER,FW,22,2000,13.9,4,0,0,32,13,11,12,0,7,0,0,0,40,34,102,25.0,misc
+GER-Bundesliga,2023,Bochum,Moritz-Broni Kwarteng,GHA,FW,25,1998,3.1,1,1,0,5,5,2,5,2,0,0,0,0,18,0,8,0.0,misc
+GER-Bundesliga,2023,Bochum,Noah Loosli,SUI,DF,26,1997,3.8,1,0,0,4,0,0,2,7,7,0,0,0,27,5,7,41.7,misc
+GER-Bundesliga,2023,Bochum,Patrick Osterhage,GER,MF,23,2000,20.7,5,0,0,21,24,3,20,27,26,0,0,0,142,26,30,46.4,misc
+GER-Bundesliga,2023,Bochum,Philipp Förster,GER,"MF,FW",28,1995,4.3,1,0,0,6,9,0,28,7,5,0,0,0,27,2,7,22.2,misc
+GER-Bundesliga,2023,Bochum,Philipp Hofmann,GER,FW,30,1993,17.5,1,0,0,20,26,4,3,4,5,0,0,0,44,111,94,54.1,misc
+GER-Bundesliga,2023,Bochum,Simon Zoller,GER,"FW,MF",32,1991,0.5,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+GER-Bundesliga,2023,Bochum,Takuma Asano,JPN,"FW,MF",28,1994,22.1,2,0,0,15,22,23,37,4,6,0,0,0,74,15,52,22.4,misc
+GER-Bundesliga,2023,Bochum,Tim Oermann,GER,DF,19,2003,7.9,2,0,0,8,8,0,8,2,11,0,0,0,27,7,12,36.8,misc
+GER-Bundesliga,2023,Darmstadt 98,Aaron Seydel,GER,FW,27,1996,6.9,1,0,0,9,7,2,1,1,2,0,0,0,14,45,31,59.2,misc
+GER-Bundesliga,2023,Darmstadt 98,Alexander Brunst,GER,GK,28,1995,3.0,2,0,0,0,2,0,0,0,0,0,0,0,7,0,0,,misc
+GER-Bundesliga,2023,Darmstadt 98,Andreas Müller,GER,MF,23,2000,3.9,3,0,0,5,4,0,2,4,9,0,0,0,20,3,1,75.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Asaf Arania,ISR,MF,17,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Darmstadt 98,Bartol Franjić,CRO,MF,23,2000,13.7,5,0,0,20,2,0,4,30,12,0,0,0,63,17,19,47.2,misc
+GER-Bundesliga,2023,Darmstadt 98,Braydon Manu,GHA,MF,26,1997,1.9,1,0,0,4,1,0,4,0,0,0,0,0,7,0,3,0.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Christoph Klarer,AUT,DF,23,2000,26.2,9,0,0,29,13,4,8,21,22,0,0,0,87,42,38,52.5,misc
+GER-Bundesliga,2023,Darmstadt 98,Christoph Zimmermann,GER,DF,30,1993,13.6,5,0,0,13,10,1,0,21,21,0,0,1,53,29,21,58.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Clemens Riedel,GER,DF,20,2003,8.4,2,0,0,10,4,0,8,11,13,0,0,0,57,11,14,44.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Emir Karic,AUT,DF,26,1997,19.8,4,0,0,17,7,5,52,13,27,0,0,0,76,21,16,56.8,misc
+GER-Bundesliga,2023,Darmstadt 98,Fabian Holland,GER,"MF,DF",33,1990,20.4,4,1,0,34,33,1,26,24,26,0,0,0,103,9,24,27.3,misc
+GER-Bundesliga,2023,Darmstadt 98,Fabian Nürnberger,BUL,"DF,MF",24,1999,16.8,2,0,0,18,16,0,64,17,22,1,0,0,78,13,9,59.1,misc
+GER-Bundesliga,2023,Darmstadt 98,Fabian Schnellhardt,GER,MF,29,1994,2.6,1,0,0,2,3,0,4,4,1,0,0,0,25,1,3,25.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Fabio Torsiello,ITA,"FW,DF",18,2005,1.7,0,0,0,4,0,0,2,1,0,0,0,0,4,0,3,0.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Filip Stojilković,SUI,"FW,MF",23,2000,1.7,1,0,0,3,1,2,3,0,1,0,0,0,4,0,2,0.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Frank Ronstadt,GER,"DF,MF",26,1997,0.8,0,0,0,0,2,0,2,1,0,0,0,0,2,1,0,100.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Fraser Hornby,SCO,"FW,MF",23,1999,2.4,1,0,0,5,1,1,4,0,0,0,0,0,8,11,13,45.8,misc
+GER-Bundesliga,2023,Darmstadt 98,Gerrit Holtmann,PHI,"MF,FW",28,1995,4.4,1,0,0,8,2,0,12,2,5,0,0,0,31,5,7,41.7,misc
+GER-Bundesliga,2023,Darmstadt 98,Jannik Müller,GER,"DF,MF",29,1994,12.6,5,0,0,19,7,0,7,17,16,0,0,0,66,21,17,55.3,misc
+GER-Bundesliga,2023,Darmstadt 98,Julian Justvan,GER,"MF,FW",25,1998,11.4,1,0,0,2,5,0,41,11,4,0,0,0,52,1,15,6.3,misc
+GER-Bundesliga,2023,Darmstadt 98,Klaus Gjasula,ALB,"DF,MF",33,1989,15.1,7,1,0,23,11,0,7,19,22,0,1,0,69,34,27,55.7,misc
+GER-Bundesliga,2023,Darmstadt 98,Luca Pfeiffer,GER,"FW,MF",26,1996,18.0,3,0,0,28,27,1,5,2,6,0,0,0,67,54,55,49.5,misc
+GER-Bundesliga,2023,Darmstadt 98,Marcel Schuhen,GER,GK,30,1993,31.0,2,0,0,0,8,0,0,2,0,0,0,0,53,8,2,80.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Marvin Mehlem,GER,MF,25,1997,16.5,3,0,0,20,34,8,18,33,21,0,0,0,82,13,13,50.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Matej Maglica,CRO,DF,24,1998,18.9,7,2,0,31,7,1,7,22,21,0,1,0,85,51,24,68.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Mathias Honsak,AUT,"FW,MF",26,1996,11.3,1,0,0,14,12,3,11,8,7,0,0,0,32,15,24,38.5,misc
+GER-Bundesliga,2023,Darmstadt 98,Matthias Bader,GER,"DF,MF",26,1997,20.0,1,0,0,17,41,1,32,25,25,0,0,0,121,11,17,39.3,misc
+GER-Bundesliga,2023,Darmstadt 98,Oscar Vilhelmsson,SWE,"FW,MF",19,2003,15.3,2,0,0,32,27,7,10,3,6,0,0,0,22,42,81,34.1,misc
+GER-Bundesliga,2023,Darmstadt 98,Sebastian Polter,GER,FW,32,1991,5.0,0,0,0,9,10,2,4,0,0,0,0,0,7,20,14,58.8,misc
+GER-Bundesliga,2023,Darmstadt 98,Thomas Isherwood,SWE,DF,25,1998,7.1,1,0,0,8,3,1,1,10,5,0,0,1,17,8,6,57.1,misc
+GER-Bundesliga,2023,Darmstadt 98,Tim Skarke,GER,"FW,DF",26,1996,26.7,7,0,0,31,40,17,94,6,16,0,0,0,125,11,50,18.0,misc
+GER-Bundesliga,2023,Darmstadt 98,Tobias Kempe,GER,MF,34,1989,15.0,1,0,0,14,11,0,81,9,13,1,0,0,65,13,20,39.4,misc
+GER-Bundesliga,2023,Dortmund,Alexander Meyer,GER,GK,32,1991,7.7,0,0,0,0,0,0,0,0,1,0,0,0,12,0,0,,misc
+GER-Bundesliga,2023,Dortmund,Antonios Papadopoulos,GER,DF,23,1999,1.3,0,0,0,1,1,0,0,2,3,0,0,0,7,5,4,55.6,misc
+GER-Bundesliga,2023,Dortmund,Donyell Malen,NED,"FW,MF",24,1999,19.8,5,0,0,11,24,3,39,2,7,1,0,0,71,7,19,26.9,misc
+GER-Bundesliga,2023,Dortmund,Emre Can,GER,"MF,DF",29,1994,21.7,5,0,0,27,23,0,2,22,45,0,0,0,156,29,21,58.0,misc
+GER-Bundesliga,2023,Dortmund,Felix Nmecha,GER,MF,22,2000,11.3,3,0,0,9,27,1,3,11,13,0,0,0,47,20,8,71.4,misc
+GER-Bundesliga,2023,Dortmund,Gio Reyna,USA,"MF,FW",20,2002,3.1,1,0,0,2,5,1,4,2,6,0,0,0,19,4,5,44.4,misc
+GER-Bundesliga,2023,Dortmund,Gregor Kobel,SUI,GK,25,1997,26.3,1,0,0,2,3,0,0,0,0,0,2,0,41,5,0,100.0,misc
+GER-Bundesliga,2023,Dortmund,Hendry Blank,GER,DF,18,2004,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,50.0,misc
+GER-Bundesliga,2023,Dortmund,Ian Maatsen,NED,DF,21,2002,14.0,5,0,0,19,9,0,26,13,22,0,0,0,79,2,9,18.2,misc
+GER-Bundesliga,2023,Dortmund,Jadon Sancho,ENG,"FW,MF",23,2000,10.5,1,0,0,3,10,3,29,4,4,1,0,0,40,1,1,50.0,misc
+GER-Bundesliga,2023,Dortmund,Jamie Gittens,ENG,"FW,MF",18,2004,11.8,1,0,0,12,25,0,13,4,7,2,0,0,37,4,10,28.6,misc
+GER-Bundesliga,2023,Dortmund,Julian Brandt,GER,"MF,FW",27,1996,24.7,2,0,0,8,15,5,165,8,14,0,0,0,117,9,28,24.3,misc
+GER-Bundesliga,2023,Dortmund,Julian Ryerson,NOR,DF,25,1997,19.6,3,0,0,18,25,0,40,10,23,0,0,0,121,8,12,40.0,misc
+GER-Bundesliga,2023,Dortmund,Julien Duranville,BEL,"FW,MF",17,2006,0.1,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,100.0,misc
+GER-Bundesliga,2023,Dortmund,Karim Adeyemi,GER,"FW,MF",21,2002,10.1,6,1,1,20,19,1,25,3,14,0,0,0,60,14,9,60.9,misc
+GER-Bundesliga,2023,Dortmund,Kjell-Arik Wätjen,GER,"MF,FW",17,2006,1.2,0,0,0,1,1,0,0,0,2,0,0,0,9,0,1,0.0,misc
+GER-Bundesliga,2023,Dortmund,Marcel Sabitzer,AUT,MF,29,1994,21.8,3,1,0,15,28,1,30,12,24,0,0,0,89,6,20,23.1,misc
+GER-Bundesliga,2023,Dortmund,Marco Reus,GER,"MF,FW",34,1989,17.8,2,0,0,21,21,4,32,5,25,0,0,0,58,13,18,41.9,misc
+GER-Bundesliga,2023,Dortmund,Marius Wolf,GER,DF,28,1995,13.0,2,0,0,12,7,1,45,8,12,0,1,0,79,6,8,42.9,misc
+GER-Bundesliga,2023,Dortmund,Mateu Morey,ESP,DF,23,2000,1.2,0,0,0,3,5,1,1,1,2,0,0,0,7,2,2,50.0,misc
+GER-Bundesliga,2023,Dortmund,Mats Hummels,GER,DF,34,1988,17.6,4,1,0,12,9,0,3,33,34,0,2,0,99,38,24,61.3,misc
+GER-Bundesliga,2023,Dortmund,Niclas Füllkrug,GER,FW,30,1993,24.6,1,0,0,26,37,11,5,2,2,0,0,0,39,67,104,39.2,misc
+GER-Bundesliga,2023,Dortmund,Nico Schlotterbeck,GER,DF,23,1999,31.8,4,0,0,17,32,0,8,45,50,1,0,1,245,58,41,58.6,misc
+GER-Bundesliga,2023,Dortmund,Niklas Süle,GER,DF,27,1995,16.8,0,0,0,9,1,0,2,25,10,0,0,0,83,21,14,60.0,misc
+GER-Bundesliga,2023,Dortmund,Ole Pohlmann,GER,MF,22,2001,0.6,0,0,0,0,0,0,3,0,0,0,0,0,3,1,0,100.0,misc
+GER-Bundesliga,2023,Dortmund,Ramy Bensebaini,ALG,DF,28,1995,11.5,4,1,1,15,29,0,21,16,21,0,0,1,84,18,13,58.1,misc
+GER-Bundesliga,2023,Dortmund,Salih Özcan,TUR,MF,25,1998,13.2,3,0,0,22,22,2,1,17,12,0,0,0,86,16,15,51.6,misc
+GER-Bundesliga,2023,Dortmund,Samuel Bamba,GER,FW,19,2004,0.5,0,0,0,1,1,0,4,0,1,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Dortmund,Sébastien Haller,CIV,FW,29,1994,4.4,2,0,0,8,10,3,0,0,0,0,1,0,10,19,21,47.5,misc
+GER-Bundesliga,2023,Dortmund,Thomas Meunier,BEL,DF,31,1991,6.5,0,0,0,10,0,0,17,4,1,0,0,0,43,7,6,53.8,misc
+GER-Bundesliga,2023,Dortmund,Thorgan Hazard,BEL,DF,30,1993,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,misc
+GER-Bundesliga,2023,Dortmund,Youssoufa Moukoko,GER,FW,18,2004,6.9,1,0,0,8,2,7,4,2,1,0,0,0,21,6,10,37.5,misc
+GER-Bundesliga,2023,Eint Frankfurt,Ansgar Knauff,GER,"MF,DF",21,2002,23.4,7,1,1,32,24,2,46,20,26,0,3,0,92,23,43,34.8,misc
+GER-Bundesliga,2023,Eint Frankfurt,Aurélio Buta,POR,"DF,MF",26,1997,19.4,5,0,0,23,23,1,46,15,25,0,0,0,94,29,20,59.2,misc
+GER-Bundesliga,2023,Eint Frankfurt,Christopher Lenz,GER,DF,28,1994,0.1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Eint Frankfurt,Donny van de Beek,NED,"MF,FW",26,1997,4.0,1,0,0,7,1,5,7,3,3,0,0,0,15,4,5,44.4,misc
+GER-Bundesliga,2023,Eint Frankfurt,Elias Baum,GER,"DF,MF",17,2005,0.3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Eint Frankfurt,Ellyes Skhiri,TUN,MF,28,1995,24.1,1,0,0,14,18,3,4,39,24,0,0,0,160,31,25,55.4,misc
+GER-Bundesliga,2023,Eint Frankfurt,Fares Chaïbi,ALG,"MF,FW",20,2002,21.2,2,0,0,14,11,9,176,5,17,0,0,0,66,10,56,15.2,misc
+GER-Bundesliga,2023,Eint Frankfurt,Hrvoje Smolčić,CRO,DF,22,2000,3.9,0,0,0,3,2,0,0,6,3,0,0,0,20,14,12,53.8,misc
+GER-Bundesliga,2023,Eint Frankfurt,Hugo Ekitike,FRA,FW,21,2002,8.0,3,0,0,12,12,6,9,2,7,0,0,0,21,14,27,34.1,misc
+GER-Bundesliga,2023,Eint Frankfurt,Hugo Larsson,SWE,MF,19,2004,21.0,1,0,0,16,2,1,8,29,18,0,0,0,116,9,19,32.1,misc
+GER-Bundesliga,2023,Eint Frankfurt,Jean Mattéo Bahoya,FRA,"MF,FW",18,2005,2.0,0,0,0,1,1,1,6,1,1,0,0,0,15,1,4,20.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Jens Grahl,GER,GK,34,1988,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Jens Petter Hauge,NOR,"MF,FW",23,1999,1.6,0,0,0,1,2,1,2,0,1,0,0,0,10,1,3,25.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Jesper Lindstrøm,DEN,FW,23,2000,0.9,0,0,0,1,0,0,1,0,1,0,0,0,2,0,1,0.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Jessic Ngankam,GER,FW,23,2000,3.1,2,0,0,11,7,2,0,0,2,0,0,0,11,3,14,17.6,misc
+GER-Bundesliga,2023,Eint Frankfurt,Junior Dina Ebimbe,FRA,"MF,DF",22,2000,21.7,5,0,0,49,15,3,21,9,29,0,0,0,112,41,32,56.2,misc
+GER-Bundesliga,2023,Eint Frankfurt,Kevin Trapp,GER,GK,33,1990,32.0,2,0,0,0,6,0,0,1,0,0,0,0,58,8,1,88.9,misc
+GER-Bundesliga,2023,Eint Frankfurt,Kristijan Jakić,CRO,"MF,FW",26,1997,2.2,1,0,0,5,3,0,1,2,3,0,0,0,12,5,3,62.5,misc
+GER-Bundesliga,2023,Eint Frankfurt,Makoto Hasebe,JPN,"DF,MF",39,1984,2.4,1,0,0,4,3,0,1,2,2,0,1,0,13,4,3,57.1,misc
+GER-Bundesliga,2023,Eint Frankfurt,Mario Götze,GER,MF,31,1992,23.0,5,1,1,14,35,1,54,14,34,0,1,0,152,8,13,38.1,misc
+GER-Bundesliga,2023,Eint Frankfurt,Marko Mladenović,SRB,MF,18,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,misc
+GER-Bundesliga,2023,Eint Frankfurt,Nacho Ferri,ESP,"FW,MF",18,2004,0.8,0,0,0,1,2,0,0,0,3,0,0,0,2,9,9,50.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Niels Nkounkou,FRA,"DF,MF",22,2000,14.5,5,1,1,27,2,0,53,16,30,0,1,0,102,17,27,38.6,misc
+GER-Bundesliga,2023,Eint Frankfurt,Nnamdi Collins,GER,DF,19,2004,1.0,0,0,0,0,1,0,2,2,0,0,0,0,7,0,2,0.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Omar Marmoush,EGY,"FW,MF",24,1999,25.6,7,0,0,28,74,12,33,11,11,2,1,0,90,27,29,48.2,misc
+GER-Bundesliga,2023,Eint Frankfurt,Paxten Aaronson,USA,MF,19,2003,1.1,0,0,0,6,4,0,0,0,2,0,0,0,5,3,0,100.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Philipp Max,GER,DF,29,1993,15.0,2,0,0,7,9,2,59,7,17,0,1,0,65,12,16,42.9,misc
+GER-Bundesliga,2023,Eint Frankfurt,Randal Kolo Muani,FRA,FW,24,1998,1.7,0,0,0,4,5,0,0,0,0,0,0,0,3,4,5,44.4,misc
+GER-Bundesliga,2023,Eint Frankfurt,Robin Koch,GER,DF,27,1996,30.4,10,0,0,20,13,0,4,32,23,0,2,0,138,80,50,61.5,misc
+GER-Bundesliga,2023,Eint Frankfurt,Sasa Kalajdzic,AUT,FW,26,1997,3.6,0,0,0,3,10,1,1,2,2,0,0,0,10,9,11,45.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Sebastian Rode,GER,MF,32,1990,0.7,0,0,0,0,1,0,1,1,4,0,0,0,10,2,3,40.0,misc
+GER-Bundesliga,2023,Eint Frankfurt,Timothy Chandler,USA,"MF,DF",33,1990,0.2,0,0,0,0,0,0,4,0,0,0,0,0,0,2,1,66.7,misc
+GER-Bundesliga,2023,Eint Frankfurt,Tuta,BRA,DF,24,1999,28.9,3,2,1,29,17,0,11,36,33,0,0,0,171,52,43,54.7,misc
+GER-Bundesliga,2023,Eint Frankfurt,Willian Pacho,ECU,DF,21,2001,33.0,7,0,0,22,14,1,7,47,37,0,1,0,216,54,48,52.9,misc
+GER-Bundesliga,2023,Freiburg,Attila Szalai,HUN,DF,25,1998,1.1,0,0,0,0,0,1,0,1,1,0,0,0,4,2,2,50.0,misc
+GER-Bundesliga,2023,Freiburg,Christian Günter,GER,DF,30,1993,11.8,1,0,0,8,3,1,62,2,12,0,0,0,32,5,10,33.3,misc
+GER-Bundesliga,2023,Freiburg,Fabian Rüdlin,GER,MF,26,1997,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Freiburg,Florent Muslija,KVX,"MF,FW",25,1998,1.2,0,0,0,1,2,0,9,0,4,0,0,0,7,1,1,50.0,misc
+GER-Bundesliga,2023,Freiburg,Jordy Makengo,FRA,DF,21,2001,11.4,1,0,0,14,11,1,23,11,11,0,2,0,46,17,15,53.1,misc
+GER-Bundesliga,2023,Freiburg,Junior Adamu,AUT,"FW,MF",22,2001,1.2,0,0,0,7,4,2,1,0,1,0,0,0,10,5,6,45.5,misc
+GER-Bundesliga,2023,Freiburg,Kenneth Schmidt,GER,DF,21,2002,0.8,0,0,0,1,0,0,2,1,2,0,0,0,11,1,1,50.0,misc
+GER-Bundesliga,2023,Freiburg,Kiliann Sildillia,FRA,DF,21,2002,20.1,2,1,0,29,10,4,37,22,19,0,0,0,107,32,37,46.4,misc
+GER-Bundesliga,2023,Freiburg,Lucas Höler,GER,"FW,MF",29,1994,25.6,7,0,0,25,48,7,12,15,24,2,0,0,104,80,102,44.0,misc
+GER-Bundesliga,2023,Freiburg,Lukas Kübler,GER,DF,30,1992,20.5,7,0,0,19,24,3,21,37,24,0,0,0,113,35,25,58.3,misc
+GER-Bundesliga,2023,Freiburg,Manuel Gulde,GER,DF,32,1991,22.7,5,1,1,17,15,1,3,25,23,0,0,0,78,49,33,59.8,misc
+GER-Bundesliga,2023,Freiburg,Matthias Ginter,GER,DF,29,1994,21.3,3,0,0,8,15,0,16,16,15,0,0,1,100,50,29,63.3,misc
+GER-Bundesliga,2023,Freiburg,Maximilian Breunig,GER,FW,22,2000,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,3,25.0,misc
+GER-Bundesliga,2023,Freiburg,Maximilian Eggestein,GER,MF,26,1996,32.4,6,0,0,32,24,2,9,28,24,0,1,0,167,51,43,54.3,misc
+GER-Bundesliga,2023,Freiburg,Maximilian Philipp,GER,"FW,MF",29,1994,3.6,2,0,0,10,3,0,4,1,5,0,0,0,11,7,14,33.3,misc
+GER-Bundesliga,2023,Freiburg,Merlin Röhl,GER,"MF,FW",21,2002,16.4,3,1,0,35,28,2,16,9,13,0,0,0,103,21,31,40.4,misc
+GER-Bundesliga,2023,Freiburg,Michael Gregoritsch,AUT,FW,29,1994,18.7,2,0,0,16,19,6,11,9,12,0,0,0,62,91,93,49.5,misc
+GER-Bundesliga,2023,Freiburg,Nicolas Höfler,GER,MF,33,1990,25.9,10,1,0,29,31,0,2,31,40,0,0,0,152,49,48,50.5,misc
+GER-Bundesliga,2023,Freiburg,Noah Atubolu,GER,GK,21,2002,34.0,0,0,0,0,3,0,0,0,0,0,0,0,62,7,0,100.0,misc
+GER-Bundesliga,2023,Freiburg,Noah Weißhaupt,GER,"DF,FW",21,2001,8.4,1,0,0,8,31,2,52,8,4,2,0,0,37,3,10,23.1,misc
+GER-Bundesliga,2023,Freiburg,Philipp Lienhart,AUT,DF,27,1996,14.1,3,0,0,12,6,1,4,14,13,0,1,0,77,33,14,70.2,misc
+GER-Bundesliga,2023,Freiburg,Ritsu Doan,JPN,"DF,MF",25,1998,25.0,2,0,0,26,35,2,61,9,27,1,0,0,97,21,28,42.9,misc
+GER-Bundesliga,2023,Freiburg,Roland Sallai,HUN,"MF,FW",26,1997,20.4,6,0,0,41,42,11,73,6,10,1,0,0,71,29,46,38.7,misc
+GER-Bundesliga,2023,Freiburg,Vincenzo Grifo,ITA,"MF,FW",30,1993,25.8,3,0,0,13,16,6,173,15,20,1,1,0,130,12,20,37.5,misc
+GER-Bundesliga,2023,Freiburg,Yannik Keitel,GER,"DF,MF",23,2000,10.2,0,0,0,12,6,0,2,12,15,0,0,0,52,23,17,57.5,misc
+GER-Bundesliga,2023,Gladbach,Alassane Pléa,FRA,"FW,MF",30,1993,21.3,1,0,0,15,29,6,44,2,7,1,0,0,72,15,27,35.7,misc
+GER-Bundesliga,2023,Gladbach,Christoph Kramer,GER,MF,32,1991,2.8,4,0,0,6,3,0,3,4,5,0,0,0,20,7,7,50.0,misc
+GER-Bundesliga,2023,Gladbach,Fabio Chiarodia,ITA,DF,18,2005,1.7,0,0,0,1,0,0,1,3,5,0,1,0,4,5,3,62.5,misc
+GER-Bundesliga,2023,Gladbach,Florian Neuhaus,GER,MF,26,1997,13.6,4,0,0,9,18,0,10,14,12,0,0,0,70,7,7,50.0,misc
+GER-Bundesliga,2023,Gladbach,Franck Honorat,FRA,"DF,FW",26,1996,26.1,1,0,0,9,14,6,236,9,13,0,0,0,138,17,19,47.2,misc
+GER-Bundesliga,2023,Gladbach,Grant Ranos,ARM,"MF,FW",20,2003,0.5,0,0,0,0,0,1,1,0,0,0,0,0,5,1,5,16.7,misc
+GER-Bundesliga,2023,Gladbach,Joe Scally,USA,DF,20,2002,24.8,4,0,0,16,46,1,46,18,28,0,0,0,92,22,32,40.7,misc
+GER-Bundesliga,2023,Gladbach,Jonas Omlin,SUI,GK,29,1994,7.0,1,0,0,0,2,0,0,0,0,0,0,0,16,3,0,100.0,misc
+GER-Bundesliga,2023,Gladbach,Jordan Pefok,USA,FW,27,1996,15.8,2,0,0,35,30,7,0,5,4,1,0,0,35,47,45,51.1,misc
+GER-Bundesliga,2023,Gladbach,Julian Weigl,GER,MF,27,1995,30.7,10,0,0,33,30,0,3,48,40,0,0,0,168,25,19,56.8,misc
+GER-Bundesliga,2023,Gladbach,Ko Itakura,JPN,"DF,MF",26,1997,17.7,9,0,0,28,4,0,5,22,21,0,0,0,78,38,30,55.9,misc
+GER-Bundesliga,2023,Gladbach,Luca Netz,GER,DF,20,2003,24.7,2,0,0,26,16,1,74,22,22,0,2,0,130,37,29,56.1,misc
+GER-Bundesliga,2023,Gladbach,Lukas Ullrich,GER,"DF,FW",19,2004,0.5,0,0,0,0,1,0,5,0,0,0,0,0,3,0,2,0.0,misc
+GER-Bundesliga,2023,Gladbach,Manu Koné,FRA,MF,22,2001,17.3,4,1,0,28,35,3,3,15,26,1,1,0,111,21,24,46.7,misc
+GER-Bundesliga,2023,Gladbach,Marvin Friedrich,GER,DF,27,1995,17.4,1,0,0,10,10,0,2,17,15,0,0,0,68,37,19,66.1,misc
+GER-Bundesliga,2023,Gladbach,Maximilian Wöber,AUT,DF,25,1998,23.0,4,1,1,27,3,5,21,38,31,0,0,0,147,47,32,59.5,misc
+GER-Bundesliga,2023,Gladbach,Moritz Nicolas,GER,GK,25,1997,27.0,2,0,0,1,2,0,0,0,0,0,1,0,35,10,0,100.0,misc
+GER-Bundesliga,2023,Gladbach,Nathan N'Goumou,CMR,"FW,MF",23,2000,15.4,1,0,0,13,18,6,28,5,22,0,1,0,62,9,34,20.9,misc
+GER-Bundesliga,2023,Gladbach,Nico Elvedi,SUI,DF,26,1996,27.6,5,0,0,13,18,1,3,43,18,0,0,0,137,72,46,61.0,misc
+GER-Bundesliga,2023,Gladbach,Patrick Herrmann,GER,"FW,DF",32,1991,1.0,1,0,0,3,2,0,5,1,4,0,0,0,6,1,1,50.0,misc
+GER-Bundesliga,2023,Gladbach,Robin Hack,GER,"FW,MF",24,1998,15.0,2,0,0,17,22,9,44,14,8,0,0,0,79,16,22,42.1,misc
+GER-Bundesliga,2023,Gladbach,Rocco Reitz,GER,MF,21,2002,23.7,2,0,0,26,45,2,15,44,36,0,0,0,171,13,26,33.3,misc
+GER-Bundesliga,2023,Gladbach,Shiō Fukuda,JPN,"FW,MF",19,2004,0.4,0,0,0,1,0,0,0,1,0,0,0,0,2,3,4,42.9,misc
+GER-Bundesliga,2023,Gladbach,Stefan Lainer,AUT,"DF,MF",30,1992,8.3,2,0,0,8,7,1,19,5,16,0,0,0,33,7,12,36.8,misc
+GER-Bundesliga,2023,Gladbach,Tomáš Čvančara,CZE,FW,22,2000,10.0,4,0,0,9,13,4,3,2,3,0,0,0,16,23,30,43.4,misc
+GER-Bundesliga,2023,Gladbach,Tony Jantschke,GER,"DF,MF",33,1990,0.3,0,0,0,1,2,0,0,1,1,0,0,0,1,2,2,50.0,misc
+GER-Bundesliga,2023,Gladbach,Yvandro Borges Sanches,LUX,"MF,FW",19,2004,0.2,0,0,0,2,2,0,3,0,0,1,0,0,2,0,1,0.0,misc
+GER-Bundesliga,2023,Heidenheim,Adrian Beck,GER,"MF,FW",26,1997,10.8,1,0,0,14,10,2,6,4,13,0,0,0,76,18,26,40.9,misc
+GER-Bundesliga,2023,Heidenheim,Benedikt Gimber,GER,DF,26,1997,22.5,9,0,0,40,27,0,3,16,24,0,2,1,87,48,41,53.9,misc
+GER-Bundesliga,2023,Heidenheim,Christian Kühlwetter,GER,MF,27,1996,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0.0,misc
+GER-Bundesliga,2023,Heidenheim,Denis Thomalla,GER,"MF,FW",30,1992,5.0,0,0,0,6,2,0,2,4,6,0,0,0,29,18,16,52.9,misc
+GER-Bundesliga,2023,Heidenheim,Eren Dinkçi,GER,"FW,MF",21,2001,29.4,8,0,0,28,22,2,79,12,18,0,0,0,155,11,24,31.4,misc
+GER-Bundesliga,2023,Heidenheim,Florian Pick,GER,"MF,FW",27,1995,3.6,2,0,0,6,7,1,32,2,4,0,0,0,29,5,5,50.0,misc
+GER-Bundesliga,2023,Heidenheim,Jan Schöppner,GER,MF,24,1999,22.2,3,0,0,14,12,1,7,26,26,0,0,0,108,39,39,50.0,misc
+GER-Bundesliga,2023,Heidenheim,Jan-Niklas Beste,GER,"FW,MF",24,1999,28.9,4,0,0,28,51,4,279,18,49,1,0,0,133,8,20,28.6,misc
+GER-Bundesliga,2023,Heidenheim,Jonas Föhrenbach,GER,DF,27,1996,31.0,2,0,0,15,17,2,73,31,24,0,0,1,148,37,22,62.7,misc
+GER-Bundesliga,2023,Heidenheim,Kevin Müller,GER,GK,32,1991,34.0,1,0,0,1,2,0,0,0,0,0,1,0,33,4,1,80.0,misc
+GER-Bundesliga,2023,Heidenheim,Kevin Sessa,GER,"MF,FW",23,2000,11.2,1,0,0,16,20,1,20,4,10,0,0,0,75,14,16,46.7,misc
+GER-Bundesliga,2023,Heidenheim,Lennard Maloney,USA,MF,23,1999,25.4,1,0,0,44,15,0,4,25,26,0,2,1,132,67,49,57.8,misc
+GER-Bundesliga,2023,Heidenheim,Marnon Busch,GER,DF,28,1994,6.6,1,0,0,9,4,0,26,10,9,0,0,0,33,8,15,34.8,misc
+GER-Bundesliga,2023,Heidenheim,Marvin Pieringer,GER,"MF,FW",23,1999,16.8,5,0,0,38,30,6,7,12,12,0,0,0,80,60,56,51.7,misc
+GER-Bundesliga,2023,Heidenheim,Nikola Dovedan,AUT,"MF,FW",29,1994,7.3,0,1,0,10,24,0,8,1,9,0,0,0,43,6,25,19.4,misc
+GER-Bundesliga,2023,Heidenheim,Norman Theuerkauf,GER,"MF,DF",36,1987,14.0,3,0,0,13,16,0,22,14,16,0,1,0,77,12,10,54.5,misc
+GER-Bundesliga,2023,Heidenheim,Omar Traoré,GER,DF,25,1998,27.5,5,0,0,30,31,1,73,40,33,0,1,0,155,15,19,44.1,misc
+GER-Bundesliga,2023,Heidenheim,Patrick Mainka,GER,DF,28,1994,34.0,1,0,0,24,16,2,0,49,49,0,1,0,183,119,84,58.6,misc
+GER-Bundesliga,2023,Heidenheim,Stefan Schimmer,GER,"MF,FW",29,1994,1.7,0,0,0,1,1,0,2,1,1,0,0,0,4,9,14,39.1,misc
+GER-Bundesliga,2023,Heidenheim,Thomas Keller,GER,"MF,FW",23,1999,0.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Heidenheim,Tim Kleindienst,GER,FW,27,1995,31.9,6,0,0,88,13,16,19,12,12,0,0,0,100,179,117,60.5,misc
+GER-Bundesliga,2023,Heidenheim,Tim Siersleben,GER,DF,23,2000,10.1,1,0,0,16,5,0,1,21,11,0,2,0,59,13,11,54.2,misc
+GER-Bundesliga,2023,Hoffenheim,Andrej Kramarić,CRO,"MF,FW",32,1991,24.4,4,0,0,8,35,8,113,10,2,1,0,0,113,9,13,40.9,misc
+GER-Bundesliga,2023,Hoffenheim,Angelo Stiller,GER,MF,22,2001,0.9,0,0,0,0,1,0,3,0,0,0,0,0,1,2,0,100.0,misc
+GER-Bundesliga,2023,Hoffenheim,Anton Stach,GER,MF,24,1998,25.8,4,0,0,30,41,0,54,72,42,1,0,0,209,52,27,65.8,misc
+GER-Bundesliga,2023,Hoffenheim,Attila Szalai,HUN,DF,25,1998,3.2,1,0,0,7,0,0,5,1,1,0,0,1,11,5,5,50.0,misc
+GER-Bundesliga,2023,Hoffenheim,Bambasé Conté,GER,"MF,FW",20,2003,0.5,0,0,0,3,6,0,1,0,3,0,0,0,7,1,1,50.0,misc
+GER-Bundesliga,2023,Hoffenheim,David Jurásek,CZE,DF,22,2000,5.5,1,0,0,3,1,0,24,3,11,0,0,0,29,5,3,62.5,misc
+GER-Bundesliga,2023,Hoffenheim,Dennis Geiger,GER,MF,25,1998,0.7,1,0,0,2,0,0,0,0,0,0,0,0,1,1,1,50.0,misc
+GER-Bundesliga,2023,Hoffenheim,Diadie Samassékou,MLI,MF,27,1996,0.0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Hoffenheim,Finn Ole Becker,GER,MF,23,2000,6.7,1,0,0,6,7,0,7,1,9,0,0,0,49,5,9,35.7,misc
+GER-Bundesliga,2023,Hoffenheim,Florian Grillitsch,AUT,"DF,MF",27,1995,25.5,8,0,0,27,24,0,17,52,28,0,0,0,171,34,31,52.3,misc
+GER-Bundesliga,2023,Hoffenheim,Grischa Prömel,GER,MF,28,1995,23.8,10,1,1,33,29,1,10,22,18,0,0,0,127,16,23,41.0,misc
+GER-Bundesliga,2023,Hoffenheim,Ihlas Bebou,TOG,"FW,DF",29,1994,18.2,3,0,0,24,21,7,35,14,12,1,0,0,60,32,45,41.6,misc
+GER-Bundesliga,2023,Hoffenheim,John Brooks,USA,DF,30,1993,17.1,6,1,0,16,13,1,3,27,15,0,0,0,95,45,21,68.2,misc
+GER-Bundesliga,2023,Hoffenheim,Julian Justvan,GER,"FW,MF",25,1998,0.5,0,0,0,0,0,0,9,0,0,0,0,0,3,0,0,,misc
+GER-Bundesliga,2023,Hoffenheim,Kasim Nuhu,GHA,DF,28,1995,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Hoffenheim,Kevin Akpoguma,NGA,DF,28,1995,12.2,7,0,0,15,14,0,4,18,18,0,1,0,60,25,21,54.3,misc
+GER-Bundesliga,2023,Hoffenheim,Kevin Vogt,GER,DF,31,1991,14.7,2,0,0,11,9,0,3,9,10,0,0,0,99,7,5,58.3,misc
+GER-Bundesliga,2023,Hoffenheim,Marius Bülter,GER,"DF,FW",30,1993,15.0,3,1,1,13,17,4,73,10,11,0,1,0,85,24,31,43.6,misc
+GER-Bundesliga,2023,Hoffenheim,Max Moerstedt,GER,"DF,FW",,,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Hoffenheim,Maximilian Beier,GER,"FW,MF",20,2002,26.9,0,0,0,21,32,13,38,9,12,2,0,0,62,20,40,33.3,misc
+GER-Bundesliga,2023,Hoffenheim,Mergim Berisha,GER,FW,25,1998,1.6,0,0,0,5,2,1,2,0,0,0,0,0,8,2,9,18.2,misc
+GER-Bundesliga,2023,Hoffenheim,Oliver Baumann,GER,GK,33,1990,34.0,1,0,0,1,6,0,0,0,1,0,1,0,102,4,1,80.0,misc
+GER-Bundesliga,2023,Hoffenheim,Ozan Kabak,TUR,DF,23,2000,25.4,11,1,1,31,9,0,3,46,35,0,1,0,96,68,47,59.1,misc
+GER-Bundesliga,2023,Hoffenheim,Pavel Kadeřábek,CZE,"DF,FW",31,1992,26.8,7,0,0,17,12,1,101,23,19,0,0,0,65,62,64,49.2,misc
+GER-Bundesliga,2023,Hoffenheim,Robert Skov,DEN,"DF,FW",27,1996,14.0,2,0,0,15,20,1,70,10,16,0,0,0,71,13,9,59.1,misc
+GER-Bundesliga,2023,Hoffenheim,Stanley N'Soki,FRA,DF,24,1999,7.0,3,1,1,12,2,0,7,8,10,0,1,0,46,12,9,57.1,misc
+GER-Bundesliga,2023,Hoffenheim,Tim Drexler,GER,DF,18,2005,6.4,1,0,0,4,5,0,0,8,9,0,0,0,24,3,14,17.6,misc
+GER-Bundesliga,2023,Hoffenheim,Tom Bischof,GER,"MF,FW",18,2005,2.0,0,0,0,1,1,2,11,1,4,0,0,0,11,1,1,50.0,misc
+GER-Bundesliga,2023,Hoffenheim,Umut Tohumcu,GER,MF,18,2004,11.2,5,0,0,10,24,0,6,6,12,0,0,0,62,2,10,16.7,misc
+GER-Bundesliga,2023,Hoffenheim,Wout Weghorst,NED,FW,30,1992,22.0,4,0,0,23,34,13,4,6,6,0,0,0,47,65,75,46.4,misc
+GER-Bundesliga,2023,Köln,Benno Schmitz,GER,DF,28,1994,12.8,5,0,0,9,10,0,40,7,15,0,0,0,59,14,22,38.9,misc
+GER-Bundesliga,2023,Köln,Damion Downs,USA,"FW,MF",19,2004,2.0,0,0,0,1,0,0,1,0,1,0,0,0,4,1,6,14.3,misc
+GER-Bundesliga,2023,Köln,Davie Selke,GER,FW,28,1995,14.1,3,0,0,24,18,10,4,0,2,0,0,0,9,67,55,54.9,misc
+GER-Bundesliga,2023,Köln,Dejan Ljubicic,AUT,"MF,FW",25,1997,22.8,6,0,0,32,13,1,31,18,27,0,0,0,112,8,11,42.1,misc
+GER-Bundesliga,2023,Köln,Denis Huseinbasic,BIH,MF,22,2001,18.1,5,0,0,28,14,0,15,13,18,0,0,0,114,8,8,50.0,misc
+GER-Bundesliga,2023,Köln,Dominique Heintz,GER,DF,29,1993,6.3,0,0,0,7,4,1,23,3,5,0,0,0,30,11,11,50.0,misc
+GER-Bundesliga,2023,Köln,Eric Martel,GER,MF,21,2002,27.3,6,0,0,52,41,2,19,43,43,1,1,0,152,70,54,56.5,misc
+GER-Bundesliga,2023,Köln,Faride Alidou,GER,"FW,MF",22,2001,14.2,4,0,0,21,23,3,39,8,4,1,1,0,57,18,28,39.1,misc
+GER-Bundesliga,2023,Köln,Florian Dietz,GER,"FW,MF",24,1998,0.8,0,0,0,1,0,0,0,0,0,0,0,0,2,2,8,20.0,misc
+GER-Bundesliga,2023,Köln,Florian Kainz,AUT,"MF,FW",30,1992,24.4,4,0,0,19,33,1,167,13,20,0,0,0,126,12,25,32.4,misc
+GER-Bundesliga,2023,Köln,Jacob Christensen,DEN,MF,22,2001,2.4,1,0,0,4,0,0,5,4,6,0,0,0,18,0,5,0.0,misc
+GER-Bundesliga,2023,Köln,Jan Thielmann,GER,"FW,DF",21,2002,17.5,4,1,0,27,27,6,42,8,18,0,0,0,75,20,27,42.6,misc
+GER-Bundesliga,2023,Köln,Julian Chabot,GER,DF,25,1998,30.0,9,1,1,28,42,4,4,45,42,0,0,0,149,101,38,72.7,misc
+GER-Bundesliga,2023,Köln,Justin Diehl,GER,"FW,MF",18,2004,1.9,0,0,0,2,4,0,18,0,0,0,0,0,8,0,2,0.0,misc
+GER-Bundesliga,2023,Köln,Leart Paqarada,KVX,DF,28,1994,11.9,0,0,0,7,8,1,92,10,11,0,0,0,56,9,21,30.0,misc
+GER-Bundesliga,2023,Köln,Linton Maina,GER,"FW,MF",24,1999,21.1,4,0,0,10,17,5,74,6,15,0,0,0,92,0,14,0.0,misc
+GER-Bundesliga,2023,Köln,Luca Kilian,GER,DF,23,1999,7.1,1,0,0,4,0,0,1,7,9,0,0,0,24,10,7,58.8,misc
+GER-Bundesliga,2023,Köln,Luca Waldschmidt,GER,"MF,FW",27,1996,12.7,0,0,0,20,15,5,39,6,12,1,0,0,64,7,9,43.8,misc
+GER-Bundesliga,2023,Köln,Mark Uth,GER,"MF,FW",31,1991,4.1,2,0,0,9,12,0,31,1,4,0,0,0,24,3,3,50.0,misc
+GER-Bundesliga,2023,Köln,Marvin Schwäbe,GER,GK,28,1995,34.0,0,0,0,0,1,0,0,0,0,0,0,0,35,5,3,62.5,misc
+GER-Bundesliga,2023,Köln,Mathias Olesen,LUX,"MF,FW",22,2001,1.2,2,1,1,3,2,0,1,2,0,0,0,0,14,1,3,25.0,misc
+GER-Bundesliga,2023,Köln,Max Finkgräfe,GER,"DF,FW",19,2004,19.5,4,0,0,19,21,0,61,22,39,0,0,0,104,23,27,46.0,misc
+GER-Bundesliga,2023,Köln,Rasmus Carstensen,DEN,"DF,FW",22,2000,18.4,2,1,1,22,13,3,58,20,22,0,1,0,95,16,19,45.7,misc
+GER-Bundesliga,2023,Köln,Sargis Adamyan,ARM,"FW,MF",30,1993,8.9,2,0,0,18,13,8,4,5,9,1,0,0,30,14,37,27.5,misc
+GER-Bundesliga,2023,Köln,Steffen Tigges,GER,FW,25,1998,8.1,0,0,0,7,8,2,7,1,6,0,0,0,25,38,41,48.1,misc
+GER-Bundesliga,2023,Köln,Timo Hübers,GER,DF,27,1996,30.9,6,0,0,44,25,1,3,63,47,1,0,0,211,99,49,66.9,misc
+GER-Bundesliga,2023,Leverkusen,Adam Hložek,CZE,"MF,FW",21,2002,5.1,1,0,0,8,7,1,0,2,4,0,0,0,20,8,10,44.4,misc
+GER-Bundesliga,2023,Leverkusen,Amine Adli,MAR,"MF,FW",23,2000,10.0,5,0,0,14,28,7,23,6,7,0,0,0,36,21,22,48.8,misc
+GER-Bundesliga,2023,Leverkusen,Arthur,BRA,DF,20,2003,2.0,0,0,0,2,0,0,7,0,3,0,0,0,10,2,3,40.0,misc
+GER-Bundesliga,2023,Leverkusen,Borja Iglesias,ESP,FW,30,1993,2.8,0,0,0,2,3,1,1,1,0,0,0,0,5,4,6,40.0,misc
+GER-Bundesliga,2023,Leverkusen,Edmond Tapsoba,BFA,DF,24,1999,23.2,4,0,0,25,4,1,5,24,25,0,0,0,175,40,38,51.3,misc
+GER-Bundesliga,2023,Leverkusen,Exequiel Palacios,ARG,MF,24,1998,20.3,6,0,0,16,55,0,6,29,34,0,0,0,163,8,8,50.0,misc
+GER-Bundesliga,2023,Leverkusen,Florian Wirtz,GER,MF,20,2003,26.4,3,0,0,23,27,6,36,9,18,0,0,0,143,9,15,37.5,misc
+GER-Bundesliga,2023,Leverkusen,Granit Xhaka,SUI,MF,30,1992,31.3,5,0,0,30,43,0,10,19,21,0,0,0,226,26,22,54.2,misc
+GER-Bundesliga,2023,Leverkusen,Gustavo Puerta,COL,"DF,MF",20,2003,0.5,0,0,0,2,1,0,1,0,3,0,0,0,4,1,1,50.0,misc
+GER-Bundesliga,2023,Leverkusen,Jeremie Frimpong,NED,DF,22,2000,25.0,6,0,0,21,34,12,93,7,17,1,0,0,94,13,13,50.0,misc
+GER-Bundesliga,2023,Leverkusen,Jonas Hofmann,GER,MF,31,1992,24.5,3,0,0,14,19,13,126,8,14,2,0,0,77,2,8,20.0,misc
+GER-Bundesliga,2023,Leverkusen,Jonathan Tah,GER,DF,27,1996,29.2,6,0,0,33,4,1,3,23,9,0,0,0,161,62,22,73.8,misc
+GER-Bundesliga,2023,Leverkusen,Josip Stanišić,CRO,DF,23,2000,14.0,3,0,0,5,7,1,16,9,20,0,0,0,87,12,14,46.2,misc
+GER-Bundesliga,2023,Leverkusen,Lukáš Hrádecký,FIN,GK,33,1989,33.0,2,0,0,0,1,0,0,0,0,0,0,0,51,8,1,88.9,misc
+GER-Bundesliga,2023,Leverkusen,Matej Kovar,CZE,GK,23,2000,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Leverkusen,Nadiem Amiri,GER,MF,26,1996,1.0,0,0,0,1,3,0,1,0,2,0,0,0,8,0,0,,misc
+GER-Bundesliga,2023,Leverkusen,Nathan Tella,NGA,"DF,MF",24,1999,9.1,2,0,0,11,18,4,27,3,8,2,0,0,30,5,9,35.7,misc
+GER-Bundesliga,2023,Leverkusen,Noah Mbamba,BEL,MF,18,2005,0.2,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Leverkusen,Odilon Kossounou,CIV,DF,22,2001,20.1,3,0,0,17,7,0,2,27,20,0,0,0,132,23,17,57.5,misc
+GER-Bundesliga,2023,Leverkusen,Patrik Schick,CZE,FW,27,1996,11.8,1,0,0,11,13,5,1,1,4,1,0,0,24,24,21,53.3,misc
+GER-Bundesliga,2023,Leverkusen,Piero Hincapié,ECU,DF,21,2002,16.5,2,0,0,16,11,0,8,13,22,0,0,0,78,36,27,57.1,misc
+GER-Bundesliga,2023,Leverkusen,Robert Andrich,GER,"MF,DF",28,1994,18.8,4,0,0,23,14,0,14,20,18,0,0,0,122,20,22,47.6,misc
+GER-Bundesliga,2023,Leverkusen,Victor Boniface,NGA,FW,22,2000,17.2,2,0,0,16,17,18,3,0,4,0,0,0,31,27,18,60.0,misc
+GER-Bundesliga,2023,Leverkusen,Álex Grimaldo,ESP,DF,27,1995,30.9,1,0,0,14,26,3,202,22,24,1,0,0,168,12,19,38.7,misc
+GER-Bundesliga,2023,Mainz 05,Andreas Hanche-Olsen,NOR,DF,26,1997,11.0,5,0,0,13,8,1,0,11,12,0,1,0,38,29,15,65.9,misc
+GER-Bundesliga,2023,Mainz 05,Anthony Caci,FRA,DF,26,1997,27.6,8,0,0,34,15,0,73,32,23,0,1,0,173,29,29,50.0,misc
+GER-Bundesliga,2023,Mainz 05,Anton Stach,GER,MF,24,1998,1.9,0,0,0,2,4,0,2,2,0,0,0,0,13,12,9,57.1,misc
+GER-Bundesliga,2023,Mainz 05,Anwar El Ghazi,NED,"MF,DF",28,1995,0.6,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,,misc
+GER-Bundesliga,2023,Mainz 05,Aymen Barkok,MAR,"MF,FW",25,1998,3.6,2,0,0,15,3,0,13,2,5,0,0,0,18,11,14,44.0,misc
+GER-Bundesliga,2023,Mainz 05,Brajan Gruda,GER,"MF,FW",19,2004,18.2,5,0,0,28,47,9,53,5,14,1,0,0,97,15,31,32.6,misc
+GER-Bundesliga,2023,Mainz 05,Daniel Batz,GER,GK,32,1991,4.0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,100.0,misc
+GER-Bundesliga,2023,Mainz 05,Danny da Costa,GER,DF,30,1993,9.2,1,0,0,7,4,0,40,16,9,0,1,0,60,10,20,33.3,misc
+GER-Bundesliga,2023,Mainz 05,David Mamutovic,GER,"FW,DF",22,2000,0.1,0,0,0,0,2,0,1,0,1,0,0,0,2,0,1,0.0,misc
+GER-Bundesliga,2023,Mainz 05,Dominik Kohr,GER,"DF,MF",29,1994,24.3,15,1,1,48,26,0,22,43,42,0,0,0,134,42,41,50.6,misc
+GER-Bundesliga,2023,Mainz 05,Edimilson Fernandes,SUI,DF,27,1996,14.3,4,0,0,10,8,2,53,22,16,0,0,0,88,19,19,50.0,misc
+GER-Bundesliga,2023,Mainz 05,Jessic Ngankam,GER,"FW,MF",23,2000,2.0,0,1,0,8,3,1,1,3,1,0,0,0,7,2,7,22.2,misc
+GER-Bundesliga,2023,Mainz 05,Jonathan Burkardt,GER,"FW,MF",23,2000,17.1,2,0,0,19,36,3,33,3,8,0,0,0,65,13,73,15.1,misc
+GER-Bundesliga,2023,Mainz 05,Josuha Guilavogui,FRA,DF,32,1990,4.5,1,0,0,5,2,0,0,13,10,0,0,0,29,7,6,53.8,misc
+GER-Bundesliga,2023,Mainz 05,Karim Onisiwo,AUT,"FW,MF",31,1992,16.6,1,0,0,31,44,15,21,2,8,0,0,0,40,33,65,33.7,misc
+GER-Bundesliga,2023,Mainz 05,Leandro Barreiro Martins,LUX,MF,23,2000,29.0,8,0,0,58,52,3,5,36,40,0,0,0,144,39,63,38.2,misc
+GER-Bundesliga,2023,Mainz 05,Lee Jae-sung,KOR,"MF,FW",30,1992,23.5,6,0,0,19,27,9,17,27,20,2,0,0,95,33,64,34.0,misc
+GER-Bundesliga,2023,Mainz 05,Ludovic Ajorque,FRA,FW,29,1994,15.1,4,0,0,28,15,5,3,4,2,0,0,0,49,78,91,46.2,misc
+GER-Bundesliga,2023,Mainz 05,Marco Richter,GER,"MF,FW",25,1997,8.0,3,0,0,10,17,3,36,2,4,0,0,0,37,3,19,13.6,misc
+GER-Bundesliga,2023,Mainz 05,Marcus Müller,GER,MF,20,2002,0.2,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,75.0,misc
+GER-Bundesliga,2023,Mainz 05,Maxim Leitsch,GER,DF,25,1998,4.2,0,0,0,2,2,0,0,4,3,0,0,0,28,13,6,68.4,misc
+GER-Bundesliga,2023,Mainz 05,Merveille Papela,GER,"MF,DF",22,2001,2.9,1,0,0,6,1,0,2,4,4,0,0,0,16,4,7,36.4,misc
+GER-Bundesliga,2023,Mainz 05,Nadiem Amiri,GER,MF,26,1996,14.6,5,0,0,11,32,1,126,14,14,0,0,0,93,10,5,66.7,misc
+GER-Bundesliga,2023,Mainz 05,Nelson Weiper,GER,"FW,MF",18,2005,1.4,0,0,0,0,0,0,0,1,1,0,0,0,6,3,12,20.0,misc
+GER-Bundesliga,2023,Mainz 05,Phillipp Mwene,AUT,DF,29,1994,22.2,4,1,0,34,13,3,86,17,15,1,0,0,88,18,18,50.0,misc
+GER-Bundesliga,2023,Mainz 05,Robin Zentner,GER,GK,28,1994,30.0,3,0,0,1,4,0,0,1,2,0,1,0,36,9,1,90.0,misc
+GER-Bundesliga,2023,Mainz 05,Sepp van den Berg,NED,DF,21,2001,31.5,9,0,0,31,18,0,2,43,23,0,0,1,176,171,78,68.7,misc
+GER-Bundesliga,2023,Mainz 05,Silvan Widmer,SUI,DF,30,1993,13.8,4,0,0,10,3,3,35,16,10,0,0,0,61,19,32,37.3,misc
+GER-Bundesliga,2023,Mainz 05,Stefan Bell,GER,DF,31,1991,7.4,3,0,0,10,8,1,1,6,8,0,0,0,38,24,23,51.1,misc
+GER-Bundesliga,2023,Mainz 05,Tom Krauß,GER,MF,22,2001,15.0,5,0,0,31,16,0,7,17,33,0,0,0,148,15,11,57.7,misc
+GER-Bundesliga,2023,RB Leipzig,Amadou Haidara,MLI,MF,25,1998,17.0,5,0,0,14,15,2,4,21,27,1,0,0,96,34,18,65.4,misc
+GER-Bundesliga,2023,RB Leipzig,Benjamin Henrichs,GER,DF,26,1997,28.1,5,0,0,27,34,2,67,33,39,0,2,0,163,23,22,51.1,misc
+GER-Bundesliga,2023,RB Leipzig,Benjamin Šeško,SVN,FW,20,2003,17.0,0,0,0,14,10,12,4,3,5,0,0,0,28,38,29,56.7,misc
+GER-Bundesliga,2023,RB Leipzig,Castello Lukeba,FRA,DF,20,2002,24.3,3,0,0,8,23,1,5,12,12,0,0,0,158,32,27,54.2,misc
+GER-Bundesliga,2023,RB Leipzig,Christoph Baumgartner,AUT,"MF,FW",23,1999,12.9,3,0,0,27,27,1,8,5,13,1,0,0,40,20,29,40.8,misc
+GER-Bundesliga,2023,RB Leipzig,Christopher Lenz,GER,"DF,MF",28,1994,0.5,0,0,0,2,0,0,5,2,1,0,0,0,3,2,1,66.7,misc
+GER-Bundesliga,2023,RB Leipzig,Dani Olmo,ESP,MF,25,1998,16.1,0,0,0,15,17,1,21,13,18,0,0,0,75,11,19,36.7,misc
+GER-Bundesliga,2023,RB Leipzig,David Raum,GER,DF,25,1998,30.4,6,0,0,28,12,4,306,27,35,0,0,0,169,27,20,57.4,misc
+GER-Bundesliga,2023,RB Leipzig,El Chadaille Bitshiabu,FRA,"DF,MF",18,2005,0.4,0,0,0,0,0,0,2,1,0,0,0,0,6,0,3,0.0,misc
+GER-Bundesliga,2023,RB Leipzig,Elif Elmas,MKD,"MF,FW",23,1999,3.0,0,0,0,4,4,0,0,1,6,0,0,0,9,0,2,0.0,misc
+GER-Bundesliga,2023,RB Leipzig,Emil Forsberg,SWE,"MF,FW",31,1991,5.2,0,0,0,4,9,0,8,0,3,0,0,0,19,2,3,40.0,misc
+GER-Bundesliga,2023,RB Leipzig,Fabio Carvalho,POR,MF,20,2002,1.8,0,0,0,0,3,0,6,0,1,0,0,0,12,2,3,40.0,misc
+GER-Bundesliga,2023,RB Leipzig,Janis Blaswich,GER,GK,32,1991,21.0,0,0,0,0,2,0,0,0,1,0,0,0,42,7,2,77.8,misc
+GER-Bundesliga,2023,RB Leipzig,Jonathan Norbye,NOR,MF,16,2007,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,RB Leipzig,Kevin Kampl,SVN,MF,32,1990,15.1,3,0,0,16,3,0,11,11,8,0,1,0,102,3,10,23.1,misc
+GER-Bundesliga,2023,RB Leipzig,Loïs Openda,BEL,FW,23,2000,30.0,4,0,0,38,64,33,32,5,3,1,1,0,59,22,31,41.5,misc
+GER-Bundesliga,2023,RB Leipzig,Lukas Klostermann,GER,DF,27,1996,16.0,3,0,0,11,5,1,8,13,10,0,0,0,81,16,32,33.3,misc
+GER-Bundesliga,2023,RB Leipzig,Mohamed Simakan,FRA,DF,23,2000,23.8,8,0,0,35,25,3,18,29,29,1,1,0,113,60,36,62.5,misc
+GER-Bundesliga,2023,RB Leipzig,Nicolas Seiwald,AUT,MF,22,2001,8.0,1,0,0,5,1,0,4,8,18,0,0,1,50,6,8,42.9,misc
+GER-Bundesliga,2023,RB Leipzig,Nuha Jatta,GAM,FW,17,2006,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,RB Leipzig,Péter Gulácsi,HUN,GK,33,1990,13.0,0,0,0,0,0,0,0,0,0,0,0,0,12,6,0,100.0,misc
+GER-Bundesliga,2023,RB Leipzig,Timo Werner,GER,"FW,MF",27,1996,2.3,0,0,0,2,0,0,4,1,1,0,0,0,7,0,2,0.0,misc
+GER-Bundesliga,2023,RB Leipzig,Willi Orban,HUN,DF,30,1992,17.6,2,0,0,16,10,0,1,16,12,0,0,0,87,54,28,65.9,misc
+GER-Bundesliga,2023,RB Leipzig,Xaver Schlager,AUT,MF,25,1997,27.5,7,0,0,34,25,2,14,19,50,0,0,0,203,23,18,56.1,misc
+GER-Bundesliga,2023,RB Leipzig,Xavi Simons,NED,MF,20,2003,29.5,11,1,1,32,70,1,76,16,17,2,0,0,167,19,17,52.8,misc
+GER-Bundesliga,2023,RB Leipzig,Yussuf Poulsen,DEN,FW,29,1994,13.5,0,0,0,22,29,4,4,4,8,1,0,0,42,19,34,35.8,misc
+GER-Bundesliga,2023,Stuttgart,Alexander Nübel,GER,GK,26,1996,30.0,1,0,0,0,4,0,0,0,2,0,0,1,65,8,1,88.9,misc
+GER-Bundesliga,2023,Stuttgart,Angelo Stiller,GER,MF,22,2001,29.9,5,0,0,36,33,0,81,28,33,0,0,0,196,30,30,50.0,misc
+GER-Bundesliga,2023,Stuttgart,Anthony Rouault,FRA,DF,22,2001,11.2,3,0,0,9,4,1,3,8,12,0,1,0,58,19,27,41.3,misc
+GER-Bundesliga,2023,Stuttgart,Atakan Karazor,,MF,26,1996,29.1,9,0,0,28,61,0,4,27,44,0,0,0,174,44,38,53.7,misc
+GER-Bundesliga,2023,Stuttgart,Borna Sosa,CRO,"FW,DF",25,1998,0.5,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Stuttgart,Chris Führich,GER,"FW,MF",25,1998,28.5,2,0,0,6,10,3,100,7,19,0,0,0,119,4,14,22.2,misc
+GER-Bundesliga,2023,Stuttgart,Dan-Axel Zagadou,FRA,DF,24,1999,16.1,1,0,0,17,3,1,0,20,14,0,0,1,109,60,13,82.2,misc
+GER-Bundesliga,2023,Stuttgart,Deniz Undav,GER,"FW,MF",27,1996,23.2,5,0,0,29,27,3,7,6,13,2,0,0,71,17,33,34.0,misc
+GER-Bundesliga,2023,Stuttgart,Enzo Millot,FRA,"MF,FW",21,2002,24.9,5,0,0,36,35,4,38,16,22,1,0,0,135,7,30,18.9,misc
+GER-Bundesliga,2023,Stuttgart,Fabian Bredlow,GER,GK,28,1995,4.0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,,misc
+GER-Bundesliga,2023,Stuttgart,Genki Haraguchi,JPN,MF,32,1991,0.3,0,0,0,2,0,0,0,0,1,0,0,0,2,0,0,,misc
+GER-Bundesliga,2023,Stuttgart,Hiroki Ito,JPN,DF,24,1999,24.8,1,0,0,17,8,2,23,29,18,0,0,0,125,30,38,44.1,misc
+GER-Bundesliga,2023,Stuttgart,Jamie Leweling,GER,"FW,MF",22,2001,16.9,3,0,0,22,23,8,46,5,10,0,1,0,74,4,13,23.5,misc
+GER-Bundesliga,2023,Stuttgart,Jeong Woo-yeong,KOR,"MF,FW",23,1999,7.0,1,0,0,4,9,2,8,7,9,0,0,0,28,3,11,21.4,misc
+GER-Bundesliga,2023,Stuttgart,Josha Vagnoman,GER,DF,22,2000,13.1,2,0,0,11,8,2,22,2,18,0,0,0,58,8,15,34.8,misc
+GER-Bundesliga,2023,Stuttgart,Jovan Milošević,SRB,"FW,MF",18,2005,0.3,0,0,0,1,1,0,0,0,0,0,0,0,1,0,3,0.0,misc
+GER-Bundesliga,2023,Stuttgart,Leonidas Stergiou,SUI,DF,21,2002,6.6,0,0,0,5,1,0,12,5,8,0,0,0,27,4,9,30.8,misc
+GER-Bundesliga,2023,Stuttgart,Lilian Egloff,GER,"MF,DF",20,2002,1.2,1,0,0,2,2,0,0,1,1,0,0,0,8,0,0,,misc
+GER-Bundesliga,2023,Stuttgart,Luca Raimund,GER,"FW,MF",18,2005,0.3,1,0,0,2,0,0,1,0,1,0,0,0,1,1,1,50.0,misc
+GER-Bundesliga,2023,Stuttgart,Mahmoud Dahoud,GER,MF,27,1996,2.5,0,0,0,0,2,0,6,0,1,0,0,0,23,2,5,28.6,misc
+GER-Bundesliga,2023,Stuttgart,Maximilian Mittelstädt,GER,DF,26,1997,23.4,5,0,0,28,31,1,105,46,51,0,0,0,140,30,20,60.0,misc
+GER-Bundesliga,2023,Stuttgart,Pascal Stenzel,GER,DF,27,1996,11.8,3,1,1,16,11,0,26,15,8,0,0,0,49,9,17,34.6,misc
+GER-Bundesliga,2023,Stuttgart,Roberto Massimo,GER,"FW,DF",22,2000,0.9,1,0,0,2,1,0,0,0,0,0,0,0,8,1,3,25.0,misc
+GER-Bundesliga,2023,Stuttgart,Samuele Di Benedetto,GER,MF,18,2005,0.1,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Stuttgart,Serhou Guirassy,GUI,FW,27,1996,24.5,0,0,0,18,55,18,1,6,3,2,0,0,39,65,55,54.2,misc
+GER-Bundesliga,2023,Stuttgart,Silas Katompa,COD,"FW,MF",24,1998,10.0,0,0,0,13,15,5,28,0,3,1,0,0,37,5,11,31.3,misc
+GER-Bundesliga,2023,Stuttgart,Waldemar Anton,GER,DF,27,1996,32.1,7,0,0,25,26,0,14,40,25,1,1,1,203,79,42,65.3,misc
+GER-Bundesliga,2023,Union Berlin,Alex Král,CZE,MF,25,1998,15.2,2,0,0,16,13,2,17,11,14,0,0,0,85,16,17,48.5,misc
+GER-Bundesliga,2023,Union Berlin,Alexander Schwolow,GER,GK,31,1992,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Union Berlin,Aljoscha Kemlein,GER,MF,18,2004,0.3,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2,0.0,misc
+GER-Bundesliga,2023,Union Berlin,András Schäfer,HUN,MF,24,1999,13.5,1,1,0,22,17,2,18,20,16,0,0,0,74,22,24,47.8,misc
+GER-Bundesliga,2023,Union Berlin,Aïssa Laïdouni,TUN,MF,26,1996,11.9,2,0,0,20,27,0,22,12,12,0,0,0,80,12,14,46.2,misc
+GER-Bundesliga,2023,Union Berlin,Benedict Hollerbach,GER,"FW,MF",22,2001,14.2,2,0,0,29,20,4,44,4,11,0,0,0,59,19,38,33.3,misc
+GER-Bundesliga,2023,Union Berlin,Brenden Aaronson,USA,"MF,FW",22,2000,14.1,3,1,1,15,25,5,22,2,18,0,0,0,88,13,16,44.8,misc
+GER-Bundesliga,2023,Union Berlin,Chris Bedia,CIV,"FW,MF",27,1996,1.6,0,0,0,7,2,0,0,0,1,0,0,0,2,3,7,30.0,misc
+GER-Bundesliga,2023,Union Berlin,Christopher Trimmel,AUT,DF,36,1987,18.3,2,1,0,13,4,3,165,13,15,1,1,0,78,26,20,56.5,misc
+GER-Bundesliga,2023,Union Berlin,Danilho Doekhi,NED,DF,25,1998,24.0,2,0,0,13,20,0,4,38,23,1,0,0,68,53,42,55.8,misc
+GER-Bundesliga,2023,Union Berlin,David Datro Fofana,CIV,"FW,MF",20,2002,7.6,0,0,0,8,12,4,11,0,7,0,0,0,25,10,17,37.0,misc
+GER-Bundesliga,2023,Union Berlin,Diogo Leite,POR,DF,24,1999,30.0,6,0,0,40,31,1,4,47,36,0,2,0,145,71,44,61.7,misc
+GER-Bundesliga,2023,Union Berlin,Frederik Rønnow,DEN,GK,30,1992,33.0,2,0,0,0,4,0,0,1,1,0,0,0,46,10,1,90.9,misc
+GER-Bundesliga,2023,Union Berlin,Janik Haberer,GER,"MF,DF",29,1994,13.6,7,0,0,22,16,1,15,12,24,0,0,0,95,20,19,51.3,misc
+GER-Bundesliga,2023,Union Berlin,Jordan Pefok,USA,FW,27,1996,0.3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0.0,misc
+GER-Bundesliga,2023,Union Berlin,Josip Juranović,CRO,DF,27,1995,14.4,4,0,0,4,10,0,104,12,14,0,0,0,87,3,4,42.9,misc
+GER-Bundesliga,2023,Union Berlin,Jérôme Roussillon,FRA,DF,30,1993,8.4,2,0,0,4,10,0,21,5,9,0,0,0,52,9,8,52.9,misc
+GER-Bundesliga,2023,Union Berlin,Kevin Behrens,GER,FW,32,1991,14.0,3,0,0,22,20,8,6,6,10,0,0,0,36,92,81,53.2,misc
+GER-Bundesliga,2023,Union Berlin,Kevin Vogt,GER,DF,31,1991,14.7,5,0,0,17,8,1,0,7,9,0,0,0,74,15,11,57.7,misc
+GER-Bundesliga,2023,Union Berlin,Kevin Volland,GER,"FW,MF",31,1992,14.9,3,2,1,28,13,7,56,6,9,0,0,0,56,23,41,35.9,misc
+GER-Bundesliga,2023,Union Berlin,Leonardo Bonucci,ITA,DF,36,1987,5.1,0,0,0,2,1,0,6,7,5,0,1,0,32,5,7,41.7,misc
+GER-Bundesliga,2023,Union Berlin,Lucas Tousart,FRA,MF,26,1997,17.5,5,0,0,31,8,0,9,25,20,0,0,0,93,38,38,50.0,misc
+GER-Bundesliga,2023,Union Berlin,Mikkel Kaufmann,DEN,FW,22,2001,5.4,0,0,0,7,10,0,5,1,3,0,0,0,19,26,34,43.3,misc
+GER-Bundesliga,2023,Union Berlin,Miloš Pantović,SRB,MF,27,1996,0.2,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,,misc
+GER-Bundesliga,2023,Union Berlin,Paul Jaeckel,GER,DF,25,1998,2.6,0,0,0,0,2,0,0,4,2,0,0,0,14,5,2,71.4,misc
+GER-Bundesliga,2023,Union Berlin,Rani Khedira,GER,MF,29,1994,14.9,5,1,0,25,14,1,6,22,22,0,1,0,74,19,18,51.4,misc
+GER-Bundesliga,2023,Union Berlin,Robin Gosens,GER,"DF,MF",29,1994,25.4,9,1,1,29,24,17,64,36,44,0,1,0,100,60,44,57.7,misc
+GER-Bundesliga,2023,Union Berlin,Robin Knoche,GER,DF,31,1992,21.3,1,0,0,10,10,0,3,13,22,0,1,1,152,46,41,52.9,misc
+GER-Bundesliga,2023,Union Berlin,Sheraldo Becker,SUR,"FW,MF",28,1995,7.2,0,0,0,6,5,4,57,0,3,1,0,0,48,0,8,0.0,misc
+GER-Bundesliga,2023,Union Berlin,Yorbe Vertessen,BEL,"FW,MF",22,2001,6.6,1,0,0,8,11,1,3,1,2,0,0,0,20,4,19,17.4,misc
+GER-Bundesliga,2023,Werder Bremen,Amos Pieper,GER,DF,25,1998,6.6,0,0,0,5,5,0,2,9,11,0,0,0,39,26,14,65.0,misc
+GER-Bundesliga,2023,Werder Bremen,Anthony Jung,GER,DF,31,1991,28.7,4,1,0,15,15,1,23,24,23,0,1,0,142,44,26,62.9,misc
+GER-Bundesliga,2023,Werder Bremen,Christian Groß,GER,"DF,MF",34,1989,8.9,1,0,0,15,5,2,8,13,16,0,1,0,54,16,28,36.4,misc
+GER-Bundesliga,2023,Werder Bremen,Dawid Kownacki,POL,FW,26,1997,4.2,0,0,0,9,9,1,3,0,1,0,0,0,8,29,29,50.0,misc
+GER-Bundesliga,2023,Werder Bremen,Felix Agu,GER,"DF,MF",23,1999,17.9,2,0,0,15,44,2,46,13,29,3,0,0,71,15,24,38.5,misc
+GER-Bundesliga,2023,Werder Bremen,Ilia Gruev,BUL,MF,23,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Werder Bremen,Isak Hansen-Aarøen,NOR,MF,18,2004,0.3,1,0,0,1,0,0,0,1,0,0,0,0,4,0,0,,misc
+GER-Bundesliga,2023,Werder Bremen,Jens Stage,DEN,MF,26,1996,25.9,5,1,0,49,39,2,10,23,22,1,0,0,165,63,34,64.9,misc
+GER-Bundesliga,2023,Werder Bremen,Jiří Pavlenka,CZE,GK,31,1992,7.0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,0,100.0,misc
+GER-Bundesliga,2023,Werder Bremen,Joel Imasuen,USA,FW,18,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Werder Bremen,Julián Malatini,ARG,DF,22,2001,6.7,1,0,0,10,1,0,6,13,13,0,1,0,31,9,10,47.4,misc
+GER-Bundesliga,2023,Werder Bremen,Justin Njinmah,GER,FW,22,2000,11.3,1,0,0,6,20,9,10,2,1,0,0,0,34,8,15,34.8,misc
+GER-Bundesliga,2023,Werder Bremen,Leon Opitz,GER,"FW,DF",18,2005,0.2,0,0,0,0,0,0,2,0,2,0,0,0,2,0,0,,misc
+GER-Bundesliga,2023,Werder Bremen,Leonardo Bittencourt,GER,MF,29,1993,17.5,9,0,0,34,31,2,40,13,18,0,0,0,110,6,16,27.3,misc
+GER-Bundesliga,2023,Werder Bremen,Marco Friedl,AUT,DF,25,1998,24.4,6,0,0,31,17,1,4,35,32,0,1,0,138,40,41,49.4,misc
+GER-Bundesliga,2023,Werder Bremen,Marvin Ducksch,GER,FW,29,1994,30.0,9,0,0,6,18,18,159,4,3,1,0,0,83,21,42,33.3,misc
+GER-Bundesliga,2023,Werder Bremen,Michael Zetterer,GER,GK,28,1995,27.0,2,0,0,0,7,0,0,0,1,0,0,0,20,13,3,81.3,misc
+GER-Bundesliga,2023,Werder Bremen,Miloš Veljković,SRB,DF,27,1995,21.3,2,0,0,9,5,0,20,17,15,0,0,0,95,38,44,46.3,misc
+GER-Bundesliga,2023,Werder Bremen,Mitchell Weiser,GER,"DF,MF",29,1994,29.3,5,0,0,29,39,4,82,20,38,0,0,0,171,23,40,36.5,misc
+GER-Bundesliga,2023,Werder Bremen,Naby Keïta,GUI,"MF,DF",28,1995,1.2,2,0,0,2,1,0,0,2,1,0,0,0,14,0,3,0.0,misc
+GER-Bundesliga,2023,Werder Bremen,Nick Woltemade,GER,"FW,MF",21,2002,13.2,1,0,0,22,23,6,3,5,23,0,0,0,69,28,43,39.4,misc
+GER-Bundesliga,2023,Werder Bremen,Niclas Füllkrug,GER,FW,30,1993,2.0,0,0,0,2,7,3,0,0,1,0,0,0,3,12,11,52.2,misc
+GER-Bundesliga,2023,Werder Bremen,Nicolai Rapp,GER,DF,26,1996,0.8,1,0,0,2,0,0,0,2,2,0,0,0,10,1,0,100.0,misc
+GER-Bundesliga,2023,Werder Bremen,Niklas Stark,GER,DF,28,1995,12.1,4,0,0,20,16,1,0,19,15,0,1,0,54,29,23,55.8,misc
+GER-Bundesliga,2023,Werder Bremen,Oliver Burke,SCO,FW,26,1997,0.4,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,,misc
+GER-Bundesliga,2023,Werder Bremen,Olivier Deman,BEL,DF,23,2000,15.2,5,0,0,27,13,0,45,14,15,0,1,1,80,16,18,47.1,misc
+GER-Bundesliga,2023,Werder Bremen,Rafael Borré,COL,FW,27,1995,11.0,0,0,0,17,8,14,12,2,7,0,0,0,34,26,31,45.6,misc
+GER-Bundesliga,2023,Werder Bremen,Romano Schmid,AUT,"MF,FW",23,2000,28.9,5,0,0,33,53,4,62,11,20,0,0,0,189,24,50,32.4,misc
+GER-Bundesliga,2023,Werder Bremen,Senne Lynen,BEL,MF,24,1999,20.0,6,0,0,35,17,0,4,41,38,0,0,0,118,12,29,29.3,misc
+GER-Bundesliga,2023,Werder Bremen,Skelly Alvero,FRA,MF,21,2002,1.4,1,0,0,2,3,0,0,1,4,0,0,0,9,6,1,85.7,misc
+GER-Bundesliga,2023,Wolfsburg,Amin Sarr,SWE,"FW,MF",22,2001,4.3,0,0,0,3,3,2,1,2,2,0,0,0,14,13,11,54.2,misc
+GER-Bundesliga,2023,Wolfsburg,Aster Vranckx,BEL,MF,20,2002,12.8,6,0,0,29,24,0,10,14,15,0,0,0,72,15,6,71.4,misc
+GER-Bundesliga,2023,Wolfsburg,Bennit Bröger,GER,FW,17,2006,0.1,0,0,0,1,2,0,0,0,0,0,0,0,2,0,2,0.0,misc
+GER-Bundesliga,2023,Wolfsburg,Cedric Zesiger,SUI,DF,25,1998,18.2,5,0,0,24,10,0,5,15,9,0,1,0,66,39,16,70.9,misc
+GER-Bundesliga,2023,Wolfsburg,Dženan Pejčinović,GER,FW,18,2005,0.4,1,0,0,2,0,0,0,0,0,0,0,0,2,1,2,33.3,misc
+GER-Bundesliga,2023,Wolfsburg,Jakub Kamiński,POL,"FW,MF",21,2002,5.3,0,0,0,3,5,2,16,2,5,0,0,0,24,4,12,25.0,misc
+GER-Bundesliga,2023,Wolfsburg,Joakim Mæhle,DEN,"DF,MF",26,1997,27.2,5,0,0,19,15,2,60,29,39,0,1,0,134,22,24,47.8,misc
+GER-Bundesliga,2023,Wolfsburg,Jonas Wind,DEN,FW,24,1999,29.5,3,0,0,28,45,9,8,3,10,0,0,0,60,90,85,51.4,misc
+GER-Bundesliga,2023,Wolfsburg,Kevin Behrens,GER,FW,32,1991,6.8,1,0,0,8,5,4,4,3,1,0,0,0,15,32,26,55.2,misc
+GER-Bundesliga,2023,Wolfsburg,Kevin Paredes,USA,"FW,MF",20,2003,15.9,4,0,0,11,53,5,33,23,21,1,0,0,62,10,14,41.7,misc
+GER-Bundesliga,2023,Wolfsburg,Kilian Fischer,GER,"DF,MF",22,2000,3.2,1,0,0,4,3,0,11,1,6,0,0,0,10,0,5,0.0,misc
+GER-Bundesliga,2023,Wolfsburg,Koen Casteels,BEL,GK,31,1992,25.0,2,0,0,1,3,0,0,0,1,0,1,0,33,8,0,100.0,misc
+GER-Bundesliga,2023,Wolfsburg,Kofi Amoako,GER,MF,18,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,misc
+GER-Bundesliga,2023,Wolfsburg,Lovro Majer,CRO,"MF,FW",25,1998,23.4,5,0,0,37,37,1,89,12,18,1,0,0,143,11,18,37.9,misc
+GER-Bundesliga,2023,Wolfsburg,Lukas Nmecha,GER,FW,24,1998,0.5,0,0,0,1,1,0,0,0,1,0,0,0,0,3,3,50.0,misc
+GER-Bundesliga,2023,Wolfsburg,Mattias Svanberg,SWE,MF,24,1999,19.1,8,0,0,42,32,2,55,21,17,1,0,0,98,20,11,64.5,misc
+GER-Bundesliga,2023,Wolfsburg,Maxence Lacroix,FRA,DF,23,2000,26.2,5,3,1,27,19,0,5,24,29,0,0,0,126,64,50,56.1,misc
+GER-Bundesliga,2023,Wolfsburg,Maximilian Arnold,GER,MF,29,1994,27.8,9,0,0,37,46,0,110,24,31,0,0,0,174,14,30,31.8,misc
+GER-Bundesliga,2023,Wolfsburg,Moritz Jenz,GER,DF,24,1999,19.4,7,1,1,26,3,0,0,26,24,0,0,1,81,48,22,68.6,misc
+GER-Bundesliga,2023,Wolfsburg,Nicolas Cozza,FRA,DF,24,1999,3.1,1,0,0,1,0,0,4,4,6,0,0,0,12,3,9,25.0,misc
+GER-Bundesliga,2023,Wolfsburg,Patrick Wimmer,AUT,"FW,MF",22,2001,6.5,3,1,0,14,11,1,12,3,5,0,0,0,27,13,9,59.1,misc
+GER-Bundesliga,2023,Wolfsburg,Pavao Pervan,AUT,GK,35,1987,9.0,1,0,0,0,1,0,0,0,0,0,0,0,7,1,0,100.0,misc
+GER-Bundesliga,2023,Wolfsburg,Ridle Baku,GER,"DF,MF",25,1998,22.4,4,0,0,24,35,3,54,21,20,0,0,0,124,21,27,43.8,misc
+GER-Bundesliga,2023,Wolfsburg,Rogério,BRA,DF,25,1998,10.1,0,0,0,7,12,0,27,5,6,0,0,0,55,7,14,33.3,misc
+GER-Bundesliga,2023,Wolfsburg,Sebastiaan Bornauw,BEL,DF,24,1999,15.9,5,0,0,27,5,1,1,18,12,0,0,2,66,29,24,54.7,misc
+GER-Bundesliga,2023,Wolfsburg,Tiago Tomás,POR,"FW,MF",21,2002,11.5,3,0,0,12,26,3,28,3,2,0,0,0,37,15,14,51.7,misc
+GER-Bundesliga,2023,Wolfsburg,Václav Černý,CZE,"FW,MF",25,1997,10.2,2,0,0,9,0,4,33,8,3,0,0,0,58,1,6,14.3,misc
+GER-Bundesliga,2023,Wolfsburg,Yannick Gerhardt,GER,"MF,DF",29,1994,18.1,5,0,0,18,16,2,27,7,20,0,0,0,78,28,27,50.9,misc
