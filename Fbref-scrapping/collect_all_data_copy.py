@@ -17,11 +17,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 LEAGUES = [
-    # "ENG-Premier League",
-    "ESP-La Liga",         # Spain - La Liga
-    "FRA-Ligue 1",         # France - Ligue 1
-    "GER-Bundesliga",      # Germany - Bundesliga
-    "ITA-Serie A",         # Italy - Serie A
+    "ENG-Premier League"
+    # "ESP-La Liga",         # Spain - La Liga
+    # "FRA-Ligue 1",         # France - Ligue 1
+    # "GER-Bundesliga",      # Germany - Bundesliga
+    # "ITA-Serie A",         # Italy - Serie A
 ]
 
 SEASONS = [2020, 2021, 2022, 2023, 2024]
@@ -112,7 +112,7 @@ def collect_all_data():
                 )
 
         # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        output_file = f"data/complete_dataset_{league}_{season}.csv"
+        output_file = f"Fbref-data/complete_dataset_{league}_{season}.csv"
         merged_df.to_csv(output_file, index=False)
         logger.info(f"Saved complete dataset to {output_file}")
         logger.info(f"Dataset contains {len(merged_df)} rows and {len(merged_df.columns)} columns")

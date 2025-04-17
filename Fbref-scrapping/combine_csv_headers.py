@@ -4,10 +4,10 @@ import csv
 import pandas as pd
 
 # Folder to search — current directory and subfolders
-BASE_DIR = 'data'
+BASE_DIR = 'Fbref-data'
 
 # Pattern to match CSV filenames
-pattern = os.path.join(BASE_DIR, '**', 'player_name_intermediate_*.csv')
+pattern = os.path.join(BASE_DIR, '**', 'player_name_intermediate_ENG-Premier-League_*.csv')
 
 # Find all matching CSV files (recursive)
 files = glob.glob(pattern, recursive=True)
