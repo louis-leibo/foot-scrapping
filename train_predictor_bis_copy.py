@@ -6,6 +6,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
+from sklearn.metrics import mean_absolute_error, r2_score
 from joblib import dump
 import time
 
@@ -37,7 +38,7 @@ preprocessor = ColumnTransformer([
 print("🔁 Building training pipeline with RandomForest...")
 pipeline = Pipeline([
     ("preprocessor", preprocessor),
-    ("regressor", RandomForestRegressor(n_estimators=50, random_state=42))
+    ("regressor", RandomForestRegressor(n_estimators=100, random_state=42))
 ])
 
 print("🔀 Splitting train/test...")
@@ -47,6 +48,10 @@ print(f"📊 Train size: {len(X_train):,}, Test size: {len(X_test):,}")
 print("🚀 Training model...")
 pipeline.fit(X_train, y_train)
 print("✅ Model training complete.")
+
+y_pred = pipeline.predict(X_test)
+print(f"📉 MAE: €{mean_absolute_error(y_test, y_pred):,.0f}")
+print(f"📈 R² Score: {r2_score(y_test, y_pred):.2f}")
 
 print("💾 Saving model to 'player_value_predictor.joblib'...")
 dump((pipeline, cat_cols, num_cols), "player_value_predictor_bis.joblib")

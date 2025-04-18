@@ -33,7 +33,7 @@ df = load_data()
 
 @st.cache_resource
 def load_model():
-    return load("player_value_predictor_bis.joblib")
+    return load("player_value_predictor_final_xgb.joblib")
 
 model, cat_cols, num_cols = load_model()
 
@@ -695,8 +695,22 @@ def show_time_series_tab():
                 model, forecast = train_and_forecast(time_series_data, forecast_periods=forecast_years)
                 
                 # Display forecast chart
-                fig = plot_plotly(model, forecast, xlabel='Season', ylabel='Market Value (€)')
+                # fig = plot_plotly(model, forecast, xlabel='Season', ylabel='Market Value (€)')
+                # Get historical data
+                historical = time_series_data.rename(columns={"y": "Market Value (€)", "ds": "Season"})
+                historical["Season"] = pd.to_datetime(historical["Season"]).dt.year
+                historical["Source"] = "Historical"
+
+                # Prepare forecast data
+                forecast_data = forecast[["ds", "yhat"]].rename(columns={"ds": "Season", "yhat": "Market Value (€)"})
+                forecast_data["Season"] = pd.to_datetime(forecast_data["Season"]).dt.year
+                forecast_data["Source"] = "Forecast"
+
+                # Combine
+                combined = pd.concat([historical, forecast_data], ignore_index=True)
                 
+                fig = go.Figure()
+
                 # Update title based on entity type
                 if entity_type == "Player":
                     title = f"Market Value Forecast for {entity_name}"
@@ -706,10 +720,42 @@ def show_time_series_tab():
                     title = f"Average Player Market Value Forecast for {entity_name}"
                 else:
                     title = "Overall Market Value Forecast"
-                
-                fig.update_layout(title=title)
-                
+
+                # Add Historical
+                fig.add_trace(go.Scatter(
+                    x=historical["Season"],
+                    y=historical["Market Value (€)"],
+                    mode='lines+markers',
+                    name='Historical',
+                    line=dict(color='blue'),
+                    showlegend=True
+                ))
+
+                # Add Forecast
+                fig.add_trace(go.Scatter(
+                    x=forecast_data["Season"],
+                    y=forecast_data["Market Value (€)"],
+                    mode='lines+markers',
+                    name='Forecast',
+                    line=dict(color='orange', dash='dash'),
+                    showlegend=True
+                ))
+
+                # Layout
+                fig.update_layout(
+                    title=title,
+                    xaxis_title="Season",
+                    yaxis_title="Market Value (€)",
+                    legend_title="Data Source",
+                    template="plotly_white"
+                )
+
                 st.plotly_chart(fig, use_container_width=True)
+
+                
+                # fig.update_layout(title=title)
+                
+                # st.plotly_chart(fig, use_container_width=True)
                 
                 # Display forecast data
                 st.subheader("Forecast Data")
@@ -1045,7 +1091,7 @@ with tab2:
                     st.session_state["num_cols"] = num_cols
                     
                     # Save to disk as well
-                    dump((pipeline, cat_cols, num_cols), "player_value_predictor_bis.joblib")
+                    dump((pipeline, cat_cols, num_cols), "player_value_predictor_final_xgb.joblib")
                     
                     st.success("✅ Model trained successfully!")
         
@@ -1061,8 +1107,8 @@ with tab2:
         if "model" not in st.session_state:
             try:
                 from pathlib import Path
-                if Path("player_value_predictor_bis.joblib").exists():
-                    loaded_model, cat_cols, num_cols = load("player_value_predictor_bis.joblib")
+                if Path("player_value_predictor_final_xgb.joblib").exists():
+                    loaded_model, cat_cols, num_cols = load("player_value_predictor_final_xgb.joblib")
                     st.session_state["model"] = loaded_model
                     st.session_state["cat_cols"] = cat_cols
                     st.session_state["num_cols"] = num_cols
@@ -1101,6 +1147,13 @@ with tab2:
                 # Get latest row to predict from
                 latest_row = player_data.iloc[-1:].copy()
                 
+                # Add engineered features used during training
+                latest_row["mv_lag1"] = player_data["Valeur marchande (euros)"].shift(1).iloc[-1]
+                latest_row["rolling_mv_2"] = player_data["Valeur marchande (euros)"].rolling(2).mean().iloc[-1]
+                latest_row["rolling_mv_3"] = player_data["Valeur marchande (euros)"].rolling(3).mean().iloc[-1]
+                latest_row["gls_per_90"] = latest_row["Performance Gls"] / (latest_row["Playing Time 90s"] + 1e-3)
+                latest_row["market_age_ratio"] = latest_row["Valeur marchande (euros)"] / (latest_row["age"] + 1e-3)
+
                 # Calculate performance trends (year-over-year changes)
                 if len(player_data) > 1:
                     previous_season = player_data.iloc[-2:-1]
@@ -1170,7 +1223,7 @@ with tab2:
 # === PLAYER COMPARISON TAB ===
 with tab3:
     st.subheader("🔄 Compare Players")
-    
+
     col1, col2 = st.columns(2)
     
     with col1:
