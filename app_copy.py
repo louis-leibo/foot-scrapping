@@ -19,6 +19,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import math
+from sklearn.neighbors import NearestNeighbors
+from sklearn.preprocessing import StandardScaler
+from prophet import Prophet
+from prophet.plot import plot_plotly
 
 # === Load Data and Model ===
 @st.cache_data
@@ -35,10 +39,17 @@ model, cat_cols, num_cols = load_model()
 
 # === Setup ===
 # st.set_page_config(page_title="⚽ Market Value Explorer", layout="wide")
-st.title("⚽ Football Player Market Value Platform")
+st.title("⚽ Football Player Market Value Platform (data from 2020-2021 season to 2023-2024 season)")
 
 # === Tabs ===
-tab1, tab2, tab3 = st.tabs(["📊 Analysis", "🧠 Predict Market Value", "🔄 Player Comparison"])
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs([
+        "📊 Analysis", 
+        "🧠 Predict Market Value", 
+        "🔄 Player Comparison",
+        "💰 Transfer Recommendations",
+        "⚖️ League Conversion",
+        "📈 Time Series Analysis"
+    ])
 
 # ---------------------
 # 📊 ANALYSIS TAB
@@ -294,7 +305,441 @@ def plot_player_performance_vs_market_value(player_data):
     
     return fig
 
+# 1. TRANSFER RECOMMENDATION ENGINE
+# ==========================================
+@st.cache_data
+def find_undervalued_players(df, _predict_func, n_recommendations=10):
+    """
+    Find undervalued players by comparing their predicted market value
+    with their actual market value.
+    
+    Args:
+        df: DataFrame with player data
+        predict_func: Function to predict player market value
+        n_recommendations: Number of recommendations to return
+        
+    Returns:
+        DataFrame of recommended players
+    """
+    # Get latest data for each player to avoid duplicates
+    latest_data = df.sort_values('season').groupby('player').last().reset_index()
+    
+    # Prepare prediction data
+    prediction_data = latest_data.drop(columns=["player", "born", "Valeur marchande (euros)"], errors="ignore")
+    
+    # Make predictions
+    try:
+        # Add feature engineering for prediction (matching what's done in prediction tab)
+        prediction_data['value_per_goal'] = prediction_data['Valeur marchande (euros)'] / (prediction_data['Performance Gls'] + 1)
+        prediction_data['minutes_played_ratio'] = prediction_data['Playing Time Min'] / (90 * 38)
+        prediction_data['goals_per_90'] = prediction_data['Performance Gls'] / (prediction_data['Playing Time 90s'] + 0.001)
+        prediction_data['assists_per_90'] = prediction_data['Performance Ast'] / (prediction_data['Playing Time 90s'] + 0.001)
+        
+        # Predict values
+        predictions = _predict_func(prediction_data)
+        
+        # Add predictions to original data
+        latest_data['predicted_value'] = predictions
+        
+        # Calculate value difference and percentage
+        latest_data['value_difference'] = latest_data['predicted_value'] - latest_data['Valeur marchande (euros)']
+        latest_data['value_difference_percent'] = (latest_data['value_difference'] / latest_data['Valeur marchande (euros)']) * 100
+        
+        # Filter for positive differences (undervalued)
+        undervalued = latest_data[latest_data['value_difference'] > 0].copy()
+        
+        # Sort by percentage difference (best deals first)
+        undervalued.sort_values('value_difference_percent', ascending=False, inplace=True)
+        
+        # Filter to players with significant playing time
+        undervalued = undervalued[undervalued['Playing Time 90s'] > 5]
+        
+        # Limit to top recommendations
+        top_recommendations = undervalued.head(n_recommendations)
+        
+        return top_recommendations[['player', 'team', 'league', 'pos', 'age', 
+                                   'Valeur marchande (euros)', 'predicted_value', 
+                                   'value_difference', 'value_difference_percent']]
+    except Exception as e:
+        st.error(f"Error finding undervalued players: {e}")
+        return pd.DataFrame()
+    
 
+def show_transfer_recommendations_tab():
+    """
+    Display the transfer recommendations tab in the Streamlit app
+    """
+    st.header("💰 Transfer Recommendation Engine")
+    st.write("Find undervalued players based on the difference between predicted and actual market values.")
+    
+    # Check if model is available
+    if "model" not in st.session_state:
+        st.warning("⚠️ Please train or load a model in the 'Predict Market Value' tab first.")
+        return
+    
+    # Get filter options
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        min_age = st.number_input("Minimum Age", min_value=16, max_value=40, value=18)
+    
+    with col2:
+        max_age = st.number_input("Maximum Age", min_value=16, max_value=40, value=30)
+    
+    with col3:
+        position_filter = st.multiselect("Position", 
+                                         options=sorted(df["pos"].unique()), 
+                                         default=sorted(df["pos"].unique()))
+    
+    # Get league filter
+    league_filter = st.multiselect("League", 
+                                  options=sorted(df["league"].unique()), 
+                                  default=sorted(df["league"].unique()))
+    
+    # Get recommended players
+    if st.button("Find Undervalued Players"):
+        with st.spinner("Analyzing the market..."):
+            # Filter data based on user input
+            filtered_df = df[(df["age"] >= min_age) & 
+                             (df["age"] <= max_age) & 
+                             (df["pos"].isin(position_filter)) &
+                             (df["league"].isin(league_filter))]
+            
+            # Get model predictions
+            model = st.session_state["model"]
+            
+            # Create prediction function
+            def predict_values(data):
+                return model.predict(data)
+            
+            # Find undervalued players
+            recommendations = find_undervalued_players(filtered_df, predict_values)
+            
+            if not recommendations.empty:
+                # Display results
+                st.subheader("🌟 Top Undervalued Players")
+                
+                # Format the dataframe for display
+                display_df = recommendations.copy()
+                display_df['Current Value (€)'] = display_df['Valeur marchande (euros)'].apply(lambda x: f"{x:,.0f}")
+                display_df['Predicted Value (€)'] = display_df['predicted_value'].apply(lambda x: f"{x:,.0f}")
+                display_df['Value Difference (€)'] = display_df['value_difference'].apply(lambda x: f"{x:+,.0f}")
+                display_df['Value Difference (%)'] = display_df['value_difference_percent'].apply(lambda x: f"{x:+.1f}%")
+                
+                # Show the dataframe
+                st.dataframe(
+                    display_df[['player', 'team', 'league', 'pos', 'age', 
+                              'Current Value (€)', 'Predicted Value (€)', 
+                              'Value Difference (€)', 'Value Difference (%)']],
+                    use_container_width=True
+                )
+                
+                # Visualization
+                fig = px.bar(
+                    recommendations.head(10),
+                    x='player',
+                    y='value_difference_percent',
+                    color='league',
+                    hover_data=['pos', 'age', 'team'],
+                    title='Top 10 Undervalued Players (% Difference)',
+                    labels={
+                        'player': 'Player',
+                        'value_difference_percent': 'Undervalued by (%)',
+                        'league': 'League'
+                    }
+                )
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.info("No undervalued players found with the current criteria.")
+
+# ==========================================
+# 2. LEAGUE-TO-LEAGUE VALUE CONVERSION
+# ==========================================
+@st.cache_data
+def calculate_league_value_coefficients(df):
+    """
+    Calculate the relative market value coefficients between leagues.
+    
+    Args:
+        df: DataFrame with player data
+        
+    Returns:
+        DataFrame with league coefficients
+    """
+    # Group by league and calculate the average market value
+    league_avg_values = df.groupby('league')['Valeur marchande (euros)'].mean().reset_index()
+    
+    # Calculate the global average market value
+    global_avg = league_avg_values['Valeur marchande (euros)'].mean()
+    
+    # Calculate coefficient (how many times higher/lower than average)
+    league_avg_values['coefficient'] = league_avg_values['Valeur marchande (euros)'] / global_avg
+    
+    # Calculate average age by league (for context)
+    league_avg_age = df.groupby('league')['age'].mean().reset_index()
+    
+    # Merge the two dataframes
+    result = pd.merge(league_avg_values, league_avg_age, on='league')
+    
+    return result
+
+
+def show_league_conversion_tab():
+    """
+    Display the league-to-league value conversion tab in the Streamlit app
+    """
+    st.header("🔄 League-to-League Value Conversion")
+    st.write("Estimate how a player's market value might change when moving between leagues.")
+    
+    # Calculate league coefficients
+    league_coefficients = calculate_league_value_coefficients(df)
+    
+    # Display inputs
+    col1, col2 = st.columns(2)
+    
+    with col1:
+        source_league = st.selectbox("Source League", sorted(df["league"].unique()), key="source_league")
+        current_value = st.number_input("Current Market Value (€)", min_value=0, value=10000000)
+    
+    with col2:
+        target_league = st.selectbox("Target League", sorted(df["league"].unique()), key="target_league")
+    
+    # Get coefficients
+    source_coef = league_coefficients[league_coefficients['league'] == source_league]['coefficient'].values[0]
+    target_coef = league_coefficients[league_coefficients['league'] == target_league]['coefficient'].values[0]
+    
+    # Calculate new value
+    conversion_ratio = target_coef / source_coef
+    new_value = current_value * conversion_ratio
+    
+    # Display results
+    st.subheader("Estimated Market Value After Transfer")
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        st.metric("Current Value", f"€{current_value:,.0f}")
+    
+    with col2:
+        st.metric("Conversion Factor", f"{conversion_ratio:.2f}x")
+    
+    with col3:
+        change = new_value - current_value
+        change_percent = (change / current_value) * 100
+        st.metric("Estimated New Value", f"€{new_value:,.0f}", f"{change:+,.0f} ({change_percent:+.1f}%)")
+    
+    # Show league coefficients
+    st.subheader("League Value Coefficients")
+    st.write("These coefficients represent the relative market value of players in each league compared to the global average.")
+    
+    # Sort by coefficient
+    sorted_coefficients = league_coefficients.sort_values('coefficient', ascending=False)
+    
+    # Prepare display dataframe
+    display_coefs = sorted_coefficients.copy()
+    display_coefs['Average Value (€)'] = display_coefs['Valeur marchande (euros)'].apply(lambda x: f"{x:,.0f}")
+    display_coefs['Coefficient'] = display_coefs['coefficient'].apply(lambda x: f"{x:.2f}x")
+    display_coefs['Average Age'] = display_coefs['age'].apply(lambda x: f"{x:.1f}")
+    
+    # Display table
+    st.dataframe(
+        display_coefs[['league', 'Average Value (€)', 'Coefficient', 'Average Age']],
+        use_container_width=True
+    )
+    
+    # Visualization of league coefficients
+    fig = px.bar(
+        sorted_coefficients,
+        x='league',
+        y='coefficient',
+        color='coefficient',
+        hover_data=['Valeur marchande (euros)', 'age'],
+        title='League Value Coefficients',
+        labels={
+            'league': 'League',
+            'coefficient': 'Value Coefficient',
+        },
+        color_continuous_scale='Viridis'
+    )
+    st.plotly_chart(fig, use_container_width=True)
+
+# ==========================================
+# 3. TIME SERIES ANALYSIS
+# ==========================================
+@st.cache_data
+def prepare_time_series_data(df, entity_type='player', entity_name=None):
+    """
+    Prepare time series data for forecasting.
+    
+    Args:
+        df: DataFrame with player/team/league data
+        entity_type: 'player', 'team', or 'league'
+        entity_name: The specific entity to analyze
+        
+    Returns:
+        DataFrame ready for time series forecasting
+    """
+    if entity_type == 'player' and entity_name:
+        # Filter for specific player
+        filtered_df = df[df['player'] == entity_name]
+        
+        # Group by season (in case there are multiple rows per season)
+        grouped = filtered_df.groupby('season')['Valeur marchande (euros)'].mean().reset_index()
+        
+    elif entity_type == 'team' and entity_name:
+        # Filter for specific team
+        filtered_df = df[df['team'] == entity_name]
+        
+        # Group by season
+        grouped = filtered_df.groupby('season')['Valeur marchande (euros)'].mean().reset_index()
+        
+    elif entity_type == 'league' and entity_name:
+        # Filter for specific league
+        filtered_df = df[df['league'] == entity_name]
+        
+        # Group by season
+        grouped = filtered_df.groupby('season')['Valeur marchande (euros)'].mean().reset_index()
+        
+    else:
+        # Default: all data, grouped by season
+        grouped = df.groupby('season')['Valeur marchande (euros)'].mean().reset_index()
+    
+    # Rename columns for Prophet
+    grouped.columns = ['ds', 'y']
+    
+    # Convert season to datetime (assuming season is the end year, e.g., 2020 means 2019-2020)
+    grouped['ds'] = pd.to_datetime(grouped['ds'], format='%Y')
+    
+    return grouped
+
+@st.cache_data
+def train_and_forecast(time_series_df, forecast_periods=5):
+    """
+    Train a Prophet model and generate forecasts.
+    
+    Args:
+        time_series_df: DataFrame with 'ds' and 'y' columns
+        forecast_periods: Number of periods to forecast
+        
+    Returns:
+        Prophet model and forecast DataFrame
+    """
+    # Initialize model
+    model = Prophet(
+        yearly_seasonality=True,
+        growth='linear',
+        seasonality_mode='multiplicative',
+        interval_width=0.95
+    )
+    
+    # Fit model
+    model.fit(time_series_df)
+    
+    # Create future dataframe
+    future = model.make_future_dataframe(periods=forecast_periods, freq='Y')
+    
+    # Generate forecast
+    forecast = model.predict(future)
+    
+    return model, forecast
+
+
+def show_time_series_tab():
+    """
+    Display the time series analysis tab in the Streamlit app
+    """
+    st.header("📈 Market Value Time Series Analysis")
+    st.write("Forecast future market values based on historical trends.")
+    
+    # Entity selection
+    entity_type = st.radio("Select Analysis Type", 
+                          options=["Player", "Team", "League", "Overall Market"],
+                          horizontal=True)
+    
+    if entity_type == "Player":
+        entity_name = st.selectbox("Select Player", sorted(df["player"].dropna().unique()))
+    elif entity_type == "Team":
+        entity_name = st.selectbox("Select Team", sorted(df["team"].dropna().unique()))
+    elif entity_type == "League":
+        entity_name = st.selectbox("Select League", sorted(df["league"].dropna().unique()))
+    else:  # Overall Market
+        entity_name = None
+    
+    # Number of years to forecast
+    forecast_years = st.slider("Forecast Years", min_value=1, max_value=10, value=5)
+    
+    # Run forecast
+    if st.button("Generate Forecast"):
+        with st.spinner("Analyzing historical data and generating forecast..."):
+            try:
+                # Map entity type to internal values
+                entity_type_map = {
+                    "Player": "player",
+                    "Team": "team",
+                    "League": "league",
+                    "Overall Market": "overall"
+                }
+                
+                # Prepare time series data
+                time_series_data = prepare_time_series_data(
+                    df, 
+                    entity_type=entity_type_map[entity_type], 
+                    entity_name=entity_name
+                )
+                
+                if len(time_series_data) < 3:
+                    st.warning("⚠️ Not enough historical data for reliable forecasting. Need at least 3 seasons.")
+                    return
+                
+                # Train model and generate forecast
+                model, forecast = train_and_forecast(time_series_data, forecast_periods=forecast_years)
+                
+                # Display forecast chart
+                fig = plot_plotly(model, forecast, xlabel='Season', ylabel='Market Value (€)')
+                
+                # Update title based on entity type
+                if entity_type == "Player":
+                    title = f"Market Value Forecast for {entity_name}"
+                elif entity_type == "Team":
+                    title = f"Average Player Market Value Forecast for {entity_name}"
+                elif entity_type == "League":
+                    title = f"Average Player Market Value Forecast for {entity_name}"
+                else:
+                    title = "Overall Market Value Forecast"
+                
+                fig.update_layout(title=title)
+                
+                st.plotly_chart(fig, use_container_width=True)
+                
+                # Display forecast data
+                st.subheader("Forecast Data")
+                
+                # Format forecast data for display
+                forecast_display = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].copy()
+                forecast_display.columns = ['Season', 'Forecast', 'Lower Bound', 'Upper Bound']
+                
+                # Convert datetime to year only
+                forecast_display['Season'] = forecast_display['Season'].dt.year
+                
+                # Format as currency
+                for col in ['Forecast', 'Lower Bound', 'Upper Bound']:
+                    forecast_display[col] = forecast_display[col].apply(lambda x: f"€{x:,.0f}")
+                
+                # Show the table
+                st.dataframe(forecast_display, use_container_width=True)
+                
+                # Show trend components
+                st.subheader("Trend Components")
+                st.write("Decomposition of the forecast into trend, yearly seasonality, and other components.")
+                
+                fig2 = model.plot_components(forecast)
+                st.pyplot(fig2)
+                
+            except Exception as e:
+                st.error(f"Error generating forecast: {e}")
+
+
+######### TABS ORGANISATION ############
 with tab1:
     # === Sidebar Filters ===
     st.sidebar.header("📊 Filters")
@@ -896,3 +1341,14 @@ with tab3:
                     st.dataframe(compare_df, use_container_width=True)
     else:
         st.warning("⚠️ Data missing for one or both players.")
+
+
+with tab4:
+    show_transfer_recommendations_tab()
+    
+with tab5:
+    show_league_conversion_tab()
+ 
+
+with tab6:
+    show_time_series_tab()
